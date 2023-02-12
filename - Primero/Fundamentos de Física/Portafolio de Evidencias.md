@@ -5,7 +5,7 @@
 ---
 ## 1. Introducción a la Física
 
-[](1.%20Carl%20Sagan%20-%20Los%20orígenes%20de%20la%20ciencia.md#1.1%20Los%20orígenes%20de%20la%20ciencia)
+![Los orígenes de la ciencia](1.%20Carl%20Sagan%20-%20Los%20orígenes%20de%20la%20ciencia.md#1.1%20Los%20orígenes%20de%20la%20ciencia)
 <div style="page-break-after: always;"></div>
 
 ---
