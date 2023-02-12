@@ -11,8 +11,13 @@
             "id": "e58c02410d33b882",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "- Primero/Fundamentos de Física/Portafolio de Evidencias.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -61,7 +66,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -81,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "- Primero/Fundamentos de Física/Portafolio de Evidencias.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +114,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "- Primero/Fundamentos de Física/Portafolio de Evidencias.md"
+              }
             }
           },
           {
@@ -124,6 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "- Primero/Fundamentos de Física/Portafolio de Evidencias.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }

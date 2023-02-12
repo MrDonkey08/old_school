@@ -11,5 +11,7 @@
   "oz-clear-unused-images",
   "obsidian-outliner",
   "templater-obsidian",
-  "oz-image-plugin"
+  "oz-image-plugin",
+  "obsidian-enhancing-export",
+  "editing-toolbar"
 ]
