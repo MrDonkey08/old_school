@@ -1,0 +1,192 @@
+{
+  "main": {
+    "id": "04f5d07b11d5cbb8",
+    "type": "split",
+    "children": [
+      {
+        "id": "13d5153b41c9d2b3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d3cfe3f16adc3dcb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "- Segundo/Mecánica/Homework/T02 Física Universitaria - Resúmen capítulo 1 - 5 1.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "95669c1244212322",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "- Primero/Fundamentos de Física/Homework/Video Notes/3. Electricidad y magnetismo/1.3. Modelos atómicos.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "91201a66dfabe2a5",
+    "type": "split",
+    "children": [
+      {
+        "id": "c0905cdc6c0f87c3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eb3f03798bde329d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8e4b3f84142aa5e8",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "a0e30b04f4b7a693",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": ".png",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 269.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "4b702cc4fb11ac6c",
+    "type": "split",
+    "children": [
+      {
+        "id": "3b1a07e496495901",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2824c29bf586ad79",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "- Primero/Fundamentos de Física/Homework/Video Notes/3. Electricidad y magnetismo/1.3. Modelos atómicos.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "17e0a30d920a96bc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5c1f4492e0b0fbf3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "- Primero/Fundamentos de Física/Homework/Video Notes/3. Electricidad y magnetismo/1.3. Modelos atómicos.md"
+              }
+            }
+          },
+          {
+            "id": "241558df237147ce",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "219e955e5725b38a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "- Primero/Fundamentos de Física/Homework/Video Notes/3. Electricidad y magnetismo/1.3. Modelos atómicos.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "workspaces:Manage workspace layouts": false,
+      "random-note:Open random note": false,
+      "templates:Insert template": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "graph:Open graph view": false,
+      "oz-clear-unused-images:Clear Unused Images": false
+    }
+  },
+  "active": "95669c1244212322",
+  "lastOpenFiles": [
+    "- Tercero/Sistemas Digitales/Tareas/2. Operaciones en sistemas binario, octal y hexadecimal.md",
+    "- Primero/Fundamentos de Física/Homework/Video Notes/2. Mecánica/d) 2. Las 3 leyes de Newton/2. Las leyes de Newton.md",
+    "- Segundo/Mecánica/Ejercicios/1.4.3 Ejercicio.md",
+    "- Primero/Fundamentos de Física/Homework/Video Notes/3. Electricidad y magnetismo/1.2. Clase 3. El átomo, su núcleo y los electrones.md",
+    "- Primero/Fundamentos de Física/Homework/Video Notes/2. Mecánica/e) Movimiento y trabajo/1. Movimiento Parábolico - Ecuaciones.md",
+    "- Primero/Fundamentos de Física/Homework/Video Notes/2. Mecánica/2. Primera ley de Newton/1. Cinemática - Problema.md",
+    "- Primero/Fundamentos de Física/Homework/Video Notes/4. Termodinamica/1. Características de los gases Variables de estado.md",
+    "- Primero/Fundamentos de Física/Homework/Video Notes/2. Mecánica/c) Segunda ley de Newton/1. Dinámica - Biofísica CBC.md",
+    "Attachments/Images/5. Alarma-1675917331759.jpeg",
+    "Attachments/Images/5. Alarma-1675917282552.jpeg"
+  ]
+}

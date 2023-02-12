@@ -1,0 +1,3 @@
+Pienso que la clase estuvo, por lo general, bien. Lo único con lo que llegué a tener problema fue que a veces no desarrollaba bien el procedimiento del problema, se saltaba pasos o daba por hecho que sabíamos algunas cosas (reglas, fórmulas, casos...) y hacia que fuera un poquito más difícil de entender lo que se realizó. 
+
+Me gustaría que hubiera dado retroalimentación de nuestras tareas desde que ya no se pudieran entregar, en vez de hasta el final del curso, para ir comprendiendo qué es lo que hicimos mal para no repetirlo.
