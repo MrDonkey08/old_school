@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1676225813 source:c:\users\human solutions\documents\github\escuela\- tercero\programación orientada en objetos\trabajo en clase\clase círculo\main.cpp
+	<iostream>
+	"circulo.h"
+
+1675873129 c:\users\human solutions\documents\github\escuela\- tercero\programación orientada en objetos\trabajo en clase\clase círculo\circulo.h
+	<iostream>
+
+1676225706 source:c:\users\human solutions\documents\github\escuela\- tercero\programación orientada en objetos\trabajo en clase\clase círculo\circulo.cpp
+	<iostream>
+	"circulo.h"
+
