@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e64ec871c3a2f762",
+        "id": "0339f74945079a32",
         "type": "tabs",
         "children": [
           {
-            "id": "16c73381f5d449af",
+            "id": "649a76f50064d6f3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "- Tercero/Programación Orientada en Objetos/Notas/Introducción a POO.md",
-                "mode": "preview",
+                "file": "- Tercero/Circuitos/Práctica 1/Untitled.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -57,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "conjunto",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "- Tercero/Programación Orientada en Objetos/Notas/Introducción a POO.md",
+                "file": "- Tercero/Circuitos/Práctica 1/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "- Tercero/Programación Orientada en Objetos/Notas/Introducción a POO.md"
+                "file": "- Tercero/Circuitos/Práctica 1/Untitled.md"
               }
             }
           },
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "- Tercero/Programación Orientada en Objetos/Notas/Introducción a POO.md",
+                "file": "- Tercero/Circuitos/Práctica 1/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,17 +160,17 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "eb3f03798bde329d",
+  "active": "649a76f50064d6f3",
   "lastOpenFiles": [
-    "- Tercero/Programación Orientada en Objetos/Tareas/Tarea1_JuarezRubio_AlanYahir.md",
-    "- Tercero/Programación Orientada en Objetos/Tareas/Portada.md",
-    "- Tercero/Sistemas Digitales/Tareas/2. Operaciones en sistemas binario, octal y hexadecimal.md",
-    "- Tercero/Sistemas Digitales/Tareas/3. Códigos Binarios.md",
-    "- Primero/Fundamentos de Física/Portafolio de Evidencias.md",
-    "Untitled.md",
-    "Attachments/Templates/New Note.md",
-    "a.md",
     "Untitled 1.md",
-    "Leyes-de-.jpeg.md"
+    "- Tercero/Ecuaciones Diferenciales/Apuntes de clase/Untitled.md",
+    "Untitled.md",
+    "- Tercero/Sistemas Digitales/Tareas/3. Códigos Binarios.md",
+    "- Tercero/Sistemas Digitales/Tareas/4. Algebra de Boole.md",
+    "- Tercero/Sistemas Digitales/Tareas/5. Alarma/5. Alarma.md",
+    "- Segundo/Mecánica/Resources/Formulario Cinemática y Leyes de Newton.md",
+    "- Primero/Lógica Matemática/Resources/Leyes.md",
+    "- Primero/Fundamentos de Física/Portafolio de Evidencias.md",
+    "Attachments/Templates/New Note.md"
   ]
 }
