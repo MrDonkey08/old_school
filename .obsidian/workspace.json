@@ -4,37 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "7072592b31d59ae6",
+        "id": "f6739c23d560695b",
         "type": "tabs",
         "children": [
           {
-            "id": "bf303ec7ac30a31c",
+            "id": "c3cbbc2cf0ad245a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "-Tercero/Programación Orientada en Objetos/Tareas/Portada.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "df5c60b090da4393",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "-Tercero/Programación Orientada en Objetos/Notas de clase/13-02-2023.md",
+                "file": "-Tercero/Sistemas Digitales/Tareas/Tarea 6/01-02-2023.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -47,16 +33,6 @@
         "id": "c0905cdc6c0f87c3",
         "type": "tabs",
         "children": [
-          {
-            "id": "eb3f03798bde329d",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
           {
             "id": "8e4b3f84142aa5e8",
             "type": "leaf",
@@ -79,12 +55,24 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "eb3f03798bde329d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 269.5
+    "width": 269.5,
+    "collapsed": true
   },
   "right": {
     "id": "4b702cc4fb11ac6c",
@@ -100,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "-Tercero/Programación Orientada en Objetos/Notas de clase/13-02-2023.md",
+                "file": "-Tercero/Sistemas Digitales/Tareas/Tarea 6/01-02-2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "-Tercero/Programación Orientada en Objetos/Notas de clase/13-02-2023.md"
+                "file": "-Tercero/Sistemas Digitales/Tareas/Tarea 6/01-02-2023.md"
               }
             }
           },
@@ -146,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "-Tercero/Programación Orientada en Objetos/Notas de clase/13-02-2023.md",
+                "file": "-Tercero/Sistemas Digitales/Tareas/Tarea 6/01-02-2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,17 +162,17 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "df5c60b090da4393",
+  "active": "c3cbbc2cf0ad245a",
   "lastOpenFiles": [
-    "-Tercero/Programación Orientada en Objetos/Lista de tareas/Untitled.md",
-    "-Tercero/Programación Orientada en Objetos/Tareas/Portada.md",
-    "-Tercero/Programación Orientada en Objetos/Tareas/Tarea1_JuarezRubio_AlanYahir.md",
-    "-Tercero/Programación Orientada en Objetos/Notas/Introducción a POO.md",
-    "-Tercero/Programación Orientada en Objetos/Notas de clase/13-02-2023.md",
-    "Untitled.md",
-    "Z Otros/Claves de Materias ICOM.md",
-    "Z Otros/Tercer Semestre/Horario.md",
-    "Z Otros/Reseñas personales/Reseñas Ingeniería en Cómputo.md",
-    "Primero/Fundamentos.md"
+    "Untitled 1.md",
+    "-Tercero/Sistemas Digitales/Tareas/Tarea 6/01-02-2023.md",
+    "-Tercero/Sistemas Digitales/Tareas/Tarea 6/Untitled.md",
+    "-Primero/Precálculo/Class Notes/Formulario.md",
+    "-Tercero/Sistemas Digitales/Tareas/Task/Untitled.md",
+    "-Tercero/Sistemas Digitales/Class Note/Untitled.md",
+    "-Segundo/Mecánica/Homework/T 02.md",
+    "Attachments/Images/2.-Primera-ley-de-Newton-de-movimiento-Inercia-1.jpeg",
+    "Attachments/Images/Formulario-1.jpeg",
+    "Attachments/Images/Notación de Unidades de Medición.png"
   ]
 }

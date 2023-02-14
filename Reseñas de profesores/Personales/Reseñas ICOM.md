@@ -1,3 +1,16 @@
+---
+title: Reseñas ICOM
+author: Alan Yahir Juárez Rubio
+
+aliases: Reseña, feedback, 
+tags: profe, profesor, reseñas, icom, agenda, semestre, barco
+
+creation date: 12-02-2023
+last modification date: 14-02-2023
+
+type: Note
+---
+
 ## Primer Semestre (2022-A)
 
 | Nombre                         | Materia cursada             | Reseña                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | Rubrica |
