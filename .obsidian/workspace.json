@@ -24,8 +24,13 @@
             "id": "df5c60b090da4393",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "-Tercero/Programación Orientada en Objetos/Notas de clase/13-02-2023.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ],
@@ -95,6 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "-Tercero/Programación Orientada en Objetos/Notas de clase/13-02-2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +127,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "-Tercero/Programación Orientada en Objetos/Notas de clase/13-02-2023.md"
+              }
             }
           },
           {
@@ -138,6 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "-Tercero/Programación Orientada en Objetos/Notas de clase/13-02-2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,17 +174,17 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "eb3f03798bde329d",
+  "active": "df5c60b090da4393",
   "lastOpenFiles": [
+    "-Tercero/Programación Orientada en Objetos/Lista de tareas/Untitled.md",
     "-Tercero/Programación Orientada en Objetos/Tareas/Portada.md",
     "-Tercero/Programación Orientada en Objetos/Tareas/Tarea1_JuarezRubio_AlanYahir.md",
     "-Tercero/Programación Orientada en Objetos/Notas/Introducción a POO.md",
-    "-Tercero/Programación Orientada en Objetos/Lista de tareas/13-02-2023.md",
+    "-Tercero/Programación Orientada en Objetos/Notas de clase/13-02-2023.md",
     "Untitled.md",
     "Z Otros/Claves de Materias ICOM.md",
     "Z Otros/Tercer Semestre/Horario.md",
     "Z Otros/Reseñas personales/Reseñas Ingeniería en Cómputo.md",
-    "Primero/Fundamentos.md",
-    "-Tercero/Sistemas Digitales/Tareas/2. Operaciones en sistemas binario, octal y hexadecimal.md"
+    "Primero/Fundamentos.md"
   ]
 }
