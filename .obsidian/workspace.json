@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f6739c23d560695b",
+        "id": "c3327905f5781f65",
         "type": "tabs",
         "children": [
           {
-            "id": "c3cbbc2cf0ad245a",
+            "id": "283e1ff2709bb7e5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "-Tercero/Sistemas Digitales (Oyente)/Logica de Función Fija - 14-02-2023.md",
-                "mode": "preview",
+                "file": "Formularios/Conjuntos y lógica matemática - símbolos.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "-Tercero/Sistemas Digitales (Oyente)/Logica de Función Fija - 14-02-2023.md",
+                "file": "Formularios/Conjuntos y lógica matemática - símbolos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "-Tercero/Sistemas Digitales (Oyente)/Logica de Función Fija - 14-02-2023.md"
+                "file": "Formularios/Conjuntos y lógica matemática - símbolos.md"
               }
             }
           },
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "-Tercero/Sistemas Digitales (Oyente)/Logica de Función Fija - 14-02-2023.md",
+                "file": "Formularios/Conjuntos y lógica matemática - símbolos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,17 +161,17 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "c3cbbc2cf0ad245a",
+  "active": "283e1ff2709bb7e5",
   "lastOpenFiles": [
-    "Untitled.md",
-    "-Tercero/Sistemas Digitales (Oyente)/Logica de Función Fija - 14-02-2023.md",
-    "-Tercero/Sistemas Digitales/Tareas/Tarea 6/01-02-2023.md",
-    "-Tercero/Sistemas Digitales/Tareas/Tarea 6/Untitled.md",
-    "-Primero/Precálculo/Class Notes/Formulario.md",
+    "Formularios/Cálculo.md",
+    "-Tercero/Sistemas Digitales/Tareas/6..md",
+    "-Tercero/Sistemas Digitales/Tareas/Portada.md",
     "-Tercero/Sistemas Digitales/Tareas/Task/Untitled.md",
-    "-Tercero/Sistemas Digitales/Class Note/Untitled.md",
-    "-Segundo/Mecánica/Homework/T 02.md",
-    "Attachments/Images/2.-Primera-ley-de-Newton-de-movimiento-Inercia-1.jpeg",
-    "Attachments/Images/Formulario-1.jpeg"
+    "-Tercero/Sistemas Digitales/Tareas/Tarea 6/Untitled.md",
+    "-Segundo/Cálculo Diferencial e Integral/Notes/4..md",
+    "-Segundo/Cálculo Diferencial e Integral/Comentario.md",
+    "-Segundo/Cálculo Diferencial e Integral/Homework/Tarea 1 Def.md",
+    "-Segundo/Cálculo Diferencial e Integral/Homework/Tarea 1 1.md",
+    "-Segundo/Cálculo Diferencial e Integral/Homework/Tarea 1.md"
   ]
 }

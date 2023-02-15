@@ -195,23 +195,43 @@ $\begin{array}{l|l} Suma\ y\ resta & División & Mutiplicación\\z_1-z_2=(a+bi)+
 ## #13_Intérvalos_y_desigualdades
 ### Intérvalos
 #### Intérvalo abierto
+
 $(a,\ b)={x\ |\ a<x<b,\ x\in \Bbb R}$
-![[Pasted image 20220423222906.png]]
+
+![](/Attachments/Images/Formulario-1.jpeg)
+
 #### Intérvalo cerrado
+
 $[a,\ b]={x\ |\ a\leq x\leq b,\ x\in \Bbb R}$
-![[Pasted image 20220423222948.png]]
+
+![](/Attachments/Images/Formulario-2.jpeg)
+
 #### Intérvalo semiabierto
-![[Pasted image 20220423223446.png]]
+
+![](/Attachments/Images/Formulario-3.jpeg)
+
 #### Intérvalo infinito
+
 ![[Pasted image 20220423223402.png]]
+
 ### Desigualdades
+
 Al multiplicar o dividir ambos lados de una desigualdad por un número real negativo, el signo de la desigualdad se invierte.
 
 #### Desigualdad de valor absoluto
 
-![[Pasted image 20220423224447.png]]
+| Caso |        Modelo         |         Solución         |
+|:----:|:---------------------:|:------------------------:|
+|  1   |  $\mid a\mid\: < b$   |       $-b < a < b$       |
+|  2   | $\mid a\mid\: \leq b$ |    $-b \leq a \leq b$    |
+|  3   |  $\mid a\mid\: > b$   |   $a < -b \cup a > b$    |
+|  4   | $\mid a\mid\: \geq b$ | $a \leq -b \cup a\geq b$ |
+
+
 ## #14_Sistemas_de_2x2
+
 ### Suma y resta
+
 donde las únicas incógnitas son $x$ y $y$ y son las que nos interesa encontrar.
 $ax+by=c$
 $dx+ey=f$
