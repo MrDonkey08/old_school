@@ -4,23 +4,50 @@
     "type": "split",
     "children": [
       {
-        "id": "c3327905f5781f65",
+        "id": "0eb75a3578866acd",
         "type": "tabs",
         "children": [
           {
-            "id": "283e1ff2709bb7e5",
+            "id": "7293d5f3422c957a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "-Tercero/Sistemas Digitales/Tareas/6. Multiplexor.md",
+                "file": "-Tercero/Sistemas Digitales/Tareas/7. Medio sumador HA.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2640717ac02ee04b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "-Tercero/Sistemas Digitales/Tareas/7. Medio sumador HA.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "96171934ea592130",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -87,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "-Tercero/Sistemas Digitales/Tareas/6. Multiplexor.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "-Tercero/Sistemas Digitales/Tareas/6. Multiplexor.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -133,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "-Tercero/Sistemas Digitales/Tareas/6. Multiplexor.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,17 +188,17 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "283e1ff2709bb7e5",
+  "active": "96171934ea592130",
   "lastOpenFiles": [
-    "-Tercero/Sistemas Digitales/Tareas/5. Alarma.md",
+    "Untitled 1.md",
+    "Untitled.md",
     "-Tercero/Sistemas Digitales/Tareas/6. Multiplexor.md",
-    "-Tercero/Programación Orientada en Objetos/Notas de clase/13-02-2023.md",
-    "-Tercero/Sistemas Digitales/Tareas/Portada.md",
-    "-Tercero/Sistemas Digitales/Tareas/1. Conversiones numéricas.md",
-    "-Tercero/Sistemas Digitales/Tareas/2. Operaciones en sistemas binario, octal y hexadecimal.md",
-    "-Tercero/Sistemas Digitales/Tareas/3. Códigos Binarios.md",
-    "-Tercero/Sistemas Digitales/Tareas/4. Algebra de Boole.md",
+    "Untitled 2.md",
+    "-Tercero/Sistemas Digitales/Tareas/7. Medio sumador HA.md",
     "-Tercero/Sistemas Digitales/Class Note/Untitled.md",
-    "Formularios/Precálculo.md"
+    "-Tercero/Sistemas Digitales/Tareas/Task/Untitled.md",
+    "-Tercero/Sistemas Digitales/Tareas/5. Alarma.md",
+    "-Tercero/Programación Orientada en Objetos/Notas de clase/13-02-2023.md",
+    "-Tercero/Sistemas Digitales/Tareas/Portada.md"
   ]
 }
