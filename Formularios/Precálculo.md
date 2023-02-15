@@ -155,11 +155,12 @@ $(a+b)^4 = a^4+4a^3+b+6a^2b^2+4ab^3+b^4$
 
 ## #K_ésimo_término 
 
-$K_{ésimo} término= \frac {n!}{(n-r+1)!(r-1)!} a^{n-r+1}b^{r-1}$
+$K_{\text{ésimo}} \text{término} = \frac {n!}{(n-r+1)!(r-1)!} a^{n-r+1}b^{r-1}$
 
 ### Notes
 
-$n = potencia \space \& \space r = número \space del \space término \space a \space buscar$
+> [!note]+ 
+> $n =$ potencia  &  $r$ = número  del  término a  buscar
 
 # #8_Factorización
 

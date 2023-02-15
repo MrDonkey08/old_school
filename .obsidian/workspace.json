@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Formularios/Conjuntos y lógica matemática - símbolos.md",
+                "file": "-Tercero/Sistemas Digitales/Tareas/6. Multiplexor.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Formularios/Conjuntos y lógica matemática - símbolos.md",
+                "file": "-Tercero/Sistemas Digitales/Tareas/6. Multiplexor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Formularios/Conjuntos y lógica matemática - símbolos.md"
+                "file": "-Tercero/Sistemas Digitales/Tareas/6. Multiplexor.md"
               }
             }
           },
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Formularios/Conjuntos y lógica matemática - símbolos.md",
+                "file": "-Tercero/Sistemas Digitales/Tareas/6. Multiplexor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,15 +163,15 @@
   },
   "active": "283e1ff2709bb7e5",
   "lastOpenFiles": [
-    "Formularios/Cálculo.md",
-    "-Tercero/Sistemas Digitales/Tareas/6..md",
+    "-Tercero/Sistemas Digitales/Tareas/5. Alarma.md",
+    "-Tercero/Sistemas Digitales/Tareas/6. Multiplexor.md",
+    "-Tercero/Programación Orientada en Objetos/Notas de clase/13-02-2023.md",
     "-Tercero/Sistemas Digitales/Tareas/Portada.md",
-    "-Tercero/Sistemas Digitales/Tareas/Task/Untitled.md",
-    "-Tercero/Sistemas Digitales/Tareas/Tarea 6/Untitled.md",
-    "-Segundo/Cálculo Diferencial e Integral/Notes/4..md",
-    "-Segundo/Cálculo Diferencial e Integral/Comentario.md",
-    "-Segundo/Cálculo Diferencial e Integral/Homework/Tarea 1 Def.md",
-    "-Segundo/Cálculo Diferencial e Integral/Homework/Tarea 1 1.md",
-    "-Segundo/Cálculo Diferencial e Integral/Homework/Tarea 1.md"
+    "-Tercero/Sistemas Digitales/Tareas/1. Conversiones numéricas.md",
+    "-Tercero/Sistemas Digitales/Tareas/2. Operaciones en sistemas binario, octal y hexadecimal.md",
+    "-Tercero/Sistemas Digitales/Tareas/3. Códigos Binarios.md",
+    "-Tercero/Sistemas Digitales/Tareas/4. Algebra de Boole.md",
+    "-Tercero/Sistemas Digitales/Class Note/Untitled.md",
+    "Formularios/Precálculo.md"
   ]
 }
