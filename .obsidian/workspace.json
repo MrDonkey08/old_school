@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "-Tercero/Sistemas Digitales/Tareas/Tarea 6/01-02-2023.md",
-                "mode": "source",
+                "file": "-Tercero/Sistemas Digitales (Oyente)/Logica de Función Fija - 14-02-2023.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -71,8 +71,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5,
-    "collapsed": true
+    "width": 269.5
   },
   "right": {
     "id": "4b702cc4fb11ac6c",
@@ -88,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "-Tercero/Sistemas Digitales/Tareas/Tarea 6/01-02-2023.md",
+                "file": "-Tercero/Sistemas Digitales (Oyente)/Logica de Función Fija - 14-02-2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "-Tercero/Sistemas Digitales/Tareas/Tarea 6/01-02-2023.md"
+                "file": "-Tercero/Sistemas Digitales (Oyente)/Logica de Función Fija - 14-02-2023.md"
               }
             }
           },
@@ -134,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "-Tercero/Sistemas Digitales/Tareas/Tarea 6/01-02-2023.md",
+                "file": "-Tercero/Sistemas Digitales (Oyente)/Logica de Función Fija - 14-02-2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +163,8 @@
   },
   "active": "c3cbbc2cf0ad245a",
   "lastOpenFiles": [
-    "Untitled 1.md",
+    "Untitled.md",
+    "-Tercero/Sistemas Digitales (Oyente)/Logica de Función Fija - 14-02-2023.md",
     "-Tercero/Sistemas Digitales/Tareas/Tarea 6/01-02-2023.md",
     "-Tercero/Sistemas Digitales/Tareas/Tarea 6/Untitled.md",
     "-Primero/Precálculo/Class Notes/Formulario.md",
@@ -172,7 +172,6 @@
     "-Tercero/Sistemas Digitales/Class Note/Untitled.md",
     "-Segundo/Mecánica/Homework/T 02.md",
     "Attachments/Images/2.-Primera-ley-de-Newton-de-movimiento-Inercia-1.jpeg",
-    "Attachments/Images/Formulario-1.jpeg",
-    "Attachments/Images/Notación de Unidades de Medición.png"
+    "Attachments/Images/Formulario-1.jpeg"
   ]
 }
