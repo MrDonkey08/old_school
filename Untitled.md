@@ -35,6 +35,6 @@ El 12 es la tierra. El pin 24 es 5 V
 De 1/8 a 1/4 de W
 
 ---
-## Referencias
+### Referencias
 
 - 
