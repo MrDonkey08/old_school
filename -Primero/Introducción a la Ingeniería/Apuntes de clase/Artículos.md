@@ -27,8 +27,8 @@ Si no alcanzaron a pasar una materia puedes cursar extraordinario. Tienes que:
 - El extraordinario te da como máximo 80/100.
 
 
->[ tip]
-__
+> [!tip]+
+> 
 Página de control escolar: SIATSE
 
 ---

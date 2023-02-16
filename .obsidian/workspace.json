@@ -4,30 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "0eb75a3578866acd",
+        "id": "42c046f8fc0f09ce",
         "type": "tabs",
         "children": [
           {
-            "id": "96171934ea592130",
+            "id": "65f48a3722f154be",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "-Tercero/Sistemas Digitales/Tareas/6. Multiplexor.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "92bb482611721a49",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "-Tercero/Sistemas Digitales/Tareas/3. Códigos Binarios.md",
-                "mode": "source",
+                "file": "-Tercero/Sistemas Digitales/Tareas/7. Medio sumador HA.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -84,7 +71,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5
+    "width": 464.5026054382324
   },
   "right": {
     "id": "4b702cc4fb11ac6c",
@@ -100,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "-Tercero/Sistemas Digitales/Tareas/6. Multiplexor.md",
+                "file": "-Tercero/Sistemas Digitales/Tareas/7. Medio sumador HA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "-Tercero/Sistemas Digitales/Tareas/6. Multiplexor.md"
+                "file": "-Tercero/Sistemas Digitales/Tareas/7. Medio sumador HA.md"
               }
             }
           },
@@ -146,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "-Tercero/Sistemas Digitales/Tareas/6. Multiplexor.md",
+                "file": "-Tercero/Sistemas Digitales/Tareas/7. Medio sumador HA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,17 +161,17 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "96171934ea592130",
+  "active": "65f48a3722f154be",
   "lastOpenFiles": [
-    "-Segundo/Mecánica/Homework/T02 Física Universitaria - Resúmen capítulo 1 - 5.md",
-    "-Tercero/Sistemas Digitales/Tareas/7. Medio sumador HA.md",
-    "-Tercero/Sistemas Digitales/Tareas/Portada.md",
-    "-Tercero/Sistemas Digitales/Tareas/3. Códigos Binarios.md",
-    "-Tercero/Sistemas Digitales/Tareas/4. Algebra de Boole.md",
-    "Untitled.md",
-    "Untitled 1.md",
     "-Tercero/Sistemas Digitales/Tareas/6. Multiplexor.md",
-    "Untitled 2.md",
-    "-Tercero/Sistemas Digitales/Class Note/Untitled.md"
+    "-Tercero/Sistemas Digitales/Tareas/7. Medio sumador HA.md",
+    "-Tercero/Sistemas Digitales/Tareas/5. Alarma.md",
+    "-Tercero/Sistemas Digitales/Tareas/4. Algebra de Boole.md",
+    "-Tercero/Sistemas Digitales/Tareas/3. Códigos Binarios.md",
+    "-Tercero/Sistemas Digitales/Tareas/2. Operaciones en sistemas binario, octal y hexadecimal.md",
+    "-Tercero/Sistemas Digitales/Tareas/1. Conversiones numéricas.md",
+    "-Tercero/Ecuaciones Diferenciales/Apuntes de clase/Untitled.md",
+    "-Segundo/Mecánica/Ejercicios/2.5 Ejercicios.md",
+    "-Primero/Introducción a la Ingeniería/Apuntes de clase/Artículos.md"
   ]
 }
