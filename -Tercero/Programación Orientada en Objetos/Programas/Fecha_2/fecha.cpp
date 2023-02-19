@@ -52,7 +52,7 @@ void CFecha::leerFecha(){
 void CFecha::visualizarFecha(){
     int dd = 0, mm = 0, aaaa = 0;
     obtenerFecha(dd, mm, aaaa);
-    cout << dd << "/" << mm << "/" << aaaa << endl;
+    cout << dd << "/" << mm << "/" << aaaa;
 }
 
 void CFecha::visualizarFechaTextual(){
@@ -191,10 +191,8 @@ void CFecha::signoZodiacal(){
                 signo = "capricorio";
             }
             break;
-
-
-
-
     }
+
+    cout << signo;
 }
 

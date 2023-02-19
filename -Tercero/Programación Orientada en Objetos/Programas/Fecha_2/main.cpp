@@ -13,15 +13,15 @@ int main(){
 
 
     do{
-        cout << "Introduce tu fecha de cumpleaños: " << endl;
+        cout << "Introduce tu fecha de cumpleaños: \n\n";
         f1.leerFecha();
 
         system("cls");
 
-        cout << "¿En qué formato deseas visualizar la fecha?" << endl;
-        cout << "1. día/mes/año" << endl;
-        cout << "2. Textual" << endl;
-        cout << "Opción: "; cin >> opcFormato;
+        cout << "¿En qué formato deseas visualizar la fecha?\n\n";
+        cout << "1. día/mes/año\n";
+        cout << "2. Textual\n";
+        cout << "\nOpción: "; cin >> opcFormato;
 
         system("cls");
 
@@ -30,28 +30,34 @@ int main(){
                 case 1:
                     cout << "Tu fecha de cumpleaños es el ";
                     f1.visualizarFecha();
-                    cout << "Tu signo zodiacal es ";
+                    cout << "\nTu signo zodiacal es ";
+                    f1.signoZodiacal();
                     salir = 1;
                     break;
 
                 case 2:
                     cout << "Tu fecha de cumpleaños es el ";
-                    f2.visualizarFechaTextual();
+                    f1.visualizarFechaTextual();
+                    cout << "\nTu signo zodiacal es ";
+                    f1.signoZodiacal();
                     salir = 1;
                     break;
 
                 default:
-                    cout << "Opción inválida. Presiona <enter> para intentarlo de nuevo." << endl;
+                    cout << "Opción inválida. Presiona <enter> para intentarlo de nuevo.\n";
                     salir = 0;
                     break;
             }
+
+            cout << "\n\n";
             system("pause");
             system("cls");
+
         } while (salir = 0);
 
-        cout << "¿Deseas introducir otra fecha de cumpleaños?" << endl;
-        cout << "1. Sí" << endl;
-        cout << "2. No" << endl;
+        cout << "¿Deseas introducir otra fecha de cumpleaños?\n";
+        cout << "1. Sí\n";
+        cout << "2. No\n";
         cout << "Opción: "; cin >>  opcSalir;
 
         switch (opcSalir){
@@ -59,6 +65,8 @@ int main(){
             case 2: opcSalir = 1; break;
             default: cout << "Opción incorrecta. Intentalo de nuevo"; break;
         }
+
+        cout << "\n\n";
         system("pause");
         system("cls");
 
