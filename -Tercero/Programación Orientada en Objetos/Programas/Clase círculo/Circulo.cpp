@@ -1,6 +1,7 @@
 #include "Circulo.h"
 
 #include <iostream>
+
 using namespace std;
 
 
@@ -9,9 +10,8 @@ using namespace std;
     cout << "El radio es negativo. Se convierte a positivo\n";
   }
   // miembros públicos
-public:
-  Circulo(); // constructor sin parámetros
-  Circulo(double cx, double cy, double r) // constructor
+  //Circulo::Circulo(); // constructor sin parámetros
+  Circulo::Circulo(double cx, double cy, double r) // constructor
   {
     x = cx; y = cy;
     if (r < 0)
@@ -21,27 +21,26 @@ public:
     }
     radio = r;
   }
-  double longCircunferencia()
+  double Circulo::longCircunferencia()
  {
     return 2 * 3.1415926 * radio;
   }
-  double areaCirculo()
+  double Circulo::areaCirculo()
  {
     return 3.1415926 * radio * radio;
   }
-  double obtenerX(){
+  double Circulo::obtenerX(){
     return x;
   }
-  double obtenerY(){
+  double Circulo::obtenerY(){
     return y;
   }
-  double obtenerRadio(){
+  double Circulo::obtenerRadio(){
     return radio;
   }
-  void asignarRadio(double r){
+  void Circulo::asignarRadio(double r){
     if(r < 0){
         r = -r;
     }
     radio = r;
   }
-}; // fin de la clase círculo

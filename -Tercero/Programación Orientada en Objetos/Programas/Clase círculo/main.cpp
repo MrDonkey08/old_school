@@ -1,13 +1,16 @@
 #include <iostream>
+#include <locale.h>
 #include "circulo.h"
+
 
 using namespace std;
 
 int main(){
+  setlocale(LC_ALL, "");
+
   Circulo c1 (7.5, 9.5, 10.5);
 
   double result;
-  result = c1.areaCirculo();
   result = c1.areaCirculo();
   cout << "El área del círculo es = " << result << endl;
 }

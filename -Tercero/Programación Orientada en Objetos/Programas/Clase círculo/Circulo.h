@@ -23,6 +23,11 @@ class Circulo
         double longCircunferencia();
         double areaCirculo();
         void asignarRadio(double r);
+
+        double obtenerX();
+        double obtenerY();
+        double obtenerRadio();
+
 };
 
 #endif
