@@ -20,13 +20,14 @@
 	"fecha.h"
 	<locale.h>
 
-1676858694 source:c:\users\human solutions\documents\github\escuela\-tercero\programación orientada en objetos\programas\fecha\fecha.cpp
+1676905225 source:c:\users\human solutions\documents\github\escuela\-tercero\programación orientada en objetos\programas\fecha\fecha.cpp
 	<iostream>
 	"fecha.h"
+	<time.h>
 
-1676858664 c:\users\human solutions\documents\github\escuela\-tercero\programación orientada en objetos\programas\fecha\fecha.h
+1676904371 c:\users\human solutions\documents\github\escuela\-tercero\programación orientada en objetos\programas\fecha\fecha.h
 
-1676858960 source:c:\users\human solutions\documents\github\escuela\-tercero\programación orientada en objetos\programas\fecha\main.cpp
+1676905257 source:c:\users\human solutions\documents\github\escuela\-tercero\programación orientada en objetos\programas\fecha\main.cpp
 	<iostream>
 	"fecha.h"
 	<locale.h>

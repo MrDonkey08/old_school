@@ -1,5 +1,6 @@
 #include <iostream>
 #include "fecha.h"
+#include <time.h>
 
 using namespace std;
 
@@ -8,7 +9,19 @@ bool CFecha::anyoBisiesto(int aaaa){
 }
 
 bool CFecha::asignarFecha(int dd, int mm, int aaaa){
-        if (!fechaValida(dd, mm, aaaa)){
+    struct tm* fh;
+    time_t segundos;
+    time(&segundos);
+    fh = localtime(&segundos);
+
+    if (aaaa == 0 && mm == 0 && dd == 0) // cero argumentos
+    dd = fh->tm_mday; // día de 1 a 31
+    if (aaaa == 0 && mm == 0) // un argumento
+    mm = fh->tm_mon + 1; // mes de 0 a 11; enero = 0
+    if (aaaa == 0) // dos argumentos
+    aaaa = fh->tm_year + 1900; // año - 1900
+
+    if (!fechaValida(dd, mm, aaaa)){
         cout << "Fecha incorrecta. Se asigna 01/01/2001.\n";
         dia = 1; mes = 1; anyo = 2001;
         return false;
@@ -41,13 +54,5 @@ bool CFecha::fechaValida(int dd, int mm, int aaaa){
         default: diaCorrecto = (dd >= 1 && dd <= 31);
     }
     return diaCorrecto && mesCorrecto && anyoCorrecto;
-}
-
-void CFecha::obtenerFechaActual(int& dd, int& mm, int& aaaa){ // Obtener la fecha actual.
-    struct tm* fh;
-    time_t segundos;
-    time(&segundos);
-    fh = localtime(&segundos);
-    dd = fh->tm_mday; mm = fh->tm_mon+1; aaaa = fh->tm_year+1900;
 }
 

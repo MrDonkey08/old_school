@@ -12,25 +12,27 @@ void visualizarFechaTxt(CFecha& fecha);
 int main(){
     setlocale(LC_ALL, "");
 
-    CFecha fecha;
+    CFecha fecha1, fecha2;
     int dd = 0, mm = 0, aaaa = 0;
+
     bool fechaValida = true;
     do{
         cout << "Introduce tu fecha de cumpleaños: \n\n";
         leerFecha(dd, mm, aaaa);
-        fechaValida = fecha.asignarFecha(dd, mm, aaaa);
+        fechaValida = fecha1.asignarFecha(dd, mm, aaaa);
+        cout << "\n";
+        system("pause");
+        system("cls");
     } while (!fechaValida);
 
-    cout << "\n";
-    system("pause");
-    system("cls");
-
     cout << "Tu fecha de cumpleaños es el ";
-    visualizarFechaTxt(fecha);
-    cout << "\n";
+    visualizarFechaTxt(fecha1);
 
-    cout << "La fecha actual es de ";
+    cout << "\nLa fecha del día de hoy es ";
 
+    fecha2.asignarFecha(0, 0, 0);
+    visualizarFechaTxt(fecha2);
+    cout <<"\n";
 
     return 0;
 }
@@ -40,6 +42,7 @@ void visualizarFecha(CFecha& fecha){
     fecha.obtenerFecha(dd, mm, aaaa);
     cout << dd << "/" << mm << "/" << aaaa;
 }
+
 
 void visualizarFechaTxt(CFecha& fecha){
     int dd = 0, mm = 0, aaaa = 0;
@@ -61,7 +64,7 @@ void visualizarFechaTxt(CFecha& fecha){
         case 12: mmTex = "diciembre"; break;
     }
 
-    cout << dd << " de " << mmTex << " de " << aaaa;
+    cout << dd << " de " << mmTex;
 }
 
 void leerFecha(int& dia, int& mes, int& anyo){
@@ -69,8 +72,6 @@ void leerFecha(int& dia, int& mes, int& anyo){
     cout << "mes: "; cin >> mes;
     cout << "año: "; cin >> anyo;
 }
-
-void
 
 /*int main(){
     setlocale(LC_ALL, "");

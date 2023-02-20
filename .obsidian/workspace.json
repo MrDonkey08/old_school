@@ -19,8 +19,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "94dc10d4b7fdffec",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +96,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,9 +122,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Untitled.md"
-              }
+              "state": {}
             }
           },
           {
@@ -133,7 +139,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,15 +168,15 @@
   },
   "active": "eb3f03798bde329d",
   "lastOpenFiles": [
+    "Untitled 4.md",
+    "Untitled.md",
     "Untitled 1.md",
     "Untitled 2.md",
     "Untitled 3.md",
-    "Untitled.md",
     "-Tercero/Sistemas Digitales/Tareas/5. Alarma.md",
     "-Tercero/Sistemas Digitales/Tareas/6. Multiplexor.md",
     "-Tercero/Sistemas Digitales/Tareas/8. Sumador completo FA.md",
     "-Tercero/Sistemas Digitales/Tareas/7. Medio sumador HA.md",
-    "-Tercero/Sistemas Digitales/Tareas/2. Operaciones en sistemas binario, octal y hexadecimal.md",
-    "-Tercero/Sistemas Digitales/Tareas/4. Algebra de Boole.md"
+    "-Tercero/Sistemas Digitales/Tareas/2. Operaciones en sistemas binario, octal y hexadecimal.md"
   ]
 }
