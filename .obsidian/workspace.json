@@ -71,7 +71,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353.5026054382324
+    "width": 243.5
   },
   "right": {
     "id": "4b702cc4fb11ac6c",
@@ -161,7 +161,7 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "7ef5733097013cf2",
+  "active": "eb3f03798bde329d",
   "lastOpenFiles": [
     "Untitled 1.md",
     "Untitled 2.md",
