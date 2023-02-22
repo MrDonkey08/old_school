@@ -1,5 +1,5 @@
 #include <iostream>
-#include "fecha.h"
+#include "empleado.h"
 #include <locale.h>
 
 using namespace std;
