@@ -27,14 +27,13 @@ type: Activity
 <div style="page-break-after: always;"></div>
 
 ---
-## Propósitos
 
 
 
 ---
 ## Objetivos
 
--  Desarrollo de instalaciones en diferentes puntos estrátegicos en el país.
+- Desarrollo de instalaciones en diferentes puntos estrátegicos en el país.
 - Abarcar un gran segmento del mercado.
 - Promover en los empleados una cultura de crecimiento y aprendizaje continuo.
 
@@ -46,7 +45,12 @@ Nuestra empresa tiene el propósito de proveer soluciones tecnologicas respecto 
 ---
 ## Premisas
 
-- 
+- Pérdida de clientes potenciales.
+- Renuncia de empleados.
+- Retraso de proyectos.
+- Proyecto insostenible y/o no factible
+
+
 
 ---
 ## Estrategias

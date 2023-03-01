@@ -8,37 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7661c695df33a54a",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Resources/Excalidraw/Drawing 2023-02-28 11.27.25.excalidraw.md"
-              }
-            }
-          },
-          {
             "id": "ff30845235ae4c73",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Resources/Excalidraw/FODA-BitShield.png"
-              }
-            }
-          },
-          {
-            "id": "0f4510062ae02c9e",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Resources/Excalidraw/FODA-BitShield 1.png"
+                "file": "-Tercero/Administración/Tareas/Actividad 2 - La planeación.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -89,7 +71,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 243.5
+    "width": 256.5
   },
   "right": {
     "id": "4b702cc4fb11ac6c",
@@ -105,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/Excalidraw/FODA-BitShield 1.png",
+                "file": "-Tercero/Administración/Tareas/Actividad 2 - La planeación.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/Excalidraw/FODA-BitShield 1.png"
+                "file": "-Tercero/Administración/Tareas/Actividad 2 - La planeación.md"
               }
             }
           },
@@ -151,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resources/Excalidraw/FODA-BitShield 1.png",
+                "file": "-Tercero/Administración/Tareas/Actividad 2 - La planeación.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,24 +161,25 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "0f4510062ae02c9e",
+  "active": "ff30845235ae4c73",
   "lastOpenFiles": [
+    "-Tercero/Administración/Tareas/Actividad 2 - La planeación 1.md",
+    "-Tercero/Administración/Tareas/Actividad 2 - La planeación.md",
+    "-Tercero/Administración/Untitled 1.md",
+    "-Tercero/Administración/Untitled.md",
+    "Attachments/Excalidraw/Drawing 2023-01-30 16.33.09.excalidraw.md",
+    "Attachments/Excalidraw/Drawing 2023-02-28 11.27.25.excalidraw 1.md",
+    "Attachments/Excalidraw/Drawing 2023-02-28 11.27.25.excalidraw.md",
+    "-Tercero/Circuitos/Tarea 1/New Project.pdsprj.DESKTOP-9FAHEL3.Human Solutions.workspace",
+    "Attachments/Images/FODA-BitShield.png",
+    "Resources/Excalidraw/FODA-BitShield 1.png",
     "-Tercero/Ecuaciones Diferenciales/Apuntes de clase/Untitled 2.md",
     "-Primero/Introducción a la Ingeniería/Apuntes de clase/Modos de titulación.md",
     "-Primero/Introducción a la Ingeniería/Actividades/Planeación del proyecto.md",
     "-Primero/Introducción a la Ingeniería/Actividades",
-    "Resources/Excalidraw/FODA-BitShield.png",
-    "Resources/Excalidraw/FODA-BitShield 1.png",
-    "Resources/Excalidraw/Drawing 2023-02-28 11.27.25.excalidraw 1.md",
-    "Resources/Excalidraw/Drawing 2023-02-28 11.27.25.excalidraw.md",
     "Resources/Excalidraw/Drawing 2023-02-28 10.15.22.excalidraw.md",
-    "-Tercero/Administración/Tareas/Actividad 2 - La planeación 1.md",
-    "-Tercero/Administración/Tareas/Actividad 2 - La planeación.md",
-    "-Tercero/Administración/Untitled.md",
     "-Tercero/Administración/Tareas/Actividad 1.1 - La empresa_Juarez Rubio Alan Yahir.md",
-    "Attachments/Excalidraw/Drawing 2023-01-30 16.33.09.excalidraw.md",
     "-Tercero/Administración/Tareas/Drawing 2023-02-28 11.27.11.excalidraw.md",
-    "-Tercero/Administración/Untitled 1.md",
     "-Tercero/Sistemas Digitales (Oyente)/Logica de Función Fija - 14-02-2023.md",
     "Untitled 5.md",
     "Formularios/Conjuntos y lógica matemática - símbolos.md",
@@ -210,7 +193,6 @@
     "Untitled 1.md",
     "Untitled.md",
     "-Tercero/Sistemas Digitales/Tareas/5. Alarma.md",
-    "-Tercero/Sistemas Digitales/Tareas/6. Multiplexor.md",
-    "-Tercero/Sistemas Digitales/Tareas/8. Sumador completo FA.md"
+    "-Tercero/Sistemas Digitales/Tareas/6. Multiplexor.md"
   ]
 }
