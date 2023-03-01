@@ -1,4 +1,5 @@
 # Formulario
+
 En este formulario: $a, b, c \text{ y } d\in\Bbb R$ y son constantes
 
 ## Dominio y rango de funciones
@@ -63,6 +64,7 @@ $R_{f(x)}=[\sqrt{c},\infty)$
 |Composición| $h(x)=f\circ g=f(g(x))$|
 
 ## Función inversa
+
 Inyectiva: $f(x_1)=f(x_2)$
 Sobreyectiva: $Cod_{f(x)}=R_{f(x)}$
 Biyectiva: Inyectiva y sobreyectiva
@@ -85,6 +87,7 @@ $f(x)=y\ \ f^{-1}(x)=x$
 ## Límites
 
 ### Propiedades de los límites
+
 $\lim\limits_{x\to a}f(x)+g(x)=\lim\limits_{x\to a}f(x)+\lim\limits_{x\to a}g(x)$
 $\lim\limits_{x\to a}f(x)-g(x)=\lim\limits_{x\to a}f(x)-\lim\limits_{x\to a}g(x)$
 $\lim\limits_{x\to a}f(x)\cdot g(x)=\lim\limits_{x\to a}f(x)\cdot \lim\limits_{x\to a}g(x)$
@@ -92,14 +95,17 @@ $\lim\limits_{x\to a}f(x)/g(x)=\lim\limits_{x\to a}f(x)/\lim\limits_{x\to a}g(x)
 $\lim\limits_{x\to a}cf(x)=c\lim\limits_{x\to a}f(x)$
 
 ### Algunos límites
+
 $\lim\limits_{x\to a}\sqrt[n]{f(x)}=\sqrt[n]{\lim\limits_{x\to a}f(x)}$
 $\lim\limits_{x\to a}f(x)=f(a)$, cuando $f$ es una función trigonométrica ($\text{sin, cos, tan...}$)
 
 ### Límites laterales
+
 Si $\lim\limits_{x\to a^+}f(x)=L$ y $\lim\limits_{x\to a^-}f(x)=L$, entonces $\lim\limits_{x\to a}f(x)=L$
 Si $\lim\limits_{x\to a^+}f(x)=L$ y $\lim\limits_{x\to a^-}f(x)=M$, entonces $\lim\limits_{x\to a}f(x)=\text{ No existe}$
 
 ## Límites infinitos
+
 Límite infinito: $\lim\limits_{x\to a}f(x)=\infty$
 Límite al infinito: $\lim\limits_{x\to\infty}=L$
 
@@ -111,6 +117,7 @@ Límite al infinito: $\lim\limits_{x\to\infty}=L$
 |$1/\infty=0$|$0/\infty=0$|$\infty/0=^+_-\infty \text{ es necesario un análisis}$|
 
 ### Propiedades de los límites infinitos
+
 donde $P_n(x)=\text{polinomio de grado } x$
 
 |Límites|Condiciones|
@@ -133,10 +140,12 @@ Sean $g(x)\leq f(x)\leq h(x)$ y $\lim\limits_{x\to a}g(x)=\lim\limits_{x\to a}h(
 <!-- https://www.youtube.com/watch?v=Kfh4qf0fDds -->
 
 ### Variantes
+
 Si $f(x)\geq g(x)$ y $\lim\limits_{x\to a}g(x)=\infty$, entonces $\lim\limits_{x\to a}f(x)=\infty$ 
 Si $f(x)\leq g(x)$ y $\lim\limits_{x\to a}g(x)=-\infty$, entonces $\lim\limits_{x\to a}f(x)= - \infty$ 
 
 ### Límites trigonométricos
+
 - $\lim\limits_{x\to \infty}f(x)$ no existe si $f$ e cualquier función trigonométrica. De igual manera con $-\infty$
 
 Ejemplos:
@@ -146,6 +155,7 @@ Ejemplos:
 ## Derivadas
 
 ### Propiedades de las Derivadas
+
 donde $f=f(x)$ y $g=g(x)$
 
 |Caso|Fórmula|
@@ -168,6 +178,7 @@ donde $f=f(x)$ y $g=g(x)$
 |$f(x)=\cos(x)$|$f'(x)=-\sin(x)$
 
 Regla de la cadena
+
 $z(x)=f(g(x))$
 
 $f(x)=\sin(e^x) = \cos(e^x) \cdot e^x$
@@ -216,6 +227,7 @@ La composición de funciones continuas es continua
 <!-- $\cfrac{f(x)}{g(x)} = 0$ si $f(x) = 0$ -->
 
 ## Funciones explicitas e implicitas
+
 Una **función implicita** es aquella que $f(x)$, o en dado caso $y$, no está despejada, es decir:
 
 $x + 2y = 1$
