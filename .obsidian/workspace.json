@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 4.md",
+                "file": "-Primero/Introducción a la Ingeniería/Apuntes de clase/Malla Curricular.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -26,8 +26,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 5.md",
-                "mode": "source",
+                "file": "Untitled 4.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -41,8 +41,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 5.md",
+                "file": "-Primero/Introducción a la Ingeniería/Apuntes de clase/Malla Curricular.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled 5.md"
+                "file": "-Primero/Introducción a la Ingeniería/Apuntes de clase/Malla Curricular.md"
               }
             }
           },
@@ -155,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled 5.md",
+                "file": "-Primero/Introducción a la Ingeniería/Apuntes de clase/Malla Curricular.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,13 +182,20 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "4d6ae0a2f4627dcd",
+  "active": "7ef5733097013cf2",
   "lastOpenFiles": [
+    "-Primero/Introducción a la Ingeniería/Apuntes de clase/Artículos.md",
+    "-Primero/Introducción a la Ingeniería/Apuntes de clase/Malla Curricular.md",
+    "Untitled 5.md",
+    "-Tercero/Ecuaciones Diferenciales/Tareas/Untitled.md",
     "Untitled 4.md",
+    "-Tercero/Ecuaciones Diferenciales/Tareas",
     "Untitled 3.md",
     "Untitled 2.md",
     "Untitled 1.md",
     "Untitled.md",
+    "Formularios/Conjuntos y lógica matemática - símbolos.md",
+    "Formularios/Cálculo.md",
     "-Tercero/Sistemas Digitales/Tareas/5. Alarma.md",
     "-Tercero/Sistemas Digitales/Tareas/6. Multiplexor.md",
     "-Tercero/Sistemas Digitales/Tareas/8. Sumador completo FA.md",
