@@ -4,45 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "337ee7e9948daf3f",
+        "id": "2146ca2de57c3ce8",
         "type": "tabs",
         "children": [
           {
-            "id": "7ef5733097013cf2",
+            "id": "7661c695df33a54a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Untitled 4.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "Resources/Excalidraw/Drawing 2023-02-28 11.27.25.excalidraw.md"
               }
             }
           },
           {
-            "id": "4d6ae0a2f4627dcd",
+            "id": "ff30845235ae4c73",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Untitled 5.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "Resources/Excalidraw/FODA-BitShield.png"
               }
             }
           },
           {
-            "id": "94dc10d4b7fdffec",
+            "id": "0f4510062ae02c9e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "image",
+              "state": {
+                "file": "Resources/Excalidraw/FODA-BitShield 1.png"
+              }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -69,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "exoesque",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -109,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 5.md",
+                "file": "Resources/Excalidraw/FODA-BitShield 1.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled 5.md"
+                "file": "Resources/Excalidraw/FODA-BitShield 1.png"
               }
             }
           },
@@ -155,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled 5.md",
+                "file": "Resources/Excalidraw/FODA-BitShield 1.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,8 +179,27 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "4d6ae0a2f4627dcd",
+  "active": "0f4510062ae02c9e",
   "lastOpenFiles": [
+    "Resources/Excalidraw/FODA-BitShield.png",
+    "Resources/Excalidraw/FODA-BitShield 1.png",
+    "Resources/Excalidraw/Drawing 2023-02-28 11.27.25.excalidraw 1.md",
+    "Resources/Excalidraw/Drawing 2023-02-28 11.27.25.excalidraw.md",
+    "Resources/Excalidraw/Drawing 2023-02-28 10.15.22.excalidraw.md",
+    "-Tercero/Administración/Tareas/Actividad 2 - La planeación 1.md",
+    "-Tercero/Administración/Tareas/Actividad 2 - La planeación.md",
+    "-Tercero/Administración/Untitled.md",
+    "-Tercero/Administración/Tareas/Actividad 1.1 - La empresa_Juarez Rubio Alan Yahir.md",
+    "Attachments/Excalidraw/Drawing 2023-01-30 16.33.09.excalidraw.md",
+    "-Tercero/Administración/Tareas/Drawing 2023-02-28 11.27.11.excalidraw.md",
+    "-Tercero/Administración/Untitled 1.md",
+    "-Tercero/Sistemas Digitales (Oyente)/Logica de Función Fija - 14-02-2023.md",
+    "Untitled 5.md",
+    "Formularios/Conjuntos y lógica matemática - símbolos.md",
+    "Formularios/Formulario Cinemática y Leyes de Newton.md",
+    "Formularios/Precálculo.md",
+    "Resources/Excalidraw",
+    "Resources",
     "Untitled 4.md",
     "Untitled 3.md",
     "Untitled 2.md",
