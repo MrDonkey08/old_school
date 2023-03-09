@@ -4,41 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "2146ca2de57c3ce8",
+        "id": "7d54d43515dcc320",
         "type": "tabs",
         "children": [
           {
-            "id": "7661c695df33a54a",
+            "id": "864c7c3a4ba58c78",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Resources/Excalidraw/Drawing 2023-02-28 11.27.25.excalidraw.md"
+                "file": "-Tercero/Sistemas Digitales/Tareas/8. Sumador completo FA.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
               }
             }
           },
           {
-            "id": "ff30845235ae4c73",
+            "id": "0774975c967c2b5e",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Resources/Excalidraw/FODA-BitShield.png"
-              }
-            }
-          },
-          {
-            "id": "0f4510062ae02c9e",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Resources/Excalidraw/FODA-BitShield 1.png"
+                "file": "Untitled.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/Excalidraw/FODA-BitShield 1.png",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/Excalidraw/FODA-BitShield 1.png"
+                "file": "Untitled.md"
               }
             }
           },
@@ -151,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resources/Excalidraw/FODA-BitShield 1.png",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,14 +175,27 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "0f4510062ae02c9e",
+  "active": "0774975c967c2b5e",
   "lastOpenFiles": [
+    "Untitled.md",
+    "-Tercero/Sistemas Digitales/Tareas/8. Sumador completo FA.md",
+    "-Tercero/Sistemas Digitales/Tareas/7. Medio sumador HA.md",
+    "-Tercero/Sistemas Digitales/Tareas/6. Multiplexor.pdsprj.LAPTOP-0P58E1L1.HP.workspace",
+    "-Tercero/Sistemas Digitales/Tareas/6. Multiplexor.md",
+    "-Tercero/Sistemas Digitales/Tareas/5. Alarma.md",
+    "-Tercero/Sistemas Digitales/Tareas/4. Algebra de Boole.md",
+    "-Tercero/Sistemas Digitales/Tareas/3. Códigos Binarios.md",
+    "-Tercero/Sistemas Digitales/Tareas/7. Medio sumador HA.pdsprj.LAPTOP-0P58E1L1.HP.workspace",
+    "-Tercero/Sistemas Digitales/Tareas/2. Operaciones en sistemas binario, octal y hexadecimal.md",
+    "-Tercero/Sistemas Digitales/Tareas/1. Conversiones numéricas.md",
+    "-Tercero/Sistemas Digitales/Class Note/Untitled.md",
+    "-Tercero/Ecuaciones Diferenciales/Apuntes de clase/Untitled.md",
+    "Resources/Excalidraw/FODA-BitShield 1.png",
     "-Tercero/Ecuaciones Diferenciales/Apuntes de clase/Untitled 2.md",
     "-Primero/Introducción a la Ingeniería/Apuntes de clase/Modos de titulación.md",
     "-Primero/Introducción a la Ingeniería/Actividades/Planeación del proyecto.md",
     "-Primero/Introducción a la Ingeniería/Actividades",
     "Resources/Excalidraw/FODA-BitShield.png",
-    "Resources/Excalidraw/FODA-BitShield 1.png",
     "Resources/Excalidraw/Drawing 2023-02-28 11.27.25.excalidraw 1.md",
     "Resources/Excalidraw/Drawing 2023-02-28 11.27.25.excalidraw.md",
     "Resources/Excalidraw/Drawing 2023-02-28 10.15.22.excalidraw.md",
@@ -199,18 +208,7 @@
     "-Tercero/Administración/Untitled 1.md",
     "-Tercero/Sistemas Digitales (Oyente)/Logica de Función Fija - 14-02-2023.md",
     "Untitled 5.md",
-    "Formularios/Conjuntos y lógica matemática - símbolos.md",
-    "Formularios/Formulario Cinemática y Leyes de Newton.md",
-    "Formularios/Precálculo.md",
     "Resources/Excalidraw",
-    "Resources",
-    "Untitled 4.md",
-    "Untitled 3.md",
-    "Untitled 2.md",
-    "Untitled 1.md",
-    "Untitled.md",
-    "-Tercero/Sistemas Digitales/Tareas/5. Alarma.md",
-    "-Tercero/Sistemas Digitales/Tareas/6. Multiplexor.md",
-    "-Tercero/Sistemas Digitales/Tareas/8. Sumador completo FA.md"
+    "Resources"
   ]
 }
