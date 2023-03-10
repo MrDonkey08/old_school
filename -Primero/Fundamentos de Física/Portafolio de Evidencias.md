@@ -37,7 +37,7 @@
 ---
 ## 3. Relatividad
 
-[[]]
+
 
 ---
 ## 4. Interacciones Electromágneticas
