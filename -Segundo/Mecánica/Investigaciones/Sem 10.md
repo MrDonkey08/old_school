@@ -72,8 +72,8 @@ E_\mathrm{rot} = \frac{1}{2} I_x \omega^2
 $$
 
 Donde:
-- $I_x$: [[Momento de inercia]] del cuerpo en torno al eje x.
-- $\omega$: [[Velocidad angular]]
+- $I_x$: **Momento de inercia** del cuerpo en torno al eje x.
+- $\omega$: **Velocidad angular**
 
 En general, esto se puede expresar como:
 
@@ -82,11 +82,10 @@ E_\mathrm{rot}= \frac{1}{2} \vec{\omega}^T I \vec{\omega} = \frac{1}{2} \sum_{\a
 $$
 
 Donde:
-- $I$: [[Tensor de inercia]]
-- $\vec{\omega}$: [[Velocidad angular]]
+- $I$: **Tensor de inercia**
+- $\vec{\omega}$: **Velocidad angular**
 
-
-Para calcular la energía de un cuerpo que rota en torno a un eje arbitrario ([[vector unitario]] $\hat{n}$), la velocidad angular se expresará por sus componentes vectoriales:
+Para calcular la energía de un cuerpo que rota en torno a un eje arbitrario (**vector unitario** $\hat{n}$), la velocidad angular se expresará por sus componentes vectoriales:
 
 $$
 \vec{\omega} = \omega \hat{n} = \omega \cdot \begin{pmatrix}n_1\\n_2\\n_3\end{pmatrix} 
@@ -108,15 +107,15 @@ El **momento de inercia** de un cuerpo rígido respecto a cierto eje de rotaci
 
 Cabe señalar que, en general, el momento angular y la velocidad angular no son paralelas entre sí (excepto en la rotación alrededor de un eje principal de inercia).
 
-![[Pasted image 20221017095253.png]]
+![Sem-10-1](-Segundo/Mecánica/Investigaciones/Attachments/Sem-10-1.png)
 
 ## Momento angular
 
-La energía rotacional se puede expresar a través del [[Momentum angular|momento angular]]:
+La energía rotacional se puede expresar a través del **Momentum angular|momento angular**:
 
 $E_\mathrm{rot} = \frac{1}{2} \vec{\omega} \cdot \vec{L} = \frac{\vec{L}^2}{2I}$  donde  $\vec{L} = I \cdot \vec{\omega}$
 
-Cabe señalar que, en general, el momento angular y la velocidad angular no son paralelas entre sí (excepto en la rotación alrededor de un [[eje principal de inercia]]).
+Cabe señalar que, en general, el momento angular y la velocidad angular no son paralelas entre sí (excepto en la rotación alrededor de un **eje principal de inercia**).
 
 Este es el momento de inercia de una distribución de masa discreta. Cuando la distribución es continua, la sumatoria se reemplaza con una integral y _Δm_ se convierte en un diferencial de masa _dm_. La integral se efectúa sobre todo el objeto:
 
