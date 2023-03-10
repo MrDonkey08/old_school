@@ -2,7 +2,7 @@
 
 ### <p align="center">Centro Universitario de Ciencias Exactas E Ingenierías<br>
 
-![[Portada-1674960598575.jpeg | left | 200]] ![[Portada-1674960701223.jpeg | right | 188]]
+![Portada-UDG | left |200](Attachments/Images/Portada-UDG.jpeg) ![Portada-CUCEI | right | 188](Attachments/Images/Portada-CUCEI.jpeg)
 
 <br> <br> <br> <br> <br><br> <br><br><br><br><br><br><br><br>
 
@@ -23,7 +23,7 @@
 --- -->
 ## BITSHIELD
 
-![](BitShield-Logo.jpeg)
+![](-Tercero/Administración/Tareas/Attachments/BitShield-Logo.jpeg)
 Empresa especializada en brindar soluciones de seguridad y estabilidad a los diferentes sistemas computacionales.
 
 ---
