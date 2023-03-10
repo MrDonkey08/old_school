@@ -17,5 +17,6 @@
   "showFrontmatter": false,
   "strictLineBreaks": false,
   "readableLineLength": true,
-  "showLineNumber": false
+  "showLineNumber": false,
+  "newLinkFormat": "absolute"
 }
