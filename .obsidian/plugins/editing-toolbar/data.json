@@ -1,6 +1,6 @@
 {
   "aestheticStyle": "default",
-  "positionStyle": "following",
+  "positionStyle": "top",
   "menuCommands": [
     {
       "id": "editing-toolbar:format-eraser",
@@ -159,6 +159,26 @@
       "icon": "remix-SplitCellsHorizontal"
     },
     {
+      "id": "git-sync:pull-git",
+      "name": "Git Pull",
+      "icon": "minus-with-circle"
+    },
+    {
+      "id": "git-sync:push-git",
+      "name": "Git Push",
+      "icon": "plus-with-circle"
+    },
+    {
+      "id": "theme:use-light",
+      "name": "Light",
+      "icon": "sun-moon"
+    },
+    {
+      "id": "theme:use-dark",
+      "name": "Dark",
+      "icon": "moon"
+    },
+    {
       "id": "workspace:export-pdf",
       "name": "Export to PDF",
       "icon": "file-explorer-glyph"
@@ -167,10 +187,20 @@
   "appendMethod": "workspace",
   "shouldShowMenuOnSelect": false,
   "cMenuVisibility": true,
-  "cMenuBottomValue": 4.25,
+  "cMenuBottomValue": 2.5,
   "cMenuNumRows": 12,
-  "cMenuWidth": 448,
+  "cMenuWidth": 500,
   "cMenuFontColor": "#7030a0",
   "cMenuBackgroundColor": "#fff88f",
-  "autohide": false
+  "autohide": false,
+  "custom_bg1": "#FFB78B8C",
+  "custom_bg2": "#CDF4698C",
+  "custom_bg3": "#A0CCF68C",
+  "custom_bg4": "#F0A7D88C",
+  "custom_bg5": "#ADEFEF8C",
+  "custom_fc1": "#D83931",
+  "custom_fc2": "#DE7802",
+  "custom_fc3": "#245BDB",
+  "custom_fc4": "#6425D0",
+  "custom_fc5": "#646A73"
 }
