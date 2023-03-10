@@ -15,11 +15,11 @@ Para resolver este problema se desarrolló el SI (Sistema Internacional), que es
 
 ---
 ### Prefijos de unidades
-Tomando en cuenta las unidades fundamentales, existen notaciones que ayudan a simplificar el entendimiento y la escritura de mediciones grandes o pequeñas, a comparación de las unidades básicas ([[Notación de Unidades de Medición.png | Fig 1]])
+Tomando en cuenta las unidades fundamentales, existen notaciones que ayudan a simplificar el entendimiento y la escritura de mediciones grandes o pequeñas, a comparación de las unidades básicas ([ Fig 1](#^527851))
 
-![](Notación-de-Unidades-de-Medición.jpeg)
+![Fig 1](-Segundo/Mecánica/Homework/Attachments/Notación-de-Unidades-de-Medición.jpeg)^527851
 
-[[#^d8f718 | Fig 1]] Artículos principales: Prefijos del Sistema Internacional y Escalas numéricas larga y corta.
+[ Fig 1](#^527851) Artículos principales: Prefijos del Sistema Internacional y Escalas numéricas larga y corta.
 
 ### Vectores
 Un **vector** es una magnitud (tal como la rapidez, fuerza...) pero con dirección, es decir, no solo se menciona la cantidad de unidades, sino también la dirección a la que se emplea dicha magnitud, a la izquierda, a la derecha hacia arriba, hacia abajo, etc. Algunas **cantidades vectoriales** son el desplazamiento (indica el cambió en la posición).
@@ -36,13 +36,13 @@ Si dos vectores tienen la misma dirección, son **paralelos**; si tienen la mism
 
 
 #### Suma de más de dos vectores
-Primero se suma dos vectores cualquiera y la resultante sumarla con el tercero ([[#^88b1e3| Caso 1]]) o, en dado caso la resultante de la suma del siguiente par de vectores ([[#^d9c0b8 | Caso 2]]) ^6fd36a
+Primero se suma dos vectores cualquiera y la resultante sumarla con el tercero ([ Caso 1](#^88b1e3)) o, en dado caso la resultante de la suma del siguiente par de vectores ([ Caso 2](#^d9c0b8)) ^6fd36a
 
-[[#^6fd36a | Caso 1]]$$\vec R=(\vec A+\vec B)+\vec C=\vec D+\vec C$$ ^88b1e3
+[ Caso 1](#^6fd36a)$$\vec R=(\vec A+\vec B)+\vec C=\vec D+\vec C$$ ^88b1e3
 
-[[#^6fd36a | Caso 2]]$$\vec R=(\vec A+\vec B)+(\vec C+\vec D)=\vec E+\vec F$$ ^d9c0b8
+[ Caso 2](#^6fd36a)$$\vec R=(\vec A+\vec B)+(\vec C+\vec D)=\vec E+\vec F$$ ^d9c0b8
 
-Cabe mencionar que no es necesario dibujar los vectores resultantes ($\vec E$ y $\vec F$) [[#^6fd36a | Caso 2]], sino solo al vector resultante $\vec R$
+Cabe mencionar que no es necesario dibujar los vectores resultantes ($\vec E$ y $\vec F$) [ Caso 2](#^6fd36a), sino solo al vector resultante $\vec R$
 
 #### Componente de vectores
 
@@ -109,7 +109,7 @@ $\vec A \cdot \vec B = A_xB_x + A_yB_y + A_zB_z$
 ## Movimiento en Línea Recta
 ### Desplazamiento, tiempo y velocidad media
 
-Para medir el movimiento de una **[[#^52d830 | partícula]]** es en términos del cambio de posición a lo largo de un intérvalo de tiempo.
+Para medir el movimiento de una **[ partícula](#^52d830)** es en términos del cambio de posición a lo largo de un intérvalo de tiempo.
 
 La componente $x$ del desplazamientos es simplemente el cambio de valor de $x$.
 
