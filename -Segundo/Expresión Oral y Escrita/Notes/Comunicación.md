@@ -53,7 +53,7 @@ Crear y compartir un significado.
 - Distracciones Presencia o ausencia de ruido
 - Reacción Retroalimentación
 
-![](/Attachments/Images/Comunicación-1.jpeg)
+![](-Segundo/Expresión%20Oral%20y%20Escrita/Notes/Attachments/Comunicación-1.jpeg)
 
 Ruido: se le dice ruido cuando no hay un entendimiento en una comunicación.
 
