@@ -15,7 +15,6 @@ type: Apuntes de clase
 ---
 # 
 
-<div style="page-break-after: always;"></div>
 La forma estándar de una ecuacion diferencial ordinari lineal de orden 1 es $y\: '+ P(x)y= Q(x)$ donde $P$ y $Q$ únicamente dependen de $x$ 
 
 
@@ -29,6 +28,7 @@ La forma estándar de una ecuacion diferencial ordinari lineal de orden 1 es $y\
 Determina la solución general de 
 
 1) $$4y\: ' - 8y + 7 = 0$$
+
 Llevar ecuación a forma estándar
 
 De lado izquierdo el lado izquierdo a la incógnita y las que no la incluyen del lado derecho:
