@@ -2,7 +2,6 @@
 
 Sean los números $a, b, c ∈«R»$, entonces se cumplen las siguientes propiedades
 
-
 ## Operaciones con fracciones
 
 ### Suma
