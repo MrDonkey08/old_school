@@ -1,224 +1,197 @@
-# 1. Conjunto de Números Reales
+***
+# Formulario Precálculo
+---
+En este formulario: $a, b, c \text{ \& } d\in\Bbb R$ y son constantes.
 
-Sean los números $a, b, c ∈«R»$, entonces se cumplen las siguientes propiedades
+---
+## 1. Conjunto de Números Reales
 
-## Operaciones con fracciones
+---
+### Propiedades de los números
 
-### Suma
+|                                                               |                   Suma                    |               Multiplicación               |
+| ------------------------------------------------------------- |:-----------------------------------------:|:------------------------------------------:|
+| Ley conmutativa                                               |              $a + b = b + a$              |          $a \cdot b = b \cdot a$           |
+| Ley asociativa                                                |        $(a + b) + c = a +(b + c)$         | $(a \cdot b) \cdot c = a \cdot(b \cdot c)$ |
+| Elemento Neutro                                               |                  a+(0)=a                  |             $a \cdot (1) = a$              |
+| Elemento inverso (recíproco)                                  |                $a+(-a)=0$                 |  $a \cdot \left(\cfrac{1}{a} \right) = 1$   |
+| Ley distributiva de la multiplicación con respecto de la suma | $(a + b) \cdot c = a \cdot c + b \cdot c$ |                    -->                     |
 
-### Multiplicación
+---
+### Fracciones
 
-$\frac {a} {b} * \frac {c} {d} = \frac {ac} {cd}$
+1. **Suma de fracciones**
+	1. Mismo denominador: $\cfrac{a}{b} + \cfrac{c}{b} = \cfrac{a + c}{b}$
+	2. Distinto denominador: $\cfrac {a}{b} + \cfrac {c}{d} =\cfrac {ad+bc}{cd}$
+	3. Entero y una fracción : $a+\cfrac {c}{b} = \cfrac {ab+c}{b}$
+2. **Multiplicación de fracciones:** $\cfrac {a}{b} \cdot \cfrac {c}{d} = \cfrac {ac}{bd}$
+3. **Division de fracciones** **(cruzada).** $\cfrac {a}{b} \div \cfrac {c}{d} = \cfrac {ad}{bc}$
+4. **Multiplicación por unidad.** $\cfrac{a}{b} \cdot \cfrac{c}{c} = \cfrac{a \cdot c}{b \cdot c} = \cfrac{a}{b}$
 
-### División
+---
+### Desigualdades
 
-$\frac {a} {b} \div \frac {c} {d} = \frac {ad} {bc}$
+**Mayor que ($>$):** $a-b = c \to a>b$, donde $c > 0$
+**Menor que ($<$):** $a-b = c \to a<b$, donde $c < 0$
 
-### Multiplicación por unidad
-
-$\frac {a} {b} * \frac {c} {c} = \frac {a_c} {b_c} = \frac {a} {b}$
-
-## Desigualdades
-
-### Mayor que
-
-$(>)= a-b = n⁺ → \space a>b$
-
-### Menor que
-
-$(<)=a-b = n^- → \space a<b$
-
+---
 ### Valor absoluto
 
-$|a|= \begin{bmatrix} Si \space a>=0 \space → |a| = a \\ Si \space a <0 \space → \space |a|= -a\end{bmatrix}$
+$|a|= \begin{bmatrix} a\geq 0 \to |a| = a \\ a < 0 \to |a|= -a\end{bmatrix}$
 
+---
 ### Distancia entre dos puntos
 
-$d(A,B) = |b-a$|
+- $d(A,B) =|b-a|$ 
+- $d(B,A)= |a-b|$
 
-# 2 Leyes de los exponentes
+---
+## 2. Leyes de los exponentes
+---
+| Nombre                                | Ley                                         |
+| ------------------------------------- | ------------------------------------------ |
+| **Ley de separación**                 | $(\cfrac{a}{b})^n = \cfrac {a^n} {b^n}$       |
+| $\uparrow$                            | $(ab)^n =a^n b^n$                           |
+| **Multiplicación de bases iguales**   | $a^n a^m = a^{n+m}$                         |
+| **Potencia de una base con potencia** | $(a^n)^m = a^{nm}$                          |
+| **Potencia cero**                     | $a^0 = 1$                                   |
+| **Potencia negativa**                 | $a^{-n} = \cfrac {1} {a^n}$                  |
+| **División de bases iguales**         | $\cfrac {a^n}{a^m} = a^{n-m} \; (si \; n>m)$ |
+| $\uparrow$                            | $\cfrac {a^n} {a^m} = \cfrac {1} {a^{m-n}}$   |
+| **De reescritura**                    | $a^{m/n} = \sqrt [n]{a^m}$                  |
 
-### Ley de separación
+<!--
+- **Ley de separación** 
+	- $(\cfrac{a}{b})^n = \cfrac {a^n} {b^n}$
+	- $(ab)^n =a^n b^n$
 
-**a)** $(\frac{a}{b})^n = \frac {a^n} {b^n}$
+- **Multiplicación de bases iguales**: $a^n a^m = a^{n+m}$
+- **Potencia de una base con potencia**: $(a^n)^m = a^{nm}$
+- **Potencia cero**: $a^0 = 1$
+- **Potencia negativa**: $a^{-n} = \cfrac {1} {a^n}$
 
-**b)** $(ab)^n =a^n b^n$
+- **División de bases iguales**
+	- $\cfrac {a^n}{a^m} = a^{n-m} \; (si \; n>m)$
+	- $\cfrac {a^n} {a^m} = \cfrac {1} {a^{m-n}}$
+- **De reescritura**: $a^{m/n} = \sqrt [n]{a^m}$ -->
 
-### Multiplicación de bases iguales
+---
+## 3. Leyes de los radicales
+---
+| Ley                                         | -                                           |
+| ------------------------------------------- | ------------------------------------------- |
+| **De separación**                           | $\sqrt [n]{ab} = \sqrt [n]{a} \sqrt [n]{b}$ |
+| **De la raíz m\_ésima de la raíz n\_ésima** | $\sqrt [m] {\sqrt[n]{a}} = \sqrt [nm] {a}$  |
+|         $\downarrow$                  | $\sqrt [n]{a^n} = a$                        |
+|  **De cancelación**                                           | $(\sqrt [n]{a})^n = a$                      |
+|          $\uparrow$                                   | $(a^n)^{1/n} = a$                           |
+|**De reescritura**| $\sqrt [n]{a^m} = a^{m/n}$|
 
-$a^n a^m = a^{n+m}$
+> [!warning] Advertencia
+> - $\sqrt [n]{{a^n}\pm b^n} \neq a\pm b$
+> - $\sqrt [n]{a\pm b}\neq a\pm b$
 
-### Potencia se una base con potencia
+---
+## 4. Número imaginario
+---
 
-$(a^n)^m = a^{nm}$
+**Número imaginario**: $i = \sqrt{-1}$
 
-### Potencia cero
+- $i^0=1$
+- $i^1=i$
+- $i^2 = -1$
+- $i^3 = i^2i=(-1)i = -i$
+- $i^4 = i^2 i^2=(-1)(-1)=1$
 
-$a^0 = 1$
+**Número complejo**:  $z = a + bi \; | \; a \in \Bbb {R} \; \& \; bi \in \Bbb {I} \; \to \; Z \in \Bbb C$
 
-### Potencia negativa
+---
+## 5. Operaciones con polinomios
+---
 
-$a^{-n} = \frac {1} {a^n}$
+- **Suma y resta (términos semejantes)**: ${x^n}\pm  ax^n = (a\pm 1)a^n$
+- **Multiplicación**: $a(b+c) = (a)(b)+(a)(c)$
 
-### División de bases iguales
+---
+### Productos Notables
+| Nombre                      | Expresión                      | Equivalencia          |
+| --------------------------- | ------------------------------ | --------------------- |
+| **Diferencia de cuadrados** | $x^2-y^2$                      | $(x-y)(x+y)$          |
+| **Suma de cubos**           | $x^3+y^3$                      | $(x+y)(x^2-xy+y^2)$   |
+| **Diferencia de cubos**     | $x^3-y^3$                      | $(x+y)(x^2+xy+y^2)$   |
+| **Binomio al cuadrado**     | $(x+y)^2$                      | $x^2+2xy+y^2$         |
+| **Binomio al cuadrado**     | $(x-y)^2$                      | $x^2-2xy+y^2$         |
+| **Binomio al cubo**         | $(x+y)^3$                      | $x^3+3x^2y+3xy^2+y^3$ |
+| **Biniomio a la cuarta**| $(x+y)^4$                   | $x^4+4x^3+y+6x^2y^2+4xy^3+y^4$ |                       |
 
-a) $\frac {a^n}{a^m} = a^{n-m} \space (si \space n>m)$
+---
+## 6. Binomio de Newton 
+---
 
-b) $\frac {a^n} {a^m} = \frac {1} {a^{m-n}}$
+$(a+b)^n=a^n+ \cfrac {n}{1!}a^{n-1}b+ \cfrac {n(n-1)}{2!}a^{n-2}b^2 + \cfrac {n(n-1)(n-2)}{3!}a^{n-3}b^3+ \cdots +b^n$
 
-# 3 Leyes de los radicales
+---
+## 7. K_ésimo término 
+---
 
-### De separación
+$K_{\text{ésimo}} \text{término} = \cfrac {n!}{(n-r+1)!(r-1)!} a^{n-r+1}b^{r-1}$
 
-$\sqrt [n]{ab} = \sqrt [n]{a} \sqrt [n]{b}$
-
-### De la raíz m_ésima de la raíz n_ésima
-
-$\sqrt [m] {\sqrt[n]{a}} = \sqrt [nm] {a}$
-
-### De cancelación
-
-$\sqrt [n]{a^n} = a$
-
-$(\sqrt [n]{a})^n = a$
-
-$(a^n)^{1/n} = a$
-
-### De reescritura
-
-$\sqrt [n]{a^m} = a^{m/n}$
-
-### Notes
-
-1.  $\sqrt [n]{{a^n}^+_-b^n} \neq a^+_-b$
-2.  $\sqrt [n]{a^+_-b}\neq a^+_-b$
-
-# 4 Número imaginario
-
-$i^0=1$
-
-$i^1=i$
-
-$i^2 = -1$
-
-$i^3 = i^2i=(-1)i = -i$
-
-$i^4 = i^2 i^2=(-1)(-1)=1$
-
-### Número complejo
-
-$a+bi \space | \space a \in R \space \& \space bi \in I \space | \space Z \in C$
-
-# 5 Operaciones con polinomios
-
-### Suma y resta (términos semejantes)
-
-${x^n}^+_- ax^n = (a^+_-1)a^n$
-
-### Multiplicación
-
-$a(b+c) = (a)(b)+(a)(c)$
-
-## Productos Notables
-
-### Diferencia de cuadrados
-
-$x^2-y^2=(x-y)(x+y)$
-
-### Suma de cubos
-
-$x^3+y^3=(x+y)(x^2-xy+y^2)$
-
-### Diferencia de cubos
-
-$x^3-y^3 = (x+y)(x^2+xy+y^2)$
-
-### Binomio al cuadrado
-
-$(x+y)^2=x^2+2xy+y^2$
-
-### Binomio al cubo
-
-$(x+y)^3=x^3+3x^2y+3xy^2+y^3$
-
-# 6 Binomio de Newton 
-
-$(a+b)^n=a^n+ \frac {n}{1!}a^{n-1}b+ \frac {n(n-1)}{2!}a^{n-2}b^2 + \frac {n(n-1)(n-2)}{3!}a^{n-3}b^3+...+b^n$
-
-### 6 Notas
-
-$(a+b)^2= a^2+2ab+b^2$
-
-($a+b)^3 = a^3 +3a^2b+3ab^2+b^3$
-$(a+b)^4 = a^4+4a^3+b+6a^2b^2+4ab^3+b^4$
-
-## K_ésimo término 
-
-$K_{\text{ésimo}} \text{término} = \frac {n!}{(n-r+1)!(r-1)!} a^{n-r+1}b^{r-1}$
-
-### Notes
-
-> [!note]+ 
+> [!note]+ Nota
+> 
 > $n =$ potencia  &  $r$ = número  del  término a  buscar
 
-# 8 Factorización
+---
+## 8. Factorización
+---
 
-### Por término común
+**Por término común**: $x^2+ax = x(x+a)$
 
-$x^2+ax = x(x+a)$
+**Por fórmula**: Consultar las fórmulas de productos notables.
 
-### Por prueba y error
+**Por agrupación:**
 
-$a^2 - C(ab)+C(b^2) = (a-\frac {C}{2}(b))(a-\frac {C}{2}(b)) \\= (a-\frac {C}{2}(b))^2$
+$$\begin{array}{l}
+ax+bx+ay+by &= (ax+bx)+(ay+by) \\
+&=x(a+b)+y(a+b) \\
+&=(a+b)(x+y) \\
+\end{array}$$
 
-$a^2 + C(ab)+C(b^2) = (a+\frac {C}{2}(b))(a+\frac {C}{2}(b)) \\= (a+\frac {C}{2}(b))^2$
+---
+## 11. Operaciones con números complejos en forma algebraica
+---
 
-$a^2+C(b)^2 = (a-\frac {C}{2})(a+\frac {C}{2})$
+$$\begin{array}{l|l} \text{Suma y resta}& \text{División} & \text{Mutiplicación}\\z_1-z_2=(a+bi)+(c+di) & \cfrac{z_1}{z_2}=\cfrac{z_1}{z_2}*\cfrac{z_2}{z_2} & z_1*z_2=(a+bi)(c+di)\\ =(a+c)+(b+d)i & =\cfrac{a+bi}{c+di}* \cfrac{c-di}{c-di} & =ac+bci+adi+bdi^2\\ z_1-z_2=(a+bi)-(c+di) & =\cfrac{ac+(bc-ad)i-bdi^2}{c^2d^2i^2} & ac+(bc+ad)+bdi^2\\=(a-c)+(b-d)i \end{array}$$
 
-### Nota
+---
+## 13. Intérvalos y desigualdades
 
-En estas fórmulas, C representa el coeficiente de los monomios, los cuales son un número entero par.
-
-La tercera fórmula no pertenece a este método de factorización, pero sirve para descartar el producto de las opciones.
-
-### Por fórmula
-Consultar las fórmulas de productos notables.
-
-### Por agrupación
-
-$ax+bx+ay+by = (ax+bx)+(ay+by)$ <br>$=x(a+b)+y(a+b)$ <br>$=(a+b)+(x+y)$
-
-## 11 Operaciones con números complejos en forma algebraica
-
-$$\begin{array}{l|l} \text{Suma y resta}& \text{División} & \text{Mutiplicación}\\z_1-z_2=(a+bi)+(c+di) & \frac{z_1}{z_2}=\frac{z_1}{z_2}*\frac{z_2}{z_2} & z_1*z_2=(a+bi)(c+di)\\ =(a+c)+(b+d)i & =\frac{a+bi}{c+di}* \frac{c-di}{c-di} & =ac+bci+adi+bdi^2\\ z_1-z_2=(a+bi)-(c+di) & =\frac{ac+(bc-ad)i-bdi^2}{c^2d^2i^2} & ac+(bc+ad)+bdi^2\\=(a-c)+(b-d)i \end{array}$$
-
-## 13 Intérvalos y desigualdades
+---
 ### Intérvalos
-#### Intérvalo abierto
 
-$(a,\ b)={x\ |\ a<x<b,\ x\in \Bbb R}$
+**Intérvalo abierto**: $(a,\ b)={x\ |\ a<x<b,\ x\in \Bbb R}$
 
 ![](Formularios/Attachments/Formulario-1.jpeg)
 
-#### Intérvalo cerrado
-
-$[a,\ b]={x\ |\ a\leq x\leq b,\ x\in \Bbb R}$
+**Intérvalo cerrado**: $[a,\ b]={x\ |\ a\leq x\leq b,\ x\in \Bbb R}$
 
 ![](Formularios/Attachments/Formulario-2.jpeg)
 
-#### Intérvalo semiabierto
+**Intérvalo semiabierto**:
 
 ![](Formularios/Attachments/Formulario-3.jpeg)
 
-#### Intérvalo infinito
+**Intérvalo infinito**:
 
 ![Formulario-3](Formularios/Attachments/Formulario-4.png)
 
+---
 ### Desigualdades
 
-Al multiplicar o dividir ambos lados de una desigualdad por un número real negativo, el signo de la desigualdad se invierte.
+> [!Note]+ Nota
+> 
+> Al multiplicar o dividir ambos lados de una desigualdad por un número real negativo, el signo de la desigualdad se invierte.
 
-#### Desigualdad de valor absoluto
+**Desigualdad de valor absoluto**
 
 | Caso |        Modelo         |         Solución         |
 |:----:|:---------------------:|:------------------------:|
@@ -227,12 +200,14 @@ Al multiplicar o dividir ambos lados de una desigualdad por un número real nega
 |  3   |  $\mid a\mid\: > b$   |   $a < -b \cup a > b$    |
 |  4   | $\mid a\mid\: \geq b$ | $a \leq -b \cup a\geq b$ |
 
+---
+## 14. Sistemas de 2x2
 
-## 14 Sistemas de 2x2
-
+---
 ### Suma y resta
 
 donde las únicas incógnitas son $x$ y $y$ y son las que nos interesa encontrar.
+
 $ax+by=c$
 $dx+ey=f$
 
@@ -242,13 +217,15 @@ $-adx-aey=-af$
 $(adx-adx)+(bdy-aey)=cd-af$
 $bdy+aey=cd-af$
 $y(bd+ae)=cd-af$
-$y=\frac{cd-af}{bd+ae}$
+$y=\cfrac{cd-af}{bd+ae}$
 
 Sustituir el valor encontrado (en este caso de $y$) en cualquiera de de las ecuaciones para determinar la incógnita faltante.
 
 Una vez encontrado ambos valores, sustituirlos en ambas ecuaciones para hacer la comprobación.
 
+---
 ### Por sustitución
+
 $ax+by=c$
 $dx+ey=f$
 
@@ -257,58 +234,83 @@ $dx+ey=f$
 3. Se sustituye en el primer despeje la variable $y$
 4. Se hace la comprobación.
 
+---
 ### Por igualación
+
 1. Se despeja una variable de ambas ecuaciones.
 2. Se iguala los valores de los despejes de dichas variables y se depeja la variable contraria.
 3. Se sustituye la segunda variable en cualquiera de los despejes.
 4. Comprobación.
 
-## Ecuaciones cuadráticas
-### Ecuación cuadrática especial
-$x^2=d$, entonces $x=^+_-\sqrt d$
+---
+## 16. Ecuaciones cuadráticas
 
-### Completar el cuadrado
-$x^2+kx+(\frac{k}{2})^2=(x+\frac{k}{2})^2$
-$x^2-kx+(\frac{k}{2})^2=(x-\frac{k}{2})^2$
+**Ecuación cuadrática especial**: $x^2=d$, entonces $x=\pm \sqrt d$
 
-## 17 Fórmula géneral para ecuaciones cuadráticas
-### Fórmula general
+**Completar el cuadrado**:
+- $x^2+kx+(\cfrac{k}{2})^2=(x+\cfrac{k}{2})^2$
+- $x^2-kx+(\cfrac{k}{2})^2=(x-\cfrac{k}{2})^2$
+
+---
+## 17. Fórmula géneral para ecuaciones cuadráticas
+
+---
+### Fórmula General
+
 Para $ax^2+bx+c=0$
 
-$\frac{b^+_-\sqrt {b^2-4ac}}{2a}$
+$\cfrac{b\pm \sqrt {b^2-4ac}}{2a}$
+
+---
 ### Discriminante
+
 $D=b^2-4ac$
 
-1. $D|D>0\Rightarrow$ Dos soluciones reales
-2. $D|D<0\Rightarrow$ Soluciones complejas
-3. $D|D=0\Rightarrow$ Solución repetida, una única solución 
+1. $D\:|\:D>0\Rightarrow$ Dos soluciones reales
+2. $D\:|\:D<0\Rightarrow$ Dos soluciones complejas
+3. $D\:|\:D=0\Rightarrow$ Solución repetida, una única solución 
 
-## 18 Ecuaciones eXpeciales
+---
+## 18. Ecuaciones eXpeciales
+
+---
 ### Valor absoluto
+
 $|x|=y$
-$x=^+_-y$
+$x=\pm y$
 $x_1=y$
 $x_2=-y$
 
+---
 ### Por agrupación
+
 $x^2+ax+bx+ba=0$
 $x(x+a)+b(x+a)=0$
 $(x+a)(x+b)=0$
 
-2. Teorema del cero
+---
+### Teorema del cero
 
-$xy=0$
-$x=0$ y/o $y=0$
+$(x+a)(y+b)=0$
+$(x+a) = 0$ y/o $(y+b) =0$
 
-$\begin{array}{l|l}x+a=0 & x+b=0\\ x_1=a & x_2=b\end{array}$ 
+$\begin{array}{l|l}x+a=0 & x+b=0\\ x_1 = -a & x_2 = -b\end{array}$ 
 
-3. Comprobaciones.
+> [!todo] Importante
+> 
+> Hacer comprobaciones para determinar cúal solución es correcta.
 
+---
 ### Por sustitución
+
 $ax^4+bx^2+c=0$
+
+1. Aplicar sustitución para simplicar la ecuación original
+
 $\begin{array}{c|c}x^2=u & x^4=u^2 \end{array}$
+
 $au^2+bu+c=0$
 
 2. Resolver la ecuación
-3. Sustituir $u=x^2$
+3. Sustituir por los valores originales
 4. Comprobación
