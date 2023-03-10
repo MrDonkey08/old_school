@@ -37,7 +37,7 @@ $|a|= \begin{bmatrix} Si \space a>=0 \space → |a| = a \\ Si \space a <0 \space
 
 $d(A,B) = |b-a$|
 
-# #2_Leyes_de_los_exponentes
+# 2 Leyes de los exponentes
 
 ### Ley de separación
 
@@ -67,7 +67,7 @@ a) $\frac {a^n}{a^m} = a^{n-m} \space (si \space n>m)$
 
 b) $\frac {a^n} {a^m} = \frac {1} {a^{m-n}}$
 
-# #3_Leyes_de_los_radicales
+# 3 Leyes de los radicales
 
 ### De separación
 
@@ -94,7 +94,7 @@ $\sqrt [n]{a^m} = a^{m/n}$
 1.  $\sqrt [n]{{a^n}^+_-b^n} \neq a^+_-b$
 2.  $\sqrt [n]{a^+_-b}\neq a^+_-b$
 
-# #4_Número_imaginario
+# 4 Número imaginario
 
 $i^0=1$
 
@@ -110,7 +110,7 @@ $i^4 = i^2 i^2=(-1)(-1)=1$
 
 $a+bi \space | \space a \in R \space \& \space bi \in I \space | \space Z \in C$
 
-# #5_Operaciones_con_polinomios
+# 5 Operaciones con polinomios
 
 ### Suma y resta (términos semejantes)
 
@@ -142,18 +142,18 @@ $(x+y)^2=x^2+2xy+y^2$
 
 $(x+y)^3=x^3+3x^2y+3xy^2+y^3$
 
-# #6_Binomio_de_Newton 
+# 6 Binomio de Newton 
 
 $(a+b)^n=a^n+ \frac {n}{1!}a^{n-1}b+ \frac {n(n-1)}{2!}a^{n-2}b^2 + \frac {n(n-1)(n-2)}{3!}a^{n-3}b^3+...+b^n$
 
-### #6_Notas
+### 6 Notas
 
 $(a+b)^2= a^2+2ab+b^2$
 
 ($a+b)^3 = a^3 +3a^2b+3ab^2+b^3$
 $(a+b)^4 = a^4+4a^3+b+6a^2b^2+4ab^3+b^4$
 
-## #K_ésimo_término 
+## K_ésimo término 
 
 $K_{\text{ésimo}} \text{término} = \frac {n!}{(n-r+1)!(r-1)!} a^{n-r+1}b^{r-1}$
 
@@ -162,7 +162,7 @@ $K_{\text{ésimo}} \text{término} = \frac {n!}{(n-r+1)!(r-1)!} a^{n-r+1}b^{r-1}
 > [!note]+ 
 > $n =$ potencia  &  $r$ = número  del  término a  buscar
 
-# #8_Factorización
+# 8 Factorización
 
 ### Por término común
 
@@ -189,31 +189,31 @@ Consultar las fórmulas de productos notables.
 
 $ax+bx+ay+by = (ax+bx)+(ay+by)$ <br>$=x(a+b)+y(a+b)$ <br>$=(a+b)+(x+y)$
 
-## #11_Operaciones_con_números_complejos_en_forma_algebraica
+## 11 Operaciones con números complejos en forma algebraica
 
-$\begin{array}{l|l} Suma\ y\ resta & División & Mutiplicación\\z_1-z_2=(a+bi)+(c+di) & \frac{z_1}{z_2}=\frac{z_1}{z_2}*\frac{z_2}{z_2} & z_1*z_2=(a+bi)(c+di)\\ =(a+c)+(b+d)i & =\frac{a+bi}{c+di}* \frac{c-di}{c-di} & =ac+bci+adi+bdi^2\\ z_1-z_2=(a+bi)-(c+di) & =\frac{ac+(bc-ad)i-bdi^2}{c^2d^2i^2} & ac+(bc+ad)+bdi^2\\=(a-c)+(b-d)i \end{array}$
+$$\begin{array}{l|l} \text{Suma y resta}& \text{División} & \text{Mutiplicación}\\z_1-z_2=(a+bi)+(c+di) & \frac{z_1}{z_2}=\frac{z_1}{z_2}*\frac{z_2}{z_2} & z_1*z_2=(a+bi)(c+di)\\ =(a+c)+(b+d)i & =\frac{a+bi}{c+di}* \frac{c-di}{c-di} & =ac+bci+adi+bdi^2\\ z_1-z_2=(a+bi)-(c+di) & =\frac{ac+(bc-ad)i-bdi^2}{c^2d^2i^2} & ac+(bc+ad)+bdi^2\\=(a-c)+(b-d)i \end{array}$$
 
-## #13_Intérvalos_y_desigualdades
+## 13 Intérvalos y desigualdades
 ### Intérvalos
 #### Intérvalo abierto
 
 $(a,\ b)={x\ |\ a<x<b,\ x\in \Bbb R}$
 
-![](/Attachments/Images/Formulario-1.jpeg)
+![](Formularios/Attachments/Formulario-1.jpeg)
 
 #### Intérvalo cerrado
 
 $[a,\ b]={x\ |\ a\leq x\leq b,\ x\in \Bbb R}$
 
-![](/Attachments/Images/Formulario-2.jpeg)
+![](Formularios/Attachments/Formulario-2.jpeg)
 
 #### Intérvalo semiabierto
 
-![](/Attachments/Images/Formulario-3.jpeg)
+![](Formularios/Attachments/Formulario-3.jpeg)
 
 #### Intérvalo infinito
 
-![[Pasted image 20220423223402.png]]
+![Formulario-3](Formularios/Attachments/Formulario-4.png)
 
 ### Desigualdades
 
@@ -229,7 +229,7 @@ Al multiplicar o dividir ambos lados de una desigualdad por un número real nega
 |  4   | $\mid a\mid\: \geq b$ | $a \leq -b \cup a\geq b$ |
 
 
-## #14_Sistemas_de_2x2
+## 14 Sistemas de 2x2
 
 ### Suma y resta
 
@@ -264,7 +264,7 @@ $dx+ey=f$
 3. Se sustituye la segunda variable en cualquiera de los despejes.
 4. Comprobación.
 
-## #Ecuaciones_cuadráticas
+## Ecuaciones cuadráticas
 ### Ecuación cuadrática especial
 $x^2=d$, entonces $x=^+_-\sqrt d$
 
@@ -272,7 +272,7 @@ $x^2=d$, entonces $x=^+_-\sqrt d$
 $x^2+kx+(\frac{k}{2})^2=(x+\frac{k}{2})^2$
 $x^2-kx+(\frac{k}{2})^2=(x-\frac{k}{2})^2$
 
-## #17_Fórmula_géneral_para_ecuaciones_cuadráticas
+## 17 Fórmula géneral para ecuaciones cuadráticas
 ### Fórmula general
 Para $ax^2+bx+c=0$
 
@@ -284,7 +284,7 @@ $D=b^2-4ac$
 2. $D|D<0\Rightarrow$ Soluciones complejas
 3. $D|D=0\Rightarrow$ Solución repetida, una única solución 
 
-## #18_Ecuaciones_eXpeciales
+## 18 Ecuaciones eXpeciales
 ### Valor absoluto
 $|x|=y$
 $x=^+_-y$
