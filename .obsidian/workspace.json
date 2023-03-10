@@ -4,37 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "7d54d43515dcc320",
+        "id": "8d64d7470b45fd2d",
         "type": "tabs",
         "children": [
           {
-            "id": "864c7c3a4ba58c78",
+            "id": "b4a8238d6e2c2194",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "-Tercero/Sistemas Digitales/Tareas/8. Sumador completo FA.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0774975c967c2b5e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -44,24 +25,26 @@
     "type": "split",
     "children": [
       {
-        "id": "c0905cdc6c0f87c3",
+        "id": "898d09d22110a661",
         "type": "tabs",
         "children": [
           {
-            "id": "8e4b3f84142aa5e8",
+            "id": "14b31f7a61e09a38",
             "type": "leaf",
             "state": {
-              "type": "starred",
-              "state": {}
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
             }
           },
           {
-            "id": "a0e30b04f4b7a693",
+            "id": "a84eecac7c9ad952",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "exoesque",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -71,17 +54,14 @@
             }
           },
           {
-            "id": "eb3f03798bde329d",
+            "id": "104aa10af05cc1db",
             "type": "leaf",
             "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical"
-              }
+              "type": "starred",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -96,16 +76,23 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2824c29bf586ad79",
+            "id": "241558df237147ce",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "28083d0a39da3a79",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": true,
+                "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
@@ -113,7 +100,26 @@
             }
           },
           {
-            "id": "17e0a30d920a96bc",
+            "id": "1a8f018980295c43",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f504ba2a6884d4e1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "9e2f8fe02f3befd7",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -124,61 +130,47 @@
             }
           },
           {
-            "id": "5c1f4492e0b0fbf3",
+            "id": "89a046b9b384c074",
             "type": "leaf",
             "state": {
-              "type": "outline",
-              "state": {
-                "file": "Untitled.md"
-              }
-            }
-          },
-          {
-            "id": "241558df237147ce",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
+              "type": "calendar",
               "state": {}
-            }
-          },
-          {
-            "id": "219e955e5725b38a",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Untitled.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "command-palette:Open command palette": false,
-      "audio-recorder:Start/stop recording": false,
-      "workspaces:Manage workspace layouts": false,
-      "random-note:Open random note": false,
-      "templates:Insert template": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
+      "oz-clear-unused-images:Clear Unused Images": false,
+      "audio-recorder:Start/stop recording": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
       "graph:Open graph view": false,
-      "oz-clear-unused-images:Clear Unused Images": false
+      "random-note:Open random note": false,
+      "workspaces:Manage workspace layouts": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0774975c967c2b5e",
+  "active": "14b31f7a61e09a38",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Untitled 2.md",
+    "Untitled 1.md",
+    "-Primero/Introducción a la Ingeniería/Apuntes de clase/Propiedad Intelectual.md",
+    "Attachments\\Templates\\Scripts",
+    "Attachments\\Templates",
+    "Attachments\\Templates\\Bibliografía\\APA",
+    "Attachments\\Excalidraw",
+    "-Tercero/Ecuaciones Diferenciales/Apuntes de clase/Untitled.md",
     "-Tercero/Sistemas Digitales/Tareas/8. Sumador completo FA.md",
+    "-Tercero/Ecuaciones Diferenciales/Apuntes de clase/Untitled 2.md",
+    "Attachments/Images/Untitled 2-1678388085741.jpeg",
+    "-Tercero/Sistemas Digitales/Tareas/Project Backups/8. Sumador completo SA [Autosaved].pdsprj.DESKTOP-9FAHEL3.Human Solutions.workspace",
     "-Tercero/Sistemas Digitales/Tareas/7. Medio sumador HA.md",
     "-Tercero/Sistemas Digitales/Tareas/6. Multiplexor.pdsprj.LAPTOP-0P58E1L1.HP.workspace",
     "-Tercero/Sistemas Digitales/Tareas/6. Multiplexor.md",
@@ -189,9 +181,7 @@
     "-Tercero/Sistemas Digitales/Tareas/2. Operaciones en sistemas binario, octal y hexadecimal.md",
     "-Tercero/Sistemas Digitales/Tareas/1. Conversiones numéricas.md",
     "-Tercero/Sistemas Digitales/Class Note/Untitled.md",
-    "-Tercero/Ecuaciones Diferenciales/Apuntes de clase/Untitled.md",
     "Resources/Excalidraw/FODA-BitShield 1.png",
-    "-Tercero/Ecuaciones Diferenciales/Apuntes de clase/Untitled 2.md",
     "-Primero/Introducción a la Ingeniería/Apuntes de clase/Modos de titulación.md",
     "-Primero/Introducción a la Ingeniería/Actividades/Planeación del proyecto.md",
     "-Primero/Introducción a la Ingeniería/Actividades",
@@ -205,9 +195,6 @@
     "-Tercero/Administración/Tareas/Actividad 1.1 - La empresa_Juarez Rubio Alan Yahir.md",
     "Attachments/Excalidraw/Drawing 2023-01-30 16.33.09.excalidraw.md",
     "-Tercero/Administración/Tareas/Drawing 2023-02-28 11.27.11.excalidraw.md",
-    "-Tercero/Administración/Untitled 1.md",
-    "-Tercero/Sistemas Digitales (Oyente)/Logica de Función Fija - 14-02-2023.md",
-    "Untitled 5.md",
     "Resources/Excalidraw",
     "Resources"
   ]
