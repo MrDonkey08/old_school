@@ -31,8 +31,8 @@ En este formulario: $a,\; b,\; c\; \text{ y }\; d\in\Bbb R$ y son constantes.
 ---
 ### Desigualdades
 
-**Mayor que ($>$):** $a-b = c \to a>b$, donde $c > 0$
-**Menor que ($<$):** $a-b = c \to a<b$, donde $c < 0$
+- **Mayor que ($>$):** $a-b = c \to a>b$, donde $c > 0$
+- **Menor que ($<$):** $a-b = c \to a<b$, donde $c < 0$
 
 ---
 ### Valor absoluto
