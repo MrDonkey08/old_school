@@ -1,7 +1,7 @@
 ***
 # Formulario Precálculo
 ---
-En este formulario: $a,\; b,\; c\; \text{ \& }\; d\in\Bbb R$ y son constantes.
+En este formulario: $a,\; b,\; c\; \text{ y }\; d\in\Bbb R$ y son constantes.
 
 ---
 ## 1. Conjunto de Números Reales
@@ -88,7 +88,7 @@ $$|a|= \begin{bmatrix} a\geq 0 \to |a| = a \\ a < 0 \to |a|= -a\end{bmatrix}$$
 - $i^3 = i^2i=(-1)i = -i$
 - $i^4 = i^2 i^2=(-1)(-1)=1$
 
-**Número complejo**:  $z = a + bi \; | \; a \in \Bbb {R} \; \& \; bi \in \Bbb {I} \; \to \; Z \in \Bbb C$
+**Número complejo**:  $z = a + bi \; | \; a \in \Bbb {R} \text{ y } bi \in \Bbb {I} \; \to \; Z \in \Bbb C$
 
 ---
 ## 5. Operaciones con polinomios
@@ -195,7 +195,7 @@ z_1-z_2=(a+bi)-(c+di) & =\cfrac{ac+(bc-ad)i-bdi^2}{c^2d^2i^2} & ac+(bc+ad)+bdi^2
 ---
 Un **sistema de ecuaciones** es aquel en el que hay dos o más ecuaciones las cuales comparten entre sí los valores de las incógnitas.
 
-Una sistema de ecuaciones 2x2 se representa de la siguiente manera:
+Un sistema de ecuaciones 2x2 se representa de la siguiente manera:
 
 $$\left[\begin{array}{ccccc}
 ax & + &by & = &c\\
