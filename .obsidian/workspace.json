@@ -4,15 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "8e5d70f717245469",
+        "id": "584fedc5b43ad503",
         "type": "tabs",
         "children": [
           {
-            "id": "32e67c193ab48993",
+            "id": "c5820c5b7deccf67",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Formularios/Precálculo.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "34a1c54263388142",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "376a149e2d0648e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "-Primero/Precálculo/Class Notes/Sistemas 2x2.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -66,7 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 371.5
+    "width": 308.5
   },
   "right": {
     "id": "4b702cc4fb11ac6c",
@@ -90,6 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Formularios/Precálculo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Formularios/Precálculo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +142,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Formularios/Precálculo.md"
+              }
             }
           },
           {
@@ -152,25 +180,30 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "32e67c193ab48993",
+  "active": "c5820c5b7deccf67",
   "lastOpenFiles": [
+    "-Primero/Precálculo/Class Notes/Untitled.md",
+    "Formularios/Precálculo.md",
+    "-Primero/Precálculo/Class Notes/Sistemas 2x2.md",
+    "-Tercero/Programación Orientada en Objetos/Notas/Introducción a POO.md",
+    "-Tercero/Programación Orientada en Objetos/Tareas/Portada.md",
+    "-Tercero/Programación Orientada en Objetos/Tareas/Tarea1_JuarezRubio_AlanYahir.md",
+    "Attachments\\Excalidraw",
+    "-Tercero\\Sistemas Digitales\\Tareas\\Attachments",
+    "-Tercero\\Programación Orientada en Objetos\\Programas\\Fecha_2",
+    "-Tercero\\Programación Orientada en Objetos\\Programas\\Fecha",
+    "-Tercero\\Programación Orientada en Objetos\\Programas\\Clase círculo",
+    "-Tercero\\Programación Orientada en Objetos\\Programas\\Clase cuadrado",
+    "-Tercero\\Circuitos",
+    "-Tercero/Circuitos/Tarea 1/Project Backups/New Project [20230212, 15-42-10].pdsprj",
+    "-Tercero\\Circuitos\\Tarea 1\\Project Backups",
+    "-Tercero/Circuitos/Tarea 1/New Project.pdsprj.LAPTOP-0P58E1L1.HP.workspace",
     "Attachments/Excalidraw/FODA 2023-02-28 11.27.25.excalidraw.md",
     "Formularios/Cálculo.md",
-    "-Tercero/Programación Orientada en Objetos/Programas/Fecha 3/main.cpp",
-    "-Tercero/Programación Orientada en Objetos/Programas/Fecha 3/Fecha/obj/Debug/fecha.o",
-    "-Tercero/Programación Orientada en Objetos/Programas/Fecha 3/Fecha/obj/Debug/main.o",
-    "-Tercero/Programación Orientada en Objetos/Programas/Fecha 3/Fecha/bin/Debug/Fecha.exe",
-    "-Tercero/Programación Orientada en Objetos/Programas/Fecha 3/Fecha/obj/Debug",
-    "-Tercero/Programación Orientada en Objetos/Programas/Fecha 3/Fecha/bin/Debug",
-    "-Tercero/Programación Orientada en Objetos/Programas/Fecha 3/Fecha/Fecha.layout",
-    "-Tercero/Programación Orientada en Objetos/Programas/Fecha 3/Fecha/obj",
-    "-Tercero/Programación Orientada en Objetos/Programas/Fecha 3/Fecha/Fecha.depend",
-    "-Tercero/Programación Orientada en Objetos/Programas/Fecha 3/Fecha/main.cpp",
     "Attachments/Excalidraw/Drawing 2023-02-28 11.27.25.excalidraw.md",
     "Attachments/Excalidraw/Drawing 2023-02-28 11.27.11.excalidraw.md",
     "Attachments/Excalidraw/Drawing 2023-02-28 10.15.22.excalidraw.md",
     "Attachments/Excalidraw/Drawing 2023-01-30 16.33.09.excalidraw.md",
-    "Formularios/Precálculo.md",
     "Formularios/Precálculo 1.md",
     "-Primero/Precálculo/Class Notes/5. Polinomios y sus operaciones.md",
     "-Primero/Precálculo/Class Notes/4. Números complejos.md",
@@ -182,16 +215,11 @@
     "Formularios/Leyes.md",
     "-Segundo/Mecánica/Investigaciones/Sem 10.md",
     "-Primero/Fundamentos de Física/Homework/Video Notes/3. Electricidad y magnetismo/1.3. Modelos atómicos.md",
-    "-Tercero/Programación Orientada en Objetos/Tareas/Tarea1_JuarezRubio_AlanYahir.md",
     "-Tercero/Sistemas Digitales/Tareas/6. Multiplexor.md",
     "-Segundo/Cálculo Diferencial e Integral/Homework/Tarea 3.md",
     "-Segundo/Mecánica/Homework/T02 Física Universitaria - Resúmen capítulo 1 - 5.md",
     "-Segundo/Mecánica/Homework/Attachments/Notación-de-Unidades-de-Medición.jpeg",
-    "-Segundo/Mecánica/Homework/T 02.md",
     "-Segundo/Mecánica/Homework/Attachments/Notación de Unidades de Medición.png",
-    "-Segundo/Mecánica/Homework/T 01.md",
-    "-Primero/Fundamentos de Física/Portafolio de Evidencias.md",
-    "-Tercero/Programación Orientada en Objetos/Tareas/Portada.md",
     "Attachments/Images/Portada-CUCEI.jpeg",
     "Attachments/Images/Portada-UDG.jpeg",
     "-Segundo/Mecánica/Investigaciones/Attachments/Sem-10-1.png",
