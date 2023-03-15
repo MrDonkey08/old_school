@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Formularios/Circuitos electrónicos y electromagnetismo.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -182,6 +182,8 @@
   },
   "active": "93ded67e9ced7f77",
   "lastOpenFiles": [
+    "-Tercero\\Programación Orientada en Objetos\\Tareas",
+    "-Tercero\\Programación Orientada en Objetos\\Tareas\\Attachments",
     "Untitled.md",
     "Formularios/Circuitos electrónicos y electromagnetismo.md",
     "Formularios/Precálculo.md",
@@ -218,7 +220,6 @@
     "-Tercero\\Programación Orientada en Objetos\\Programas\\Clase cuadrado",
     "-Tercero\\Circuitos",
     "-Tercero/Circuitos/Tarea 1/Project Backups/New Project [20230212, 15-42-10].pdsprj",
-    "-Tercero\\Circuitos\\Tarea 1\\Project Backups",
     "Attachments/Excalidraw/FODA 2023-02-28 11.27.25.excalidraw.md",
     "Formularios/Cálculo.md",
     "Attachments/Excalidraw/Drawing 2023-02-28 11.27.25.excalidraw.md",
@@ -226,7 +227,6 @@
     "Attachments/Excalidraw/Drawing 2023-02-28 10.15.22.excalidraw.md",
     "Attachments/Excalidraw/Drawing 2023-01-30 16.33.09.excalidraw.md",
     "Formularios/Precálculo 1.md",
-    "-Primero/Precálculo/Class Notes/5. Polinomios y sus operaciones.md",
-    "-Primero/Precálculo/Class Notes/4. Números complejos.md"
+    "-Primero/Precálculo/Class Notes/5. Polinomios y sus operaciones.md"
   ]
 }
