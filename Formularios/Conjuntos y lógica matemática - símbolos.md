@@ -6,7 +6,7 @@ aliases: formulario, simbolario
 tags: logica matematica/formulario, matematicas discrestas/formulario, formulario
 
 creation date: 14-02-2023
-last modification date: 14-02-2023
+last modification date: 11-03-2023
 
 type: Note
 ---
@@ -77,7 +77,7 @@ type: Note
 
 |                      Símbolo                       |        Nombre         | Significado                          |
 |:--------------------------------------------------:|:---------------------:| ------------------------------------ |
-|                $\neg,\sim, !, \:'$                 |       Negación        | no                                   |
+|                $\neg,\sim, !, \:', \overline{}$                 |       Negación        | no                                   |
 |                $\wedge, \&, \cdot$                 |      Conjunción       | y                                    |
 |                $\vee, +, \mid\mid$                 |      Disyunción       | o                                    |
 |              $\to, \implies, \supset$              |      Condicional      | si..., entonces, implica             |
@@ -92,6 +92,7 @@ type: Note
 ---
 
 ## Referencias 
+
 - Wikipedia (s.f.). Conectiva lógica. https://es.wikipedia.org/wiki/Conectiva_l%C3%B3gica
 - Wikipedia (s.f.). Símbolos lógicos. https://es.wikipedia.org/wiki/Anexo:S%C3%ADmbolos_l%C3%B3gicos
 - Wikipedia (s.f.). [Álgebra de conjuntos]. https://es.wikipedia.org/wiki/Operaciones_con_conjuntos)
