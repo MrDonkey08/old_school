@@ -30,7 +30,7 @@ La **propiedad intelectual** es el producto del intelecto humano *que *
 
 Esta definición contempla dos aspectos:
 - El **intelecto** que es un producto intangible al que se le asigna un valor monetario.
-- **Explotación ecónomica** que busca el beneficio medianse su venta o servicio.
+- **Explotación ecónomica** que busca el beneficio mediante su venta o servicio.
 
 La Organización Mundial de la Propiedad Intelectual (OMPI) señala que la propoiedad intelectual...
 
