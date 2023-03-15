@@ -4,7 +4,7 @@
 
 ![Portada-UDG | left |200](Attachments/Images/Portada-UDG.jpeg) ![Portada-CUCEI | right | 1](Attachments/Images/Portada-CUCEI.jpeg)
 
-<br> <br> <br> <br> <br><br> <br><br><br><br><br><br><br><br><br><br><br>
+<br> <br> <br> <br> <br><br> <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 ### División de Tecnologías para la Integración Ciber-humana
 
