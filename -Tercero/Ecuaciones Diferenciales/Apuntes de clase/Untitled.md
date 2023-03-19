@@ -5,7 +5,7 @@ author: Alan Yahir Juárez Rubio
 teacher: Husai
 
 aliases: 
-tags: matematicas, ecuaciones diferenciales, 
+tags: matematicas, ecuaciones-diferenciales, 
 
 creation date: 13-02-2023
 last modification date: 13-02-2023
