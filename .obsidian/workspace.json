@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Circuitos-dudas.md",
+                "file": "Formularios/Circuitos electrónicos y electromagnetismo.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Circuitos-dudas.md",
+                "file": "Formularios/Circuitos electrónicos y electromagnetismo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Circuitos-dudas.md",
+                "file": "Formularios/Circuitos electrónicos y electromagnetismo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Circuitos-dudas.md"
+                "file": "Formularios/Circuitos electrónicos y electromagnetismo.md"
               }
             }
           },
@@ -159,17 +159,20 @@
       "random-note:Open random note": false,
       "workspaces:Manage workspace layouts": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-full-calendar:Open Full Calendar": false,
-      "oz-clear-unused-images:Clear Unused Images": false
+      "oz-clear-unused-images:Clear Unused Images": false,
+      "obsidian-full-calendar:Open Full Calendar": false
     }
   },
   "active": "62e717b8d45e74cf",
   "lastOpenFiles": [
+    "Circuitos-dudas.md",
+    "-Tercero/Circuitos/Práctica 1/Untitled.md",
+    "-Tercero/Circuitos/Prácticas/1. RESISTENCIA.md",
+    "-Tercero/Circuitos/Prácticas",
     "Untitled 2.md",
     "Untitled 1.md",
     "-Primero/Fundamentos de Física/Class Notes/Electromagnetismo.md",
     "Formularios/Circuitos electrónicos y electromagnetismo.md",
-    "-Tercero/Circuitos/Práctica 1/Untitled.md",
     "-Segundo/Mecánica/Homework/T02 Física Universitaria - Resúmen capítulo 1 - 5.md",
     "-Tercero/Circuitos/Project Backups/Actividad 1 - Circuito 4 y 5 [20230317, 21-09-27].pdsprj",
     "-Tercero/Circuitos/Actividad 1 - Circuito 4 y 5.pdsprj.DESKTOP-9FAHEL3.Human Solutions.workspace",
@@ -183,7 +186,6 @@
     "-Tercero/Circuitos/Project Backups",
     "-Tercero/Circuitos/Circuitos-práctica-2.pdsprj.DESKTOP-9FAHEL3.Human Solutions.workspace",
     "-Segundo/Mecánica/Introducción.md",
-    "-Tercero/Circuitos/Project Backups/Circuitos-práctica-2 [Autosaved].pdsprj",
     "Formularios/Conjuntos y lógica matemática - símbolos.md",
     "Formularios/Attachments/df9fd49486e75a6b243031819b615e3f014ef6a3.svg",
     "Formularios/Cálculo.md",
@@ -200,8 +202,6 @@
     "-Primero/Precálculo/Class Notes/6. Binomio de Newton.md",
     "Formularios/Precálculo.md",
     "Formularios/Leyes.md",
-    "Circuitos-dudas.md",
-    "Reseñas de profesores/Claves de Materias ICOM.md",
     "-Tercero/Programación Orientada en Objetos/Tareas/Attachments/Pasted image 20230311152811.png",
     "-Tercero/Programación Orientada en Objetos/Tareas/Attachments/Pasted image 20230311153112.png",
     "-Tercero/Programación Orientada en Objetos/Tareas/Attachments/Pasted image 20230311152023.png",
