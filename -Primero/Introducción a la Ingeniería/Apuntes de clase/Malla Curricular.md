@@ -3,7 +3,7 @@ title: Malla curricular
 author: Alan Yahir Juárez Rubio
 
 aliases: malla, malla curricular
-tags: carrera, introduccion a la ingenieria, icom
+tags: carrera, introduccion-a-la-ingenieria, icom
 
 creation date: 14-02-2023
 last modification date: 14-02-2023
