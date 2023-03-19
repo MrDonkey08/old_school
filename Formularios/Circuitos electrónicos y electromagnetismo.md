@@ -1,18 +1,20 @@
 ---
-title: Untitled
+title: Circuitos electrónicos y electromagnetismo
 author: Alan Yahir Juárez Rubio
 
-aliases:
-tags:
+aliases: circuitos, electronica, electromagnetismo
+tags: formulario/circuitos, glosario/circuitos
 
 creation date: 14-03-2023
-last modification date: 14-03-2023
+last modification date: 15-03-2023
 
 type: Note
 ---
----
-# 
 
+---
+# Guía de estudio: Circuitos electrónicos y electromagnetismo
+
+---
 ## Ley de ohm
 
 | Nombre                                      | Concepto                    | Símbolo |  Equivalencia  | Nombre de unidad | Símbolo de unidad |
@@ -21,25 +23,26 @@ type: Note
 | Resistencia                                 | Resistencia del flujo       |   $R$   | $\cfrac{V}{I}$ |       ohm / ohmio       |      $\ohm$       |
 | Intensidad / Corriente /                    | Rapidez del flujo           |   $I$   | $\cfrac{V}{R}$ |      amper / amperio       |        $A$        |
 
- 
+ ---
 ## Código de cólores para resistencias
 
 En la actualidad, las **resistencias** vienen con un **código de colores** para indicar su **valor**. Este código consta de 4 franjas.
 
-| Franjas  | 1 y 2 - Cifras | 3 - Escala | 4 - Tolerancia |
-|:-------- |:--------------:|:----------:|:--------------:|
-| Negro    |       0        |     x1     |       -        |
-| Café     |       1        |    x10     |       -        |
-| Rojo     |       2        |    x100    |       -        |
-| Naranja  |       3        |   x1,000   |       -        |
-| Amarillo |       4        |  x10,000   |       -        |
-| Verde    |       5        |  x100,000  |       -        |
-| Azul     |       6        | x1'000,000 |       -        |
-| Morado   |       7        |     -      |       -        |
-| Gris     |       8        |     -      |       -        |
-| Blanco   |       9        |     -      |       -        |
-| Oro      |       -        |   x1/10    |       5%       |
-| Plata    |       -        |   x1/100   |      10%       |
+| Franjas    | 1 y 2 - Cifras | 3 - Escala | 4 - Tolerancia |
+|:---------- |:--------------:|:----------:|:--------------:|
+| Negro      |       0        |     x1     |       -        |
+| Café       |       1        |    x10     |       1%       |
+| Rojo       |       2        |    x100    |       2%       |
+| Naranja    |       3        |   x1,000   |       3%       |
+| Amarillo   |       4        |  x10,000   |       4%       |
+| Verde      |       5        |  x100,000  |       -        |
+| Azul       |       6        | x1'000,000 |       -        |
+| Morado     |       7        |     -      |       -        |
+| Gris       |       8        |     -      |       -        |
+| Blanco     |       9        |     -      |       -        |
+| Oro        |       -        |    x0.1    |       5%       |
+| Plata      |       -        |   x0.01    |      10%       |
+| Sin franja |       -        |     -      |      20%       |
 
 Donde: 
 
