@@ -1,3 +1,16 @@
+---
+title: Cálculo
+author: Alan Yahir Juárez Rubio
+
+aliases: formulario, calculo
+tags: formulario/calculo, calculo/formulario
+
+creation date: 14-02-2023
+last modification date: 15-03-2023
+
+type: Note
+---
+
 # Formulario
 
 En este formulario: $a, b, c \text{ y } d\in\Bbb R$ y son constantes
