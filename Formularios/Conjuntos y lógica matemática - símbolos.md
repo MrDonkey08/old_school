@@ -3,7 +3,7 @@ title: Conjuntos y lógica matemática - símbolos
 author: Alan Yahir Juárez Rubio
 
 aliases: formulario, simbolario
-tags: logica matematica/formulario, matematicas discrestas/formulario, formulario
+tags: logica matematica/formulario, matematicas discrestas/formulario, formulario/matematicas discretas, formulario/logica matematica
 
 creation date: 14-02-2023
 last modification date: 11-03-2023
