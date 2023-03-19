@@ -13,7 +13,7 @@ Todos los imánes presentan una pran alta capacidad mapnética para atraer maeri
 La electricidad es una de las manifestaciones de la energía. Para su estudio, se ha dividido en varias partes.
 
 1. **Electroestática:** Estudia las cargas en reposo.
-2. **Electromecánica:** Estubia las cargas en movimiento.
+2. **Electromecánica:** Estudia las cargas en movimiento.
 3. **Electromagnetismo:** Estudia la relación entre la corriente eléctrica y el campo.
  
 Por otro lado, cuando hacemos circular un campo de electrones a traves de un campo eléctrico,es decir, aplicamos una corriente eléctrica y obtenemos magnetismo de dichos electrones a traves del cable, por lo que la electricidad y el magnetismo se encuentran estrechamente ligados.
