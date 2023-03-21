@@ -13,8 +13,6 @@ type: Activity
 ---
 # La planeación
 
-
-
 ---
 ## Análisis FODA
 
@@ -23,12 +21,8 @@ type: Activity
 ---
 ## Diagrama de flujo
 
-
+**![|250](https://lh4.googleusercontent.com/zWI305gGewo87IIokaKE5Gy9E3fAXEQow8nFabF09nCL0z-QNAL_m5_PX09f13yWHhYoqNg8EmWhFMjE3JIc3-Kf1ifeM7AIDV9IX-4gk7f3rvQEfg0SA7VgkEF1TCSzqeNdPhiN6muVbzdr5YlyI9E)**
 <div style="page-break-after: always;"></div>
-
----
-
-
 
 ---
 ## Objetivos
@@ -55,7 +49,7 @@ Nuestra empresa tiene el propósito de proveer soluciones tecnologicas respecto 
 ---
 ## Estrategias
 
----
-## Referencias
-
-- 
+- Constante innovación y mejora de nuestros servicios en base a la retroalimentación de nuestros clientes.
+- Renegociación de los términos de compra-venta.
+- Informes constantes sobre la situación del proyecto y toma de decisiones en conjunto.
+- Mejora de la calidad de trato de empleados (sueldo, inclusión, respeto, cero abuso; inclusión de seguro social, préstamos de ley, ayudas de gobierno, etc.
