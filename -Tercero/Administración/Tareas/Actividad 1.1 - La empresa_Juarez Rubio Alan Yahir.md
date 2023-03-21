@@ -24,6 +24,7 @@
 ## BITSHIELD
 
 ![](-Tercero/Administración/Tareas/Attachments/BitShield-Logo.jpeg)
+
 Empresa especializada en brindar soluciones de seguridad y estabilidad a los diferentes sistemas computacionales.
 
 ---
@@ -34,7 +35,7 @@ Bitshield tiene como misión proveer las mejores soluciones, para negocios y emp
 ---
 ### Visión
 
-Nuestra visión como empresa consiste en el desarrollo de Inteligencias Artificiales que sean capaces de testear la integridad de los sistemas e implementar constantemente mejoras a dichos sistemas. Nuestra idea de estas Inteligencias Artificiales no es el de reemplazar a nuestros expertos en Ciberseguridad sino el de brindarles una herramienta el cual puedan utilizarlo como una herramienta que se encargue automáticamente de corregir las vulnerabilidades más comunes.
+Nuestra visión como empresa consiste en el desarrollo de Inteligencias Artificiales que sean capaces de testear la integridad de los sistemas e implementar constantemente mejoras a dichos sistemas. Nuestra idea de estas Inteligencias Artificiales no es el de reemplazar a nuestros expertos en Ciberseguridad sino el de brindarles una herramienta el cual puedan utilizarla para que se encargue automáticamente de corregir las vulnerabilidades más comunes.
 
 ---
 ### Objetivos de la empresa
