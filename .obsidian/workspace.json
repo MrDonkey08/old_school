@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "3decac7ff42c64a5",
+        "id": "d8e867c9c7f957ef",
         "type": "tabs",
         "children": [
           {
-            "id": "62e717b8d45e74cf",
+            "id": "c2ee98e611f37207",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Formularios/Circuitos electrónicos y electromagnetismo.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -42,7 +37,7 @@
                 "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -95,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Formularios/Circuitos electrónicos y electromagnetismo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Formularios/Circuitos electrónicos y electromagnetismo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,9 +116,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Formularios/Circuitos electrónicos y electromagnetismo.md"
-              }
+              "state": {}
             }
           },
           {
@@ -139,8 +130,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -149,7 +139,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian42-brat:BRAT": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
       "audio-recorder:Start/stop recording": false,
@@ -158,50 +147,51 @@
       "graph:Open graph view": false,
       "random-note:Open random note": false,
       "workspaces:Manage workspace layouts": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "oz-clear-unused-images:Clear Unused Images": false,
-      "obsidian-full-calendar:Open Full Calendar": false
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "62e717b8d45e74cf",
+  "active": "c2ee98e611f37207",
   "lastOpenFiles": [
-    "Circuitos-dudas.md",
-    "-Tercero/Circuitos/Práctica 1/Untitled.md",
+    "-Tercero/Administración/Tareas/Actividad 3 - La Organización.md",
+    "Attachements/Excalidraw/Organigrama.excalidraw.md",
+    "-Tercero/Administración/Tareas/Actividad 2 - La planeación.md",
+    "Attachements/Excalidraw/Organigrama.excalidraw 1.md",
+    "-Tercero/Administración/Tareas/Attachments/Pasted image 20230320182452.png",
+    "-Tercero/Administración/Tareas/Actividad 1.1 - La empresa_Juarez Rubio Alan Yahir.md",
+    "Attachements/Excalidraw",
+    "Attachements",
+    "Untitled.md",
+    "-Tercero/Administración/Tareas/Untitled.md",
+    "-Tercero/Administración/Notes/Untitled 1.md",
+    "-Tercero/Administración/Notes",
+    "-Tercero/Administración/Notes/Untitled.md",
+    "Formularios/Cálculo.md",
+    "-Primero/Lógica Matemática/Class Notes/Lenguaje natural, símbolico y tablas de verdad.md",
+    "-Primero/Fundamentos de Física/Class Notes/Calor.md",
+    "Formularios/Circuitos electrónicos y electromagnetismo.md",
+    "Formularios/Conjuntos y lógica matemática - símbolos.md",
+    "Reseñas de profesores/Personales/Reseñas ICOM.md",
+    "Reseñas de profesores/Personales/Reseñas.md",
+    "Reseñas de profesores/Claves de Materias ICOM.md",
+    "-Tercero/Circuitos/Actividad 1 - Circuito 3_beta.pdsprj.DESKTOP-9FAHEL3.Human Solutions.workspace",
+    "Attachments/Excalidraw/Drawing 2023-01-30 16.33.09.excalidraw.md",
+    "Attachments/Excalidraw/FODA 2023-02-28 11.27.25.excalidraw.md",
+    "-Tercero/Circuitos/Prácticas/Untitled.md",
     "-Tercero/Circuitos/Prácticas/1. RESISTENCIA.md",
+    "-Tercero/Circuitos/Actividad 1/Actividad 1 - Circuito 3.pdsprj.DESKTOP-9FAHEL3.Human Solutions.workspace",
+    "-Tercero/Circuitos/Tarea 1/New Project.pdsprj.DESKTOP-9FAHEL3.Human Solutions.workspace",
+    "-Tercero/Ecuaciones Diferenciales/Apuntes de clase/Untitled.md",
+    "-Tercero/Ecuaciones Diferenciales/Apuntes de clase/Untitled 2.md",
+    "-Tercero/Programación Orientada en Objetos/Untitled.md",
+    "Circuitos-dudas.md",
     "-Tercero/Circuitos/Prácticas",
     "Untitled 2.md",
-    "Untitled 1.md",
-    "-Primero/Fundamentos de Física/Class Notes/Electromagnetismo.md",
-    "Formularios/Circuitos electrónicos y electromagnetismo.md",
-    "-Segundo/Mecánica/Homework/T02 Física Universitaria - Resúmen capítulo 1 - 5.md",
     "-Tercero/Circuitos/Project Backups/Actividad 1 - Circuito 4 y 5 [20230317, 21-09-27].pdsprj",
     "-Tercero/Circuitos/Actividad 1 - Circuito 4 y 5.pdsprj.DESKTOP-9FAHEL3.Human Solutions.workspace",
     "-Tercero/Circuitos/Project Backups/Actividad 1 - Circuito 4 y 5 [20230317, 21-09-22].pdsprj",
-    "Formularios/Formulario Cinemática y Leyes de Newton.md",
-    "-Segundo/Mecánica/Apuntes/MRUA O MRUV.md",
-    "-Tercero/Circuitos/Project Backups/Actividad 1 - Circuito 4 y 5 [20230317, 16-42-02].pdsprj",
-    "-Tercero/Circuitos/Project Backups/Actividad 1 - Circuito 4 y 5 [20230317, 16-20-54].pdsprj",
-    "-Tercero/Circuitos/Project Backups/Actividad 1 - Circuito 4 y 5 [Autosaved].pdsprj",
-    "-Tercero/Circuitos/Actividad 1 - Circuito 4 y 5.pdsprj",
-    "-Tercero/Circuitos/Project Backups",
-    "-Tercero/Circuitos/Circuitos-práctica-2.pdsprj.DESKTOP-9FAHEL3.Human Solutions.workspace",
-    "-Segundo/Mecánica/Introducción.md",
-    "Formularios/Conjuntos y lógica matemática - símbolos.md",
     "Formularios/Attachments/df9fd49486e75a6b243031819b615e3f014ef6a3.svg",
-    "Formularios/Cálculo.md",
-    "-Tercero/Programación Orientada en Objetos/Notas de clase/13-02-2023.md",
-    "-Tercero/Sistemas Digitales (Oyente)/Logica de Función Fija - 14-02-2023.md",
-    "Reseñas de profesores/Personales/Reseñas ICOM.md",
-    "Attachments/Excalidraw/Drawing 2023-01-30 16.33.09.excalidraw.md",
-    "Attachments/Excalidraw/FODA 2023-02-28 11.27.25.excalidraw.md",
-    "Attachments/Excalidraw/Drawing 2023-02-28 11.27.25.excalidraw.md",
-    "Attachments/Excalidraw/Drawing 2023-02-28 10.15.22.excalidraw.md",
-    "Attachments/Excalidraw/Drawing 2023-02-28 11.27.11.excalidraw.md",
-    "-Primero/Introducción a la Ingeniería/Apuntes de clase/Malla Curricular.md",
-    "-Tercero/Ecuaciones Diferenciales/Apuntes de clase/Untitled.md",
-    "-Primero/Precálculo/Class Notes/6. Binomio de Newton.md",
-    "Formularios/Precálculo.md",
-    "Formularios/Leyes.md",
     "-Tercero/Programación Orientada en Objetos/Tareas/Attachments/Pasted image 20230311152811.png",
     "-Tercero/Programación Orientada en Objetos/Tareas/Attachments/Pasted image 20230311153112.png",
     "-Tercero/Programación Orientada en Objetos/Tareas/Attachments/Pasted image 20230311152023.png",
@@ -209,7 +199,6 @@
     "-Tercero/Programación Orientada en Objetos/Tareas/Attachments/Diagrama-de-clase.png",
     "-Tercero/Programación Orientada en Objetos/Tareas/Attachments/Diagrama-de-clase-simple.png",
     "-Tercero/Programación Orientada en Objetos/Tareas/Attachments/Diagrama-de-interfaz.png",
-    "-Tercero/Programación Orientada en Objetos/Tareas/Attachments/Pasted image 20230311155501.png",
-    "-Tercero/Programación Orientada en Objetos/Tareas/Attachments/Pasted image 20230311154603.png"
+    "-Tercero/Programación Orientada en Objetos/Tareas/Attachments/Pasted image 20230311155501.png"
   ]
 }
