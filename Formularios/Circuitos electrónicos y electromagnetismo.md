@@ -19,9 +19,9 @@ type: Note
 
 | Nombre                                      | Concepto                    | Símbolo |  Equivalencia  | Nombre de unidad | Símbolo de unidad |
 |:------------------------------------------- |:--------------------------- |:-------:|:--------------:|:----------------:|:-----------------:|
-| Voltaje / Tensión / Diferencia de potencial | Fuerza  / Impulso del flujo |   $V$   |   $R\cdot I$   |       volt / voltio       |        $V$        |
-| Resistencia                                 | Resistencia del flujo       |   $R$   | $\cfrac{V}{I}$ |       ohm / ohmio       |      $\ohm$       |
-| Intensidad / Corriente /                    | Rapidez del flujo           |   $I$   | $\cfrac{V}{R}$ |      amper / amperio       |        $A$        |
+| Voltaje / Tensión / Diferencia de potencial | Fuerza  / Impulso del flujo |   $V$   |   $R\cdot I$   |  volt / voltio   |        $V$        |
+| Resistencia                                 | Resistencia del flujo       |   $R$   | $\cfrac{V}{I}$ |   ohm / ohmio    |      $\ohm$       |
+| Intensidad / Corriente /                    | Rapidez del flujo           |   $I$   | $\cfrac{V}{R}$ | amper / amperio  |        $A$        |
 
  ---
 ## Código de cólores para resistencias
