@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d8e867c9c7f957ef",
+        "id": "5e060683680084ce",
         "type": "tabs",
         "children": [
           {
-            "id": "c2ee98e611f37207",
+            "id": "5973b203a4686845",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -90,6 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Formularios/Circuitos electrónicos y electromagnetismo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Formularios/Circuitos electrónicos y electromagnetismo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +118,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Formularios/Circuitos electrónicos y electromagnetismo.md"
+              }
             }
           },
           {
@@ -152,8 +156,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c2ee98e611f37207",
+  "active": "14b31f7a61e09a38",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Formularios/Circuitos electrónicos y electromagnetismo.md",
+    "Circuitos-dudas.md",
     "-Tercero/Administración/Tareas/Actividad 3 - La Organización.md",
     "Attachements/Excalidraw/Organigrama.excalidraw.md",
     "-Tercero/Administración/Tareas/Actividad 2 - La planeación.md",
@@ -162,7 +169,6 @@
     "-Tercero/Administración/Tareas/Actividad 1.1 - La empresa_Juarez Rubio Alan Yahir.md",
     "Attachements/Excalidraw",
     "Attachements",
-    "Untitled.md",
     "-Tercero/Administración/Tareas/Untitled.md",
     "-Tercero/Administración/Notes/Untitled 1.md",
     "-Tercero/Administración/Notes",
@@ -170,7 +176,6 @@
     "Formularios/Cálculo.md",
     "-Primero/Lógica Matemática/Class Notes/Lenguaje natural, símbolico y tablas de verdad.md",
     "-Primero/Fundamentos de Física/Class Notes/Calor.md",
-    "Formularios/Circuitos electrónicos y electromagnetismo.md",
     "Formularios/Conjuntos y lógica matemática - símbolos.md",
     "Reseñas de profesores/Personales/Reseñas ICOM.md",
     "Reseñas de profesores/Personales/Reseñas.md",
@@ -185,7 +190,6 @@
     "-Tercero/Ecuaciones Diferenciales/Apuntes de clase/Untitled.md",
     "-Tercero/Ecuaciones Diferenciales/Apuntes de clase/Untitled 2.md",
     "-Tercero/Programación Orientada en Objetos/Untitled.md",
-    "Circuitos-dudas.md",
     "-Tercero/Circuitos/Prácticas",
     "Untitled 2.md",
     "-Tercero/Circuitos/Project Backups/Actividad 1 - Circuito 4 y 5 [20230317, 21-09-27].pdsprj",
