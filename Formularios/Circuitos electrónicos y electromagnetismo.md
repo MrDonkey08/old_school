@@ -26,30 +26,45 @@ type: Note
  ---
 ## Código de cólores para resistencias
 
-En la actualidad, las **resistencias** vienen con un **código de colores** para indicar su **valor**. Este código consta de 4 franjas.
+En la actualidad, las **resistencias** vienen con un **código de colores** para indicar su **valor**. Este código consta de 4, 5 o hasta 6 franjas.
 
-| Franjas    | 1 y 2 - Cifras | 3 - Escala | 4 - Tolerancia |
-|:---------- |:--------------:|:----------:|:--------------:|
-| Negro      |       0        |     x1     |       -        |
-| Café       |       1        |    x10     |       1%       |
-| Rojo       |       2        |    x100    |       2%       |
-| Naranja    |       3        |   x1,000   |       3%       |
-| Amarillo   |       4        |  x10,000   |       4%       |
-| Verde      |       5        |  x100,000  |       -        |
-| Azul       |       6        | x1'000,000 |       -        |
-| Morado     |       7        |     -      |       -        |
-| Gris       |       8        |     -      |       -        |
-| Blanco     |       9        |     -      |       -        |
-| Oro        |       -        |    x0.1    |       5%       |
-| Plata      |       -        |   x0.01    |      10%       |
-| Sin franja |       -        |     -      |      20%       |
+| No. de franjas | Dígito 1 | Dígito 2 | Dígito 3 | Escala | Tolerancia | Coeficiente de temperatura |
+|:--------------:|:--------:|:--------:|:--------:|:------:|:----------:|:--------------------------:|
+|       4        |    1     |    2     |    -     |   3    |     4      |             -              |
+|       5        |    1     |    2     |    3     |   4    |     5      |             -              |
+|       6        |    1     |    2     |    3     |   4    |     5      |             6              |
+
+| Franjas    | Dígitos |     Escala     | Tolerancia | Coeficiente de temperatura |
+|:---------- |:-------:|:--------------:|:----------:|:--------------------------:|
+| Negro      |    0    |       x1       |     -      |         250 ppm/K          |
+| Café       |    1    |      x10       |     1%     |         100 ppm/K          |
+| Rojo       |    2    |      x100      |     2%     |          50 ppm/K          |
+| Naranja    |    3    |     x1,000     |     3%     |          15 ppm/K          |
+| Amarillo   |    4    |    x10,000     |     4%     |          25 ppm/K          |
+| Verde      |    5    |    x100,000    |    0.5%    |          20 ppm/K          |
+| Azul       |    6    |   x1'000,000   |   0.25%    |          10 ppm/K          |
+| Morado     |    7    |  x10'000,000   |   0.10%    |          5 ppm/K           |
+| Gris       |    8    |  x100'000,000  |   0.05%    |          1 ppm/K           |
+| Blanco     |    9    | x1,000'000,000 |     -      |             -              |
+| Oro        |    -    |      x0.1      |     5%     |             -              |
+| Plata      |    -    |     x0.01      |    10%     |             -              |
+| Sin franja |    -    |       -        |    20%     |             -              |
 
 Donde: 
 
-- Las **primeras dos franjas** son las **cifras** de la resistencia.
-- La **tercera franja** es la **escala**. Se multiplica las cifras por la escala para obtener el _valor de la resistencia_.
-- La **cuarta franja** es la **tolerancia**. La **tolerancia** indica cuánto puede variar (tanto por arriba como por debajo) el _valor de la resistencia_.
+- La **cifras** se multiplica por la **escala** para obtener el _valor de la resistencia_.
+- La **tolerancia** indica cuánto puede variar (tanto por arriba como por debajo) el _valor de la resistencia_.
+- El **coeficiente de temperatura** ($\alpha$) indica la *variación del valor de la resistencia* tomando en cuenta su *temperatura*.
 
+> [!Note] Resistencia dependiente de la temperatura
+> 
+> $$R = R_0 \left[1+\alpha \left(T-T_0\right)\right]$$, donde:
+> 
+> - $\alpha =$ **coeficiente de temperatura**
+> - $R_0$ = **Resistencia inicial**, es decir, la que se obtuvo con la temperatura inicial
+> - $T_0 =$ **Temperatura inicial**, es decir, la temperatura con la que se obtuvo la **resistencia inicial**
+> - $R =$ **Resistencia** tomando en cuenta la temperatura
+> - $T$ = **Temperatura** a la que se encuentra la resistencia
 
 <div style="page-break-after: always;"></div>
 
@@ -57,3 +72,6 @@ Donde:
 ## Referencias
 
 - https://www.youtube.com/watch?v=ZakHnvGVxLk
+- http://hyperphysics.phy-astr.gsu.edu/hbasees/electric/restmp.html
+- https://electronics.stackexchange.com/questions/146795/what-does-ppm-k-correspond-to
+- https://wikarien.blogspot.com/2016/12/how-to-read-resistor-color-codes.html
