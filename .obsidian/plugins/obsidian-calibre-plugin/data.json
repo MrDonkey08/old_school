@@ -1,0 +1,7 @@
+{
+  "address": "http://localhost:7817",
+  "displayText": "Calibre",
+  "splitDirection": "vertical",
+  "ribbonIcon": "calibre",
+  "hideRibbonIcon": false
+}
