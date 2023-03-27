@@ -4,50 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "5e060683680084ce",
+        "id": "e202874d46ecc64a",
         "type": "tabs",
         "children": [
           {
-            "id": "f6b76eceb92ff6f0",
+            "id": "8725297ee38a23e8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "-Primero/Introducción a la Ingeniería/Actividades/Propiedad Intelectual.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1c94752a6160c87e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "-Primero/Introducción a la Ingeniería/Actividades/Citas y referencias.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5973b203a4686845",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Formularios/Circuitos electrónicos y electromagnetismo.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "-Primero/Introducción a la Ingeniería/Actividades/Citas y referencias.md",
+                "file": "Formularios/Circuitos electrónicos y electromagnetismo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "-Primero/Introducción a la Ingeniería/Actividades/Citas y referencias.md",
+                "file": "Formularios/Circuitos electrónicos y electromagnetismo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "-Primero/Introducción a la Ingeniería/Actividades/Citas y referencias.md"
+                "file": "Formularios/Circuitos electrónicos y electromagnetismo.md"
               }
             }
           },
@@ -189,10 +157,15 @@
       "obsidian-calibre-plugin:Calibre": false
     }
   },
-  "active": "1c94752a6160c87e",
+  "active": "14b31f7a61e09a38",
   "lastOpenFiles": [
-    "-Primero/Introducción a la Ingeniería/Actividades/Propiedad Intelectual.md",
+    "-Tercero/Circuitos/Actividad 1/Actividad 1 - Circuito 4 y 5.pdsprj.LAPTOP-0P58E1L1.HP.workspace",
+    "-Tercero/Circuitos/Actividad 1/Project Backups/Actividad 1 - Circuito 4 y 5 [20230327, 06-54-28].pdsprj",
+    "-Tercero/Circuitos/Actividad 1/Project Backups/Actividad 1 - Circuito 4 y 5 [Autosaved].pdsprj",
+    "-Tercero/Circuitos/Actividad 1/Project Backups",
+    "-Tercero/Circuitos/Actividad 1/Actividad 1 - Circuito 3.pdsprj.LAPTOP-0P58E1L1.HP.workspace",
     "-Primero/Introducción a la Ingeniería/Actividades/Citas y referencias.md",
+    "-Primero/Introducción a la Ingeniería/Actividades/Propiedad Intelectual.md",
     "Formularios/Circuitos electrónicos y electromagnetismo.md",
     "-Primero/Introducción a la Ingeniería/Actividades/Planeación del proyecto.md",
     "Formularios/Conjuntos y lógica matemática - símbolos.md",
@@ -221,13 +194,8 @@
     "-Tercero/Circuitos/Actividad 1 - Circuito 3_beta.pdsprj.DESKTOP-9FAHEL3.Human Solutions.workspace",
     "Attachments/Excalidraw/Drawing 2023-01-30 16.33.09.excalidraw.md",
     "Attachments/Excalidraw/FODA 2023-02-28 11.27.25.excalidraw.md",
-    "-Tercero/Circuitos/Prácticas/Untitled.md",
     "-Tercero/Circuitos/Actividad 1/Actividad 1 - Circuito 3.pdsprj.DESKTOP-9FAHEL3.Human Solutions.workspace",
     "-Tercero/Circuitos/Tarea 1/New Project.pdsprj.DESKTOP-9FAHEL3.Human Solutions.workspace",
-    "-Tercero/Circuitos/Prácticas",
-    "-Tercero/Circuitos/Project Backups/Actividad 1 - Circuito 4 y 5 [20230317, 21-09-27].pdsprj",
-    "-Tercero/Circuitos/Actividad 1 - Circuito 4 y 5.pdsprj.DESKTOP-9FAHEL3.Human Solutions.workspace",
-    "-Tercero/Circuitos/Project Backups/Actividad 1 - Circuito 4 y 5 [20230317, 21-09-22].pdsprj",
     "Formularios/Attachments/df9fd49486e75a6b243031819b615e3f014ef6a3.svg",
     "-Tercero/Programación Orientada en Objetos/Tareas/Attachments/Pasted image 20230311152811.png",
     "-Tercero/Programación Orientada en Objetos/Tareas/Attachments/Pasted image 20230311153112.png",
