@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Formularios/Circuitos electrónicos y electromagnetismo.md",
+                "file": "Formularios/Precálculo.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Formularios/Circuitos electrónicos y electromagnetismo.md",
+                "file": "Formularios/Precálculo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Formularios/Circuitos electrónicos y electromagnetismo.md",
+                "file": "Formularios/Precálculo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Formularios/Circuitos electrónicos y electromagnetismo.md"
+                "file": "Formularios/Precálculo.md"
               }
             }
           },
@@ -176,8 +176,9 @@
       "obsidian-calibre-plugin:Calibre": false
     }
   },
-  "active": "14b31f7a61e09a38",
+  "active": "db47115cc5a6c38d",
   "lastOpenFiles": [
+    "Formularios/Circuitos electrónicos y electromagnetismo.md",
     "Untitled.md",
     "-Tercero/Sistemas Digitales/Tareas/8. Sumador completo FA.md",
     "Attachments\\Templates\\Bibliografía\\APA",
@@ -191,7 +192,6 @@
     "-Tercero/Circuitos/Actividad 1/Project Backups/Actividad 1 - Circuito 2 - leds [20230327, 09-56-26].pdsprj",
     "-Tercero/Circuitos/Actividad 1/Project Backups/Actividad 1 - Circuito 2 - leds [20230327, 09-54-03].pdsprj",
     "-Tercero/Sistemas Digitales/Tareas/7. Medio sumador HA.md",
-    "Formularios/Circuitos electrónicos y electromagnetismo.md",
     "-Primero/Introducción a la Ingeniería/Actividades/Citas y referencias.md",
     "-Primero/Introducción a la Ingeniería/Actividades/Propiedad Intelectual.md",
     "-Segundo/Expresión Oral y Escrita/Notes/Discurso.md",
