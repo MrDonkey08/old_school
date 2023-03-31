@@ -218,11 +218,9 @@ En la que la columna uno representa la primera incógnita ($x$), la columna dos 
 ### Por reducción (suma y resta)
 
 1. Sumas ambas ecuaciones de manera que te quede se cancele una de las dos incógnitas, tomado en cuenta que:
-	- Puedes multiplicar cualquier ecuación por una constante (positiva o negativa) para sumarla.
-	- Puedes multiplicar ambas ecuaciones cada una por diferentes constantes (a conveniencia).
-
-3. Sustituir el valor de la incógnita encontrada en cualquiera de de las ecuaciones para determinar la incógnita faltante.
-4. Una vez encontrado ambos valores, sustituirlos en ambas ecuaciones para hacer la comprobación. 
+	- Puedes sumar el múltiplo de una ecuación por el múltiplo de otra ecuación, es decir, $f_1 \cdot a + f_2 \cdot b$, donde $f_1$ es la ecuación o renglon 1 y  $f_2$ es la ecuación o fila 2.
+2. Sustituir el valor de la incógnita encontrada en cualquiera de de las ecuaciones para determinar la incógnita faltante.
+3. Una vez encontrado ambos valores, sustituirlos en ambas ecuaciones para hacer la comprobación. 
 
 <!--$adx+bdy=cd$
 $-adx-aey=-af$
@@ -260,8 +258,10 @@ $y=\cfrac{cd-af}{bd+ae}$-->
 **Ecuación cuadrática especial**: $x^2=d$, entonces $x=\pm \sqrt d$
 
 **Completar el cuadrado**:
-- $x^2+kx+(\cfrac{k}{2})^2=(x+\cfrac{k}{2})^2$
-- $x^2-kx+(\cfrac{k}{2})^2=(x-\cfrac{k}{2})^2$
+| Expresión original |        Término a sumar         |                         Expresión equivalente                          |
+|:------------------:|:------------------------------:|:----------------------------------------------------------------------:|
+|      $x^2+kx$      | $\left(\cfrac{k}{2} \right)^2$ | $x^2+kx \left(\cfrac{k}{2} \right)^2 = \left(x+\cfrac{k}{2} \right)^2$ |
+|      $x^2-kx$      | $\left(\cfrac{k}{2} \right)^2$ | $x^2-kx \left(\cfrac{k}{2} \right)^2 = \left(x-\cfrac{k}{2} \right)^2$ |
 
 ---
 ## 17. Fórmula géneral para ecuaciones cuadráticas
