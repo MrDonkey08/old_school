@@ -258,6 +258,7 @@ $y=\cfrac{cd-af}{bd+ae}$-->
 **Ecuación cuadrática especial**: $x^2=d$, entonces $x=\pm \sqrt d$
 
 **Completar el cuadrado**:
+
 | Expresión original |        Término a sumar         |                         Expresión equivalente                          |
 |:------------------:|:------------------------------:|:----------------------------------------------------------------------:|
 |      $x^2+kx$      | $\left(\cfrac{k}{2} \right)^2$ | $x^2+kx \left(\cfrac{k}{2} \right)^2 = \left(x+\cfrac{k}{2} \right)^2$ |
