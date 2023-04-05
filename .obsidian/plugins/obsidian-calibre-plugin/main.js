@@ -10,6 +10,9 @@ var __getOwnPropNames = Object.getOwnPropertyNames;
 var __getProtoOf = Object.getPrototypeOf;
 var __hasOwnProp = Object.prototype.hasOwnProperty;
 var __markAsModule = (target) => __defProp(target, "__esModule", { value: true });
+var __commonJS = (cb, mod) => function __require() {
+  return mod || (0, cb[Object.keys(cb)[0]])((mod = { exports: {} }).exports, mod), mod.exports;
+};
 var __export = (target, all) => {
   __markAsModule(target);
   for (var name in all)
@@ -47,6 +50,312 @@ var __async = (__this, __arguments, generator) => {
   });
 };
 
+// node_modules/ip/lib/ip.js
+var require_ip = __commonJS({
+  "node_modules/ip/lib/ip.js"(exports) {
+    var ip2 = exports;
+    var { Buffer: Buffer2 } = require("buffer");
+    var os = require("os");
+    ip2.toBuffer = function(ip3, buff, offset) {
+      offset = ~~offset;
+      var result;
+      if (this.isV4Format(ip3)) {
+        result = buff || new Buffer2(offset + 4);
+        ip3.split(/\./g).map((byte) => {
+          result[offset++] = parseInt(byte, 10) & 255;
+        });
+      } else if (this.isV6Format(ip3)) {
+        var sections = ip3.split(":", 8);
+        var i;
+        for (i = 0; i < sections.length; i++) {
+          var isv4 = this.isV4Format(sections[i]);
+          var v4Buffer;
+          if (isv4) {
+            v4Buffer = this.toBuffer(sections[i]);
+            sections[i] = v4Buffer.slice(0, 2).toString("hex");
+          }
+          if (v4Buffer && ++i < 8) {
+            sections.splice(i, 0, v4Buffer.slice(2, 4).toString("hex"));
+          }
+        }
+        if (sections[0] === "") {
+          while (sections.length < 8)
+            sections.unshift("0");
+        } else if (sections[sections.length - 1] === "") {
+          while (sections.length < 8)
+            sections.push("0");
+        } else if (sections.length < 8) {
+          for (i = 0; i < sections.length && sections[i] !== ""; i++)
+            ;
+          var argv = [i, 1];
+          for (i = 9 - sections.length; i > 0; i--) {
+            argv.push("0");
+          }
+          sections.splice.apply(sections, argv);
+        }
+        result = buff || new Buffer2(offset + 16);
+        for (i = 0; i < sections.length; i++) {
+          var word = parseInt(sections[i], 16);
+          result[offset++] = word >> 8 & 255;
+          result[offset++] = word & 255;
+        }
+      }
+      if (!result) {
+        throw Error(`Invalid ip address: ${ip3}`);
+      }
+      return result;
+    };
+    ip2.toString = function(buff, offset, length) {
+      offset = ~~offset;
+      length = length || buff.length - offset;
+      var result = [];
+      var i;
+      if (length === 4) {
+        for (i = 0; i < length; i++) {
+          result.push(buff[offset + i]);
+        }
+        result = result.join(".");
+      } else if (length === 16) {
+        for (i = 0; i < length; i += 2) {
+          result.push(buff.readUInt16BE(offset + i).toString(16));
+        }
+        result = result.join(":");
+        result = result.replace(/(^|:)0(:0)*:0(:|$)/, "$1::$3");
+        result = result.replace(/:{3,4}/, "::");
+      }
+      return result;
+    };
+    var ipv4Regex = /^(\d{1,3}\.){3,3}\d{1,3}$/;
+    var ipv6Regex = /^(::)?(((\d{1,3}\.){3}(\d{1,3}){1})?([0-9a-f]){0,4}:{0,2}){1,8}(::)?$/i;
+    ip2.isV4Format = function(ip3) {
+      return ipv4Regex.test(ip3);
+    };
+    ip2.isV6Format = function(ip3) {
+      return ipv6Regex.test(ip3);
+    };
+    function _normalizeFamily(family) {
+      if (family === 4) {
+        return "ipv4";
+      }
+      if (family === 6) {
+        return "ipv6";
+      }
+      return family ? family.toLowerCase() : "ipv4";
+    }
+    ip2.fromPrefixLen = function(prefixlen, family) {
+      if (prefixlen > 32) {
+        family = "ipv6";
+      } else {
+        family = _normalizeFamily(family);
+      }
+      var len = 4;
+      if (family === "ipv6") {
+        len = 16;
+      }
+      var buff = new Buffer2(len);
+      for (var i = 0, n = buff.length; i < n; ++i) {
+        var bits = 8;
+        if (prefixlen < 8) {
+          bits = prefixlen;
+        }
+        prefixlen -= bits;
+        buff[i] = ~(255 >> bits) & 255;
+      }
+      return ip2.toString(buff);
+    };
+    ip2.mask = function(addr, mask) {
+      addr = ip2.toBuffer(addr);
+      mask = ip2.toBuffer(mask);
+      var result = new Buffer2(Math.max(addr.length, mask.length));
+      var i;
+      if (addr.length === mask.length) {
+        for (i = 0; i < addr.length; i++) {
+          result[i] = addr[i] & mask[i];
+        }
+      } else if (mask.length === 4) {
+        for (i = 0; i < mask.length; i++) {
+          result[i] = addr[addr.length - 4 + i] & mask[i];
+        }
+      } else {
+        for (i = 0; i < result.length - 6; i++) {
+          result[i] = 0;
+        }
+        result[10] = 255;
+        result[11] = 255;
+        for (i = 0; i < addr.length; i++) {
+          result[i + 12] = addr[i] & mask[i + 12];
+        }
+        i += 12;
+      }
+      for (; i < result.length; i++) {
+        result[i] = 0;
+      }
+      return ip2.toString(result);
+    };
+    ip2.cidr = function(cidrString) {
+      var cidrParts = cidrString.split("/");
+      var addr = cidrParts[0];
+      if (cidrParts.length !== 2) {
+        throw new Error(`invalid CIDR subnet: ${addr}`);
+      }
+      var mask = ip2.fromPrefixLen(parseInt(cidrParts[1], 10));
+      return ip2.mask(addr, mask);
+    };
+    ip2.subnet = function(addr, mask) {
+      var networkAddress = ip2.toLong(ip2.mask(addr, mask));
+      var maskBuffer = ip2.toBuffer(mask);
+      var maskLength = 0;
+      for (var i = 0; i < maskBuffer.length; i++) {
+        if (maskBuffer[i] === 255) {
+          maskLength += 8;
+        } else {
+          var octet = maskBuffer[i] & 255;
+          while (octet) {
+            octet = octet << 1 & 255;
+            maskLength++;
+          }
+        }
+      }
+      var numberOfAddresses = Math.pow(2, 32 - maskLength);
+      return {
+        networkAddress: ip2.fromLong(networkAddress),
+        firstAddress: numberOfAddresses <= 2 ? ip2.fromLong(networkAddress) : ip2.fromLong(networkAddress + 1),
+        lastAddress: numberOfAddresses <= 2 ? ip2.fromLong(networkAddress + numberOfAddresses - 1) : ip2.fromLong(networkAddress + numberOfAddresses - 2),
+        broadcastAddress: ip2.fromLong(networkAddress + numberOfAddresses - 1),
+        subnetMask: mask,
+        subnetMaskLength: maskLength,
+        numHosts: numberOfAddresses <= 2 ? numberOfAddresses : numberOfAddresses - 2,
+        length: numberOfAddresses,
+        contains(other) {
+          return networkAddress === ip2.toLong(ip2.mask(other, mask));
+        }
+      };
+    };
+    ip2.cidrSubnet = function(cidrString) {
+      var cidrParts = cidrString.split("/");
+      var addr = cidrParts[0];
+      if (cidrParts.length !== 2) {
+        throw new Error(`invalid CIDR subnet: ${addr}`);
+      }
+      var mask = ip2.fromPrefixLen(parseInt(cidrParts[1], 10));
+      return ip2.subnet(addr, mask);
+    };
+    ip2.not = function(addr) {
+      var buff = ip2.toBuffer(addr);
+      for (var i = 0; i < buff.length; i++) {
+        buff[i] = 255 ^ buff[i];
+      }
+      return ip2.toString(buff);
+    };
+    ip2.or = function(a, b) {
+      var i;
+      a = ip2.toBuffer(a);
+      b = ip2.toBuffer(b);
+      if (a.length === b.length) {
+        for (i = 0; i < a.length; ++i) {
+          a[i] |= b[i];
+        }
+        return ip2.toString(a);
+      }
+      var buff = a;
+      var other = b;
+      if (b.length > a.length) {
+        buff = b;
+        other = a;
+      }
+      var offset = buff.length - other.length;
+      for (i = offset; i < buff.length; ++i) {
+        buff[i] |= other[i - offset];
+      }
+      return ip2.toString(buff);
+    };
+    ip2.isEqual = function(a, b) {
+      var i;
+      a = ip2.toBuffer(a);
+      b = ip2.toBuffer(b);
+      if (a.length === b.length) {
+        for (i = 0; i < a.length; i++) {
+          if (a[i] !== b[i])
+            return false;
+        }
+        return true;
+      }
+      if (b.length === 4) {
+        var t = b;
+        b = a;
+        a = t;
+      }
+      for (i = 0; i < 10; i++) {
+        if (b[i] !== 0)
+          return false;
+      }
+      var word = b.readUInt16BE(10);
+      if (word !== 0 && word !== 65535)
+        return false;
+      for (i = 0; i < 4; i++) {
+        if (a[i] !== b[i + 12])
+          return false;
+      }
+      return true;
+    };
+    ip2.isPrivate = function(addr) {
+      return /^(::f{4}:)?10\.([0-9]{1,3})\.([0-9]{1,3})\.([0-9]{1,3})$/i.test(addr) || /^(::f{4}:)?192\.168\.([0-9]{1,3})\.([0-9]{1,3})$/i.test(addr) || /^(::f{4}:)?172\.(1[6-9]|2\d|30|31)\.([0-9]{1,3})\.([0-9]{1,3})$/i.test(addr) || /^(::f{4}:)?127\.([0-9]{1,3})\.([0-9]{1,3})\.([0-9]{1,3})$/i.test(addr) || /^(::f{4}:)?169\.254\.([0-9]{1,3})\.([0-9]{1,3})$/i.test(addr) || /^f[cd][0-9a-f]{2}:/i.test(addr) || /^fe80:/i.test(addr) || /^::1$/.test(addr) || /^::$/.test(addr);
+    };
+    ip2.isPublic = function(addr) {
+      return !ip2.isPrivate(addr);
+    };
+    ip2.isLoopback = function(addr) {
+      return /^(::f{4}:)?127\.([0-9]{1,3})\.([0-9]{1,3})\.([0-9]{1,3})/.test(addr) || /^fe80::1$/.test(addr) || /^::1$/.test(addr) || /^::$/.test(addr);
+    };
+    ip2.loopback = function(family) {
+      family = _normalizeFamily(family);
+      if (family !== "ipv4" && family !== "ipv6") {
+        throw new Error("family must be ipv4 or ipv6");
+      }
+      return family === "ipv4" ? "127.0.0.1" : "fe80::1";
+    };
+    ip2.address = function(name, family) {
+      var interfaces = os.networkInterfaces();
+      family = _normalizeFamily(family);
+      if (name && name !== "private" && name !== "public") {
+        var res = interfaces[name].filter((details) => {
+          var itemFamily = _normalizeFamily(details.family);
+          return itemFamily === family;
+        });
+        if (res.length === 0) {
+          return void 0;
+        }
+        return res[0].address;
+      }
+      var all = Object.keys(interfaces).map((nic) => {
+        var addresses = interfaces[nic].filter((details) => {
+          details.family = _normalizeFamily(details.family);
+          if (details.family !== family || ip2.isLoopback(details.address)) {
+            return false;
+          }
+          if (!name) {
+            return true;
+          }
+          return name === "public" ? ip2.isPrivate(details.address) : ip2.isPublic(details.address);
+        });
+        return addresses.length ? addresses[0].address : void 0;
+      }).filter(Boolean);
+      return !all.length ? ip2.loopback(family) : all[0];
+    };
+    ip2.toLong = function(ip3) {
+      var ipl = 0;
+      ip3.split(".").forEach((octet) => {
+        ipl <<= 8;
+        ipl += parseInt(octet);
+      });
+      return ipl >>> 0;
+    };
+    ip2.fromLong = function(ipl) {
+      return `${ipl >>> 24}.${ipl >> 16 & 255}.${ipl >> 8 & 255}.${ipl & 255}`;
+    };
+  }
+});
+
 // src/main.tsx
 __export(exports, {
   default: () => CalibrePlugin
@@ -55,6 +364,7 @@ var import_obsidian3 = __toModule(require("obsidian"));
 
 // src/CalibreView.tsx
 var import_obsidian = __toModule(require("obsidian"));
+var ip = __toModule(require_ip());
 var CALIBRE_VIEW_TYPE = "calibre-view";
 var CalibreView = class extends import_obsidian.ItemView {
   constructor(leaf, settings) {
@@ -73,7 +383,7 @@ var CalibreView = class extends import_obsidian.ItemView {
       try {
         const iframe = container.createEl("iframe");
         iframe.setAttribute("sandbox", "allow-forms allow-presentation allow-same-origin allow-scripts allow-modals");
-        iframe.src = this.settings.address;
+        iframe.src = this.settings.replaceLocalIp ? this.settings.address.replace("localhost", ip.address()) : this.settings.address;
       } catch (e) {
         console.error(e);
         const error = container.createDiv({ text: e.toString() });
@@ -195,7 +505,8 @@ var DEFAULT_SETTINGS = {
   displayText: "CALIBRE",
   splitDirection: "horizontal",
   ribbonIcon: CALIBRE_ICON_ID,
-  hideRibbonIcon: false
+  hideRibbonIcon: false,
+  replaceLocalIp: true
 };
 var CalibreSettingTab = class extends import_obsidian2.PluginSettingTab {
   constructor(app, plugin) {
@@ -213,6 +524,10 @@ var CalibreSettingTab = class extends import_obsidian2.PluginSettingTab {
         this.plugin.saveData(this.plugin.settings);
       }), DEBOUNCE_TIMEOUT));
     });
+    new import_obsidian2.Setting(containerEl).setName("Use the local IP address instead of 'localhost'").addToggle((toggle) => toggle.setValue(this.plugin.settings.replaceLocalIp).onChange((value) => __async(this, null, function* () {
+      this.plugin.settings.replaceLocalIp = value;
+      this.plugin.saveData(this.plugin.settings);
+    })));
     new import_obsidian2.Setting(containerEl).setName("View Display Text").setDesc("The title of calibre view.").addText((text) => {
       text.inputEl.size = 25;
       text.setPlaceholder(DEFAULT_SETTINGS.displayText).setValue(this.plugin.settings.displayText).onChange((0, import_obsidian2.debounce)((value) => __async(this, null, function* () {
