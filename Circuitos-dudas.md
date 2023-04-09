@@ -28,8 +28,22 @@ type: Note
 - ¿Es posible una corriente negativa?
 	- ¿Qué significa una corriente negativa?
 
+
 ### Ley de Kirchhof
 <div style="page-break-after: always;"></div>
+
+
+---
+## Theoremas
+
+- electric circuit theory
+- electromagnetic theory
+
+---
+## Out of the branch
+
+- Topology
+
 
 ---
 ## Referencias
