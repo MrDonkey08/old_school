@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "328286f7fc7084ed",
+        "id": "7fb6919664a7e2ef",
         "type": "tabs",
         "children": [
           {
-            "id": "5c676b0007c90d3c",
+            "id": "6074992c4ec2e47c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Formularios/Circuitos electrónicos y electromagnetismo.md",
-                "mode": "preview",
+                "file": "-Tercero/Circuitos/Actividad 5.md",
+                "mode": "source",
                 "backlinks": true,
-                "source": true
+                "source": false
               }
             }
           }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "formu",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -71,7 +71,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 260.5026054382324
+    "width": 260.5026054382324,
+    "collapsed": true
   },
   "right": {
     "id": "4b702cc4fb11ac6c",
@@ -95,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Formularios/Circuitos electrónicos y electromagnetismo.md",
+                "file": "-Tercero/Circuitos/Actividad 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Formularios/Circuitos electrónicos y electromagnetismo.md",
+                "file": "-Tercero/Circuitos/Actividad 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Formularios/Circuitos electrónicos y electromagnetismo.md"
+                "file": "-Tercero/Circuitos/Actividad 5.md"
               }
             }
           },
@@ -161,12 +162,34 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "5c676b0007c90d3c",
+  "active": "6074992c4ec2e47c",
   "lastOpenFiles": [
+    "-Tercero/Circuitos/Actividad 5.md",
+    "-Tercero/Programación Orientada en Objetos/Tareas/Tarea1_JuarezRubio_AlanYahir.md",
+    "-Tercero/Sistemas Digitales/Tareas/7. Medio sumador HA.md",
+    "-Tercero/Sistemas Digitales/Tareas/8. Sumador completo FA.md",
+    "Formularios/Circuitos electrónicos y electromagnetismo.md",
+    "-Primero/Introducción a la Ingeniería/Actividades/Citas y referencias.md",
+    "Formularios/Conjuntos y lógica matemática - símbolos.md",
+    "-Segundo/Expresión Oral y Escrita/Notes/Discurso.md",
+    "-Tercero/Programación Orientada en Objetos/Notas/Introducción a POO.md",
+    "-Tercero/Sistemas Digitales (Oyente)/Logica de Función Fija - 14-02-2023.md",
+    "-Primero/Introducción a la Ingeniería/Apuntes de clase/Malla Curricular.md",
+    "-Primero/Introducción a la Ingeniería/Apuntes de clase/Modos de titulación.md",
+    "Attachments/Templates/New Note.md",
+    "-Primero/Introducción a la Ingeniería/Apuntes de clase/Propiedad Intelectual.md",
+    "Reseñas de profesores\\Personales",
+    "Formularios\\Attachments",
+    "Attachments\\Templates\\Scripts",
+    "Attachments\\Templates",
+    "Attachments\\Templates\\Bibliografía\\APA",
+    "Attachments\\Images",
+    "Attachments\\Excalidraw",
+    "Attachements\\Excalidraw",
+    "-Tercero\\Sistemas Digitales\\Tareas\\Task",
+    "-Tercero\\Sistemas Digitales\\Tareas\\Attachments",
     "Formularios/Formulario Cinemática y Leyes de Newton.md",
     "Circuitos-dudas.md",
-    "Formularios/Circuitos electrónicos y electromagnetismo.md",
-    "Formularios/Conjuntos y lógica matemática - símbolos.md",
     "Formularios/Leyes.md",
     "Formularios/Precálculo.md",
     "-Tercero/Administración/Notes/Untitled 1.md",
@@ -179,32 +202,10 @@
     "Formularios/Attachments/Formulario-3.jpeg",
     "Formularios/Attachments/Formulario-2.jpeg",
     "Formularios/Attachments/Formulario-1.jpeg",
-    "-Tercero/Sistemas Digitales/Tareas/8. Sumador completo FA.md",
     "Untitled.md",
-    "Attachments\\Templates\\Bibliografía\\APA",
-    "-Tercero\\Circuitos\\Actividad 1\\Project Backups",
-    "-Tercero/Circuitos/Actividad 1/Actividad 1 - Circuito 4 y 5.pdsprj.DESKTOP-9FAHEL3.Human Solutions.workspace",
-    "-Tercero\\Circuitos\\Actividad 1",
-    "-Tercero/Circuitos/Actividad 1/Actividad 3.pdsprj.DESKTOP-9FAHEL3.Human Solutions.workspace",
-    "-Tercero/Circuitos/Actividad 1/Project Backups/Actividad 3 [Autosaved].pdsprj",
-    "-Tercero/Circuitos/Actividad 1/Actividad 3.pdsprj",
-    "-Tercero/Circuitos/Actividad 1/Project Backups/Actividad 1 - Circuito 4 y 5 [20230327, 13-07-35].pdsprj",
-    "-Tercero/Circuitos/Actividad 1/Project Backups/Actividad 1 - Circuito 2 - leds [20230327, 09-56-26].pdsprj",
-    "-Tercero/Circuitos/Actividad 1/Project Backups/Actividad 1 - Circuito 2 - leds [20230327, 09-54-03].pdsprj",
-    "-Tercero/Sistemas Digitales/Tareas/7. Medio sumador HA.md",
-    "-Primero/Introducción a la Ingeniería/Actividades/Citas y referencias.md",
     "-Primero/Introducción a la Ingeniería/Actividades/Propiedad Intelectual.md",
-    "-Segundo/Expresión Oral y Escrita/Notes/Discurso.md",
     "-Segundo/Expresión Oral y Escrita/Notes/Comunicación.md",
     "-Segundo/Programación Estructurada/Divisibilidad.md",
-    "-Segundo/Programación Estructurada/Estructura secuencial.md",
-    "-Primero/Introducción a la Ingeniería/Apuntes de clase/Artículos.md",
-    "-Segundo/Mecánica/Ejercicios/Ejercicio 1.2.3.md",
-    "-Primero/Fundamentos de Física/Homework/Resúmenes Hewitt/Capítulo 23 - Interacciones electromagnéticas.md",
-    "-Tercero/Sistemas Digitales (Oyente)/Logica de Función Fija - 14-02-2023.md",
-    "-Tercero/Sistemas Digitales/Tareas/4. Algebra de Boole.md",
-    "-Primero/Fundamentos de Física/Homework/Resúmenes Hewitt/Capítulo 6. Cantidad de movimiento.md",
-    "-Primero/Introducción a la Ingeniería/Apuntes de clase/Malla Curricular.md",
     "-Tercero/Administración/Tareas/Attachments/Pasted image 20230320182452.png",
     "Formularios/Attachments/df9fd49486e75a6b243031819b615e3f014ef6a3.svg",
     "-Tercero/Programación Orientada en Objetos/Tareas/Attachments/Pasted image 20230311152811.png",
