@@ -93,9 +93,9 @@ type: Note
 
 ## Referencias 
 
-- Wikipedia (s.f.). Conectiva lógica. https://es.wikipedia.org/wiki/Conectiva_l%C3%B3gica
-- Wikipedia (s.f.). Símbolos lógicos. https://es.wikipedia.org/wiki/Anexo:S%C3%ADmbolos_l%C3%B3gicos
-- Wikipedia (s.f.). [Álgebra de conjuntos]. https://es.wikipedia.org/wiki/Operaciones_con_conjuntos)
-- [Rodó, P]. https://economipedia.com/author/P.rodo) (01 de agosto, 2020). [Números imaginarios. https://economipedia.com/definiciones/numeros-imaginarios.html)
+- Wikipedia (s.f.). _Conectiva lógica_. https://es.wikipedia.org/wiki/Conectiva_l%C3%B3gica
+- Wikipedia (s.f.). _Símbolos lógicos_. https://es.wikipedia.org/wiki/Anexo:S%C3%ADmbolos_l%C3%B3gicos
+- Wikipedia (s.f.). _Álgebra de conjuntos_. https://es.wikipedia.org/wiki/Operaciones_con_conjuntos)
+- [Rodó, P.](https://economipedia.com/author/P.rodo) (01 de agosto, 2020). _Números imaginarios_. https://economipedia.com/definiciones/numeros-imaginarios.html)
 <!-- https://es.wikipedia.org/wiki/Teor%C3%ADa_de_conjuntos -->
 
