@@ -2,7 +2,7 @@
 
 Fecha: 06-03-2023
 
-![Independencia Lineal](-Tercero/Ecuaciones%20Diferenciales/Apuntes%20de%20clase/Segundo%20Parcial/Independencia%20Lineal.md#Independencia%20lineal)
+![Independencia Lineal](Independencia%20Lineal.md#Independencia%20lineal)
 
 Fecha: 13-03-2023
 
