@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "-Tercero/Ecuaciones Diferenciales/Apuntes de clase/Segundo Parcial/Conjunto Fundamental de Soluciones.md",
+                "file": "-Tercero/Ecuaciones Diferenciales/Apuntes de clase/Segundo Parcial/Apuntes Segundo Parcial.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -40,7 +40,7 @@
               "type": "markdown",
               "state": {
                 "file": "-Tercero/Ecuaciones Diferenciales/Apuntes de clase/Segundo Parcial/Apuntes Segundo Parcial.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -60,25 +60,12 @@
             }
           },
           {
-            "id": "08f5c9d4129a421c",
+            "id": "33503e48b851a3c3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Formularios/Conjuntos y lógica matemática - símbolos.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2443913b9a1e70c6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "-Tercero/Ecuaciones Diferenciales/Apuntes de clase/Segundo Parcial/Conjunto Fundamental de Soluciones.md",
+                "file": "Formularios/Precálculo.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -86,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -137,7 +124,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 260.5026054382324
+    "width": 260.5026054382324,
+    "collapsed": true
   },
   "right": {
     "id": "4b702cc4fb11ac6c",
@@ -161,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "-Tercero/Ecuaciones Diferenciales/Apuntes de clase/Segundo Parcial/Apuntes Segundo Parcial.md",
+                "file": "Formularios/Precálculo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "-Tercero/Ecuaciones Diferenciales/Apuntes de clase/Segundo Parcial/Apuntes Segundo Parcial.md",
+                "file": "Formularios/Precálculo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "-Tercero/Ecuaciones Diferenciales/Apuntes de clase/Segundo Parcial/Apuntes Segundo Parcial.md"
+                "file": "Formularios/Precálculo.md"
               }
             }
           },
@@ -227,20 +215,21 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "b725f2deeee3550f",
+  "active": "33503e48b851a3c3",
   "lastOpenFiles": [
-    "-Tercero/Ecuaciones Diferenciales/Apuntes de clase/Segundo Parcial/Transformada de Laplace.md",
-    "-Tercero/Ecuaciones Diferenciales/Apuntes de clase/Segundo Parcial/Variación de Parámetros.md",
-    "-Tercero/Ecuaciones Diferenciales/Apuntes de clase/Segundo Parcial/Independencia Lineal.md",
-    "-Tercero/Ecuaciones Diferenciales/Apuntes de clase/Segundo Parcial/Conjunto Fundamental de Soluciones.md",
     "-Tercero/Ecuaciones Diferenciales/Apuntes de clase/Segundo Parcial/Apuntes Segundo Parcial.md",
+    "-Tercero/Ecuaciones Diferenciales/Apuntes de clase/Segundo Parcial/Conjunto Fundamental de Soluciones.md",
+    "-Tercero/Ecuaciones Diferenciales/Apuntes de clase/Segundo Parcial/Independencia Lineal.md",
+    "Formularios/Conjuntos y lógica matemática - símbolos.md",
+    "Formularios/Precálculo.md",
+    "Formularios/Formulario Cinemática y Leyes de Newton.md",
+    "-Tercero/Ecuaciones Diferenciales/Apuntes de clase/Segundo Parcial/Variación de Parámetros.md",
+    "-Tercero/Ecuaciones Diferenciales/Apuntes de clase/Segundo Parcial/Transformada de Laplace.md",
     "-Tercero/Ecuaciones Diferenciales/Apuntes de clase/Primer Parcial/Untitled 2.md",
     "-Tercero/Ecuaciones Diferenciales/Apuntes de clase/Primer Parcial",
     "-Tercero/Ecuaciones Diferenciales/Apuntes de clase/Primer Parcial/Untitled.md",
     "-Tercero/Ecuaciones Diferenciales/Apuntes de clase/Segundo Parcial",
     "Untitled.md",
-    "Formularios/Conjuntos y lógica matemática - símbolos.md",
-    "Formularios/Formulario Cinemática y Leyes de Newton.md",
     "Formularios/Cálculo.md",
     "-Tercero/Programación Orientada en Objetos/Notas de clase/13-02-2023.md",
     "-Tercero/Programación Orientada en Objetos/Notas/Introducción a POO.md",
@@ -266,7 +255,6 @@
     "Formularios/Circuitos electrónicos y electromagnetismo.md",
     "Circuitos-dudas.md",
     "Formularios/Leyes.md",
-    "Formularios/Precálculo.md",
     "Attachments\\Templates\\Bibliografía\\APA",
     "-Tercero\\Circuitos\\Actividad 1\\Project Backups",
     "-Tercero/Circuitos/Actividad 1/Actividad 1 - Circuito 4 y 5.pdsprj.DESKTOP-9FAHEL3.Human Solutions.workspace",
