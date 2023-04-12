@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4a48e0732f0e8e23",
+        "id": "03aaae3b129e499d",
         "type": "tabs",
         "children": [
           {
-            "id": "fa6ccebd1577a05c",
+            "id": "70445b69ef7fe3b7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "-Tercero/Circuitos/Actividad 5.md",
+                "file": "-Tercero/Circuitos/Práctica 4/Practica 4 Leyes de Kirchhoff.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,38 +21,12 @@
             }
           },
           {
-            "id": "908a0571a692d942",
+            "id": "3b9c53d94dc4b9b9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "-Tercero/Ecuaciones Diferenciales/Apuntes de clase/Segundo Parcial/Apuntes Segundo Parcial.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b725f2deeee3550f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "-Tercero/Ecuaciones Diferenciales/Apuntes de clase/Segundo Parcial/Apuntes Segundo Parcial.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8f0fa416a844a8ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "-Tercero/Ecuaciones Diferenciales/Apuntes de clase/Segundo Parcial/Independencia Lineal.md",
+                "file": "-Tercero/Sistemas Digitales/Tareas/Portada.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -60,20 +34,20 @@
             }
           },
           {
-            "id": "33503e48b851a3c3",
+            "id": "eaea6007431ddebf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Formularios/Precálculo.md",
-                "mode": "preview",
+                "file": "Formularios/Circuitos electrónicos y electromagnetismo.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -124,8 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 260.5026054382324,
-    "collapsed": true
+    "width": 260.5026054382324
   },
   "right": {
     "id": "4b702cc4fb11ac6c",
@@ -149,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Formularios/Precálculo.md",
+                "file": "Formularios/Circuitos electrónicos y electromagnetismo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Formularios/Precálculo.md",
+                "file": "Formularios/Circuitos electrónicos y electromagnetismo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Formularios/Precálculo.md"
+                "file": "Formularios/Circuitos electrónicos y electromagnetismo.md"
               }
             }
           },
@@ -215,20 +188,40 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "33503e48b851a3c3",
+  "active": "eaea6007431ddebf",
   "lastOpenFiles": [
-    "-Tercero/Ecuaciones Diferenciales/Apuntes de clase/Segundo Parcial/Apuntes Segundo Parcial.md",
-    "-Tercero/Ecuaciones Diferenciales/Apuntes de clase/Segundo Parcial/Conjunto Fundamental de Soluciones.md",
-    "-Tercero/Ecuaciones Diferenciales/Apuntes de clase/Segundo Parcial/Independencia Lineal.md",
-    "Formularios/Conjuntos y lógica matemática - símbolos.md",
+    "-Tercero/Circuitos/Práctica 4/Project Backups/figura 4-5 [20230412, 13-07-47].pdsprj",
+    "-Tercero/Circuitos/Práctica 4/Project Backups/figura 4-5 [20230412, 13-07-30].pdsprj",
+    "-Tercero/Circuitos/Práctica 4/Project Backups/figura 4-5 [Autosaved].pdsprj",
+    "-Tercero/Circuitos/Práctica 4/figura 4-5.pdsprj",
+    "-Tercero/Circuitos/Práctica 4/Project Backups/figura 4-4 [20230412, 12-24-53].pdsprj",
+    "-Tercero/Circuitos/Práctica 4/Project Backups/figura 4-4 [20230412, 12-24-13].pdsprj",
+    "-Tercero/Circuitos/Práctica 4/Project Backups/figura 4-4 [Autosaved].pdsprj",
+    "-Tercero/Circuitos/Práctica 4/figura 4-4.pdsprj",
+    "-Tercero/Circuitos/Práctica 4/figura 4-3.pdsprj",
+    "-Tercero/Circuitos/Práctica 4/Project Backups",
+    "-Tercero/Circuitos/Práctica 4/Practica 4 Leyes de Kirchhoff.md",
+    "-Tercero/Circuitos/Práctica 4/Attachments/fig.-4-6.png",
+    "-Tercero/Sistemas Digitales/Tareas/Portada.md",
+    "-Tercero/Circuitos/Práctica 4/Attachments/fig.-4-5.png",
+    "-Tercero/Circuitos/Práctica 4/Attachments/fig.-4-4.png",
+    "-Tercero/Circuitos/Práctica 4/Attachments/fig.-4-2.png",
+    "-Tercero/Circuitos/Práctica 4/Attachments/fig.-4-3.png",
+    "-Tercero/Circuitos/Práctica 4/Attachments/fig. 4-3.png",
+    "-Tercero/Circuitos/Práctica 4/Attachments/fig.-4-1.png",
+    "-Tercero/Circuitos/Práctica 4/Attachments/fig.-4-1.png",
+    "-Tercero/Circuitos/Práctica 4/Attachments",
     "Formularios/Precálculo.md",
-    "Formularios/Formulario Cinemática y Leyes de Newton.md",
+    "-Tercero/Ecuaciones Diferenciales/Apuntes de clase/Segundo Parcial/Independencia Lineal.md",
     "-Tercero/Ecuaciones Diferenciales/Apuntes de clase/Segundo Parcial/Variación de Parámetros.md",
+    "-Tercero/Ecuaciones Diferenciales/Apuntes de clase/Segundo Parcial/Conjunto Fundamental de Soluciones.md",
+    "-Tercero/Ecuaciones Diferenciales/Apuntes de clase/Segundo Parcial/Apuntes Segundo Parcial.md",
+    "Formularios/Leyes.md",
+    "Formularios/Conjuntos y lógica matemática - símbolos.md",
+    "Formularios/Formulario Cinemática y Leyes de Newton.md",
     "-Tercero/Ecuaciones Diferenciales/Apuntes de clase/Segundo Parcial/Transformada de Laplace.md",
     "-Tercero/Ecuaciones Diferenciales/Apuntes de clase/Primer Parcial/Untitled 2.md",
-    "-Tercero/Ecuaciones Diferenciales/Apuntes de clase/Primer Parcial",
     "-Tercero/Ecuaciones Diferenciales/Apuntes de clase/Primer Parcial/Untitled.md",
-    "-Tercero/Ecuaciones Diferenciales/Apuntes de clase/Segundo Parcial",
     "Untitled.md",
     "Formularios/Cálculo.md",
     "-Tercero/Programación Orientada en Objetos/Notas de clase/13-02-2023.md",
@@ -241,27 +234,7 @@
     "-Tercero/Circuitos/Prácticas/Untitled.md",
     "Formularios/Attachments/Leyes de Implicación.jpg",
     "Formularios/Attachments/Formulario-4.png",
-    "Formularios/Attachments/Formulario-3.jpeg",
-    "Formularios/Attachments/Formulario-2.jpeg",
-    "Formularios/Attachments/Formulario-1.jpeg",
-    "Formularios/Attachments/Leyes-de-Equivalencia.jpeg",
-    "Attachments/Images/Portada-UDG.jpeg",
-    "Attachments/Images/Portada-CUCEI.jpeg",
     "Attachments/Excalidraw/Organigrama.excalidraw.md",
-    "Attachments/Excalidraw/FODA 2023-02-28 11.27.25.excalidraw.md",
-    "Attachments/Excalidraw/Drawing 2023-01-30 16.33.09.excalidraw.md",
-    "Attachments\\Templates",
-    "-Tercero\\Circuitos",
-    "Formularios/Circuitos electrónicos y electromagnetismo.md",
-    "Circuitos-dudas.md",
-    "Formularios/Leyes.md",
-    "Attachments\\Templates\\Bibliografía\\APA",
-    "-Tercero\\Circuitos\\Actividad 1\\Project Backups",
-    "-Tercero/Circuitos/Actividad 1/Actividad 1 - Circuito 4 y 5.pdsprj.DESKTOP-9FAHEL3.Human Solutions.workspace",
-    "-Tercero\\Circuitos\\Actividad 1",
-    "-Tercero/Circuitos/Actividad 1/Actividad 3.pdsprj.DESKTOP-9FAHEL3.Human Solutions.workspace",
-    "-Tercero/Circuitos/Actividad 1/Project Backups/Actividad 3 [Autosaved].pdsprj",
-    "-Tercero/Administración/Tareas/Attachments/Pasted image 20230320182452.png",
-    "Formularios/Attachments/df9fd49486e75a6b243031819b615e3f014ef6a3.svg"
+    "Attachments/Excalidraw/FODA 2023-02-28 11.27.25.excalidraw.md"
   ]
 }
