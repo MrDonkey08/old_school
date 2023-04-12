@@ -22,3 +22,23 @@ $$y_h = C_1f_1 + C_2f_2 + \dots + C_nf_n$$
 donde $C_1, \dots, C_n$ son parámetros constantes y $\{f_1, \dots f_n\}$ es el conjunto fundamental de soluciones para la **ecuación homogénea** $(2)$. Entonces la **solución particular** es de la forma
 
 $$y_p = u_1f_1 + u_2f_2 +\dots u_nf_n$$
+
+donde ahora $u_1, \dots u_n$ son funciones, y estas se obtienen al resolver un sistema de ecuaciones.
+
+Si la ecuación es de orden 2, entonces obtenemos $u_1$ y $u_2$ resolviendo el sistema
+
+$$\begin{array}{c}
+u_1\:'f_1 & + & u_2\:'f_2 & = & 0\\
+u_1\:'f_1\:' & + & u_2\:'f_2\:' & = & g(x)
+\end{array}$$
+
+Si la ecuación es de orden 3, obtenemos $u_1$, $u_2$ y $u_3$ resolviendo el sistema:
+
+$$\begin{array}{c}
+u_1\:'f_1 & + & u_2\:'f_2 & = & 0 \\
+u_1\:'f_1\:' & + & u_2\:'f_2\:' & = & 0 \\
+u_1\:'f_1\:'' & + & u_2\:'f_2\:'' & = & g(x)
+\end{array}$$
+El sistema es análogo para ecuaciones de grado superior
+
+Notemos que al resolver el sistema, se obtiene las derivadas de $u_1,\dots, u_n$, por lo que posteriormente se debe intregrar.
