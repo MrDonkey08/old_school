@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "3b9c53d94dc4b9b9",
+            "id": "eaea6007431ddebf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "-Tercero/Sistemas Digitales/Tareas/Portada.md",
+                "file": "-Tercero/Ecuaciones Diferenciales/Apuntes de clase/Segundo Parcial/Independencia Lineal.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,16 +34,24 @@
             }
           },
           {
-            "id": "eaea6007431ddebf",
+            "id": "120ef9aca5bdf0e6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Formularios/Circuitos electrónicos y electromagnetismo.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
+            }
+          },
+          {
+            "id": "b467b33e2d5c6fe6",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -98,7 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 260.5026054382324
+    "width": 314.51103591918945
   },
   "right": {
     "id": "4b702cc4fb11ac6c",
@@ -170,8 +178,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 333.5,
-    "collapsed": true
+    "width": 333.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -188,21 +195,29 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "eaea6007431ddebf",
+  "active": "120ef9aca5bdf0e6",
   "lastOpenFiles": [
-    "-Tercero/Circuitos/Práctica 4/Project Backups/figura 4-5 [20230412, 13-07-47].pdsprj",
-    "-Tercero/Circuitos/Práctica 4/Project Backups/figura 4-5 [20230412, 13-07-30].pdsprj",
-    "-Tercero/Circuitos/Práctica 4/Project Backups/figura 4-5 [Autosaved].pdsprj",
-    "-Tercero/Circuitos/Práctica 4/figura 4-5.pdsprj",
-    "-Tercero/Circuitos/Práctica 4/Project Backups/figura 4-4 [20230412, 12-24-53].pdsprj",
-    "-Tercero/Circuitos/Práctica 4/Project Backups/figura 4-4 [20230412, 12-24-13].pdsprj",
-    "-Tercero/Circuitos/Práctica 4/Project Backups/figura 4-4 [Autosaved].pdsprj",
-    "-Tercero/Circuitos/Práctica 4/figura 4-4.pdsprj",
-    "-Tercero/Circuitos/Práctica 4/figura 4-3.pdsprj",
-    "-Tercero/Circuitos/Práctica 4/Project Backups",
+    "-Tercero/Circuitos/Práctica 4/figura 4-3.pdsprj.DESKTOP-9FAHEL3.Human Solutions.workspace",
+    "-Tercero/Circuitos/Prácticas/Untitled.md",
+    "Formularios/Circuitos electrónicos y electromagnetismo.md",
+    "-Tercero/Circuitos/Práctica 2/fig. 2-6.pdsprj.DESKTOP-9FAHEL3.Human Solutions.workspace",
+    "-Tercero/Circuitos/Práctica 2/Project Backups/fig. 2-6 [20230413, 18-58-49].pdsprj",
+    "-Tercero/Circuitos/Práctica 2/Project Backups/fig. 2-6 [20230413, 18-58-48].pdsprj",
+    "-Tercero/Circuitos/Práctica 2/Project Backups/fig. 2-6 [Autosaved].pdsprj",
+    "-Tercero/Circuitos/Práctica 2/fig. 2-6.pdsprj",
+    "-Tercero/Circuitos/Práctica 2/Project Backups/fig. 2-5 [20230413, 18-52-27].pdsprj",
+    "-Tercero/Circuitos/Práctica 2/fig. 2-5.pdsprj",
+    "-Tercero/Circuitos/Práctica 2/Project Backups/fig. 2-4 [20230413, 18-49-14].pdsprj",
+    "-Tercero/Circuitos/Práctica 2/Project Backups/fig. 2-4 [20230413, 18-49-13].pdsprj",
+    "-Tercero/Circuitos/Práctica 2/Project Backups/fig. 2-4 [20230413, 18-48-17].pdsprj",
+    "-Tercero/Ecuaciones Diferenciales/Apuntes de clase/Segundo Parcial/Independencia Lineal.md",
     "-Tercero/Circuitos/Práctica 4/Practica 4 Leyes de Kirchhoff.md",
-    "-Tercero/Circuitos/Práctica 4/Attachments/fig.-4-6.png",
+    "-Tercero/Ecuaciones Diferenciales/Apuntes de clase/Segundo Parcial/Apuntes Segundo Parcial.md",
+    "-Tercero/Ecuaciones Diferenciales/Apuntes de clase/Segundo Parcial/Conjunto Fundamental de Soluciones.md",
+    "-Tercero/Ecuaciones Diferenciales/Apuntes de clase/Segundo Parcial/Transformada de Laplace.md",
+    "-Tercero/Ecuaciones Diferenciales/Apuntes de clase/Segundo Parcial/Variación de Parámetros.md",
     "-Tercero/Sistemas Digitales/Tareas/Portada.md",
+    "-Tercero/Circuitos/Práctica 4/Attachments/fig.-4-6.png",
     "-Tercero/Circuitos/Práctica 4/Attachments/fig.-4-5.png",
     "-Tercero/Circuitos/Práctica 4/Attachments/fig.-4-4.png",
     "-Tercero/Circuitos/Práctica 4/Attachments/fig.-4-2.png",
@@ -210,16 +225,10 @@
     "-Tercero/Circuitos/Práctica 4/Attachments/fig. 4-3.png",
     "-Tercero/Circuitos/Práctica 4/Attachments/fig.-4-1.png",
     "-Tercero/Circuitos/Práctica 4/Attachments/fig.-4-1.png",
-    "-Tercero/Circuitos/Práctica 4/Attachments",
     "Formularios/Precálculo.md",
-    "-Tercero/Ecuaciones Diferenciales/Apuntes de clase/Segundo Parcial/Independencia Lineal.md",
-    "-Tercero/Ecuaciones Diferenciales/Apuntes de clase/Segundo Parcial/Variación de Parámetros.md",
-    "-Tercero/Ecuaciones Diferenciales/Apuntes de clase/Segundo Parcial/Conjunto Fundamental de Soluciones.md",
-    "-Tercero/Ecuaciones Diferenciales/Apuntes de clase/Segundo Parcial/Apuntes Segundo Parcial.md",
     "Formularios/Leyes.md",
     "Formularios/Conjuntos y lógica matemática - símbolos.md",
     "Formularios/Formulario Cinemática y Leyes de Newton.md",
-    "-Tercero/Ecuaciones Diferenciales/Apuntes de clase/Segundo Parcial/Transformada de Laplace.md",
     "-Tercero/Ecuaciones Diferenciales/Apuntes de clase/Primer Parcial/Untitled 2.md",
     "-Tercero/Ecuaciones Diferenciales/Apuntes de clase/Primer Parcial/Untitled.md",
     "Untitled.md",
@@ -231,10 +240,8 @@
     "-Segundo/Matemáticas Discretas/Tareas/Tarea 4.3.md",
     "-Segundo/Matemáticas Discretas/Tareas/Tarea 4.4.md",
     "-Tercero/Circuitos/Actividad 5.md",
-    "-Tercero/Circuitos/Prácticas/Untitled.md",
     "Formularios/Attachments/Leyes de Implicación.jpg",
     "Formularios/Attachments/Formulario-4.png",
-    "Attachments/Excalidraw/Organigrama.excalidraw.md",
-    "Attachments/Excalidraw/FODA 2023-02-28 11.27.25.excalidraw.md"
+    "Attachments/Excalidraw/Organigrama.excalidraw.md"
   ]
 }
