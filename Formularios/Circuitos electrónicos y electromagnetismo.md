@@ -8,13 +8,14 @@ tags: formulario/circuitos, glosario/circuitos
 creation date: 14-03-2023
 last modification date: 15-03-2023
 
-type: Note
+type: Formulario, Guía de Estudio
+---
 ---
 
----
 # Guía de estudio: Circuitos electrónicos y electromagnetismo
 
 ---
+
 ## Ley de ohm
 
 | Nombre                                      | Concepto                    | Símbolo |  Equivalencia  | Nombre de unidad | Símbolo de unidad |
@@ -24,6 +25,7 @@ type: Note
 | Intensidad / Corriente /                    | Rapidez del flujo           |   $I$   | $\cfrac{V}{R}$ | amper / amperio  |        $A$        |
 
  ---
+ 
 ## Código de cólores para resistencias
 
 En la actualidad, las **resistencias** vienen con un **código de colores** para indicar su **valor**. Este código consta de 3, 4, 5 o hasta 6 franjas, siendo 4 el más común.
@@ -62,15 +64,34 @@ Donde:
 > $$R = R_0 \left[1+\alpha \left(T-T_0\right)\right]$$, donde:
 > 
 > - $\alpha =$ **coeficiente de temperatura**
-> - $R_0$ = **Resistencia inicial**, es decir, la que se obtuvo con la temperatura inicial
+> - $R_0 =$  **Resistencia inicial**, es decir, la que se obtuvo con la temperatura inicial
 > - $T_0 =$ **Temperatura inicial**, es decir, la temperatura con la que se obtuvo la **resistencia inicial**
 > - $R =$ **Resistencia** tomando en cuenta la temperatura
-> - $T$ = **Temperatura** a la que se encuentra la resistencia
+> - $T =$  **Temperatura** a la que se encuentra la resistencia
 
 <div style="page-break-after: always;"></div>
 
 ---
-## Referencias
+
+## Valor teórico y experimental
+
+En la construcción de circuitos electrónicos nos encontramos con dos tipos de valores:
+- **Valor teórico o ideal**: Respecto a los _componentes del circuito_, son aquellos _valores_ que vienen en su diagrama. Los **valores calculados**, (resistencia, amperaje, voltaje, etc.) también son **valores teóricos**.
+- **Valor real o experimental**: Son aquellos _valores_ que se encuentran al construir el circuito. Estos _valores_ se encuentran al _medir_ las _magnitudes_ de los _componentes_ y las _magnitudes_ del circuito con herramientas tal como el _amperímetro_, el _voltímetro_, el _ohmímetro_ o el _multímetro_.
+
+
+---
+
+### Porcentaje de error
+
+El **porcentaje de error** es una métrica que nos permite saber cuánto error hubo en los _valores_ conseguidos del circuito. Esta métrica se consigue al relacionar los **valores teóricos** con los **valores experimentales** de la siguiente manera:
+
+$$\%\text{error} = \frac{|\text{Valor teórico} - \text{Valor experimental}|}{\text{Valor teórico}} \times 100$$
+
+
+
+---
+# Referencias
 
 - https://www.youtube.com/watch?v=ZakHnvGVxLk
 - http://hyperphysics.phy-astr.gsu.edu/hbasees/electric/restmp.html
