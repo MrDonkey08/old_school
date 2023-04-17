@@ -214,6 +214,8 @@ Porcentaje de error:
 
 2. Complete la figura 4-7 de forma que quede un circuito completo
 
+![fig. 4-7| center](Attachments/fig.-4-7.png)
+
 3. ¿Se quemaría un amperímetro de la fig 4-7 si se conectara la polaridad invertida?
 
 
