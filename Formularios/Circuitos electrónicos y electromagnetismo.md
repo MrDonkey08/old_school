@@ -18,11 +18,11 @@ type: Formulario, Guía de Estudio
 
 ## Ley de ohm
 
-| Nombre                                      | Concepto                    | Símbolo |  Equivalencia  | Nombre de unidad | Símbolo de unidad |
-|:------------------------------------------- |:--------------------------- |:-------:|:--------------:|:----------------:|:-----------------:|
-| Voltaje / Tensión / Diferencia de potencial | Fuerza  / Impulso del flujo |   $V$   |   $R\cdot I$   |  volt / voltio   |        $V$        |
-| Resistencia                                 | Resistencia del flujo       |   $R$   | $\cfrac{V}{I}$ |   ohm / ohmio    |      $\ohm$       |
-| Intensidad / Corriente /                    | Rapidez del flujo           |   $I$   | $\cfrac{V}{R}$ | amper / amperio  |        $A$        |
+| Nombre                                      | Concepto                    | Símbolo |  Equivalencia  |     Unidad      | Símbolo de unidad |
+|:------------------------------------------- |:--------------------------- |:-------:|:--------------:|:---------------:|:-----------------:|
+| Voltaje / Tensión / Diferencia de potencial | Fuerza  / Impulso del flujo |   $V$   |   $R\cdot I$   |  volt / voltio  |        $V$        |
+| Resistencia                                 | Resistencia del flujo       |   $R$   | $\cfrac{V}{I}$ |   ohm / ohmio   |      $\ohm$       |
+| Intensidad / Corriente /                    | Rapidez del flujo           |   $I$   | $\cfrac{V}{R}$ | amper / amperio |        $A$        |
 
  ---
  
@@ -55,13 +55,13 @@ En la actualidad, las **resistencias** vienen con un **código de colores** para
 
 Donde: 
 
-- La **cifras** se multiplica por la **escala** para obtener el _valor de la resistencia_, el _valor ideal_.
+- El _número_ formado por los **dígitos** se multiplican por la **escala** para obtener el _valor de la resistencia_, el _valor ideal_.
 - La **tolerancia** indica cuánto puede variar (tanto por arriba como por debajo) el _valor de la resistencia_.
 - El **coeficiente de temperatura** ($\alpha$) indica la *variación del valor de la resistencia* tomando en cuenta su *temperatura*.
 
 > [!Note] Resistencia dependiente de la temperatura
 > 
-> $$R = R_0 \left[1+\alpha \left(T-T_0\right)\right]$$, donde:
+> $$R = R_0 \left[1+\alpha \left(T-T_0\right)\right]$$ donde:
 > 
 > - $\alpha =$ **coeficiente de temperatura**
 > - $R_0 =$  **Resistencia inicial**, es decir, la que se obtuvo con la temperatura inicial
