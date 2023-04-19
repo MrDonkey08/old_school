@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "03aaae3b129e499d",
+        "id": "d1324a2eeaabac79",
         "type": "tabs",
         "children": [
           {
-            "id": "eaea6007431ddebf",
+            "id": "b57980fda8357474",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "-Tercero/Ecuaciones Diferenciales/Apuntes de clase/Segundo Parcial/Variación de Parámetros.md",
+                "file": "-Tercero/Sistemas Digitales/Class Note/Untitled 1.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -21,25 +21,12 @@
             }
           },
           {
-            "id": "6e1ee0dfdd10bf38",
+            "id": "d65614be31b79f75",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Formularios/Precálculo.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "39232009d0b1563f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "-Primero/Precálculo/Class Notes/1. El conjunto de los números reales.md",
+                "file": "Formularios/Circuitos electrónicos y electromagnetismo.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,20 +34,19 @@
             }
           },
           {
-            "id": "e7f7389c506470b0",
+            "id": "f2dee89018265292",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Formularios/Conjuntos y lógica matemática - símbolos.md",
+                "file": "-Tercero/Sistemas Digitales/Tareas/8. Sumador completo FA.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,8 +97,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 314.51103591918945,
-    "collapsed": true
+    "width": 260.5026054382324
   },
   "right": {
     "id": "4b702cc4fb11ac6c",
@@ -136,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Formularios/Conjuntos y lógica matemática - símbolos.md",
+                "file": "-Tercero/Sistemas Digitales/Class Note/Untitled 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Formularios/Conjuntos y lógica matemática - símbolos.md",
+                "file": "-Tercero/Sistemas Digitales/Class Note/Untitled 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Formularios/Conjuntos y lógica matemática - símbolos.md"
+                "file": "-Tercero/Sistemas Digitales/Class Note/Untitled 1.md"
               }
             }
           },
@@ -189,6 +174,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-matrix:Obsidian Matrix": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
       "audio-recorder:Start/stop recording": false,
@@ -198,58 +184,56 @@
       "random-note:Open random note": false,
       "workspaces:Manage workspace layouts": false,
       "oz-clear-unused-images:Clear Unused Images": false,
-      "obsidian-full-calendar:Open Full Calendar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-matrix:Obsidian Matrix": false
+      "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "e7f7389c506470b0",
+  "active": "b57980fda8357474",
   "lastOpenFiles": [
-    "Formularios/Precálculo.md",
-    "-Primero/Precálculo/Class Notes/1. El conjunto de los números reales.md",
-    "-Tercero/Ecuaciones Diferenciales/Apuntes de clase/Segundo Parcial/Variación de Parámetros.md",
-    "Formularios/Conjuntos y lógica matemática - símbolos.md",
-    "-Primero/Precálculo/Class Notes/16. Fracciones Parciales.md",
-    "-Primero/Precálculo/Class Notes/18. Ecuaciones Expeciales.md",
-    "-Primero/Precálculo/Class Notes/6. Binomio de Newton.md",
-    "-Primero/Precálculo/Class Notes/5. Polinomios y sus operaciones.md",
-    "-Primero/Precálculo/Class Notes/4. Números complejos.md",
-    "-Primero/Precálculo/Class Notes/3. Polinomios y sus operaciones.md",
-    "-Primero/Precálculo/Class Notes/2. Exponentes.md",
-    "-Primero/Precálculo/Class Notes/Untitled.md",
-    "Untitled 1.md",
-    "Untitled.md",
-    "-Tercero/Ecuaciones Diferenciales/Apuntes de clase/Segundo Parcial/Apuntes Segundo Parcial.md",
-    "-Tercero/Ecuaciones Diferenciales/Apuntes de clase/Segundo Parcial/Independencia Lineal.md",
-    "Formularios/Formulario Cinemática y Leyes de Newton.md",
-    "Formularios/Leyes.md",
-    "-Tercero/Ecuaciones Diferenciales/Apuntes de clase/Segundo Parcial/Transformada de Laplace.md",
-    "-Tercero/Ecuaciones Diferenciales/Apuntes de clase/Segundo Parcial/Conjunto Fundamental de Soluciones.md",
     "Formularios/Circuitos electrónicos y electromagnetismo.md",
-    "-Tercero/Circuitos/Práctica 4/Attachments/fig.-4-7.png",
+    "-Tercero/Sistemas Digitales/Tareas/8. Sumador completo FA.md",
+    "-Tercero/Sistemas Digitales/Class Note/Untitled 1.md",
+    "-Tercero/Sistemas Digitales/Class Note/Attachments/Pasted image 20230419085147.png",
+    "-Tercero/Sistemas Digitales/Class Note/Attachments/Pasted image 20230419085139.png",
+    "-Tercero/Sistemas Digitales/Class Note/Attachments/Pasted image 20230419085131.png",
+    "-Tercero/Sistemas Digitales/Class Note/Attachments/Pasted image 20230419084938.png",
+    "-Tercero/Sistemas Digitales/Class Note/Attachments/Pasted image 20230419084923.png",
+    "-Tercero/Sistemas Digitales/Class Note/Attachments/Pasted image 20230419084853.png",
+    "-Tercero/Sistemas Digitales/Class Note/Attachments",
+    "-Primero/Precálculo/Class Notes/16. Fracciones Parciales.md",
+    "-Primero\\Precálculo\\Class Notes",
+    "Untitled 1.md",
+    "-Tercero\\Ecuaciones Diferenciales\\Apuntes de clase\\Segundo Parcial",
+    "Untitled.md",
+    "Attachments\\Templates",
+    "Attachments/Excalidraw/Organigrama.excalidraw.md",
+    "Attachments/Excalidraw/Organigrama.excalidraw 1.md",
+    "Attachments\\Excalidraw",
+    "-Tercero/Ecuaciones Diferenciales/Apuntes de clase/Segundo Parcial/Variación de Parámetros.md",
+    "-Tercero/Ecuaciones Diferenciales/Apuntes de clase/Segundo Parcial/Transformada de Laplace.md",
+    "-Tercero/Ecuaciones Diferenciales/Apuntes de clase/Segundo Parcial/Independencia Lineal.md",
+    "-Tercero/Ecuaciones Diferenciales/Apuntes de clase/Segundo Parcial/Conjunto Fundamental de Soluciones.md",
+    "-Tercero/Ecuaciones Diferenciales/Apuntes de clase/Segundo Parcial/Apuntes Segundo Parcial.md",
+    "-Tercero/Ecuaciones Diferenciales/Apuntes de clase/Segundo Parcial",
+    "-Tercero/Ecuaciones Diferenciales/Apuntes de clase/Primer Parcial/Untitled.md",
+    "-Tercero/Ecuaciones Diferenciales/Apuntes de clase/Primer Parcial/Untitled 2.md",
+    "-Tercero/Ecuaciones Diferenciales/Apuntes de clase/Primer Parcial",
+    "-Tercero\\Ecuaciones Diferenciales\\Apuntes de clase\\Primer Parcial",
+    "-Tercero/Circuitos/Práctica 4/figura 4-6.pdsprj",
+    "-Tercero/Circuitos/Práctica 4/figura 4-5.pdsprj",
+    "-Tercero/Circuitos/Práctica 4/Practica 4 Leyes de Kirchhoff.md",
     "-Tercero/Circuitos/Práctica 4/Drawing 2023-04-16 13.23.07.excalidraw.png",
     "-Tercero/Circuitos/Práctica 4/Drawing 2023-04-16 13.23.07.excalidraw.md",
-    "-Tercero/Circuitos/Práctica 4/Practica 4 Leyes de Kirchhoff.md",
-    "-Tercero/Circuitos/Práctica 4/Attachments/Pasted Image 20230416132407_726.jpg",
-    "-Tercero/Circuitos/Práctica 4/Drawing 2023-04-16 13.17.32.excalidraw.md",
-    "-Tercero/Circuitos/Práctica 4/Attachments/Pasted Image 20230416132157_442.png",
-    "-Tercero/Circuitos/Práctica 4/Attachments/Pasted image 20230416131949.png",
-    "-Tercero/Circuitos/Práctica 4/Attachments/Pasted image 20230416131924.png",
-    "-Tercero/Circuitos/Práctica 4/Attachments/Pasted Image 20230416131848_008.jpg",
-    "-Tercero/Circuitos/Práctica 4/figura 4-7.pdsprj.DESKTOP-9FAHEL3.Human Solutions.workspace",
-    "-Tercero/Circuitos/Práctica 4/Project Backups/figura 4-7 [20230416, 12-16-10].pdsprj",
-    "-Tercero/Circuitos/Práctica 4/Project Backups",
-    "-Tercero/Circuitos/Práctica 4/figura 4-7.pdsprj",
-    "-Tercero/Circuitos/Práctica 4/New Text Document.txt",
-    "-Tercero/Circuitos/Práctica 4/figura 4-3.pdsprj.DESKTOP-9FAHEL3.Human Solutions.workspace",
-    "-Tercero/Circuitos/Prácticas/Untitled.md",
-    "-Tercero/Circuitos/Práctica 2/fig. 2-6.pdsprj.DESKTOP-9FAHEL3.Human Solutions.workspace",
-    "-Tercero/Circuitos/Práctica 2/Project Backups/fig. 2-6 [20230413, 18-58-49].pdsprj",
-    "-Tercero/Circuitos/Práctica 2/Project Backups/fig. 2-6 [20230413, 18-58-48].pdsprj",
-    "-Tercero/Circuitos/Práctica 2/Project Backups/fig. 2-6 [Autosaved].pdsprj",
-    "-Tercero/Sistemas Digitales/Tareas/Portada.md",
+    "-Tercero/Circuitos/Práctica 4/Attachments/fig.-4-7.png",
     "-Tercero/Circuitos/Práctica 4/Attachments/fig.-4-6.png",
     "-Tercero/Circuitos/Práctica 4/Attachments/fig.-4-5.png",
-    "-Tercero/Circuitos/Práctica 4/Attachments/fig.-4-4.png"
+    "-Tercero/Circuitos/Actividad 5.md",
+    "-Tercero/Programación Orientada en Objetos/Tareas/Tarea1_JuarezRubio_AlanYahir.md",
+    "-Tercero/Sistemas Digitales/Tareas/7. Medio sumador HA.md",
+    "-Primero/Introducción a la Ingeniería/Actividades/Citas y referencias.md",
+    "Formularios/Conjuntos y lógica matemática - símbolos.md",
+    "-Segundo/Expresión Oral y Escrita/Notes/Discurso.md",
+    "-Tercero/Programación Orientada en Objetos/Notas/Introducción a POO.md",
+    "-Tercero/Sistemas Digitales (Oyente)/Logica de Función Fija - 14-02-2023.md"
   ]
 }
