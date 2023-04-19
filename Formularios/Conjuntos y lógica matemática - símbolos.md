@@ -36,14 +36,16 @@ type: Note
 
 ### Clasificación de números
 
-| Símbolo | Nombre | Significado |
-|:-:|:-:|:-|
-|$\Bbb N$ | Números Naturales | $1,2,3\dots$ |
-| $\Bbb Z$ | Números Enteros | $\cdots-2,-1,0,1,2\cdots$ |
-| $\Bbb R$ | Números Reales | Todos los números: enteros y decimales positivos y negativos |
-| $\Bbb Q$ | Números Racionales | $\cfrac{a}{b}$, donde $a$ y $b$ son números enteros |
-| $\Bbb I$ | Números Imaginarios | Forma parte de los números complejos y son producto del número real por la unidad imaginaria $i$. Se define como $i=\sqrt{-1}$ | 
-| $\Bbb C$ | Números Complejos | Comprende los números reales y los imaginarios | 
+| Notación                                                         |         Nombre          | Símbolo                                                                                                                                      |
+|:---------------------------------------------------------------- |:-----------------------:| -------------------------------------------------------------------------------------------------------------------------------------------- |
+| $\Bbb{N} = \Bbb{N}_{1}= \Bbb{Z}^{+} = \{1, 2, 3,\dots\}$         |    Números Naturales    | Son el conjunto de números que sirven para contar.                                                                                           |
+| $\Bbb{N}_{0} = \Bbb{N}^{0} = \{0, 1, 2, 3,\dots\}$               | Números Naturales con 0 | -                                                                                                                                            |
+| $\Bbb Z = \{\dots, -2, -1, 0, 1, 2,\dots\}$                      |     Números Enteros     | Son el conjunto de números naturales, sus opuestos (negativos) y el cero.                                                                    |
+| $\Bbb Q = \left\{\frac {p}{q} \mid \;p,q ∈ \Bbb{Z} \right\}$     |   Números Racionales    | Son el conjunto de números que se pueden representar con una razón (cociente) de dos enteros                                                 |
+| $\Bbb{I} = \{a \mid a \in \Bbb{R}, a \notin \Bbb{Q}\}$ |  Números Irracionales   | Son el conjunto de números que tiene decimal infinito no periódico y, por lo tanto, no se puede representar como el cociente de dos enteros. |
+| $\Bbb R = \{a \mid a \in (-∞, ∞)\}$                                               |     Números Reales      | Es el conjunto que contiene a los números racionales e irracionales.                                                                         |
+| $I = \{bi \mid b \in \Bbb{R}, i \in I\}$      |   Números Imaginarios   | Son producto del número real por la unidad imaginaria $i$. Se define como $i=\sqrt{-1}$                                                      |
+| $\Bbb C = \{a+bi \mid a \in \Bbb{R}, bi \in I\}$       |    Números Complejos    | Comprende los números reales y los imaginarios.                                                                                              |
 
 ### Relaciones
 
@@ -75,19 +77,20 @@ type: Note
 
 ### Conectores lógicos
 
-|                      Símbolo                       |        Nombre         | Significado                          |
-|:--------------------------------------------------:|:---------------------:| ------------------------------------ |
-|                $\neg,\sim, !, \:', \overline{}$                 |       Negación        | no                                   |
-|                $\wedge, \&, \cdot$                 |      Conjunción       | y                                    |
-|                $\vee, +, \mid\mid$                 |      Disyunción       | o                                    |
-|              $\to, \implies, \supset$              |      Condicional      | si..., entonces, implica             |
-|     $\leftrightarrow, \equiv, \Leftrightarrow$     |     Bicondicional     | si y solo si                         |
-|                    $\downarrow$                    |   Negación conjunta   | ni... ni                             |
-| $\nleftrightarrow, \oplus, \not\equiv, W, \veebar$ | Disyunción excluyente | o bien... o bien                     |
-|                    $\therefore$                    |      Conclusión       | luego, por lo tanto, en consecuencia |
-|                     $\because$                     |        Porque         | -                                    |
-|                   $\top,$ T $,1$                   |      Tautología       | siempre verdadero                    |
-|                   $\bot,$ F$,0$                    |     Contradicción     | siempre falso                        |
+|                      Símbolo                       |                Ejemplo                | Nombre                | Significado                          |
+|:--------------------------------------------------:|:-------------------------------------:| --------------------- | ------------------------------------ |
+|          $\neg ,\sim , !, ', \overline{}$          | $\neg P,\sim P, !P, P', \overline{P}$ | Negación              | no                                   |
+|                $\wedge, \&, \cdot$                 |             $P \wedge Q$              | Conjunción            | y                                    |
+|                $\vee, +, \mid\mid$                 |              $P \vee Q$               | Disyunción            | o                                    |
+|               $\to,\implies,\supset$               |               $P \to Q$               | Condicional           | si..., entonces, implica             |
+|     $\leftrightarrow, \equiv, \Leftrightarrow$     |         $P \leftrightarrow Q$         | Bicondicional         | si y solo si                         |
+|                    $\downarrow$                    |           $P \downarrow Q$            | Negación conjunta     | ni... ni                             |
+| $\nleftrightarrow, \oplus, \not\equiv, W, \veebar$ |        $P \nleftrightarrow Q$         | Disyunción excluyente | o bien... o bien                     |
+|                    $\therefore$                    |           $P \therefore Q$            | Conclusión            | luego, por lo tanto, en consecuencia |
+|                     $\because$                     |            $P \because Q$             | Porque                | -                                    |
+|                   $\top,$ T $,1$                   |                   -                   | Tautología            | siempre verdadero                    |
+|                   $\bot,$ F$,0$                    |                   -                   | Contradicción         | siempre falso                        |
+|                                                    |                   -                   |                       |                                      |
 
 ---
 
@@ -97,5 +100,9 @@ type: Note
 - Wikipedia (s.f.). _Símbolos lógicos_. https://es.wikipedia.org/wiki/Anexo:S%C3%ADmbolos_l%C3%B3gicos
 - Wikipedia (s.f.). _Álgebra de conjuntos_. https://es.wikipedia.org/wiki/Operaciones_con_conjuntos)
 - [Rodó, P.](https://economipedia.com/author/P.rodo) (01 de agosto, 2020). _Números imaginarios_. https://economipedia.com/definiciones/numeros-imaginarios.html)
+- https://en.wikipedia.org/wiki/Natural_number
+- https://economipedia.com/definiciones/numeros-reales.html
+- https://es.wikipedia.org/wiki/N%C3%BAmero_natural
+- https://www.quora.com/What-is-the-symbol-for-the-set-of-Irrational-numbers
 <!-- https://es.wikipedia.org/wiki/Teor%C3%ADa_de_conjuntos -->
 
