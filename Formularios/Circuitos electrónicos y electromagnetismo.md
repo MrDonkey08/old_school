@@ -1,4 +1,4 @@
----
+	X---
 title: Circuitos electrónicos y electromagnetismo
 author: Alan Yahir Juárez Rubio
 
