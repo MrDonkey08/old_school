@@ -36,7 +36,7 @@ type: Note
 
 ### Clasificación de números
 
-| Notación                                                         |         Nombre          | Símbolo                                                                                                                                      |
+| Notación                                                         |         Nombre          | Definición                                                                                                                                      |
 |:---------------------------------------------------------------- |:-----------------------:| -------------------------------------------------------------------------------------------------------------------------------------------- |
 | $\Bbb{N} = \Bbb{N}_{1}= \Bbb{Z}^{+} = \{1, 2, 3,\dots\}$         |    Números Naturales    | Son el conjunto de números que sirven para contar.                                                                                           |
 | $\Bbb{N}_{0} = \Bbb{N}^{0} = \{0, 1, 2, 3,\dots\}$               | Números Naturales con 0 | -                                                                                                                                            |
