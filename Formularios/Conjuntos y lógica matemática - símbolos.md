@@ -6,7 +6,7 @@ aliases: formulario, simbolario
 tags: logica matematica/formulario, matematicas discrestas/formulario, formulario/matematicas discretas, formulario/logica matematica
 
 creation date: 14-02-2023
-last modification date: 11-03-2023
+last modification date: 19-04-2023
 
 type: Note
 ---
@@ -100,6 +100,7 @@ type: Note
 - Wikipedia (s.f.). _Símbolos lógicos_. https://es.wikipedia.org/wiki/Anexo:S%C3%ADmbolos_l%C3%B3gicos
 - Wikipedia (s.f.). _Álgebra de conjuntos_. https://es.wikipedia.org/wiki/Operaciones_con_conjuntos)
 - [Rodó, P.](https://economipedia.com/author/P.rodo) (01 de agosto, 2020). _Números imaginarios_. https://economipedia.com/definiciones/numeros-imaginarios.html)
+- https://es.wikipedia.org/wiki/Anexo:S%C3%ADmbolos_matem%C3%A1ticos
 - https://en.wikipedia.org/wiki/Natural_number
 - https://economipedia.com/definiciones/numeros-reales.html
 - https://es.wikipedia.org/wiki/N%C3%BAmero_natural
