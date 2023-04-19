@@ -32,9 +32,35 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "39232009d0b1563f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "-Primero/Precálculo/Class Notes/1. El conjunto de los números reales.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e7f7389c506470b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Formularios/Conjuntos y lógica matemática - símbolos.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Formularios/Precálculo.md",
+                "file": "Formularios/Conjuntos y lógica matemática - símbolos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Formularios/Precálculo.md",
+                "file": "Formularios/Conjuntos y lógica matemática - símbolos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Formularios/Precálculo.md"
+                "file": "Formularios/Conjuntos y lógica matemática - símbolos.md"
               }
             }
           },
@@ -177,15 +203,24 @@
       "obsidian-matrix:Obsidian Matrix": false
     }
   },
-  "active": "6e1ee0dfdd10bf38",
+  "active": "e7f7389c506470b0",
   "lastOpenFiles": [
-    "Untitled 1.md",
-    "Untitled.md",
     "-Tercero/Ecuaciones Diferenciales/Apuntes de clase/Segundo Parcial/Variación de Parámetros.md",
     "Formularios/Precálculo.md",
+    "Formularios/Conjuntos y lógica matemática - símbolos.md",
+    "-Primero/Precálculo/Class Notes/1. El conjunto de los números reales.md",
+    "-Primero/Precálculo/Class Notes/16. Fracciones Parciales.md",
+    "-Primero/Precálculo/Class Notes/18. Ecuaciones Expeciales.md",
+    "-Primero/Precálculo/Class Notes/6. Binomio de Newton.md",
+    "-Primero/Precálculo/Class Notes/5. Polinomios y sus operaciones.md",
+    "-Primero/Precálculo/Class Notes/4. Números complejos.md",
+    "-Primero/Precálculo/Class Notes/3. Polinomios y sus operaciones.md",
+    "-Primero/Precálculo/Class Notes/2. Exponentes.md",
+    "-Primero/Precálculo/Class Notes/Untitled.md",
+    "Untitled 1.md",
+    "Untitled.md",
     "-Tercero/Ecuaciones Diferenciales/Apuntes de clase/Segundo Parcial/Apuntes Segundo Parcial.md",
     "-Tercero/Ecuaciones Diferenciales/Apuntes de clase/Segundo Parcial/Independencia Lineal.md",
-    "Formularios/Conjuntos y lógica matemática - símbolos.md",
     "Formularios/Formulario Cinemática y Leyes de Newton.md",
     "Formularios/Leyes.md",
     "-Tercero/Ecuaciones Diferenciales/Apuntes de clase/Segundo Parcial/Transformada de Laplace.md",
@@ -215,15 +250,6 @@
     "-Tercero/Sistemas Digitales/Tareas/Portada.md",
     "-Tercero/Circuitos/Práctica 4/Attachments/fig.-4-6.png",
     "-Tercero/Circuitos/Práctica 4/Attachments/fig.-4-5.png",
-    "-Tercero/Circuitos/Práctica 4/Attachments/fig.-4-4.png",
-    "-Tercero/Ecuaciones Diferenciales/Apuntes de clase/Primer Parcial/Untitled 2.md",
-    "-Tercero/Ecuaciones Diferenciales/Apuntes de clase/Primer Parcial/Untitled.md",
-    "Formularios/Cálculo.md",
-    "-Tercero/Programación Orientada en Objetos/Notas de clase/13-02-2023.md",
-    "-Tercero/Programación Orientada en Objetos/Notas/Introducción a POO.md",
-    "-Segundo/Programación Estructurada/Divisibilidad.md",
-    "-Segundo/Programación Estructurada/Estructura secuencial.md",
-    "-Segundo/Matemáticas Discretas/Tareas/Tarea 4.3.md",
-    "-Segundo/Matemáticas Discretas/Tareas/Tarea 4.4.md"
+    "-Tercero/Circuitos/Práctica 4/Attachments/fig.-4-4.png"
   ]
 }
