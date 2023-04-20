@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "-Tercero/Sistemas Digitales/Class Note/Untitled 1.md",
-                "mode": "preview",
+                "file": "-Tercero/Sistemas Digitales/Class Note/Compardor de 2 palabras.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -45,8 +45,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "980df134e71a95ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Formularios/Precálculo.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -121,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "-Tercero/Sistemas Digitales/Class Note/Untitled 1.md",
+                "file": "Formularios/Precálculo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "-Tercero/Sistemas Digitales/Class Note/Untitled 1.md",
+                "file": "Formularios/Precálculo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "-Tercero/Sistemas Digitales/Class Note/Untitled 1.md"
+                "file": "Formularios/Precálculo.md"
               }
             }
           },
@@ -188,11 +202,17 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "b57980fda8357474",
+  "active": "980df134e71a95ed",
   "lastOpenFiles": [
+    "-Tercero/Sistemas Digitales/Class Note/Compardor de 2 palabras.md",
+    "-Tercero/Sistemas Digitales/Tareas/Project Backups/Comparador de 2 palabras [20230419, 13-52-42].pdsprj",
+    "-Tercero/Sistemas Digitales/Tareas/Comparador de 2 palabras.pdsprj.LAPTOP-0P58E1L1.HP.workspace",
+    "-Tercero/Sistemas Digitales/Tareas/Project Backups/Comparador de 2 palabras [20230419, 13-37-37].pdsprj",
+    "-Tercero/Sistemas Digitales/Tareas/Project Backups/Comparador de 2 palabras [Autosaved].pdsprj",
+    "-Tercero/Sistemas Digitales/Tareas/Comparador de 2 palabras.pdsprj",
+    "-Tercero/Sistemas Digitales/Tareas/Project Backups",
     "Formularios/Circuitos electrónicos y electromagnetismo.md",
     "-Tercero/Sistemas Digitales/Tareas/8. Sumador completo FA.md",
-    "-Tercero/Sistemas Digitales/Class Note/Untitled 1.md",
     "-Tercero/Sistemas Digitales/Class Note/Attachments/Pasted image 20230419085147.png",
     "-Tercero/Sistemas Digitales/Class Note/Attachments/Pasted image 20230419085139.png",
     "-Tercero/Sistemas Digitales/Class Note/Attachments/Pasted image 20230419085131.png",
@@ -208,19 +228,13 @@
     "Attachments\\Templates",
     "Attachments/Excalidraw/Organigrama.excalidraw.md",
     "Attachments/Excalidraw/Organigrama.excalidraw 1.md",
-    "Attachments\\Excalidraw",
     "-Tercero/Ecuaciones Diferenciales/Apuntes de clase/Segundo Parcial/Variación de Parámetros.md",
     "-Tercero/Ecuaciones Diferenciales/Apuntes de clase/Segundo Parcial/Transformada de Laplace.md",
     "-Tercero/Ecuaciones Diferenciales/Apuntes de clase/Segundo Parcial/Independencia Lineal.md",
     "-Tercero/Ecuaciones Diferenciales/Apuntes de clase/Segundo Parcial/Conjunto Fundamental de Soluciones.md",
     "-Tercero/Ecuaciones Diferenciales/Apuntes de clase/Segundo Parcial/Apuntes Segundo Parcial.md",
-    "-Tercero/Ecuaciones Diferenciales/Apuntes de clase/Segundo Parcial",
     "-Tercero/Ecuaciones Diferenciales/Apuntes de clase/Primer Parcial/Untitled.md",
     "-Tercero/Ecuaciones Diferenciales/Apuntes de clase/Primer Parcial/Untitled 2.md",
-    "-Tercero/Ecuaciones Diferenciales/Apuntes de clase/Primer Parcial",
-    "-Tercero\\Ecuaciones Diferenciales\\Apuntes de clase\\Primer Parcial",
-    "-Tercero/Circuitos/Práctica 4/figura 4-6.pdsprj",
-    "-Tercero/Circuitos/Práctica 4/figura 4-5.pdsprj",
     "-Tercero/Circuitos/Práctica 4/Practica 4 Leyes de Kirchhoff.md",
     "-Tercero/Circuitos/Práctica 4/Drawing 2023-04-16 13.23.07.excalidraw.png",
     "-Tercero/Circuitos/Práctica 4/Drawing 2023-04-16 13.23.07.excalidraw.md",
