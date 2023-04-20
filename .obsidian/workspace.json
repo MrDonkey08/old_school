@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d1324a2eeaabac79",
+        "id": "dd1d66e1ba95fcf7",
         "type": "tabs",
         "children": [
           {
-            "id": "b57980fda8357474",
+            "id": "e607677a1c1c0ba1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "-Tercero/Sistemas Digitales/Class Note/Compardor de 2 palabras.md",
+                "file": "-Tercero/Álgebra  Líneal/Regla de cramer.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "d65614be31b79f75",
+            "id": "21afa72ac2472a7a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Formularios/Circuitos electrónicos y electromagnetismo.md",
+                "file": "-Tercero/Ecuaciones Diferenciales/Apuntes de clase/Segundo Parcial/Apuntes Segundo Parcial.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,12 +34,12 @@
             }
           },
           {
-            "id": "f2dee89018265292",
+            "id": "79211f96a67aea38",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "-Tercero/Sistemas Digitales/Tareas/8. Sumador completo FA.md",
+                "file": "-Tercero/Álgebra  Líneal/Regla de cramer.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -47,12 +47,51 @@
             }
           },
           {
-            "id": "980df134e71a95ed",
+            "id": "dd81819aee827db6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Formularios/Precálculo.md",
+                "file": "Attachments/Templates/Bibliografía/APA/Libro impreso (edición o volumen).md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e150fc23f8bee2a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Attachments/Templates/Bibliografía/APA/Libro impreso.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a5db8f88b1060d26",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Attachments/Templates/Bibliografía/APA/Capítulo de un libro.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cfe71ffec780e1fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Attachments/Templates/Bibliografía/APA/Libro impreso.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -60,7 +99,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -111,7 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 260.5026054382324
+    "width": 314.51103591918945
   },
   "right": {
     "id": "4b702cc4fb11ac6c",
@@ -135,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Formularios/Precálculo.md",
+                "file": "-Tercero/Álgebra  Líneal/Regla de cramer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Formularios/Precálculo.md",
+                "file": "-Tercero/Álgebra  Líneal/Regla de cramer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Formularios/Precálculo.md"
+                "file": "-Tercero/Álgebra  Líneal/Regla de cramer.md"
               }
             }
           },
@@ -188,7 +227,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-matrix:Obsidian Matrix": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
       "audio-recorder:Start/stop recording": false,
@@ -198,56 +236,58 @@
       "random-note:Open random note": false,
       "workspaces:Manage workspace layouts": false,
       "oz-clear-unused-images:Clear Unused Images": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-full-calendar:Open Full Calendar": false
+      "obsidian-matrix:Obsidian Matrix": false
     }
   },
-  "active": "980df134e71a95ed",
+  "active": "14b31f7a61e09a38",
   "lastOpenFiles": [
-    "-Tercero/Sistemas Digitales/Class Note/Compardor de 2 palabras.md",
-    "-Tercero/Sistemas Digitales/Tareas/Project Backups/Comparador de 2 palabras [20230419, 13-52-42].pdsprj",
-    "-Tercero/Sistemas Digitales/Tareas/Comparador de 2 palabras.pdsprj.LAPTOP-0P58E1L1.HP.workspace",
-    "-Tercero/Sistemas Digitales/Tareas/Project Backups/Comparador de 2 palabras [20230419, 13-37-37].pdsprj",
-    "-Tercero/Sistemas Digitales/Tareas/Project Backups/Comparador de 2 palabras [Autosaved].pdsprj",
-    "-Tercero/Sistemas Digitales/Tareas/Comparador de 2 palabras.pdsprj",
-    "-Tercero/Sistemas Digitales/Tareas/Project Backups",
-    "Formularios/Circuitos electrónicos y electromagnetismo.md",
-    "-Tercero/Sistemas Digitales/Tareas/8. Sumador completo FA.md",
-    "-Tercero/Sistemas Digitales/Class Note/Attachments/Pasted image 20230419085147.png",
-    "-Tercero/Sistemas Digitales/Class Note/Attachments/Pasted image 20230419085139.png",
-    "-Tercero/Sistemas Digitales/Class Note/Attachments/Pasted image 20230419085131.png",
-    "-Tercero/Sistemas Digitales/Class Note/Attachments/Pasted image 20230419084938.png",
-    "-Tercero/Sistemas Digitales/Class Note/Attachments/Pasted image 20230419084923.png",
-    "-Tercero/Sistemas Digitales/Class Note/Attachments/Pasted image 20230419084853.png",
-    "-Tercero/Sistemas Digitales/Class Note/Attachments",
-    "-Primero/Precálculo/Class Notes/16. Fracciones Parciales.md",
-    "-Primero\\Precálculo\\Class Notes",
-    "Untitled 1.md",
-    "-Tercero\\Ecuaciones Diferenciales\\Apuntes de clase\\Segundo Parcial",
-    "Untitled.md",
-    "Attachments\\Templates",
-    "Attachments/Excalidraw/Organigrama.excalidraw.md",
-    "Attachments/Excalidraw/Organigrama.excalidraw 1.md",
+    "-Tercero/Álgebra  Líneal",
+    "-Tercero/Ecuaciones Diferenciales/Apuntes de clase/Segundo Parcial/Apuntes Segundo Parcial.md",
+    "-Tercero/Álgebra  Líneal/Regla de cramer.md",
+    "Attachments/Templates/Bibliografía/APA/Libro impreso (edición o volumen).md",
+    "Attachments/Templates/Bibliografía/APA/Libro impreso.md",
+    "Attachments/Templates/Bibliografía/APA/Capítulo de un libro.md",
+    "Attachments/Templates/Bibliografía/APA/Libro con editor.md",
+    "Attachments/Templates/Bibliografía/APA/Libro en línea.md",
+    "Attachments/Templates/Bibliografía/APA/Sitio Web Dinámico.md",
+    "Attachments/Templates/Bibliografía/APA/Dinamic Website.md",
+    "Formularios/Precálculo.md",
+    "-Tercero/Sistemas Digitales/Tareas/9. Compardor de 2 palabras.md",
     "-Tercero/Ecuaciones Diferenciales/Apuntes de clase/Segundo Parcial/Variación de Parámetros.md",
     "-Tercero/Ecuaciones Diferenciales/Apuntes de clase/Segundo Parcial/Transformada de Laplace.md",
-    "-Tercero/Ecuaciones Diferenciales/Apuntes de clase/Segundo Parcial/Independencia Lineal.md",
-    "-Tercero/Ecuaciones Diferenciales/Apuntes de clase/Segundo Parcial/Conjunto Fundamental de Soluciones.md",
-    "-Tercero/Ecuaciones Diferenciales/Apuntes de clase/Segundo Parcial/Apuntes Segundo Parcial.md",
-    "-Tercero/Ecuaciones Diferenciales/Apuntes de clase/Primer Parcial/Untitled.md",
-    "-Tercero/Ecuaciones Diferenciales/Apuntes de clase/Primer Parcial/Untitled 2.md",
-    "-Tercero/Circuitos/Práctica 4/Practica 4 Leyes de Kirchhoff.md",
-    "-Tercero/Circuitos/Práctica 4/Drawing 2023-04-16 13.23.07.excalidraw.png",
-    "-Tercero/Circuitos/Práctica 4/Drawing 2023-04-16 13.23.07.excalidraw.md",
-    "-Tercero/Circuitos/Práctica 4/Attachments/fig.-4-7.png",
-    "-Tercero/Circuitos/Práctica 4/Attachments/fig.-4-6.png",
-    "-Tercero/Circuitos/Práctica 4/Attachments/fig.-4-5.png",
-    "-Tercero/Circuitos/Actividad 5.md",
-    "-Tercero/Programación Orientada en Objetos/Tareas/Tarea1_JuarezRubio_AlanYahir.md",
-    "-Tercero/Sistemas Digitales/Tareas/7. Medio sumador HA.md",
-    "-Primero/Introducción a la Ingeniería/Actividades/Citas y referencias.md",
+    "-Tercero/Ecuaciones Diferenciales/Apuntes de clase/Primer Parcial/Untitled 1.md",
+    "-Tercero/Sistemas Digitales/Tareas/Attachments/6. Multiplexor.pdsprj.DESKTOP-9FAHEL3.Human Solutions.workspace",
+    "-Tercero/Sistemas Digitales/Class Note/Untitled.md",
+    "-Tercero/Sistemas Digitales/Tareas/Task/Untitled.md",
+    "-Tercero/Sistemas Digitales/Tareas/Attachments/6. Multiplexor-1.jpeg",
+    "-Tercero/Sistemas Digitales/Tareas/Attachments/5. Alarma-NAND-3.jpeg",
+    "-Tercero/Sistemas Digitales/Tareas/Attachments/5. Alarma-NAND-2.jpeg",
+    "-Tercero/Sistemas Digitales/Tareas/Attachments/5. Alarma-NAND-1.jpeg",
+    "-Tercero/Sistemas Digitales/Tareas/Attachments/5. Alarma-4.jpeg",
+    "-Tercero/Sistemas Digitales/Tareas/Attachments/5. Alarma-3.jpeg",
+    "-Tercero/Sistemas Digitales/Tareas/Attachments/5. Alarma-2.jpeg",
+    "-Tercero/Sistemas Digitales/Tareas/Attachments/5. Alarma-1.jpeg",
+    "-Tercero/Sistemas Digitales/Tareas/Attachments/2. Operaciones en sistemas binario, octal y hexadecimal-4.jpeg",
+    "-Tercero/Sistemas Digitales/Tareas/Attachments/2. Operaciones en sistemas binario, octal y hexadecimal-3.jpeg",
+    "Formularios/Cálculo.md",
+    "Formularios/Circuitos electrónicos y electromagnetismo.md",
+    "Circuitos-dudas.md",
+    "Attachments/Excalidraw/Organigrama.excalidraw.md",
+    "Attachments/Excalidraw/Organigrama.excalidraw 1.md",
+    "Attachments/Excalidraw 1/Organigrama.excalidraw 1.md",
+    "Attachments/Excalidraw 1/Organigrama.excalidraw.md",
+    "Untitled 1.md",
     "Formularios/Conjuntos y lógica matemática - símbolos.md",
-    "-Segundo/Expresión Oral y Escrita/Notes/Discurso.md",
-    "-Tercero/Programación Orientada en Objetos/Notas/Introducción a POO.md",
-    "-Tercero/Sistemas Digitales (Oyente)/Logica de Función Fija - 14-02-2023.md"
+    "Attachments/Excalidraw 1",
+    "Attachements",
+    "Attachements\\Excalidraw",
+    "-Tercero/Sistemas Digitales/Tareas/Project Backups/Comparador de 2 palabras [Autosaved].pdsprj",
+    "-Tercero/Sistemas Digitales/Tareas/Project Backups/Comparador de 2 palabras [20230419, 13-52-42].pdsprj",
+    "-Tercero/Sistemas Digitales/Tareas/Project Backups/Comparador de 2 palabras [20230419, 13-37-37].pdsprj",
+    "-Tercero/Sistemas Digitales/Tareas/Project Backups",
+    "-Tercero\\Sistemas Digitales\\Tareas\\Project Backups",
+    "-Tercero/Sistemas Digitales/Tareas/Attachments/Comparador de 2 palabras.pdsprj.LAPTOP-0P58E1L1.HP.workspace"
   ]
 }
