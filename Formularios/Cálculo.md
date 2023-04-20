@@ -149,6 +149,7 @@ donde $P_n(x)=\text{polinomio de grado } x$
 |$\lim\limits_{x\to-\infty}P_n(x)=-\infty$|si $n$ es non|
 
 ## Teorema de compresión (sandwich)
+
 Sean $g(x)\leq f(x)\leq h(x)$ y $\lim\limits_{x\to a}g(x)=\lim\limits_{x\to a}h(x)=L$, entonces $=\lim\limits_{x\to a}f(x)=L$
 <!-- https://www.youtube.com/watch?v=Kfh4qf0fDds -->
 
