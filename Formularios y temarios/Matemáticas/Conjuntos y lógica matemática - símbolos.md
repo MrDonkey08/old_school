@@ -31,8 +31,8 @@ type: Note
 |              $A\not\supset B$              | No es superconjunto  | $A$ no es un superconjunto de $B$                                    |
 |               $\varnothing$                |    Conjunto vacío    | Conjunto sin elementos                                               |
 |                  $\Bbb U$                  |  Conjunto universal  | Todos los valores posibles (en el área de interés)                   |
-|                   $P(A)$                   |  Conjunto potencia   | Todos los subconjuntos de $A$. Si \# &A = n$, entonces \# &P(A) = 2^n$ |
-|            \# &A$ o $\mid A\mid$            |     Cardinalidad     | Número de elementos del conjunto $A$                                 |
+|                   $P(A)$                   |  Conjunto potencia   | Todos los subconjuntos de $A$. Si \$A = n$, entonces \# $P(A) = 2^n$ |
+|            \# $A$ o $\mid A\mid$            |     Cardinalidad     | Número de elementos del conjunto $A$                                 |
 
 ### Clasificación de números
 
