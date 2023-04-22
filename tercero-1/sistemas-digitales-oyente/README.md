@@ -1,2 +1,0 @@
-# Sistemas Digitales (Oyente)
-
