@@ -11,79 +11,103 @@ last modification date: 15-03-2023
 type: Note
 ---
 
-# Formulario
+# Formulario Cálculo 
 
 En este formulario: $a, b, c \text{ y } d\in\Bbb R$ y son constantes
 
 ## Dominio y rango de funciones
 
-Función independiente: $f(x)=c$
+**Función independiente**: $f(x)=c$
 
-$D_{f(x)}=\Bbb R$
+$$\displaylines{
+D_{f(x)}=\Bbb R\\
+R_{f(x)}=c
+}$$
 
-$R_{f(x)}=c$
+**Función lineal**: $f(x)=ax+c$
 
-Función lineal: $f(x)=ax+c$
+$$\displaylines{
+D_{f(x)}=\Bbb R\\
+R_{f(x)}=\Bbb R
+}$$
 
-$D_{f(x)}=\Bbb R$
+**Función cuadrática**: $ax^2+bx+c$
 
-$R_{f(x)}=\Bbb R$
+$$D_{f(x)}=\Bbb R$$
 
-Función cuadrática: $ax^2+bx+c$
 
-$D_{f(x)}=\Bbb R$
+$$R_{f(x)} = \begin{cases}  
+(\infty, V_{y}) & \text{ si } a \geq 0\\
+[V_{y}, \infty) & \text{ si } a \geq 0 
+\end{cases}$$
 
-Si $a\leq0,\ R_{f(x)}=(-\infty,V_y]$
-Si $a\geq0,\ R_{f(x)}=[V_y,\infty)$
+donde $V(x,y)=V\left(\cfrac{-b}{2a},\left(\cfrac{-b}{2a}\right)\right)$ <!-- Para encontrar el rango, se tiene que buscar el vertice-->
 
-$V(x,y)=V\left(\cfrac{-b}{2a},\left(\cfrac{-b}{2a}\right)\right)$ <!-- Para encontrar el rango, se tiene que buscar el vertice-->
+**Función racional (tipo 1)**: $\cfrac c{ax+c}$
 
-Función racional (tipo 1): $\cfrac c{ax+c}$
-
-$D_{f(x)}=\Bbb R-\{x|x\to ax+c=0\}$
-
-$ax+c\neq0\to x\neq\cfrac{-c}{a}$
-
-$D_{f(x)}\neq \Bbb R-\{-\cfrac{c}a\}$
+$$\displaylines{
+D_{f(x)} = \Bbb R-\{x|x\to ax+c=0\} \\
+ax+c \neq 0 \to x \neq \frac{-c}{a} \\
+D_{f(x)}\neq \Bbb R-\{-\frac{c}a\}}$$
 
 $R_{f(x)}=\Bbb R-\{0\}$
 
-Función racional (tipo 2): $\cfrac{ax^n+c}{bx^n+d}$
+**Función racional (tipo 2)**: $\cfrac{ax^n+c}{bx^n+d}$
 
-$D_{f(x)}=\Bbb R-\{bx^n+d=0\}$
+$$\displaylines{
+D_{f(x)}=\Bbb R-\{bx^{n+d}=0\} \\
+bx^n+d\neq0\to x^{n\neq\cfrac{-d}{b}\to\text{ despejar }x \text{ segun el valor de } n}\\
+R_{f(x)}=\cfrac{ax^{n}}{bx^{n}} = \cfrac{a}{b},\ b \neq 0\\
+}$$
 
-$bx^n+d\neq0\to x^n\neq\cfrac{-d}{b}\to\text{ despejar }x \text{ segun el valor de } n$
+**Función racional (tipo 3)**: $\cfrac{ax^n+c}{bx^m+d}$
 
-$R_{f(x)}=\cfrac{ax^n}{bx^n}=\cfrac{a}{b}$
+$$\displaylines{
+D_{f(x)}=\Bbb R-\{x|x\to\text{denominador}=0\} \\
+bx^{m}+d \neq 0 \to x^{m} \neq \cfrac{-d}{b} \to \text{ despejar } x \text{ según el valor de } n \\
+R_{f(x)}=\cfrac{ax^n}{bx^m}
+}$$
 
-Función racional (tipo 3): $\cfrac{ax^n+c}{bx^m+d}$
-
-$D_{f(x)}=\Bbb R-\{x|x\to\text{denominador}=0\}$
-$bx^m+d\neq0\to x^m\neq\cfrac{-d}{b}\to\text{ despejar }x \text{ segun el valor de } n$
-
-$R_{f(x)}=\cfrac{ax^n}{bx^m}$
-
-si $n<m\to R_{f(x)}=\cfrac{ax^n}{bx^m}=\cfrac{a}{bx^{m-n}}$
-si $n>m\to R_{f(x)}=\cfrac{ax^n}{bx^m}=\cfrac{ax^{n-m}}{b}$
+$$R_{f(x)} = \begin{cases}
+\cfrac{ax^{n}}{bx^{m}} = \cfrac{a}{bx^{m-n}}, & n < m \\
+\cfrac{ax^{n}}{bx^{m}}=\cfrac{ax^{n-m}}{b}, & n > m
+\end{cases}$$
 
 Función radical (lineal): $\sqrt{ax+c}$
 
-$D_{f(x)}=\Bbb R -\{x|x\to ax+c<0\}$
+$$D_{f(x)}=\Bbb R -\{x|x\to ax+c<0\}$$
 
-si $a<0\to ax+c\geq0\to x\leq\cfrac{-c}{a}$
-si $a>0\to ax+c\geq0\to x\geq\cfrac{-c}{a}$
+$$x = \begin{cases} 
+ax+c \geq 0 \to x \leq -\cfrac{c}{a}, & a<0 \\
+ax+c \leq 0 \to x \geq -\cfrac{c}{a}, & a>0
+\end{cases}
+$$
 
-$R_{f(x)}=[0,\infty)$
+
+$$R_{f(x)}=[0,\infty)$$
 
 Función radical (cuadrática): $\sqrt{ax^2-c}$
 
 $D_{f(x)}=\Bbb R-\{x|x\to ax^2-c<0\}$
 
-si $a>0\to ax^2-c\geq0\to x^2\geq\cfrac{c}{a}\to |x|\geq\sqrt{\cfrac{c}{a}}\to x\leq-\sqrt{\cfrac{c}{a}}\text{ o }x\geq\sqrt{\cfrac{c}{a}}$ 
+<!--
+$$\displaylines{
+ax^{2} + c < 0 \to x^{2} < \cfrac{c}{a} \to x < \sqrt{\cfrac{c}{a}}, & x > 0, & \cfrac{c}a > 0\\
+ax^{2} + c < 0 \to x^{2} > -\cfrac{c}{a} \to x<0, & x < 0, & \cfrac{c}a > 0
+\\\\
+ax^{2} + c < 0 \to x^{2} < \cfrac{c}{a} \to x < \sqrt{\cfrac{c}{a}}, & x > 0, & \cfrac{c}a < 0\\
+ax^{2} + c < 0 \to x^{2} > -\cfrac{c}{a} \to x<0, & x < 0, & \cfrac{c}a < 0
+}$$
 
-<!-- Para determinar el rango de un función radical de una ecuación cuadrática se toma el valor x como 0 (el minimo) -->
+si $a>0\to ax^{2}-c\geq0\to x^{2}\geq\cfrac{c}{a}\to |x|\geq\sqrt{\cfrac{c}{a}}\to x\leq-\sqrt{\cfrac{c}{a}}\text{ o }x\geq\sqrt{\cfrac{c}{a}}$ 
 
-$R_{f(x)}=[\sqrt{c},\infty)$
+--->
+
+<!-- $\mathrm{Para\:}u^n\:<\:a\mathrm{,\:si\:}n\:\mathrm{es\:par}\mathrm{\:entonces\:}-\sqrt[n]{a}\:<\:u\:<\:\sqrt[n]{a}$ -->
+
+Para determinar el rango de un función radical de una ecuación cuadrática se toma el valor x como 0 (el minimo)
+
+$$R_{f(x)}=[\sqrt{c},\infty)$$
 
 ## Operaciones con funciones
 
@@ -103,7 +127,7 @@ Biyectiva: Inyectiva y sobreyectiva
 
 Función inversa $(f^{-1})$
 
-$f(x)=y\ \ f^{-1}(x)=x$
+$$f(x)=y, \to f^{-1}(x)=x$$
 
 ### Cómo obtener la inversa de una función
 | Pasos                                                 | $f(x)=x+c$      |
@@ -122,15 +146,13 @@ $f(x)=y\ \ f^{-1}(x)=x$
 
 ### Propiedades de los límites
 
-$\lim\limits_{x\to a}f(x)+g(x)=\lim\limits_{x\to a}f(x)+\lim\limits_{x\to a}g(x)$
-
-$\lim\limits_{x\to a}f(x)-g(x)=\lim\limits_{x\to a}f(x)-\lim\limits_{x\to a}g(x)$
-
-$\lim\limits_{x\to a}f(x)\cdot g(x)=\lim\limits_{x\to a}f(x)\cdot \lim\limits_{x\to a}g(x)$
-
-$\lim\limits_{x\to a}f(x)/g(x)=\lim\limits_{x\to a}f(x)/\lim\limits_{x\to a}g(x)$
-
-$\lim\limits_{x\to a}cf(x)=c\lim\limits_{x\to a}f(x)$
+$$\begin{array}{dl}
+\lim\limits_{x\to a}f(x)+g(x)          &=&\lim\limits_{x\to a}f(x)+\lim\limits_{x\to a}g(x)\\
+\lim\limits_{x\to a}f(x)-g(x)          &=&\lim\limits_{x\to a}f(x)-\lim\limits_{x\to a}g(x)\\
+\lim\limits_{x\to a}f(x)\cdot g(x)     &=& \lim\limits_{x\to a}f(x)\cdot \lim\limits_{x\to a}g(x) \\
+\lim\limits_{x\to a}\cfrac{f(x)}{g(x)} &=&\lim\limits_{x\to a}\cfrac{f(x)}{\lim\limits_{x\to a}g(x)} \\
+\lim\limits_{x\to a}cf(x)              &=& c\lim\limits_{x\to a}f(x) \\
+\end{array}$$
 
 ### Algunos límites
 
@@ -235,7 +257,7 @@ $\cfrac{1}{\cos x} = \sec x$
 ### Continuidad de funciones
 
 Una función $f(x)$ es **continua** en $x=a$  si  $\lim\limits_{x\to a} f(x)=f(a)$
-Si es continua en todo su dominio entonces la función es continua. Si una función no es ocntinua en un punto $a$ se dice que $f$ es dicontinua en $a$
+Si es _continua en todo su dominio entonces la función es continua_. Si una función no es cntinua en un punto $a$ se dice que $f$ es dicontinua en $a$
 
 Las siguientes funciones son continuas
 - Polinomios
