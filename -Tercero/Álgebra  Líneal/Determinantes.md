@@ -13,23 +13,19 @@ $$det(A), |A|$$
 
 $$\begin{array}{ccccc}
 \text{Matriz} & \text{Menor} &\text{Cofactor o Adjunto}\\ 
-
 \begin{bmatrix} \cancel{a_{11}} & \cancel{a_{12}} & \cancel{a_{13}} & \cancel{\cdots} & \cancel {a_{1n}}\\
 \cancel{a_{21}} & a_{22} & a_{23} & \cdots & a_{2n}\\
 \cancel{a_{31}} & a_{32} & a_{33} & \cdots & a_{3n}\\
 \cancel{\vdots} & \vdots & \vdots & \ddots & \vdots\\ 
 \cancel{a_{m1}} & a_{m2} & a_{m3} & \cdots & a_{mn}\\
 \end{bmatrix}
-
 & M_{11} = \begin{vmatrix}
 a_{22} & a_{23} & \cdots & a_{2n}\\
 a_{32} & a_{33} & \cdots & a_{3n}\\
 \vdots & \vdots & \ddots & \vdots\\ 
 a_{m2} & a_{m3} & \cdots & a_{mn}\\
 \end{vmatrix} 
-
 & A_{11}=(-1)^{1+1}M_{11}
-
 \end{array} \tag{1}
 $$
 
@@ -39,11 +35,8 @@ Otra manera de determinar el signo dado de por $(-1)^{i+j}$ es considerar el sig
 
 $$\begin{bmatrix}
 +&-&+&-& \cdots\\
-
 -&+&-&+& \cdots\\
 +&-&+&-& \cdots\\  
-
-
 -&+&-&+& \cdots\\
 \vdots & \vdots & \vdots & \vdots 
 \end{bmatrix} \tag{2}$$
