@@ -1,2 +1,0 @@
-# Notas de clase
-
