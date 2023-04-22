@@ -1,5 +1,5 @@
 ---
-title: Precálculo
+title: Formulario Precálculo
 author: Alan Yahir Juárez Rubio
 
 creation date: s.f.
