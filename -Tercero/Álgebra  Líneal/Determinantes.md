@@ -12,15 +12,12 @@ $$det(A), |A|$$
 ### Menores y cofactores
 
 $$\begin{array}{ccc}
-
 \text{Matriz} & \text{Menor} &\text{Cofactor o Adjunto}\\ 
-
 \begin{bmatrix} \cancel{a_{11}} & \cancel{a_{12}} & \cancel{a_{13}} & \cancel{\cdots} & \cancel {a_{1n}}\\
 \cancel{a_{21}} & a_{22} & a_{23} & \cdots & a_{2n}\\
 \cancel{a_{31}} & a_{32} & a_{33} & \cdots & a_{3n}\\
 \cancel{\vdots} & \vdots & \vdots & \ddots & \vdots\\ 
 \cancel{a_{m1}} & a_{m2} & a_{m3} & \cdots & a_{mn}\\
-
 \end{bmatrix}
 
 
