@@ -90,7 +90,7 @@ type: Note
 |                     $\because$                     |            $P \because Q$             | Porque                | -                                    |
 |                   $\top,$ T $,1$                   |                   -                   | Tautología            | siempre verdadero                    |
 |                   $\bot,$ F$,0$                    |                   -                   | Contradicción         | siempre falso                        |
-|                                                    |                   -                   |                       |                                      |
+
 
 ---
 
