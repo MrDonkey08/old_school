@@ -13,26 +13,26 @@ type: Note
 
 ### Conjuntos
 
-| Símbolo | Nombre | Significado |
-|:-:|:-:|:-|
-| $A\cup B$ | Unión | Todos los elementos de $A$ y $B$ |
-| $A\cap B$ | Intersección | Elementos en común entre $A$ y $B$ |
-| $A^c$, $A\textquoteright$ o $\overline{A}$| Complemento | Elementos que no pertenecen a $A$, pero sí al conjunto universal |
-| $A\backslash B$ | Complemento relativo | Elementos que pertenecen a $A$, pero no a $B$ |
-| $A-B$  o $AB$ | Diferencia | Elementos en $A$, pero no en $B$ |
-| $A\Delta B$  o $A\ominus B$|  Diferencia simétrica | Elementos que no tienen en comun $A$ y $B$ |
-| $A\times B$ | Producto cartesiano | Conjunto de pares ordenados de $A$ y $B$ |
-| $A=B$ | Igualdad | Ambos conjuntos tienen los mismos elementos |
-| $A\subseteq B$ | Subconjunto | Cada elemento de $A$ está en $B$ |
-| $A\subset B$ | Subconjunto propio| Cada elemento de $A$ está en $B$, pero $B$ tiene más elementos | 
-| $A\not\subset B$ | No es subconjunto | $A$ no es subconjunto de $B$ |
-| $A\supseteq B$ | Superconjunto | A tiene los mismos de elementos que $B$, o más |
-| $A\supset B$ | Superconjunto propio | $A$ tiene elemetos de $B$ y más |
-| $A\not\supset B$ | No es superconjunto | $A$ no es un superconjunto de $B$ |
-| $\varnothing$ | Conjunto vacío | Conjunto sin elementos | 
-| $\Bbb U$ | Conjunto universal | Todos los valores posibles (en el área de interés) |
-| $P(A)$ | Conjunto potencia | Todos los subconjuntos de $A$. Si $\#A = n$, entonces $\#P(A) = 2^n$|
-| $\#A$ o $\mid A\mid$ | Cardinalidad | Número de elementos del conjunto $A$ |
+|                  Símbolo                   |        Nombre        | Significado                                                          |
+|:------------------------------------------:|:--------------------:|:-------------------------------------------------------------------- |
+|                 $A\cup B$                  |        Unión         | Todos los elementos de $A$ y $B$                                     |
+|                 $A\cap B$                  |     Intersección     | Elementos en común entre $A$ y $B$                                   |
+| $A^c$, $A\textquoteright$ o $\overline{A}$ |     Complemento      | Elementos que no pertenecen a $A$, pero sí al conjunto universal     |
+|              $A\backslash B$               | Complemento relativo | Elementos que pertenecen a $A$, pero no a $B$                        |
+|               $A-B$  o $AB$                |      Diferencia      | Elementos en $A$, pero no en $B$                                     |
+|        $A\Delta B$  o $A\ominus B$         | Diferencia simétrica | Elementos que no tienen en comun $A$ y $B$                           |
+|                $A\times B$                 | Producto cartesiano  | Conjunto de pares ordenados de $A$ y $B$                             |
+|                   $A=B$                    |       Igualdad       | Ambos conjuntos tienen los mismos elementos                          |
+|               $A\subseteq B$               |     Subconjunto      | Cada elemento de $A$ está en $B$                                     |
+|                $A\subset B$                |  Subconjunto propio  | Cada elemento de $A$ está en $B$, pero $B$ tiene más elementos       |
+|              $A\not\subset B$              |  No es subconjunto   | $A$ no es subconjunto de $B$                                         |
+|               $A\supseteq B$               |    Superconjunto     | A tiene los mismos de elementos que $B$, o más                       |
+|                $A\supset B$                | Superconjunto propio | $A$ tiene elemetos de $B$ y más                                      |
+|              $A\not\supset B$              | No es superconjunto  | $A$ no es un superconjunto de $B$                                    |
+|               $\varnothing$                |    Conjunto vacío    | Conjunto sin elementos                                               |
+|                  $\Bbb U$                  |  Conjunto universal  | Todos los valores posibles (en el área de interés)                   |
+|                   $P(A)$                   |  Conjunto potencia   | Todos los subconjuntos de $A$. Si \#$A = n$, entonces \#$P(A) = 2^n$ |
+|            \#$A$ o $\mid A\mid$            |     Cardinalidad     | Número de elementos del conjunto $A$                                 |
 
 ### Clasificación de números
 
@@ -90,6 +90,7 @@ type: Note
 |                     $\because$                     |            $P \because Q$             | Porque                | -                                    |
 |                   $\top,$ T $,1$                   |                   -                   | Tautología            | siempre verdadero                    |
 |                   $\bot,$ F$,0$                    |                   -                   | Contradicción         | siempre falso                        |
+
 
 
 ---
