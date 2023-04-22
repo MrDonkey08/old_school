@@ -1,2 +1,0 @@
-# 1. Física General
-
