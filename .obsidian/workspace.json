@@ -8,19 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1c02223311b27410",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Formularios y temarios/Matemáticas/Conjuntos y lógica matemática - símbolos.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "5c6169027e4850fb",
             "type": "leaf",
             "state": {
@@ -108,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Formularios y temarios/Matemáticas/Conjuntos y lógica matemática - símbolos.md",
+                "file": "Formularios y temarios/Matemáticas/Álgebra Lineal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Formularios y temarios/Matemáticas/Conjuntos y lógica matemática - símbolos.md",
+                "file": "Formularios y temarios/Matemáticas/Álgebra Lineal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Formularios y temarios/Matemáticas/Conjuntos y lógica matemática - símbolos.md"
+                "file": "Formularios y temarios/Matemáticas/Álgebra Lineal.md"
               }
             }
           },
@@ -175,10 +162,10 @@
       "obsidian-matrix:Obsidian Matrix": false
     }
   },
-  "active": "1c02223311b27410",
+  "active": "5c6169027e4850fb",
   "lastOpenFiles": [
-    "Formularios y temarios/Matemáticas/Lógica Matemática - Leyes.md",
     "Formularios y temarios/Matemáticas/Conjuntos y lógica matemática - símbolos.md",
+    "Formularios y temarios/Matemáticas/Lógica Matemática - Leyes.md",
     "Formularios y temarios/Física/Formulario Cinemática y Leyes de Newton.md",
     "Formularios y temarios/Física",
     "Formularios y temarios/Matemáticas/Precálculo.md",
