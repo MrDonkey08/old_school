@@ -82,7 +82,7 @@ type: Note
 |                      Símbolo                       |                Ejemplo                | Nombre                | Significado                          |
 |:--------------------------------------------------:|:-------------------------------------:| --------------------- | ------------------------------------ |
 |          $\neg ,\sim , !, ', \overline{}$          | $\neg P,\sim P, !P, P', \overline{P}$ | Negación              | no                                   |
-|                $\wedge, \cdot$                 |             $P \wedge Q$              | Conjunción            | y                                    |
+|               $\&$, $\wedge, \cdot$                |             $P \wedge Q$              | Conjunción            | y                                    |
 |                $\vee, +, \mid\mid$                 |              $P \vee Q$               | Disyunción            | o                                    |
 |               $\to,\implies,\supset$               |               $P \to Q$               | Condicional           | si..., entonces, implica             |
 |     $\leftrightarrow, \equiv, \Leftrightarrow$     |         $P \leftrightarrow Q$         | Bicondicional         | si y solo si                         |
