@@ -122,8 +122,8 @@ a_{21} & a_{22} & a_{23} & \cdots & a_{2n} & k_2\\
 a_{31} & a_{32} & a_{33} & \cdots & a_{3n} & k_2\\
 \vdots & \vdots & \vdots & \ddots & \vdots & \vdots\\ 
 a_{m1} & a_{m2} & a_{m3} & \cdots & a_{mn} & k_m\\
-\end{array} \right]
-=
+\end{array} \right] =
+\
 \left[\begin{array}{cccccc|c}
 1      & P(a_{12})   & P(a_{13}) & P(a_{14}) & \cdots & P(a_{1n}) & P(k_1) \\
 0      & 1           & P(a_{23}) & P(a_{24}) & \cdots & P(a_{2n}) & P(k_2)\\
@@ -150,8 +150,8 @@ a_{21} & a_{22} & a_{23} & \cdots & a_{2n} & k_2\\
 a_{31} & a_{32} & a_{33} & \cdots & a_{3n} & k_2\\
 \vdots & \vdots & \vdots & \ddots & \vdots & \vdots\\ 
 a_{m1} & a_{m2} & a_{m3} & \cdots & a_{mn} & k_m\\
-\end{array} \right]
-=
+\end{array} \right] =
+\
 \left[\begin{array}{ccccc|c}
 1      & 0   & 0 &  \cdots & 0 & P(k_1) \\
 0      & 1           & 0 & \cdots & 0 & P(k_2)\\
