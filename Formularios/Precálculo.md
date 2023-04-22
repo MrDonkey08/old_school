@@ -334,7 +334,7 @@ $$\frac{f(x)}{(ax^{2}+bx+c)^{n}} = \frac{Ax+B}{ax^{2}+bx+c} + \frac{Cx+D}{(ax^{2
 
 $$f(x) = (a_1A+a_2B+\cdots)x + (a_{3}A+a_{4}B+\cdots)x^{2} +\cdots $$
 
-6. Considerando que $f(x) = b_{1}x+ b_{2}x{^2} + \cdots$, entoncespodemos igualar los coeficientes de las potencias semejantes.de esta manera obtenemos un _sistema de ecuaciones_.
+6. Considerando que $f(x) = b_{1}x+ b_{2}x{^2} + \cdots$, entonces podemos _igualar los coeficientes_ de las _potencias semejantes_.de esta manera obtenemos un _sistema de ecuaciones_.
 7. Sustituir en las _fracciones parciales_ los valores de $A, B, \cdots$.
 
 #### Factores lineales no repetidos
