@@ -10,8 +10,10 @@ last modification date: 19-04-2023
 
 type: Note
 ---
+# Simbolario Lógica Matemática y Matemáticas Discretas
 
-### Conjuntos
+
+## Conjuntos
 
 |                  Símbolo                   |        Nombre        | Significado                                                          |
 |:------------------------------------------:|:--------------------:|:-------------------------------------------------------------------- |
@@ -34,7 +36,7 @@ type: Note
 |                   $P(A)$                   |  Conjunto potencia   | Todos los subconjuntos de $A$. Si \$A = n$, entonces \# $P(A) = 2^n$ |
 |            \# $A$ o $\mid A\mid$            |     Cardinalidad     | Número de elementos del conjunto $A$                                 |
 
-### Clasificación de números
+## Clasificación de números
 
 | Notación                                                         |         Nombre          | Definición                                                                                                                                      |
 |:---------------------------------------------------------------- |:-----------------------:| -------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -47,7 +49,7 @@ type: Note
 | $I = \{bi \mid b \in \Bbb{R}, i \in I\}$      |   Números Imaginarios   | Son producto del número real por la unidad imaginaria $i$. Se define como $i=\sqrt{-1}$                                                      |
 | $\Bbb C = \{a+bi \mid a \in \Bbb{R}, bi \in I\}$       |    Números Complejos    | Comprende los números reales y los imaginarios.                                                                                              |
 
-### Relaciones
+## Relaciones
 
 | Símbolo | Nombre | Significado |
 |:-:|:-:|:-|
@@ -62,7 +64,7 @@ type: Note
 | - | Relación de equivalencia | Reflexiva, simétrica y transitiva |
 | $\preceq$ | Orden Parcial | Reflexivo, antisimétrico y transitivo |
 
-### Operadores de Conjuntos
+## Operadores de Conjuntos
 
 | Símbolo | Nombre | Significado |
 | :-: | :-: | :- |
@@ -75,7 +77,7 @@ type: Note
 | $\nexists !$ | - | Existe un único|
 | {} | Conjunto | - |
 
-### Conectores lógicos
+## Conectores lógicos
 
 |                      Símbolo                       |                Ejemplo                | Nombre                | Significado                          |
 |:--------------------------------------------------:|:-------------------------------------:| --------------------- | ------------------------------------ |
@@ -92,19 +94,19 @@ type: Note
 |                   $\bot,$ F, $0$                    |                   -                   | Contradicción         | siempre falso                        |
 
 
-
----
+<div style="page-break-after: always;"></div>
 
 ## Referencias 
 
 - Wikipedia (s.f.). _Conectiva lógica_. https://es.wikipedia.org/wiki/Conectiva_l%C3%B3gica
 - Wikipedia (s.f.). _Símbolos lógicos_. https://es.wikipedia.org/wiki/Anexo:S%C3%ADmbolos_l%C3%B3gicos
-- Wikipedia (s.f.). _Álgebra de conjuntos_. https://es.wikipedia.org/wiki/Operaciones_con_conjuntos)
-- [Rodó, P.](https://economipedia.com/author/P.rodo) (01 de agosto, 2020). _Números imaginarios_. https://economipedia.com/definiciones/numeros-imaginarios.html)
-- https://es.wikipedia.org/wiki/Anexo:S%C3%ADmbolos_matem%C3%A1ticos
-- https://en.wikipedia.org/wiki/Natural_number
-- https://economipedia.com/definiciones/numeros-reales.html
-- https://es.wikipedia.org/wiki/N%C3%BAmero_natural
-- https://www.quora.com/What-is-the-symbol-for-the-set-of-Irrational-numbers
-<!-- https://es.wikipedia.org/wiki/Teor%C3%ADa_de_conjuntos -->
+- Wikipedia (s.f.). _Álgebra de conjuntos_. https://es.wikipedia.org/wiki/Operaciones_con_conjuntos
+- [Rodó, P.](https://economipedia.com/author/P.rodo) (01 de agosto, 2020). _Números imaginarios_. https://economipedia.com/definiciones/numeros-imaginarios.html
+- Wikipedia (s.f.). _Anexo: Símbolos matemáticos_. https://es.wikipedia.org/wiki/Anexo:S%C3%ADmbolos_matem%C3%A1ticos
+- Wikipedia (s.f.). _Natural number_. https://en.wikipedia.org/wiki/Natural_number
+- [Rodó, P.](https://economipedia.com/author/P.rodo). _Números reales_. https://economipedia.com/definiciones/numeros-reales.html
+- Wikipedia (s.f.). _Número natural_. https://es.wikipedia.org/wiki/N%C3%BAmero_natural
+
+<!--https://www.quora.com/What-is-the-symbol-for-the-set-of-Irrational-numbers
+https://es.wikipedia.org/wiki/Teor%C3%ADa_de_conjuntos -->
 
