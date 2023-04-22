@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Formularios y temarios/Matemáticas/Precálculo.md",
+                "file": "Formularios y temarios/Matemáticas/Conjuntos y lógica matemática - símbolos.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "simbolario",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Formularios y temarios/Matemáticas/Precálculo.md",
+                "file": "Formularios y temarios/Matemáticas/Conjuntos y lógica matemática - símbolos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Formularios y temarios/Matemáticas/Precálculo.md",
+                "file": "Formularios y temarios/Matemáticas/Conjuntos y lógica matemática - símbolos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Formularios y temarios/Matemáticas/Precálculo.md"
+                "file": "Formularios y temarios/Matemáticas/Conjuntos y lógica matemática - símbolos.md"
               }
             }
           },
@@ -164,6 +163,7 @@
   },
   "active": "5c6169027e4850fb",
   "lastOpenFiles": [
+    "Formularios y temarios/Matemáticas/Precálculo.md",
     "-Tercero/Álgebra  Líneal/Matrices.md",
     "-Tercero/Álgebra  Líneal/Regla de cramer.md",
     "-Tercero/Álgebra  Líneal/Sistemas de Ecuaciones.md",
@@ -173,7 +173,6 @@
     "Formularios y temarios/Matemáticas/Lógica Matemática - Leyes.md",
     "Formularios y temarios/Física/Formulario Cinemática y Leyes de Newton.md",
     "Formularios y temarios/Física",
-    "Formularios y temarios/Matemáticas/Precálculo.md",
     "Formularios y temarios/Circuitos",
     "Formularios y temarios/Matemáticas",
     "Fracciones Parciales.md",
