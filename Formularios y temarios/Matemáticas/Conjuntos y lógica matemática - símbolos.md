@@ -46,7 +46,7 @@ type: Note
 | $\Bbb Q = \left\{\frac {p}{q} \mid \;p,q ∈ \Bbb{Z} \right\}$     |   Números Racionales    | Son el conjunto de números que se pueden representar con una razón (cociente) de dos enteros                                                 |
 | $\Bbb{I} = \{a \mid a \in \Bbb{R}, a \notin \Bbb{Q}\}$ |  Números Irracionales   | Son el conjunto de números que tiene decimal infinito no periódico y, por lo tanto, no se puede representar como el cociente de dos enteros. |
 | $\Bbb R = \{a \mid a \in (-∞, ∞)\}$                                               |     Números Reales      | Es el conjunto que contiene a los números racionales e irracionales.                                                                         |
-| $I = \{bi \mid b \in \Bbb{R}, i \in I\}$      |   Números Imaginarios   | Son producto del número real por la unidad imaginaria $i$. Se define como $i=\sqrt{-1}$                                                      |
+| $I = \{bi \mid b \in \Bbb{R}, i \in I\}$      |   Números Imaginarios   | Son producto del número real por la unidad imaginaria: $i=\sqrt{-1}$                                                      |
 | $\Bbb C = \{a+bi \mid a \in \Bbb{R}, bi \in I\}$       |    Números Complejos    | Comprende los números reales y los imaginarios.                                                                                              |
 
 ## Relaciones
