@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Formularios y temarios/Matemáticas/Álgebra Lineal.md",
+                "file": "-Tercero/Álgebra  Líneal/Determinantes.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Formularios y temarios/Matemáticas/Álgebra Lineal.md",
+                "file": "-Tercero/Álgebra  Líneal/Determinantes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Formularios y temarios/Matemáticas/Álgebra Lineal.md",
+                "file": "-Tercero/Álgebra  Líneal/Determinantes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Formularios y temarios/Matemáticas/Álgebra Lineal.md"
+                "file": "-Tercero/Álgebra  Líneal/Determinantes.md"
               }
             }
           },
@@ -164,6 +164,9 @@
   },
   "active": "5c6169027e4850fb",
   "lastOpenFiles": [
+    "Formularios y temarios/Matemáticas/Álgebra Lineal.md",
+    "-Tercero/Álgebra  Líneal/Matrices.md",
+    "-Tercero/Álgebra  Líneal/Sistemas de Ecuaciones.md",
     "Formularios y temarios/Matemáticas/Conjuntos y lógica matemática - símbolos.md",
     "Formularios y temarios/Matemáticas/Lógica Matemática - Leyes.md",
     "Formularios y temarios/Física/Formulario Cinemática y Leyes de Newton.md",
@@ -172,10 +175,8 @@
     "Formularios y temarios/Circuitos",
     "Formularios y temarios/Matemáticas",
     "Fracciones Parciales.md",
-    "Formularios y temarios/Matemáticas/Álgebra Lineal.md",
     "Formularios y temarios/Matemáticas/Cálculo.md",
     "-Tercero/Álgebra  Líneal/Determinantes.md",
-    "-Tercero/Álgebra  Líneal/Matrices.md",
     "-Primero/Introducción a la Ingeniería/Actividades/Propiedad Intelectual.md",
     "-Tercero/Circuitos/Actividad CFE/Untitled.md",
     "Untitled.md",
