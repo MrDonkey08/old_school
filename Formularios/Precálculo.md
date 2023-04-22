@@ -1,3 +1,12 @@
+---
+title: Precálculo
+author: Alan Yahir Juárez Rubio
+
+creation date: s.f.
+last modification date: 22-04-2023
+
+type: Formulario
+---
 
 # Formulario Precálculo
 
@@ -96,15 +105,11 @@ $$|a|= \begin{bmatrix} a\geq 0 \to |a| = a \\ a < 0 \to |a|= -a\end{bmatrix}$$
 | **Binomio al cubo**         | $(a+b)^3$ | $a^3+3a^2b+3ab^2+b^3$          |
 | **Biniomio a la cuarta**    | $(a+b)^4$ | $a^4+4a^3+b+6a^2b^2+4ab^3+b^4$ |
 
-
 ## Binomio de Newton 
-
 
 $$(a+b)^n=a^n+ \frac {n}{1!}a^{n-1}b+ \frac {n(n-1)}{2!}a^{n-2}b^2 + \frac {n(n-1)(n-2)}{3!}a^{n-3}b^3+ \cdots +b^n$$
 
-
 ## K_ésimo término 
-
 
 $$K_{\text{ésimo}} \text{término} = \frac {n!}{(n-r+1)!(r-1)!} a^{n-r+1}\cdot b^{r-1}$$
 
@@ -159,7 +164,7 @@ z_{1}\cdot z_{2} &= (a+bi)(c+di)  \\
 
 ### Intérvalos
 
-**Intérvalo abierto**: $(a,\ b)={x\ |\ a<x<b,\ x\in \Bbb R}$
+**Intérvalo abierto**: $(a,\: b)={x\: |\: a<x<b,\: x \in \Bbb R}$
 
 ![|300](Formularios/Attachments/Formulario-1.jpeg)
 
@@ -167,11 +172,11 @@ z_{1}\cdot z_{2} &= (a+bi)(c+di)  \\
 
 ![|300](Formularios/Attachments/Formulario-2.jpeg)
 
-**Intérvalo semiabierto**:
+**Intérvalos semiabiertos**:
 
 ![|300](Formularios/Attachments/Formulario-3.jpeg)
 
-**Intérvalo infinito**:
+**Intérvalos infinitos**:
 
 ![Formulario-3|300](Formularios/Attachments/Formulario-4.png)
 
@@ -186,7 +191,7 @@ z_{1}\cdot z_{2} &= (a+bi)(c+di)  \\
 > 
 > Al multiplicar o dividir ambos lados de una desigualdad por un número real negativo, el signo de la desigualdad se invierte.
 
-### Desigualdad de valor absoluto
+### Desigualdad con valor absoluto
 
 | Caso |        Modelo         |         Solución         |
 |:----:|:---------------------:|:------------------------:|
@@ -196,18 +201,14 @@ z_{1}\cdot z_{2} &= (a+bi)(c+di)  \\
 |  4   | $\mid a\mid\: \geq b$ | $a \leq -b \cup a\geq b$ |
 |      |                       |                          |
 
-## Ecuaciones cuadráticas
+## Ecuaciones cuadráticas (de segundo grado)
 
-**Ecuación cuadrática especial**: $x^2=d$, entonces $x=\pm \sqrt d$
-**Completar el cuadrado**:
+### Completar el cuadrado:
 
 | Expresión original |        Término a sumar         |         Expresión Transformada          |           Equivalencia           |
 |:------------------:|:------------------------------:|:---------------------------------------:|:--------------------------------:|
 |      $x^2+kx$      | $\left(\frac{k}{2} \right)^2$ | $x^2+kx + \left(\frac{k}{2} \right)^2$ | $\left(x+\frac{k}{2} \right)^2$ |
 |      $x^2-kx$      | $\left(\frac{k}{2} \right)^2$ | $x^2-kx + \left(\frac{k}{2} \right)^2$ | $\left(x-\frac{k}{2} \right)^2$ |
-
-
-## Ecuaciones cuadráticas  (de segundo grado)
 
 ### Fórmula General
 
