@@ -11,8 +11,26 @@
             "id": "1c02223311b27410",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Formularios/Precálculo.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5c6169027e4850fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Formularios/Álgebra Lineal.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -90,6 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Formularios/Precálculo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Formularios/Precálculo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Formularios/Precálculo.md"
+              }
             }
           },
           {
@@ -155,6 +177,11 @@
   },
   "active": "1c02223311b27410",
   "lastOpenFiles": [
+    "Fracciones Parciales.md",
+    "Formularios/Álgebra Lineal.md",
+    "Formularios/Cálculo.md",
+    "-Tercero/Álgebra  Líneal/Determinantes.md",
+    "-Tercero/Álgebra  Líneal/Matrices.md",
     "-Primero/Introducción a la Ingeniería/Actividades/Propiedad Intelectual.md",
     "-Tercero/Circuitos/Actividad CFE/Untitled.md",
     "Untitled.md",
@@ -167,20 +194,15 @@
     "-Primero/Introducción a la programación/Class Notes/Estructuras de Control.md",
     "-Primero/Introducción a la programación/Class Notes/Arreglos.md",
     "-Primero/Introducción a la programación/Class Notes/Fundamentos de Programación.md",
-    "Fracciones Parciales.md",
-    "Formularios/Álgebra Lineal.md",
-    "-Tercero/Álgebra  Líneal/Determinantes.md",
     "-Tercero/Álgebra  Líneal/Regla de cramer.md",
     "Formularios/Precálculo.md",
     "Formularios/Leyes.md",
     "Formularios/Formulario Cinemática y Leyes de Newton.md",
     "Formularios/Conjuntos y lógica matemática - símbolos.md",
     "Formularios/Circuitos electrónicos y electromagnetismo.md",
-    "Formularios/Cálculo.md",
     "Reseñas de profesores/Personales/Reseñas ICOM.md",
     "Reseñas de profesores/Personales/Reseñas.md",
     "Untitled 1.md",
-    "-Tercero/Álgebra  Líneal/Matrices.md",
     "-Tercero/Álgebra  Líneal/Sistemas de Ecuaciones.md",
     "-Tercero/Álgebra  Líneal",
     "-Tercero/Sistemas Digitales/Tareas/Attachments/6. Multiplexor.pdsprj.DESKTOP-9FAHEL3.Human Solutions.workspace",
