@@ -199,7 +199,6 @@ z_{1}\cdot z_{2} &= (a+bi)(c+di)  \\
 |  2   | $\mid a\mid\ \leq b$ |    $-b \leq a \leq b$    |
 |  3   |  $\mid a\mid\ > b$   |   $a < -b \cup a > b$    |
 |  4   | $\mid a\mid\ \geq b$ | $a \leq -b \cup a\geq b$ |
-|      |                       |                          |
 
 ## Ecuaciones cuadráticas (de segundo grado)
 
@@ -220,9 +219,9 @@ $$x = \frac{-b\pm \sqrt {b^2-4ac}}{2a}$$
 
 $D=b^2-4ac$
 
-1. $D\|\D>0\Rightarrow$ Dos soluciones reales
-2. $D\|\D<0\Rightarrow$ Dos soluciones complejas
-3. $D\|\D=0\Rightarrow$ Solución repetida, una única solución 
+1. $D\ |\ D>0\Rightarrow$ Dos soluciones reales
+2. $D\ |\ D<0\Rightarrow$ Dos soluciones complejas
+3. $D\ |\ D=0\Rightarrow$ Solución repetida, una única solución 
 
 
 ### Valor absoluto
