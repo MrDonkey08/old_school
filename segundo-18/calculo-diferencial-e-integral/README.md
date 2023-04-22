@@ -1,2 +1,0 @@
-# Cálculo Diferencial e Integral
-
