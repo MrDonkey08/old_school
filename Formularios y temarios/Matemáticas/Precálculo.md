@@ -230,6 +230,7 @@ $$
 > [!info] Nota
 > 
 > La **raíz cuadrada** de una _variable elevada al cuadrado_ te da su **valor absoluto**, a menos que se sepa de antemano que _dicha variable_ es _positiva o negativa_.
+> 
 > $$\displaylines{
 > \sqrt{x^{2}} = |x|\\
 > \sqrt{x^{2}} = x,\ x>0\\
