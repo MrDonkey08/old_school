@@ -164,7 +164,7 @@ z_{1}\cdot z_{2} &= (a+bi)(c+di)  \\
 
 ### Intérvalos
 
-**Intérvalo abierto**: $(a,\: b)={x\: |\: a<x<b,\: x \in \Bbb R}$
+**Intérvalo abierto**: $(a,\: b) = x\: |\: a<x<b,\: x \in \Bbb {R}$
 
 ![Formulario-1 | 300](Attachments/Formulario-1.jpeg)
 
