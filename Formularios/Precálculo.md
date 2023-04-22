@@ -1,9 +1,9 @@
 
 # Formulario Precálculo
 
-En este formulario: $a,\; b,\; c\; \text{ y }\; d\in\Bbb R$ y son constantes.
+En este formulario: $A\;, B\;, a,\; b,\; c\; \text{ y }\; d\in\Bbb R$ y son constantes, $n,\; m \in \Bbb{Z}$ y $r \in \Bbb{Z}^{+}$
 
-## 1. Conjunto de Números Reales
+## Conjunto de Números Reales
 
 ### Propiedades de los números
 
@@ -12,18 +12,18 @@ En este formulario: $a,\; b,\; c\; \text{ y }\; d\in\Bbb R$ y son constantes.
 | Ley conmutativa                                               |              $a + b = b + a$              |          $a \cdot b = b \cdot a$           |
 | Ley asociativa                                                |        $(a + b) + c = a +(b + c)$         | $(a \cdot b) \cdot c = a \cdot(b \cdot c)$ |
 | Elemento Neutro                                               |                 $a+(0)=a$                 |             $a \cdot (1) = a$              |
-| Elemento inverso (recíproco)                                  |                $a+(-a)=0$                 |  $a \cdot \left(\cfrac{1}{a} \right) = 1$  |
+| Elemento inverso (recíproco)                                  |                $a+(-a)=0$                 |  $a \cdot \left(\frac{1}{a} \right) = 1$  |
 | Ley distributiva de la multiplicación con respecto de la suma | $(a + b) \cdot c = a \cdot c + b \cdot c$ |                $\leftarrow$                |
 
 ### Fracciones
 
 1. **Suma de fracciones**
-	1. Mismo denominador: $\cfrac{a}{b} + \cfrac{c}{b} = \cfrac{a + c}{b}$
-	2. Distinto denominador: $\cfrac {a}{b} + \cfrac {c}{d} =\cfrac {ad+bc}{cd}$
-	3. Entero y una fracción : $a+\cfrac {c}{b} = \cfrac {ab+c}{b}$
-2. **Multiplicación de fracciones:** $\cfrac {a}{b} \cdot \cfrac {c}{d} = \cfrac {ac}{bd}$
-3. **Division de fracciones** **(cruzada).** $\cfrac {a}{b} \div \cfrac {c}{d} = \cfrac {ad}{bc}$
-4. **Multiplicación por unidad.** $\cfrac{a}{b} \cdot \cfrac{c}{c} = \cfrac{a \cdot c}{b \cdot c} = \cfrac{a}{b}$
+	1. Mismo denominador: $\frac{a}{b} + \frac{c}{b} = \frac{a + c}{b}$
+	2. Distinto denominador: $\frac {a}{b} + \frac {c}{d} =\frac {ad+bc}{cd}$
+	3. Entero y una fracción : $a+\frac {c}{b} = \frac {ab+c}{b}$
+2. **Multiplicación de fracciones:** $\frac {a}{b} \cdot \frac {c}{d} = \frac {ac}{bd}$
+3. **Division de fracciones** **(cruzada).** $\frac {a}{b} \div \frac {c}{d} = \frac {ad}{bc}$
+4. **Multiplicación por unidad.** $\frac{a}{b} \cdot \frac{c}{c} = \frac{a \cdot c}{b \cdot c} = \frac{a}{b}$
 
 ### Desigualdades
 
@@ -39,21 +39,21 @@ $$|a|= \begin{bmatrix} a\geq 0 \to |a| = a \\ a < 0 \to |a|= -a\end{bmatrix}$$
 - $d(A,B) =|b-a|$ 
 - $d(B,A)= |a-b|$
 
-## 2. Leyes de los exponentes
+## Leyes de los exponentes
 
 | Nombre                                | Ley                                          |
 | ------------------------------------- | -------------------------------------------- |
-| **Ley de separación**                 | $(\cfrac{a}{b})^n = \cfrac {a^n} {b^n}$      |
+| **Ley de separación**                 | $(\frac{a}{b})^n = \frac {a^n} {b^n}$      |
 | $\uparrow$                            | $(ab)^n =a^n b^n$                            |
 | **Multiplicación de bases iguales**   | $a^n a^m = a^{n+m}$                          |
 | **Potencia de una base con potencia** | $(a^n)^m = a^{nm}$                           |
 | **Potencia cero**                     | $a^0 = 1$                                    |
-| **Potencia negativa**                 | $a^{-n} = \cfrac {1} {a^n}$                  |
-| **División de bases iguales**         | $\cfrac {a^n}{a^m} = a^{n-m} \; (si \; n>m)$ |
-| $\uparrow$                            | $\cfrac {a^n} {a^m} = \cfrac {1} {a^{m-n}}$  |
+| **Potencia negativa**                 | $a^{-n} = \frac {1} {a^n}$                  |
+| **División de bases iguales**         | $\frac {a^n}{a^m} = a^{n-m} \; (si \; n>m)$ |
+| $\uparrow$                            | $\frac {a^n} {a^m} = \frac {1} {a^{m-n}}$  |
 | **De reescritura**                    | $a^{m/n} = \sqrt [n]{a^m}$                   |
 
-## 3. Leyes de los radicales
+## Leyes de los radicales
 
 | Ley                                         | -                                           |
 | ------------------------------------------- | ------------------------------------------- |
@@ -68,7 +68,7 @@ $$|a|= \begin{bmatrix} a\geq 0 \to |a| = a \\ a < 0 \to |a|= -a\end{bmatrix}$$
 > - $\sqrt [n]{{a^n}\pm b^n} \neq a\pm b$
 > - $\sqrt [n]{a\pm b}\neq a\pm b$
 
-## 4. Número imaginario
+## Número imaginario
 
 **Número imaginario**: $i = \sqrt{-1}$
 
@@ -80,43 +80,41 @@ $$|a|= \begin{bmatrix} a\geq 0 \to |a| = a \\ a < 0 \to |a|= -a\end{bmatrix}$$
 
 **Número complejo**:  $z = a + bi \; | \; a \in \Bbb {R} \text{ y } bi \in \Bbb {I} \; \to \; Z \in \Bbb C$
 
-## 5. Operaciones con polinomios
+## Operaciones con polinomios
 
-- **Suma y resta (términos semejantes)**: ${x^n}\pm  ax^n = (a\pm 1)x^n$
+- **Suma y resta (términos semejantes)**: $ab^{n}\pm b^n = b^n(a\pm 1)$
 - **Multiplicación**: $a(b+c) = ab+ac$
-
 
 ### Productos Notables
 | Nombre                      | Expresión | Equivalencia                   |
 | --------------------------- | --------- | ------------------------------ |
-| **Diferencia de cuadrados** | $x^2-y^2$ | $(x-y)(x+y)$                   |
-| **Suma de cubos**           | $x^3+y^3$ | $(x+y)(x^2-xy+y^2)$            |
-| **Diferencia de cubos**     | $x^3-y^3$ | $(x+y)(x^2+xy+y^2)$            |
-| **Binomio al cuadrado**     | $(x+y)^2$ | $x^2+2xy+y^2$                  |
-| **Binomio al cuadrado**     | $(x-y)^2$ | $x^2-2xy+y^2$                  |
-| **Binomio al cubo**         | $(x+y)^3$ | $x^3+3x^2y+3xy^2+y^3$          |
-| **Biniomio a la cuarta**    | $(x+y)^4$ | $x^4+4x^3+y+6x^2y^2+4xy^3+y^4$ |
+| **Diferencia de cuadrados** | $a^2-b^2$ | $(a-b)(a+b)$                   |
+| **Suma de cubos**           | $a^3+b^3$ | $(a+b)(a^2-ab+b^2)$            |
+| **Diferencia de cubos**     | $a^3-b^3$ | $(a+b)(a^2+ab+b^2)$            |
+| **Binomio al cuadrado**     | $(a+b)^2$ | $a^2+2ab+b^2$                  |
+| **Binomio al cuadrado**     | $(a-b)^2$ | $a^2-2ab+a^2$                  |
+| **Binomio al cubo**         | $(a+b)^3$ | $a^3+3a^2b+3ab^2+b^3$          |
+| **Biniomio a la cuarta**    | $(a+b)^4$ | $a^4+4a^3+b+6a^2b^2+4ab^3+b^4$ |
 
 
-## 6. Binomio de Newton 
+## Binomio de Newton 
 
 
-$$(a+b)^n=a^n+ \cfrac {n}{1!}a^{n-1}b+ \cfrac {n(n-1)}{2!}a^{n-2}b^2 + \cfrac {n(n-1)(n-2)}{3!}a^{n-3}b^3+ \cdots +b^n$$
+$$(a+b)^n=a^n+ \frac {n}{1!}a^{n-1}b+ \frac {n(n-1)}{2!}a^{n-2}b^2 + \frac {n(n-1)(n-2)}{3!}a^{n-3}b^3+ \cdots +b^n$$
 
 
-## 7. K_ésimo término 
+## K_ésimo término 
 
 
-$$K_{\text{ésimo}} \text{término} = \cfrac {n!}{(n-r+1)!(r-1)!} a^{n-r+1}\cdot b^{r-1}$$
+$$K_{\text{ésimo}} \text{término} = \frac {n!}{(n-r+1)!(r-1)!} a^{n-r+1}\cdot b^{r-1}$$
 
 > [!note]+ Nota
 > 
 > donde: 
-> - $n =$ potencia  y  $r$ = número del término a buscar
+> - $n =$ potencia,  $r$ = número del término a buscar y $n,r \in \Bbb{Z}^{+}$
 
 
-## 8. Factorización
-
+## Factorización
 
 **Por término común**: $x^2+ax = x(x+a)$
 
@@ -130,7 +128,7 @@ x(a+b)+y(a+b) \\
 (a+b)(x+y) \\
 }$$
 
-## 11. Operaciones con números complejos en forma algebraica
+## Operaciones con números complejos en forma algebraica
 
 $$\begin{array}{c|c|c}
 
@@ -157,8 +155,7 @@ z_{1}\cdot z_{2} &= (a+bi)(c+di)  \\
 
 \end{array}$$
 
-## 13. Intérvalos y desigualdades
-
+## Intérvalos y desigualdades
 
 ### Intérvalos
 
@@ -180,11 +177,16 @@ z_{1}\cdot z_{2} &= (a+bi)(c+di)  \\
 
 ### Desigualdades
 
+- Si $a>b$ y $b>c$, entonces $a>c$
+- Si $a>b$, entonces $a+c > b+c$
+- Si $a>b$ y $c>0$, entonces $ac > bc$
+- Si $a>b$ y $c<0$, entonces $ac < bc$ 
+
 > [!Note]+ Nota
 > 
 > Al multiplicar o dividir ambos lados de una desigualdad por un número real negativo, el signo de la desigualdad se invierte.
 
-**Desigualdad de valor absoluto**
+### Desigualdad de valor absoluto
 
 | Caso |        Modelo         |         Solución         |
 |:----:|:---------------------:|:------------------------:|
@@ -194,29 +196,26 @@ z_{1}\cdot z_{2} &= (a+bi)(c+di)  \\
 |  4   | $\mid a\mid\: \geq b$ | $a \leq -b \cup a\geq b$ |
 |      |                       |                          |
 
-## 16. Ecuaciones cuadráticas
+## Ecuaciones cuadráticas
 
 **Ecuación cuadrática especial**: $x^2=d$, entonces $x=\pm \sqrt d$
-
 **Completar el cuadrado**:
 
 | Expresión original |        Término a sumar         |         Expresión Transformada          |           Equivalencia           |
 |:------------------:|:------------------------------:|:---------------------------------------:|:--------------------------------:|
-|      $x^2+kx$      | $\left(\cfrac{k}{2} \right)^2$ | $x^2+kx + \left(\cfrac{k}{2} \right)^2$ | $\left(x+\cfrac{k}{2} \right)^2$ |
-|      $x^2-kx$      | $\left(\cfrac{k}{2} \right)^2$ | $x^2-kx + \left(\cfrac{k}{2} \right)^2$ | $\left(x-\cfrac{k}{2} \right)^2$ |
+|      $x^2+kx$      | $\left(\frac{k}{2} \right)^2$ | $x^2+kx + \left(\frac{k}{2} \right)^2$ | $\left(x+\frac{k}{2} \right)^2$ |
+|      $x^2-kx$      | $\left(\frac{k}{2} \right)^2$ | $x^2-kx + \left(\frac{k}{2} \right)^2$ | $\left(x-\frac{k}{2} \right)^2$ |
 
 
-## 17. Fórmula géneral para ecuaciones cuadráticas
-
+## Ecuaciones cuadráticas  (de segundo grado)
 
 ### Fórmula General
 
-Para $ax^2+bx+c=0$
+Para $ax^{2}+bx+c=0,\: a \neq 0$
 
-$x = \cfrac{-b\pm \sqrt {b^2-4ac}}{2a}$
+$$x = \frac{-b\pm \sqrt {b^2-4ac}}{2a}$$
 
-
-### Discriminante
+#### Discriminante
 
 $D=b^2-4ac$
 
@@ -225,16 +224,21 @@ $D=b^2-4ac$
 3. $D\:|\:D=0\Rightarrow$ Solución repetida, una única solución 
 
 
-## 18. Ecuaciones eXpeciales
-
-
 ### Valor absoluto
 
-$|x|=y$
-$x=\pm y$
-$x_1=y$
-$x_2=-y$
-
+$$\displaylines{
+|x| = y\\
+x = \pm y
+}
+$$
+> [!info] Nota
+> 
+> La **raíz cuadrada** de una _variable elevada al cuadrado_ te da su **valor absoluto**, a menos que se sepa de antemano que _dicha variable_ es _positiva o negativa_.
+> $$\displaylines{
+> \sqrt{x^{2}} = |x|\\
+> \sqrt{x^{2}} = x,\: x>0\\
+> \sqrt{x^{2}} = -x,\: x<0
+> }$$
 
 ### Por agrupación
 
@@ -242,18 +246,41 @@ $x^2+ax+bx+ba=0$
 $x(x+a)+b(x+a)=0$
 $(x+a)(x+b)=0$
 
-
 ### Teorema del cero
 
-$(x+a)(y+b)=0$
-$(x+a) = 0$ y/o $(y+b) =0$
+Un producto que da 0 solo puede ser posible si por lo menos uno de los _factores_ es 0
 
-$\begin{array}{l|l}x+a=0 & x+b=0\\ x_1 = -a & x_2 = -b\end{array}$ 
+**Una variable**:
+$$\displaylines{
+(x+a)(x+b) = 0\\\\
 
-> [!todo]+ Importante
+\begin{array}{l|l}
+\text{Sol. 1} & \text{Sol. 2}\\
+
+x+a=0 & x+b=0\\
+x_1 = -a & x_2 = -b
+\end{array}
+}$$
+**Dos variables**
+
+$$\displaylines{
+(x+a)(y+b) = 0\\\\
+
+\begin{array}{l|l}
+x+a=0 & y+b=0\\
+x = -a & y = -b
+\end{array}
+}$$
+
+En este caso puede haber 3 soluciones
+
+1. $x = -a, y= c$, donde $c$ puede tener cualquier valor.
+2. $y = -b$, $x = d$, donde $d$ pude tener cualquier valor.
+3. $x = -a, y = -b$
+
+> [!tip] Recomendación
 > 
-> Hacer comprobaciones para determinar cúal solución es correcta.
-
+> Recuerda siempre hacer _comprobación_ de todas las posibles soluciones para determinar cuál es la solución que satisface la ecuación.
 
 ### Por sustitución
 
@@ -269,13 +296,11 @@ x^2=u & x^4=u^2
 au^2+bu+c=0}
 $$
 
-1. Resolver la ecuación
-2. Sustituir por los valores originales
-3. Comprobación
+2. Resolver la ecuación
+3. Sustituir por los valores originales
+4. Comprobación
 
-
-
-## 19. Fracciones Parciales
+## Fracciones Parciales
 
 Siendo el grado de $f(x)$ menor que el de $g(x)$, entonces tenemos que
 $$\frac{f(x)}{g(x)} = F_{1} + F_{2} +\cdots + F_r$$
