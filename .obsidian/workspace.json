@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "-Tercero/Álgebra  Líneal/Determinantes.md",
+                "file": "-Tercero/Álgebra  Líneal/Sistemas de Ecuaciones.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "-Tercero/Álgebra  Líneal/Determinantes.md",
+                "file": "-Tercero/Álgebra  Líneal/Sistemas de Ecuaciones.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "-Tercero/Álgebra  Líneal/Determinantes.md",
+                "file": "-Tercero/Álgebra  Líneal/Sistemas de Ecuaciones.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "-Tercero/Álgebra  Líneal/Determinantes.md"
+                "file": "-Tercero/Álgebra  Líneal/Sistemas de Ecuaciones.md"
               }
             }
           },
@@ -165,6 +165,7 @@
   "active": "5c6169027e4850fb",
   "lastOpenFiles": [
     "Formularios y temarios/Matemáticas/Álgebra Lineal.md",
+    "-Tercero/Álgebra  Líneal/Determinantes.md",
     "-Tercero/Álgebra  Líneal/Matrices.md",
     "-Tercero/Álgebra  Líneal/Sistemas de Ecuaciones.md",
     "Formularios y temarios/Matemáticas/Conjuntos y lógica matemática - símbolos.md",
@@ -176,7 +177,6 @@
     "Formularios y temarios/Matemáticas",
     "Fracciones Parciales.md",
     "Formularios y temarios/Matemáticas/Cálculo.md",
-    "-Tercero/Álgebra  Líneal/Determinantes.md",
     "-Primero/Introducción a la Ingeniería/Actividades/Propiedad Intelectual.md",
     "-Tercero/Circuitos/Actividad CFE/Untitled.md",
     "Untitled.md",
