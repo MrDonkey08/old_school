@@ -10,16 +10,17 @@ $$\left[\begin{array}{ccccc}
 ax & + &by & = &c\\
 dx & + &ey & = &f
 \end{array} \right] =  
-
+\
 \left[ \begin{array}{cc|c}
 ax & by & c\\
 dx & ey & f
 \end{array} \right] = 
-
+\
 \left[ \begin{array}{cc|c}
 a & b & c\\
 d & e & f
-\end{array} \right] \tag{1}$$
+\end{array} \right] \tag{1}
+$$
 
 En la que la columna uno representa la primera incógnita ($x$), la columna dos la segunda incógnita ($y$) y la columna tres el resultado de cada fila, de cada ecuación.
 
@@ -60,19 +61,19 @@ En la que la columna uno representa la primera incógnita ($x$), la columna dos 
 Un _sistema de ecuaciones_ se define de la siguiente manera
 
 $$A =\left[\begin{array}{cccc|cc}
-
+\
 a_{11}x_{1} & a_{12}x_{1} & \cdots & a_{1n}x_{1}  & k_1\\
 a_{21}x_{2} & a_{22}x_{2} & \cdots & a_{2n}x_{2}  & k_2\\
 \vdots      & \vdots      & \vdots & \ddots       & \vdots\\ 
 a_{m1}x_{m} & a_{m2}x_{m} & \cdots & a_{mn}x_{n} & k_n\\
 \end{array} \right] =
-
+\
 \left[\begin{array}{cccc|cc}
 a_{11} & a_{12} & \cdots & a_{1n} & k_1\\
 a_{21} & a_{22} & \cdots & a_{2n} & k_2\\
 \vdots & \vdots & \vdots & \ddots & \vdots\\ 
 a_{m1} & a_{m2} & \cdots & a_{mn} & k_n\\
-
+\
 \end{array} \right] \tag{2}$$
 
 en dónde $n$ representa la _cantidad de variables_ y $m$ la _cantidad de ecuaciones_.
@@ -99,7 +100,7 @@ a_{31} & a_{32} & a_{33} & \cdots & a_{3n} & k_2\\
 \vdots & \vdots & \vdots & \ddots & \vdots & \vdots\\ 
 a_{m1} & a_{m2} & a_{m3} & \cdots & a_{mn} & k_m\\
 \end{array} \right] =
-
+\
 \left[\begin{array}{ccccc|c}
 1      & P(a_{12})   & P(a_{13}) &  \cdots & P(a_{1n}) & P(k_1) \\
 0      & 1           & P(a_{23}) & \cdots & P(a_{2n}) & P(k_2)\\
