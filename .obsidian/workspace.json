@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Formularios y temarios/Matemáticas/Lógica Matemática - Leyes.md",
+                "file": "Formularios y temarios/Matemáticas/Conjuntos y lógica matemática - símbolos.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Formularios y temarios/Matemáticas/Lógica Matemática - Leyes.md",
+                "file": "Formularios y temarios/Matemáticas/Conjuntos y lógica matemática - símbolos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Formularios y temarios/Matemáticas/Lógica Matemática - Leyes.md",
+                "file": "Formularios y temarios/Matemáticas/Conjuntos y lógica matemática - símbolos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Formularios y temarios/Matemáticas/Lógica Matemática - Leyes.md"
+                "file": "Formularios y temarios/Matemáticas/Conjuntos y lógica matemática - símbolos.md"
               }
             }
           },
@@ -175,8 +175,9 @@
       "obsidian-matrix:Obsidian Matrix": false
     }
   },
-  "active": "14b31f7a61e09a38",
+  "active": "1c02223311b27410",
   "lastOpenFiles": [
+    "Formularios y temarios/Matemáticas/Lógica Matemática - Leyes.md",
     "Formularios y temarios/Física/Formulario Cinemática y Leyes de Newton.md",
     "Formularios y temarios/Física",
     "Formularios y temarios/Matemáticas/Precálculo.md",
@@ -200,7 +201,6 @@
     "-Primero/Introducción a la programación/Class Notes/Arreglos.md",
     "-Primero/Introducción a la programación/Class Notes/Fundamentos de Programación.md",
     "-Tercero/Álgebra  Líneal/Regla de cramer.md",
-    "Formularios y temarios/Matemáticas/Lógica Matemática - Leyes.md",
     "Formularios y temarios/Matemáticas/Conjuntos y lógica matemática - símbolos.md",
     "Formularios y temarios/Circuitos/Circuitos electrónicos y electromagnetismo.md",
     "Reseñas de profesores/Personales/Reseñas ICOM.md",
