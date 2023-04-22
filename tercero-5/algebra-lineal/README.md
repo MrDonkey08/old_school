@@ -1,2 +1,0 @@
-# Álgebra  Líneal
-
