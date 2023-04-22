@@ -75,7 +75,7 @@ a_{21} && a_{22} \\
 &\color{red}{\searrow}\hspace{-10pt}\color{blue}{\nearrow}\\ 
 a_{21} && a_{22}\\
 
-\end{array}\right]= \color{red}{a_{11}a_{12}} \color{white}{-} \color{blue}{a_{21}a_{22}}$$
+\end{array}\right]= \color{red}{a_{11}a_{12}} \color{black}{-} \color{blue}{a_{21}a_{22}}$$
 
 #### Regla de Sarrus
 
@@ -106,7 +106,7 @@ a_{31} && a_{32} && a_{33} && a_{31} && a_{32} \\
 
 \end{array}\right] \tag{5}$$
 
-$$|A| = (\color{red}{a_{11}a_{22}a_{33}} \color{white}{+} \color{red}{a_{12}a_{23}a_{31}} \color{white}{+} \color{red}{a_{13}a_{21}a_{32}}\color{white}{) -} (\color{blue}{a_{31}a_{22}a_{13}} \color{white}{+} \color{blue}{a_{32}a_{23}a_{11}} \color{white}{+} \color{blue}{a_{33}a_{21}a_{12}}\color{white}{)} \tag{6}$$
+$$|A| = (\color{red}{a_{11}a_{22}a_{33}} \color{black}{+} \color{red}{a_{12}a_{23}a_{31}} \color{black}{+} \color{red}{a_{13}a_{21}a_{32}}\color{black}{) -} (\color{blue}{a_{31}a_{22}a_{13}} \color{black}{+} \color{blue}{a_{32}a_{23}a_{11}} \color{black}{+} \color{blue}{a_{33}a_{21}a_{12}}\color{black}{)} \tag{6}$$
 
 <!-- 123, 231, 312 -->
 
