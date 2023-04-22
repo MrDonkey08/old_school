@@ -1,16 +1,16 @@
-## d) Magnetismo
+# d) Magnetismo
 
-### Capítulo 24
+## Capítulo 24
 
 En la época en la que el aceite de ballenas se utilizaba para encender lámparas y la iluminación eléctrica hacía su debut, una pregunta apremiante era cuál forma de energía alimentaría la iluminación eléctrica. La persona que respondió mejor dicha pregunta fue Nikola Tesla, un serbio que emigró a Estados Unidos procedente del imperio austriaco en 1884.
 
-Tesla, ingeniero eléctrico, fue un inventor prolífico y un genio que hablaba siete idiomas. Cuando llegó a Estados Unidos no tenía más que una carta de recomendación de su exempleador  dirigida a Thomas Edison. La carta era breve:“Conozco dos grandes hombres, uno es usted y el otro es este joven”. Edison contrató a Tesla para que trabajara en su empresa Edison Machine Works. Tesla pronto se dedicó a resolver los problemas más difíciles de la compañía. Trabajó día y noche en el rediseño de los ineficaces motores y generadores de Edison pensando en la espléndida bonificación que le habían prometido si lograba buenos resultados.
+Tesla, ingeniero eléctrico, fue un inventor prolífico y un genio que hablaba siete idiomas. Cuando llegó a Estados Unidos no tenía más que una carta de recomendación de su exempleador  dirigida a Thomas Edison. La carta era breve:“Conozco dos grandes hombres, uno es usted y el otro es este joven”. Edison contrató a Tesla para que trabajara en su empresa Edison Machine Works. Tesla pronto se dedicó a resolver los problemas más difíciles de la compañía. Trabajó día y noche en el rediseño de los ineficaces motores y generadores de Edison pensando en la espléndida bonificación que le habían prometido si lograba buenos resultados.
 
-Cuando la bonificación no se materializó, Tesla renunció.  
+Cuando la bonificación no se materializó, Tesla renunció. &#x20;
 
-El término _magnetismo_ proviene del nombre Magnesia, un distrito costero de la antigua Tesalia, en Grecia, donde los griegos encontraron piedras extrañas hace más de 2,000 años. Estas piedras, llamadas _magnetitas_, tienen la asombrosa propiedad de atraer pedazos de hierro. Con los imanes se fabricaron primero brújulas, que los chinos utilizaban para navegar en el siglo XII.
+El término _magnetismo_ proviene del nombre Magnesia, un distrito costero de la antigua Tesalia, en Grecia, donde los griegos encontraron piedras extrañas hace más de 2,000 años. Estas piedras, llamadas _magnetitas_, tienen la asombrosa propiedad de atraer pedazos de hierro. Con los imanes se fabricaron primero brújulas, que los chinos utilizaban para navegar en el siglo XII.
 
-Las fuerzas que ejercen los imanes unos sobre otros son similares a las fuerzas eléctricas, porque ambas pueden atraer y repeler sin tocar, dependiendo de qué extremos de los imanes se mantengan juntos. También, al igual que las fuerzas eléctricas, la intensidad de su interacción depende de la distancia de separación entre los dos imanes. Mientras que la carga eléctrica es responsable de las fuerzas eléctricas, las regiones llamadas _polos magnéticos_ originan las fuerzas magnéticas.
+Las fuerzas que ejercen los imanes unos sobre otros son similares a las fuerzas eléctricas, porque ambas pueden atraer y repeler sin tocar, dependiendo de qué extremos de los imanes se mantengan juntos. También, al igual que las fuerzas eléctricas, la intensidad de su interacción depende de la distancia de separación entre los dos imanes. Mientras que la carga eléctrica es responsable de las fuerzas eléctricas, las regiones llamadas _polos magnéticos_ originan las fuerzas magnéticas.
 
 Si esparces algunas limaduras de hierro sobre una hoja de papel colocada encima de un imán, verás que las limaduras trazan un patrón ordenado de líneas en torno al imán. El espacio alrededor del imán contiene un **campo magnético**. La forma del campo lo revelan las limaduras, que se alinean con las líneas del campo magnético que se extiende desde un polo y regresa al otro.
 

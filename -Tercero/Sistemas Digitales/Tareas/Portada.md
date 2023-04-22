@@ -1,10 +1,26 @@
-# <p align="center">Universidad de Guadalajara
+# Universidad de Guadalajara
 
-## <p align="center">Centro Universitario de Ciencias Exactas E Ingenierías<br>
+Centro Universitario de Ciencias Exactas E Ingenierías\
 
-![Portada-UDG | left |200](Attachments/Images/Portada-UDG.jpeg) ![Portada-CUCEI | right | 188](Attachments/Images/Portada-CUCEI.jpeg)
 
-<br> <br> <br> <br> <br><br> <br><br><br><br><br><br><br><br>
+
+![Portada-UDG | left |200](../../Sistemas%20Digitales/Tareas/Attachments/Images/Portada-UDG.jpeg) ![Portada-CUCEI | right | 188](../../Sistemas%20Digitales/Tareas/Attachments/Images/Portada-CUCEI.jpeg)
+
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+
 
 ### División de Tecnologías para la Integración Ciber-humana
 
@@ -25,5 +41,5 @@
 #### NRC: 194956
 
 #### Fecha de entrega: 08/02/2023
-<div style="page-break-after: always;"></div>
----
+
+\---
