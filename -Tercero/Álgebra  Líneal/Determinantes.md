@@ -11,7 +11,7 @@ $$det(A), |A|$$
 
 ### Menores y cofactores
 
-$$\begin{array}{ccc}
+$$\begin{array}{ccccc}
 \text{Matriz} & \text{Menor} &\text{Cofactor o Adjunto}\\ 
 \begin{bmatrix} \cancel{a_{11}} & \cancel{a_{12}} & \cancel{a_{13}} & \cancel{\cdots} & \cancel {a_{1n}}\\
 \cancel{a_{21}} & a_{22} & a_{23} & \cdots & a_{2n}\\
@@ -39,8 +39,11 @@ Otra manera de determinar el signo dado de por $(-1)^{i+j}$ es considerar el sig
 
 $$\begin{bmatrix}
 +&-&+&-& \cdots\\
+
 -&+&-&+& \cdots\\
 +&-&+&-& \cdots\\  
+
+
 -&+&-&+& \cdots\\
 \vdots & \vdots & \vdots & \vdots 
 \end{bmatrix} \tag{2}$$
