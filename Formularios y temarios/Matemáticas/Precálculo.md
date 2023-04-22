@@ -136,7 +136,7 @@ x(a+b)+y(a+b) \\
 ## Operaciones con números complejos en forma algebraica
 
 $$\begin{array}{c|c|c}
-
+\
 \text{Suma y resta}             & \text{División} & \text{Multiplicación}\\
 \eqalign{
 z_{1}+z_{2} &= (a+bi) + (c+di)  \\
@@ -145,19 +145,15 @@ z_{1}+z_{2} &= (a+bi) + (c+di)  \\
 z_{1}+z_{2} &= (a+bi) - (c+di) \\
 &=(a-c)+(b-d)i  
 }
-
 & \displaylines{\frac{z_{1}}{z_{2}} = \frac{z_{1}}{z_{2}}\cdot \frac{z_{2}}{x_{2}}\\
  = \frac{a+bi}{c+di}\cdot \frac{c-di}{c-di}\\
  = \frac{ac + (bc-ad)i - bdi^{2}} {{c^{2}d^{2}i^{2}}}
 }
-
 & \eqalign{
 z_{1}\cdot z_{2} &= (a+bi)(c+di)  \\
 &= ac + bci + adi + bdi^{2}\\
 &= ac + (bc+ad) + bdi^{2}\\
-
 }
-
 \end{array}$$
 
 ## Intérvalos y desigualdades
@@ -253,10 +249,10 @@ Un producto que da 0 solo puede ser posible si por lo menos uno de los _factores
 **Una variable**:
 $$\displaylines{
 (x+a)(x+b) = 0\\\\
-
+\
 \begin{array}{l|l}
 \text{Sol. 1} & \text{Sol. 2}\\
-
+\
 x+a=0 & x+b=0\\
 x_1 = -a & x_2 = -b
 \end{array}
@@ -265,14 +261,14 @@ x_1 = -a & x_2 = -b
 
 $$\displaylines{
 (x+a)(y+b) = 0\\\\
-
+\
 \begin{array}{l|l}
 x+a=0 & y+b=0\\
 x = -a & y = -b
 \end{array}
 }$$
 
-En este caso puede haber 3 soluciones
+En este caso puede haber 3 posibles soluciones
 
 1. $x = -a, y= c$, donde $c$ puede tener cualquier valor.
 2. $y = -b$, $x = d$, donde $d$ pude tener cualquier valor.
@@ -292,7 +288,7 @@ $$\displaylines{
 \begin{array}{c|c}
 x^2=u & x^4=u^2 
 \end{array}\\
-
+\
 au^2+bu+c=0}
 $$
 
@@ -303,6 +299,7 @@ $$
 ## Fracciones Parciales
 
 Siendo el grado de $f(x)$ menor que el de $g(x)$, entonces tenemos que
+
 $$\frac{f(x)}{g(x)} = F_{1} + F_{2} +\cdots + F_r$$
 
 tal que $F_{k}$ tiene una de las formas
