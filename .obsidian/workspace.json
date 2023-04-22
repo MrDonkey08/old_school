@@ -4,102 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "dd1d66e1ba95fcf7",
+        "id": "6fe1bb90b64ec6b0",
         "type": "tabs",
         "children": [
           {
-            "id": "e607677a1c1c0ba1",
+            "id": "569ec6d91d782da5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "-Tercero/Álgebra  Líneal/Regla de cramer.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "21afa72ac2472a7a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "-Tercero/Ecuaciones Diferenciales/Apuntes de clase/Segundo Parcial/Apuntes Segundo Parcial.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "79211f96a67aea38",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "-Tercero/Álgebra  Líneal/Regla de cramer.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dd81819aee827db6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Attachments/Templates/Bibliografía/APA/Libro impreso (edición o volumen).md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e150fc23f8bee2a0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Attachments/Templates/Bibliografía/APA/Libro impreso.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a5db8f88b1060d26",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Attachments/Templates/Bibliografía/APA/Capítulo de un libro.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cfe71ffec780e1fa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Attachments/Templates/Bibliografía/APA/Libro impreso.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,7 +42,7 @@
                 "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -174,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "-Tercero/Álgebra  Líneal/Regla de cramer.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "-Tercero/Álgebra  Líneal/Regla de cramer.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "-Tercero/Álgebra  Líneal/Regla de cramer.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -241,26 +162,74 @@
       "obsidian-matrix:Obsidian Matrix": false
     }
   },
-  "active": "14b31f7a61e09a38",
+  "floating": {
+    "id": "f414041f33bee6a3",
+    "type": "floating",
+    "children": [
+      {
+        "id": "2f87107ccd8b7574",
+        "type": "window",
+        "children": [
+          {
+            "id": "958eba95e7523316",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "586cc1fba2ff5dde",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Formularios/Precálculo.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 3316,
+        "y": 25,
+        "width": 1394,
+        "height": 909,
+        "maximize": true,
+        "zoom": 0.5
+      }
+    ]
+  },
+  "active": "569ec6d91d782da5",
   "lastOpenFiles": [
-    "-Tercero/Álgebra  Líneal",
-    "-Tercero/Ecuaciones Diferenciales/Apuntes de clase/Segundo Parcial/Apuntes Segundo Parcial.md",
+    "Untitled 1.md",
+    "Untitled.md",
+    "Formularios/Álgebra Lineal.md",
+    "-Tercero/Álgebra  Líneal/Matrices.md",
+    "-Tercero/Álgebra  Líneal/Sistemas de Ecuaciones.md",
+    "-Tercero/Álgebra  Líneal/Determinantes.md",
     "-Tercero/Álgebra  Líneal/Regla de cramer.md",
-    "Attachments/Templates/Bibliografía/APA/Libro impreso (edición o volumen).md",
-    "Attachments/Templates/Bibliografía/APA/Libro impreso.md",
-    "Attachments/Templates/Bibliografía/APA/Capítulo de un libro.md",
-    "Attachments/Templates/Bibliografía/APA/Libro con editor.md",
-    "Attachments/Templates/Bibliografía/APA/Libro en línea.md",
-    "Attachments/Templates/Bibliografía/APA/Sitio Web Dinámico.md",
-    "Attachments/Templates/Bibliografía/APA/Dinamic Website.md",
     "Formularios/Precálculo.md",
+    "-Primero/Precálculo/Class Notes/16. Fracciones Parciales.md",
+    "Circuitos-dudas.md",
+    "Fracciones Parciales.md",
+    "-Primero/Precálculo/Class Notes/Sistemas 2x2.md",
+    "-Primero/Precálculo/Class Notes/18. Ecuaciones Expeciales.md",
+    "-Segundo/Cálculo Diferencial e Integral/Homework/Tarea 4.md",
+    "-Segundo/Cálculo Diferencial e Integral/Homework/Tarea 5.md",
+    "-Segundo/Cálculo Diferencial e Integral/Homework/Tarea 6.md",
+    "-Segundo/Cálculo Diferencial e Integral/Homework/Tarea 7.md",
+    "-Segundo/Cálculo Diferencial e Integral/Homework/Tarea 3.md",
+    "-Tercero/Sistemas Digitales/Tareas/5. Alarma.md",
+    "-Tercero/Sistemas Digitales (Oyente)/Logica de Función Fija - 14-02-2023.md",
+    "-Tercero/Sistemas Digitales/Tareas/Portada.md",
     "-Tercero/Sistemas Digitales/Tareas/9. Compardor de 2 palabras.md",
-    "-Tercero/Ecuaciones Diferenciales/Apuntes de clase/Segundo Parcial/Variación de Parámetros.md",
-    "-Tercero/Ecuaciones Diferenciales/Apuntes de clase/Segundo Parcial/Transformada de Laplace.md",
-    "-Tercero/Ecuaciones Diferenciales/Apuntes de clase/Primer Parcial/Untitled 1.md",
+    "-Segundo/Mecánica/Investigaciones/Sem 9.md",
+    "Reseñas de profesores/Personales/Reseñas ICOM.md",
+    "-Tercero/Ecuaciones Diferenciales/Apuntes de clase/Segundo Parcial/Apuntes Segundo Parcial.md",
+    "-Tercero/Administración/Notes/Untitled 1.md",
+    "-Tercero/Álgebra  Líneal",
     "-Tercero/Sistemas Digitales/Tareas/Attachments/6. Multiplexor.pdsprj.DESKTOP-9FAHEL3.Human Solutions.workspace",
-    "-Tercero/Sistemas Digitales/Class Note/Untitled.md",
-    "-Tercero/Sistemas Digitales/Tareas/Task/Untitled.md",
     "-Tercero/Sistemas Digitales/Tareas/Attachments/6. Multiplexor-1.jpeg",
     "-Tercero/Sistemas Digitales/Tareas/Attachments/5. Alarma-NAND-3.jpeg",
     "-Tercero/Sistemas Digitales/Tareas/Attachments/5. Alarma-NAND-2.jpeg",
@@ -271,15 +240,6 @@
     "-Tercero/Sistemas Digitales/Tareas/Attachments/5. Alarma-1.jpeg",
     "-Tercero/Sistemas Digitales/Tareas/Attachments/2. Operaciones en sistemas binario, octal y hexadecimal-4.jpeg",
     "-Tercero/Sistemas Digitales/Tareas/Attachments/2. Operaciones en sistemas binario, octal y hexadecimal-3.jpeg",
-    "Formularios/Cálculo.md",
-    "Formularios/Circuitos electrónicos y electromagnetismo.md",
-    "Circuitos-dudas.md",
-    "Attachments/Excalidraw/Organigrama.excalidraw.md",
-    "Attachments/Excalidraw/Organigrama.excalidraw 1.md",
-    "Attachments/Excalidraw 1/Organigrama.excalidraw 1.md",
-    "Attachments/Excalidraw 1/Organigrama.excalidraw.md",
-    "Untitled 1.md",
-    "Formularios/Conjuntos y lógica matemática - símbolos.md",
     "Attachments/Excalidraw 1",
     "Attachements",
     "Attachements\\Excalidraw",
@@ -287,7 +247,6 @@
     "-Tercero/Sistemas Digitales/Tareas/Project Backups/Comparador de 2 palabras [20230419, 13-52-42].pdsprj",
     "-Tercero/Sistemas Digitales/Tareas/Project Backups/Comparador de 2 palabras [20230419, 13-37-37].pdsprj",
     "-Tercero/Sistemas Digitales/Tareas/Project Backups",
-    "-Tercero\\Sistemas Digitales\\Tareas\\Project Backups",
-    "-Tercero/Sistemas Digitales/Tareas/Attachments/Comparador de 2 palabras.pdsprj.LAPTOP-0P58E1L1.HP.workspace"
+    "-Tercero\\Sistemas Digitales\\Tareas\\Project Backups"
   ]
 }
