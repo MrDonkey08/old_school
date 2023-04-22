@@ -6,12 +6,12 @@ aliases: formulario, simbolario
 tags: logica matematica/formulario, matematicas discrestas/formulario, formulario/matematicas discretas, formulario/logica matematica
 
 creation date: 14-02-2023
-last modification date: 19-04-2023
+last modification date: 22-04-2023
 
 type: Note
 ---
-# Simbolario Lógica Matemática y Matemáticas Discretas
 
+# Simbolario Lógica Matemática y Matemáticas Discretas
 
 ## Conjuntos
 
