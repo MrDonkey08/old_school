@@ -89,7 +89,7 @@ type: Note
 |                    $\therefore$                    |           $P \therefore Q$            | Conclusión            | luego, por lo tanto, en consecuencia |
 |                     $\because$                     |            $P \because Q$             | Porque                | -                                    |
 |                   $\top,$ T $,1$                   |                   -                   | Tautología            | siempre verdadero                    |
-|                   $\bot,$ F$,0$                    |                   -                   | Contradicción         | siempre falso                        |
+|                   $\bot,$ F, $0$                    |                   -                   | Contradicción         | siempre falso                        |
 
 
 
