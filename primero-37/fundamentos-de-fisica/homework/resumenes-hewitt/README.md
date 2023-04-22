@@ -1,2 +1,0 @@
-# Resúmenes Hewitt
-
