@@ -48,7 +48,7 @@ donde $V(x,y)=V\left(\cfrac{-b}{2a},\left(\cfrac{-b}{2a}\right)\right)$ <!-- Par
 $$\displaylines{
 D_{f(x)} = \Bbb R-\{x|x\to ax+c=0\} \\
 ax+c \neq 0 \to x \neq \frac{-c}{a} \\
-D_{f(x)}\neq \Bbb R-\{-\frac{c}a\}}$$
+D_{f(x)} = \Bbb R-\{-\frac{c}a\}}$$
 
 $R_{f(x)}=\Bbb R-\{0\}$
 
