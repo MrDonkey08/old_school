@@ -1,2 +1,0 @@
-# obsidian-advanced-slides
-
