@@ -93,7 +93,6 @@ type: Note
 |                   $\top,$ T $,1$                   |                   -                   | Tautología            | siempre verdadero                    |
 |                   $\bot,$ F, $0$                    |                   -                   | Contradicción         | siempre falso                        |
 
-
 <div style="page-break-after: always;"></div>
 
 ## Referencias 
