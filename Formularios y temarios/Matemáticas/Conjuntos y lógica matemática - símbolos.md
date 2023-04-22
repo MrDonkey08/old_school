@@ -34,48 +34,48 @@ type: Note
 |               $\varnothing$                |    Conjunto vacío    | Conjunto sin elementos                                               |
 |                  $\Bbb U$                  |  Conjunto universal  | Todos los valores posibles (en el área de interés)                   |
 |                   $P(A)$                   |  Conjunto potencia   | Todos los subconjuntos de $A$. Si \$A = n$, entonces \# $P(A) = 2^n$ |
-|            \# $A$ o $\mid A\mid$            |     Cardinalidad     | Número de elementos del conjunto $A$                                 |
+|           \# $A$ o $\mid A\mid$            |     Cardinalidad     | Número de elementos del conjunto $A$                                 |
 
 ## Clasificación de números
 
-| Notación                                                         |         Nombre          | Definición                                                                                                                                      |
-|:---------------------------------------------------------------- |:-----------------------:| -------------------------------------------------------------------------------------------------------------------------------------------- |
-| $\Bbb{N} = \Bbb{N}_{1}= \Bbb{Z}^{+} = \{1, 2, 3,\dots\}$         |    Números Naturales    | Son el conjunto de números que sirven para contar.                                                                                           |
-| $\Bbb{N}_{0} = \Bbb{N}^{0} = \{0, 1, 2, 3,\dots\}$               | Números Naturales con 0 | -                                                                                                                                            |
-| $\Bbb Z = \{\dots, -2, -1, 0, 1, 2,\dots\}$                      |     Números Enteros     | Son el conjunto de números naturales, sus opuestos (negativos) y el cero.                                                                    |
-| $\Bbb Q = \left\{\frac {p}{q} \mid \;p,q ∈ \Bbb{Z} \right\}$     |   Números Racionales    | Son el conjunto de números que se pueden representar con una razón (cociente) de dos enteros                                                 |
-| $\Bbb{I} = \{a \mid a \in \Bbb{R}, a \notin \Bbb{Q}\}$ |  Números Irracionales   | Son el conjunto de números que tiene decimal infinito no periódico y, por lo tanto, no se puede representar como el cociente de dos enteros. |
-| $\Bbb R = \{a \mid a \in (-∞, ∞)\}$                                               |     Números Reales      | Es el conjunto que contiene a los números racionales e irracionales.                                                                         |
-| $I = \{bi \mid b \in \Bbb{R}, i \in I\}$      |   Números Imaginarios   | Son producto del número real por la unidad imaginaria: $i=\sqrt{-1}$                                                      |
-| $\Bbb C = \{a+bi \mid a \in \Bbb{R}, bi \in I\}$       |    Números Complejos    | Comprende los números reales y los imaginarios.                                                                                              |
+| Notación                                                     |         Nombre          | Definición                                                                                                                                   |
+|:------------------------------------------------------------ |:-----------------------:| -------------------------------------------------------------------------------------------------------------------------------------------- |
+| $\Bbb{N} = \Bbb{N}_{1}= \Bbb{Z}^{+} = \{1, 2, 3,\dots\}$     |    Números Naturales    | Son el conjunto de números que sirven para contar.                                                                                           |
+| $\Bbb{N}_{0} = \Bbb{N}^{0} = \{0, 1, 2, 3,\dots\}$           | Números Naturales con 0 | -                                                                                                                                            |
+| $\Bbb Z = \{\dots, -2, -1, 0, 1, 2,\dots\}$                  |     Números Enteros     | Son el conjunto de números naturales, sus opuestos (negativos) y el cero.                                                                    |
+| $\Bbb Q = \left\{\frac {p}{q} \mid \;p,q ∈ \Bbb{Z} \right\}$ |   Números Racionales    | Son el conjunto de números que se pueden representar con una razón (cociente) de dos enteros                                                 |
+| $\Bbb{I} = \{a \mid a \in \Bbb{R}, a \notin \Bbb{Q}\}$       |  Números Irracionales   | Son el conjunto de números que tiene decimal infinito no periódico y, por lo tanto, no se puede representar como el cociente de dos enteros. |
+| $\Bbb R = \{a \mid a \in (-∞, ∞)\}$                          |     Números Reales      | Es el conjunto que contiene a los números racionales e irracionales.                                                                         |
+| $I = \{bi \mid b \in \Bbb{R}, i \in I\}$                     |   Números Imaginarios   | Son producto del número real por la unidad imaginaria: $i=\sqrt{-1}$                                                                         |
+| $\Bbb C = \{a+bi \mid a \in \Bbb{R}, bi \in I\}$             |    Números Complejos    | Comprende los números reales y los imaginarios.                                                                                              |
 
 ## Relaciones
 
-| Símbolo | Nombre | Significado |
-|:-:|:-:|:-|
-| $x\ R\ y$ | Relación | $(x,y)\in R$ |
-| $R^{-1}$ o $R^{\sim}$ | Inversa | Conjunto de pares ordenados que cambian su posición $(a,b)\to (b,a)$ | 
-| $R\circ S$ | Composición | Elemento en común en sus extremos | Además $T\circ (S\circ R) = (T\circ S)\circ R$ |
-| $a\ R\ a$ | Reflexiva | $R$ es reflexiva $≡ ∀a \left(a\ R\ a\right)$ |
-| $a\ \not R\ a$ | No reflexiva | $R$ es reflexiva $≡ ∀a \left(a\ \not R\ a\right)$ |
-| - | Simétrica | $R$ es simétrica ≡ $∀a\ ∀b \left(a\ R\ b ⇒ b\ R\ a\right)$ |    
-| - | Antisimétrica | R es antisimétrica $≡ ∀a\ ∀b \left(a\ R\ b ∧ b\ R\ a ⇒ a = b\right)$
-| - | Transitiva | R es transitiva $≡ ∀a\ ∀b\ ∀c\ (a\ R\ b ∧ b\ R\ c ⇒ a\ R\ c)$ |
-| - | Relación de equivalencia | Reflexiva, simétrica y transitiva |
-| $\preceq$ | Orden Parcial | Reflexivo, antisimétrico y transitivo |
+|        Símbolo        |          Nombre          | Significado                                                          |                                                |
+|:---------------------:|:------------------------:|:-------------------------------------------------------------------- | ---------------------------------------------- |
+|       $x\ R\ y$       |         Relación         | $(x,y)\in R$                                                         |                                                |
+| $R^{-1}$ o $R^{\sim}$ |         Inversa          | Conjunto de pares ordenados que cambian su posición $(a,b)\to (b,a)$ |                                                |
+|      $R\circ S$       |       Composición        | Elemento en común en sus extremos                                    | Además $T\circ (S\circ R) = (T\circ S)\circ R$ |
+|       $a\ R\ a$       |        Reflexiva         | $R$ es reflexiva $≡ ∀a \left(a\ R\ a\right)$                         |                                                |
+|    $a\ \not R\ a$     |       No reflexiva       | $R$ es reflexiva $≡ ∀a \left(a\ \not R\ a\right)$                    |                                                |
+|           -           |        Simétrica         | $R$ es simétrica ≡ $∀a\ ∀b \left(a\ R\ b ⇒ b\ R\ a\right)$           |                                                |
+|           -           |      Antisimétrica       | R es antisimétrica $≡ ∀a\ ∀b \left(a\ R\ b ∧ b\ R\ a ⇒ a = b\right)$ |                                                |
+|           -           |        Transitiva        | R es transitiva $≡ ∀a\ ∀b\ ∀c\ (a\ R\ b ∧ b\ R\ c ⇒ a\ R\ c)$        |                                                |
+|           -           | Relación de equivalencia | Reflexiva, simétrica y transitiva                                    |                                                |
+|       $\preceq$       |      Orden Parcial       | Reflexivo, antisimétrico y transitivo                                |                                                |
 
 ## Operadores de Conjuntos
 
-| Símbolo | Nombre | Significado |
-| :-: | :-: | :- |
-| $\mid, \ /, :$| - | Tal que |
-| $\forall$ | Cuantificador universal | Para todo |
-| $\in$ | - | Pertenece |
-| $\notin$ | - | No pertenece |
-| $\exists$ | Cuantificador existencial | Existe |
-| $\nexists$ | - | No existe | 
-| $\nexists !$ | - | Existe un único|
-| {} | Conjunto | - |
+|    Símbolo     |          Nombre           | Significado     |
+|:--------------:|:-------------------------:|:--------------- |
+| $\mid, \ /, :$ |             -             | Tal que         |
+|   $\forall$    |  Cuantificador universal  | Para todo       |
+|     $\in$      |             -             | Pertenece       |
+|    $\notin$    |             -             | No pertenece    |
+|   $\exists$    | Cuantificador existencial | Existe          |
+|   $\nexists$   |             -             | No existe       |
+|  $\nexists !$  |             -             | Existe un único |
+|       {}       |         Conjunto          | -               |
 
 ## Conectores lógicos
 
@@ -91,7 +91,7 @@ type: Note
 |                    $\therefore$                    |           $P \therefore Q$            | Conclusión            | luego, por lo tanto, en consecuencia |
 |                     $\because$                     |            $P \because Q$             | Porque                | -                                    |
 |                   $\top,$ T $,1$                   |                   -                   | Tautología            | siempre verdadero                    |
-|                   $\bot,$ F, $0$                    |                   -                   | Contradicción         | siempre falso                        |
+|                   $\bot,$ F, $0$                   |                   -                   | Contradicción         | siempre falso                        |
 
 <div style="page-break-after: always;"></div>
 
