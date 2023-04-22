@@ -8,7 +8,7 @@ last modification date: 22-04-2023
 type: Formulario
 ---
 
-# Formulario 
+# Formulario Precálculo
 
 En este formulario: $A\, B\, a,\ b,\ c\ \text{ y }\ d\in\Bbb R$ y son constantes, $n,\ m \in \Bbb{Z}$ y $r \in \Bbb{Z}^{+}$
 
