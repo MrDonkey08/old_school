@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "-Tercero/Álgebra  Líneal/Matrices.md",
+                "file": "Formularios y temarios/Matemáticas/Precálculo.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "-Tercero/Álgebra  Líneal/Matrices.md",
+                "file": "Formularios y temarios/Matemáticas/Precálculo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "-Tercero/Álgebra  Líneal/Matrices.md",
+                "file": "Formularios y temarios/Matemáticas/Precálculo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "-Tercero/Álgebra  Líneal/Matrices.md"
+                "file": "Formularios y temarios/Matemáticas/Precálculo.md"
               }
             }
           },
@@ -164,9 +164,9 @@
   },
   "active": "5c6169027e4850fb",
   "lastOpenFiles": [
+    "-Tercero/Álgebra  Líneal/Matrices.md",
     "-Tercero/Álgebra  Líneal/Regla de cramer.md",
     "-Tercero/Álgebra  Líneal/Sistemas de Ecuaciones.md",
-    "-Tercero/Álgebra  Líneal/Matrices.md",
     "-Tercero/Álgebra  Líneal/Determinantes.md",
     "Formularios y temarios/Matemáticas/Álgebra Lineal.md",
     "Formularios y temarios/Matemáticas/Conjuntos y lógica matemática - símbolos.md",
