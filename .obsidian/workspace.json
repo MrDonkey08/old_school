@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "9bab24fe5387efc9",
+        "id": "79b8fc454b19c3d6",
         "type": "tabs",
         "children": [
           {
-            "id": "5c6169027e4850fb",
+            "id": "a5f85a40324915a7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Formularios y temarios/Matemáticas/Cálculo.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -95,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Formularios y temarios/Matemáticas/Cálculo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Formularios y temarios/Matemáticas/Cálculo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,9 +116,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Formularios y temarios/Matemáticas/Cálculo.md"
-              }
+              "state": {}
             }
           },
           {
@@ -162,11 +153,11 @@
       "obsidian-matrix:Obsidian Matrix": false
     }
   },
-  "active": "5c6169027e4850fb",
+  "active": "a5f85a40324915a7",
   "lastOpenFiles": [
+    "Formularios y temarios/Matemáticas/Cálculo.md",
     "Formularios y temarios/Matemáticas/Conjuntos y lógica matemática - símbolos.md",
     "Formularios y temarios/Matemáticas/Precálculo.md",
-    "Formularios y temarios/Matemáticas/Cálculo.md",
     "Formularios y temarios/Matemáticas/Álgebra Lineal.md",
     "-Tercero/Álgebra  Líneal/Matrices.md",
     "-Tercero/Álgebra  Líneal/Regla de cramer.md",
