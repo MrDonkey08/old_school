@@ -10,7 +10,7 @@ type: Formulario
 
 # Formulario Precálculo
 
-En este formulario: $A\;, B\;, a,\; b,\; c\; \text{ y }\; d\in\Bbb R$ y son constantes, $n,\; m \in \Bbb{Z}$ y $r \in \Bbb{Z}^{+}$
+En este formulario: $A\, B\, a,\ b,\ c\ \text{ y }\ d\in\Bbb R$ y son constantes, $n,\ m \in \Bbb{Z}$ y $r \in \Bbb{Z}^{+}$
 
 ## Conjunto de Números Reales
 
@@ -58,7 +58,7 @@ $$|a|= \begin{bmatrix} a\geq 0 \to |a| = a \\ a < 0 \to |a|= -a\end{bmatrix}$$
 | **Potencia de una base con potencia** | $(a^n)^m = a^{nm}$                           |
 | **Potencia cero**                     | $a^0 = 1$                                    |
 | **Potencia negativa**                 | $a^{-n} = \frac {1} {a^n}$                  |
-| **División de bases iguales**         | $\frac {a^n}{a^m} = a^{n-m} \; (si \; n>m)$ |
+| **División de bases iguales**         | $\frac {a^n}{a^m} = a^{n-m} \ (si \ n>m)$ |
 | $\uparrow$                            | $\frac {a^n} {a^m} = \frac {1} {a^{m-n}}$  |
 | **De reescritura**                    | $a^{m/n} = \sqrt [n]{a^m}$                   |
 
@@ -87,7 +87,7 @@ $$|a|= \begin{bmatrix} a\geq 0 \to |a| = a \\ a < 0 \to |a|= -a\end{bmatrix}$$
 - $i^3 = i^2i=(-1)i = -i$
 - $i^4 = i^2 i^2=(-1)(-1)=1$
 
-**Número complejo**:  $z = a + bi \; | \; a \in \Bbb {R} \text{ y } bi \in \Bbb {I} \; \to \; Z \in \Bbb C$
+**Número complejo**:  $z = a + bi \ | \ a \in \Bbb {R} \text{ y } bi \in \Bbb {I} \ \to \ Z \in \Bbb C$
 
 ## Operaciones con polinomios
 
@@ -164,7 +164,7 @@ z_{1}\cdot z_{2} &= (a+bi)(c+di)  \\
 
 ### Intérvalos
 
-**Intérvalo abierto**: $(a,\: b) = x\: |\: a < x < b,\: x \in \Bbb {R}$
+**Intérvalo abierto**: $(a,\ b) = x\ |\ a < x < b,\ x \in \Bbb {R}$
 
 ![Formulario-1 | 300](Attachments/Formulario-1.jpeg)
 
@@ -195,10 +195,10 @@ z_{1}\cdot z_{2} &= (a+bi)(c+di)  \\
 
 | Caso |        Modelo         |         Solución         |
 |:----:|:---------------------:|:------------------------:|
-|  1   |  $\mid a\mid\: < b$   |       $-b < a < b$       |
-|  2   | $\mid a\mid\: \leq b$ |    $-b \leq a \leq b$    |
-|  3   |  $\mid a\mid\: > b$   |   $a < -b \cup a > b$    |
-|  4   | $\mid a\mid\: \geq b$ | $a \leq -b \cup a\geq b$ |
+|  1   |  $\mid a\mid\ < b$   |       $-b < a < b$       |
+|  2   | $\mid a\mid\ \leq b$ |    $-b \leq a \leq b$    |
+|  3   |  $\mid a\mid\ > b$   |   $a < -b \cup a > b$    |
+|  4   | $\mid a\mid\ \geq b$ | $a \leq -b \cup a\geq b$ |
 |      |                       |                          |
 
 ## Ecuaciones cuadráticas (de segundo grado)
@@ -212,7 +212,7 @@ z_{1}\cdot z_{2} &= (a+bi)(c+di)  \\
 
 ### Fórmula General
 
-Para $ax^{2}+bx+c=0,\: a \neq 0$
+Para $ax^{2}+bx+c=0,\ a \neq 0$
 
 $$x = \frac{-b\pm \sqrt {b^2-4ac}}{2a}$$
 
@@ -220,9 +220,9 @@ $$x = \frac{-b\pm \sqrt {b^2-4ac}}{2a}$$
 
 $D=b^2-4ac$
 
-1. $D\:|\:D>0\Rightarrow$ Dos soluciones reales
-2. $D\:|\:D<0\Rightarrow$ Dos soluciones complejas
-3. $D\:|\:D=0\Rightarrow$ Solución repetida, una única solución 
+1. $D\|\D>0\Rightarrow$ Dos soluciones reales
+2. $D\|\D<0\Rightarrow$ Dos soluciones complejas
+3. $D\|\D=0\Rightarrow$ Solución repetida, una única solución 
 
 
 ### Valor absoluto
@@ -237,8 +237,8 @@ $$
 > La **raíz cuadrada** de una _variable elevada al cuadrado_ te da su **valor absoluto**, a menos que se sepa de antemano que _dicha variable_ es _positiva o negativa_.
 > $$\displaylines{
 > \sqrt{x^{2}} = |x|\\
-> \sqrt{x^{2}} = x,\: x>0\\
-> \sqrt{x^{2}} = -x,\: x<0
+> \sqrt{x^{2}} = x,\ x>0\\
+> \sqrt{x^{2}} = -x,\ x<0
 > }$$
 
 ### Por agrupación
@@ -308,7 +308,7 @@ $$\frac{f(x)}{g(x)} = F_{1} + F_{2} +\cdots + F_r$$
 
 tal que $F_{k}$ tiene una de las formas
 
-$$\frac{A}{(ax+b)^{n}}\:\: \text{ o }\:\: \frac{A_{x} + B}{(ax^{2}+bx+c)^{n}}$$
+$$\frac{A}{(ax+b)^{n}}\\ \text{ o }\\ \frac{A_{x} + B}{(ax^{2}+bx+c)^{n}}$$
 
 **Factores lineales distintos**:
 
