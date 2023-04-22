@@ -108,28 +108,26 @@ El **método de operaciones elementales** consiste en tranformar una _matriz cua
 El **determinante** de una **matriz triangular de ceros** es igual al producto de los elementos de la **diagonal principal**. Esto debido a que, al efectuar la **regla de Laplace** $(3)$, el único producto que no se hace 0 es el de la **diagonal principal**. 
 
 $$\begin{array}{ccc}
-
-\text{Matriz} && \text{Matriz triangular superior} &\\ 
-
+\
+\text{Matriz} && \text{Matriz triangular superior}
+\\ 
 \begin{vmatrix}
 a_{11} & a_{12} & \cdots & a_{1n}\\
 a_{21} & a_{22} & \cdots & a_{2n}\\
 \vdots & \vdots & \ddots & \vdots\\ 
-a_{n1} & a_{n2} & \cdots & a_{mn}\\
-
+a_{n1} & a_{n2} & \cdots & a_{mn}
+\\
 \end{vmatrix}
-
-&=
-
-& \begin{vmatrix}
+\
+&=& \begin{vmatrix}
 P(a_{11}) & P(a_{12})   & \cdots & P(a_{1n})\\
 0      & P(a_{22})            & \cdots & P(a_{2n}) \\
 \vdots & \vdots      & \ddots & \vdots  \\ 
 0      & 0           & 0      & P(a_{nn}) 
 \end{vmatrix}\tag{7}
-
+\
 &=& P(a_{11})\cdot P(a_{12})\cdot {\dots} \cdot P(a_{nn})
-
+\
 \end{array}
 $$
 
