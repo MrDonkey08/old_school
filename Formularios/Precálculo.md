@@ -178,7 +178,6 @@ z_{1}\cdot z_{2} &= (a+bi)(c+di)  \\
 
 ![Formulario-3|300](Formularios/Attachments/Formulario-4.png)
 
-
 ### Desigualdades
 
 > [!Note]+ Nota
@@ -188,264 +187,12 @@ z_{1}\cdot z_{2} &= (a+bi)(c+di)  \\
 **Desigualdad de valor absoluto**
 
 | Caso |        Modelo         |         Solución         |
-|:-:|:---------------------:|:------------------------:|
+|:----:|:---------------------:|:------------------------:|
 |  1   |  $\mid a\mid\: < b$   |       $-b < a < b$       |
 |  2   | $\mid a\mid\: \leq b$ |    $-b \leq a \leq b$    |
 |  3   |  $\mid a\mid\: > b$   |   $a < -b \cup a > b$    |
 |  4   | $\mid a\mid\: \geq b$ | $a \leq -b \cup a\geq b$ |
-
-
-## 14. Sistemas de ecuaciones 2x2
-
-Un **sistema de ecuaciones** es aquel en el que hay dos o más ecuaciones las cuales comparten entre sí los valores de las incógnitas.
-
-Un _sistema de ecuaciones lineales  2x2_ se representa de la siguiente manera:
-
-$$\left[\begin{array}{ccccc}
-ax & + &by & = &c\\
-dx & + &ey & = &f
-\end{array} \right] =  
-
-\left[ \begin{array}{cc|c}
-ax & by & c\\
-dx & ey & f
-\end{array} \right] = 
-
-\left[ \begin{array}{cc|c}
-a & b & c\\
-d & e & f
-\end{array} \right]$$
-
-
-En la que la columna uno representa la primera incógnita ($x$), la columna dos la segunda incógnita ($y$) y la columna tres el resultado de cada fila, de cada ecuación.
-
-### Por sustitución
-
-1. Se despeja una de las variables de alguna de las ecuaciones.
-2. Se sustituye el valor de la variable encontrada en la otra ecuación y después despejarla.
-3. Se sustituye el valor de la incógnita encontrada en cualquiera de las dos ecuaciones.
-4. Se despeja para encontrar el valor de la incógnita faltante.
-5. Comprobación.
-
-
-### Por igualación
-
-1. Se despeja una variable de ambas ecuaciones.
-2. Se iguala los valores de los despejes de dichas variables y se depeja la variable contraria.
-3. Se sustituye la segunda variable en cualquiera de los despejes.
-4. Se despeja la variable faltante para encontrar la solución
-5. Comprobación.
-
-
-### Por gráfica
-
-1. Se despeja de ambas ecuaciones la variable $y$.
-2. Se tabulan ambos valores de $y$
-	 - Si es una _ecuación lineal_ basta con tabular solo 2 valores 
-3. Se agregan las coordenadas en el plano y se unen secuencialemente las de la ecuación 1 entre sí y las de la ecuación 2 entre sí.
-	 - Si es una _ecuación lineal_ se extiende la recta formada.
- 4.  Analizar: las _intersecciones_ entre las _gráficas_ son las _soluciones del sistema_.
-
-| Casos | Recta                   | Gráfica                                       | Cantidad de soluciones                                   |
-|:-----:| ----------------------- | --------------------------------------------- | -------------------------------------------------------- |
-|   1   | Misma recta             | Misma gráfica                                 | Infintas soluciones                                      |
-|   2   | Rectas paralelas        | Misma gráfica, pero con desplazamiento en $x$ | Sin soluciones                                           |
-|   3   | Dos rectas no paralelas | -                                             | Única solución                                           |
-|   4   | -                       | Dos gráficas distintas                        | Depende del número de intersecciones entre las gráficas. |
-
-## 15. Sistemas de ecuaciones lineales con más de dos variables
-
-Un _sistema de ecuaciones_ se define de la siguiente manera
-
-$$A =\left[\begin{array}{cccc|cc}
-
-a_{11}x_{1} & a_{12}x_{1} & \cdots & a_{1n}x_{1}  & k_1\\
-a_{21}x_{2} & a_{22}x_{2} & \cdots & a_{2n}x_{2}  & k_2\\
-\vdots      & \vdots      & \vdots & \ddots       & \vdots\\ 
-a_{m1}x_{m} & a_{m2}x_{m} & \cdots & a_{mn}x_{n} & k_n\\
-\end{array} \right]
-=
-\left[\begin{array}{cccc|cc}
-a_{11} & a_{12} & \cdots & a_{1n} & k_1\\
-a_{21} & a_{22} & \cdots & a_{2n} & k_2\\
-\vdots & \vdots & \vdots & \ddots & \vdots\\ 
-a_{m1} & a_{m2} & \cdots & a_{mn} & k_n\\
-
-\end{array} \right]$$
-
-en dónde $n$ representa la _cantidad de variables_ y $m$ la _cantidad de ecuaciones_, dicho de otra manera.
-
-### Transformaciones elementales de una matriz
-
-Dada una matriz de un sistema de ecuaciones lineales, una matriz de un sistema equivalente resulta si
-
-1. Se intercambian dos renglones.
-2. Se multiplica o divide un renglón por una constante diferente de cero.
-3. Un múltiplo constante de un renglón se suma a otro renglón.
-
-#### Gauss
-
-El método de **Gauss Jordan** consiste en utilizar las **transformaciones elementales** para transformar un _sistema de ecuaciones lineales_ a su _forma escalonada_. Para después terminar de resolverla con cualquier otro método.
-
-En el caso de _sistemas de ecuaciones lineales_ donde $m \geq n$ 
-
-$$A =
-\left[\begin{array}{ccccc|c}
-a_{11} & a_{12} & a_{12} & \cdots & a_{1n} & k_1\\
-a_{21} & a_{22} & a_{23} & \cdots & a_{2n} & k_2\\
-a_{31} & a_{32} & a_{33} & \cdots & a_{3n} & k_2\\
-\vdots & \vdots & \vdots & \ddots & \vdots & \vdots\\ 
-a_{m1} & a_{m2} & a_{m3} & \cdots & a_{mn} & k_m\\
-\end{array} \right]
-=
-\left[\begin{array}{ccccc|c}
-1      & P(a_{12})   & P(a_{13}) &  \cdots & P(a_{1n}) & P(k_1) \\
-0      & 1           & P(a_{23}) & \cdots & P(a_{2n}) & P(k_2)\\
-0      & 0           & 1         & \cdots & P(a_{3n}) & P(k_3)\\
-\vdots & \vdots      & \vdots    & \ddots & \vdots    & \vdots\\ 
-0      & 0           & 0         & \cdots & Q         & P(k_{m})
-\end{array} \right] \tag{1}
-$$
-
-- Si $n = m \to Q = 1$
-- Si $n < m \to Q = 0$
-
-En el caso de _sistemas de ecuaciones lineales_ donde $m < n$
-
-$$A=
-\left[\begin{array}{ccccc|c}
-a_{11} & a_{12} & a_{13} &  \cdots & a_{1n} & k_1\\
-a_{21} & a_{22} & a_{23} & \cdots & a_{2n} & k_2\\
-a_{31} & a_{32} & a_{33} & \cdots & a_{3n} & k_2\\
-\vdots & \vdots & \vdots & \ddots & \vdots & \vdots\\ 
-a_{m1} & a_{m2} & a_{m3} & \cdots & a_{mn} & k_m\\
-\end{array} \right]
-=
-\left[\begin{array}{cccccc|c}
-1      & P(a_{12})   & P(a_{13}) & P(a_{14}) & \cdots & P(a_{1n}) & P(k_1) \\
-0      & 1           & P(a_{23}) & P(a_{24}) & \cdots & P(a_{2n}) & P(k_2)\\
-0      & 0           & 0         & 1         & \cdots & P(a_{3n}) & P(k_3)\\
-\vdots & \vdots      & \vdots    & \vdots    & \ddots & \vdots    & \vdots\\ 
-0      & 0           & 0         & 0         & \cdots & P(a_{mn})         & P(k_{m})
-\end{array} \right] \tag{2}
-$$
-
-> [!nota] Notas
-> 
-> - Sea $i$ una determinada fila y $j$ una determinada columna, entonces $P(a_{ij}) = (ba+ c)_{ij}$
-> - En $(1)$ la _diagonal principal_ está conformada de unos y debajo de estos unos hay puros ceros
-> - En $(2)$ la _cantidad de ceros_ antes del  $1$ de cada fila, depende del _número de la fila $n$_. Se puede representar con la siguiente ecuación
-> $$2^{n-1}$$
- 
-
-<!--Tanto en $(1)$ como en $(2)$ también puedes hacer la transformación de manera que el arreglo de ceros (y polinomios de ser el caso) quede encima de la diagonal principal.
---> 
-
-#### Gauss Jordan
-
-El método de **Gauss Jordan** consiste en utilizar las **transformaciones elementales** para transformar un _sistema de ecuaciones lineales_ de manera que su _diagonal principal_ esté conformado de unos y el resto de la _matriz de coeficientes_ sean ceros. Este método no aplica para matrices con tamaño  $m < n$
-
-$$A =
-\left[\begin{array}{ccccc|c}
-a_{11} & a_{12} & a_{12} & \cdots & a_{1n} & k_1\\
-a_{21} & a_{22} & a_{23} & \cdots & a_{2n} & k_2\\
-a_{31} & a_{32} & a_{33} & \cdots & a_{3n} & k_2\\
-\vdots & \vdots & \vdots & \ddots & \vdots & \vdots\\ 
-a_{m1} & a_{m2} & a_{m3} & \cdots & a_{mn} & k_m\\
-\end{array} \right]
-=
-\left[\begin{array}{ccccc|c}
-1      & 0   & 0 &  \cdots & 0 & P(k_1) \\
-0      & 1           & 0 & \cdots & 0 & P(k_2)\\
-0      & 0           & 1         & \cdots & 0 & P(k_3)\\
-\vdots & \vdots      & \vdots    & \ddots & \vdots    & \vdots\\ 
-0      & 0           & 0         & \cdots & Q         & P(k_{m})
-\end{array} \right] \tag{1}
-$$
-
-- Si $n = m \to Q = 1$
-- Si $n < m \to Q = 0$
-
-### Regla de Cramer
-
-La **regla de cramer** se utiliza para conseguir la solución de un _sistemas de ecuaciones lineales cuadradas_, es decir,  de tamaño $n\times n$. 
-
-$$D =\left[\begin{array}{cccc|cc}
-
-a_{11}x_{1} & a_{12}x_{1} & \cdots & a_{1n}x_{1}  & k_1\\
-a_{21}x_{2} & a_{22}x_{2} & \cdots & a_{2n}x_{2}  & k_2\\
-\vdots      & \vdots      & \vdots & \ddots       & \vdots\\ 
-a_{n1}x_{n} & a_{n2}x_{n} & \cdots & a_{nn}x_{n} & k_n\\
-\end{array} \right] \tag{1}
-=
-\left[\begin{array}{cccc|cc}
-a_{11} & a_{12} & \cdots & a_{1n} & k_1\\
-a_{21} & a_{22} & \cdots & a_{2n} & k_2\\
-\vdots & \vdots & \vdots & \ddots & \vdots\\ 
-a_{n1} & a_{n2} & \cdots & a_{nn} & k_n\\
-
-\end{array} \right]
-$$
-
-1. Se calcula el _determinante de la matriz original_ ($|D|$), es decir
-
-$$|D| = \begin{vmatrix}
-a_{11} & a_{12} & \cdots & a_{1n}\\
-a_{21} & a_{22} & \cdots & a_{2n}\\
-\vdots & \vdots & \ddots & \vdots\\ 
-a_{n1} & a_{n2} & \cdots & a_{nn}\\
-\end{vmatrix} \tag{2}
-$$
-
-> [!important]+ Importante
-> 
-> - Si $D = 0$, entonces _infinitas soluciones_. No se puede aplicar la **regla de cramer**. Provoca indeterminación $\frac{a}{0}$
-> - Si $D \neq 0$, entonces _solución única_. Se puede aplicar la **regla de cramer**.
-
-2. Después se calcula los _determinantes con respecto a las variables_ ($x_{1}, x_{2},\dots x_{n}$)
-
-$$\begin{array}{cc}
-
-|D_{x_{1}}| = \begin{vmatrix}
-k_{1}  & a_{12} & a_{13} & \cdots & a_{1n}\\
-k_{2}  & a_{22} & a_{23} & \cdots & a_{2n}\\
-\vdots & \vdots & \vdots & \ddots & \vdots\\ 
-k_{n}  & a_{n1} & a_{n2} & \cdots & a_{nn}\\
-\end{vmatrix},\;
-
-|D_{x_{2}}| = \begin{vmatrix}
-a_{11} & k_{1}  &   a_{13} & \cdots & a_{1n}\\
-a_{21} & k_{2}  &   a_{23} & \cdots & a_{2n}\\
-\vdots & \vdots & \vdots   & \ddots & \vdots\\ 
-a_{n1} & k_{n}  &   a_{n3} & \cdots & a_{nn}\\
-\end{vmatrix},\;\\\\
-
-|D_{x_{3}} |= \begin{vmatrix}
-a_{11} & a_{12} & k_{1}  & a_{14} & \cdots & a_{1n}\\
-a_{21} & a_{22} & k_{2}  & a_{14} & \cdots & a_{2n}\\
-\vdots & \vdots & \vdots & \vdots & \ddots & \vdots\\ 
-a_{n1} & a_{n2} & k_{n}  & \cdots & \cdots & a_{nn}\\
-\end{vmatrix},\; \cdots\;
-
-|D_{x_{n}}| = \begin{vmatrix}
-a_{11} & a_{12} & \cdots & a_{1n-1} & k_{1}\\
-a_{21} & a_{22} & \cdots & a_{2n-1} & k_{2}\\
-\vdots & \vdots & \vdots & \ddots   & \vdots\\ 
-a_{n1} & a_{n2} & \cdots & a_{nn-1} & k_{n}\\
-\end{vmatrix} \tag{3}
-
-\end{array}
-$$
-
-> [!abstract]+ Observación
-> 
-> Como se puede apreciar en $(3)$, para un *determinante con respecto a $x_{c}$ variable* (donde $c$ es la columna a la que pertenece en a $(1)$), se reemplaza la columna ($c$) por la columna de las soluciones ($k$) y el resto se mantiene igual que en $(1)$.
-
-3. Utilizar la siguiente _fórmula_ para conseguir la _solución del sistema de ecuaciones_
-
-$$x_{1}=\frac{|D_{x_{1}}|}{|D|},\; x_{2}=\frac{|D_{x_{2}}|}{|D|},\; \cdots\; x_{n}=\frac{|D_{x_{n}}|}{|D|}, \text{ donde |D|} \neq 0 \tag{4}$$
-
-
+|      |                       |                          |
 
 ## 16. Ecuaciones cuadráticas
 
@@ -530,21 +277,50 @@ $$
 
 ## 19. Fracciones Parciales
 
+Siendo el grado de $f(x)$ menor que el de $g(x)$, entonces tenemos que
+$$\frac{f(x)}{g(x)} = F_{1} + F_{2} +\cdots + F_r$$
+
+tal que $F_{k}$ tiene una de las formas
+
+$$\frac{A}{(ax+b)^{n}}\:\: \text{ o }\:\: \frac{A_{x} + B}{(ax^{2}+bx+c)^{n}}$$
+
 **Factores lineales distintos**:
 
-$$\frac{Q(x)}{(ax+b)(cx+d)\cdots} = \frac{A}{ax+b} + \frac{B}{cx+d} +\dots$$
+$$\frac{f(x)}{(ax+b)(cx+d)\cdots} = \frac{A}{ax+b} + \frac{B}{cx+d} +\dots \tag{1}$$
 
 **Factores lineales repetidos**:
 
-$$\frac{Q(x)}{(ax+b)^{n}} = \frac{A}{ax+b} + \frac{B}{(ax+b)^{2}} + \cdots$$
+$$\frac{f(x)}{(ax+b)^{n}} = \frac{A}{ax+b} + \frac{B}{(ax+b)^{2}} + \cdots \tag{2}$$
 
 **Factores cuadráticos distintos**:
 
-$$\frac{Q(x)}{(ax^{2}+bx+c)(dx^{2}+cx+f)} = \frac{Ax+B}{ax^{2}+bx+c} + \frac{Cx+D}{dx^{2}+ex+f} +\cdots$$
+$$\frac{f(x)}{(ax^{2}+bx+c)(dx^{2}+cx+f)} = \frac{Ax+B}{ax^{2}+bx+c} + \frac{Cx+D}{dx^{2}+ex+f} +\cdots \tag{3}$$
 
 **Factores cuadráticos repetidos**:
 
-$$\frac{Q(x)}{(ax^{2}+bx+c)^{n}} = \frac{Ax+B}{ax^{2}+bx+c} + \frac{Cx+D}{(ax^{2}+bx+c)^{2}} +\cdots$$
+$$\frac{f(x)}{(ax^{2}+bx+c)^{n}} = \frac{Ax+B}{ax^{2}+bx+c} + \frac{Cx+D}{(ax^{2}+bx+c)^{2}} +\cdots \tag{4}$$
+### Procedimiento general
+
+1. Verificar que el _grado_ del _numerador_ $f(x)$ sea menor que el del _denominador_; de ser el caso contrario, aplicar la _división larga_.
+2. Factorizar el denominador en _factorles lineales_ $px + q$ o _factores cuadráticos irreducibles_.
+3. Multiplicar los númeradores de cada $F_{k}$ por el _mínimo común múltiplo_, es decir, por cada uno de los _factores_, para poder convertir la expresión en _líneal_.
+4. Igualar la expresión encontrada por el numerador $f(x)$.
+5. Convertir la expresión en la forma.
+
+$$f(x) = (a_1A+a_2B+\cdots)x + (a_{3}A+a_{4}B+\cdots)x^{2} +\cdots $$
+
+6. Considerando que $f(x) = b_{1}x+ b_{2}x{^2} + \cdots$, entoncespodemos igualar los coeficientes de las potencias semejantes.de esta manera obtenemos un _sistema de ecuaciones_.
+7. Sustituir en las _fracciones parciales_ los valores de $A, B, \cdots$.
+
+#### Factores lineales no repetidos
+
+En caso de que todos los factores del denominador sean _lineales no repetidos_ $(1)$, entonces podemos aplicar un método alternativo a partir del paso 4.
+
+1. Sustituir los valores de $x$ que hagan que cada uno de los _factores lineales_ se conviertan en 0.
+2. Resolver cada caso haciendo las sustituciones necesarias.
+3. Sustituir en las _fracciones parciales_ los valores de $A, B, \dots$
+
+
 
 <!--## 20. Fracciones 
 
