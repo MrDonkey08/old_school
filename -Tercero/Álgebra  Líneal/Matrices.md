@@ -75,6 +75,7 @@ AX       &= B \\
 A^{-1}AX &= A^{-1}B\\
 I_{n}X   &= A^{-1}B\\
 X        &= A^{-1}B} \tag{6}$$
+
 $$X =\left[\begin{array}{cccc|cc}
 \
 b_{11} & b_{12} & \cdots & b_{1n} \\
