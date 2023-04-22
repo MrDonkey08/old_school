@@ -33,6 +33,7 @@ En estos casos se puede decir que si hay **conmutividad**.
 ##### Matriz inversa en sistemas de ecuaciones
 
 Un _sistema de ecuaciones lineales_ se puede descomponer en una expresión de matrices
+
 $$\left[\begin{array}{cccc|cc}
 \
 a_{11}x_{1} & a_{12}x_{1} & \cdots & a_{1n}x_{1}  & k_1\\
