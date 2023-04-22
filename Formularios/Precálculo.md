@@ -166,19 +166,19 @@ z_{1}\cdot z_{2} &= (a+bi)(c+di)  \\
 
 **Intérvalo abierto**: $(a,\: b)={x\: |\: a<x<b,\: x \in \Bbb R}$
 
-![|300](Formularios/Attachments/Formulario-1.jpeg)
+![Formulario-1 | 300](Attachments/Formulario-1.jpeg)
 
 **Intérvalo cerrado**: $[a,\ b]={x\ |\ a\leq x\leq b,\ x\in \Bbb R}$
 
-![|300](Formularios/Attachments/Formulario-2.jpeg)
+![Formulario-2 | 300](Attachments/Formulario-2.jpeg)
 
 **Intérvalos semiabiertos**:
 
-![|300](Formularios/Attachments/Formulario-3.jpeg)
+![Formulario-3 | 300](Attachments/Formulario-3.jpeg)
 
 **Intérvalos infinitos**:
 
-![Formulario-3|300](Formularios/Attachments/Formulario-4.png)
+![Formulario-4 | 300](Attachments/Formulario-4.png)
 
 ### Desigualdades
 
