@@ -8,7 +8,7 @@ $$I_{2}=
 \begin{bmatrix} 
 1 & 0\\
 0 & 1
-\end{bmatrix},\:
+\end{bmatrix},\
 \
 I_{3}=
 \begin{bmatrix} 
@@ -49,14 +49,14 @@ a_{11} & a_{12} & \cdots & a_{1n} & k_1\\
 a_{21} & a_{22} & \cdots & a_{2n} & k_2\\
 \vdots & \vdots & \ddots & \vdots & \vdots\\ 
 a_{n1} & a_{n2} & \cdots & a_{nn} & k_n\\
-\end{array} \right],\: 
+\end{array} \right],\ 
 \
 X=\left[\begin{array}{cccc|cc}
 x_{1}\\
 x_{2}\\
 \vdots\\
 x_{n}
-\end{array} \right]\: \text{ y } \: 
+\end{array} \right]\ \text{ y } \ 
 \
 B = \left[\begin{array}{cccc|cc}
 k_{1}\\
