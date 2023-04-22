@@ -1,2 +1,0 @@
-# Reseñas de profesores
-
