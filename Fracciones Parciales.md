@@ -1,5 +1,7 @@
 # Fracciones Parciales
 
+En este apunte: $A, B, C, D, a, b, c, d, e, k, a_{i}, b_{j} \in\Bbb R$ y son constantes, y $n, m, i, j, r \in \Bbb{Z}^{+}$ 
+
 Siendo el grado de $f(x)$ menor que el de $g(x)$, entonces tenemos que
 $$\frac{f(x)}{g(x)} = F_{1} + F_{2} +\cdots + F_r$$
 
@@ -32,7 +34,7 @@ $$\frac{f(x)}{(ax^{2}+bx+c)^{n}} = \frac{Ax+B}{ax^{2}+bx+c} + \frac{Cx+D}{(ax^{2
 
 $$f(x) = (a_1A+a_2B+\cdots)x + (a_{3}A+a_{4}B+\cdots)x^{2} +\cdots $$
 
-6. Considerando que $f(x) = b_{1}x+ b_{2}x{^2} + \cdots$, entoncespodemos igualar los coeficientes de las potencias semejantes.de esta manera obtenemos un _sistema de ecuaciones_.
+6. Considerando que $f(x) = b_{1}x+ b_{2}x{^2} + \cdots$, entonces podemos igualar los coeficientes de las potencias semejantes.de esta manera obtenemos un _sistema de ecuaciones_.
 7. Sustituir en las _fracciones parciales_ los valores de $A, B, \cdots$.
 
 ### Factores lineales no repetidos
