@@ -12,20 +12,24 @@ $$det(A), |A|$$
 ### Menores y cofactores
 
 $$\begin{array}{ccccc}
-\text{Matriz} & \text{Menor} &\text{Cofactor o Adjunto}\\ 
+\text{Matriz} & \text{Menor} &\text{Cofactor o Adjunto}
+\\ 
 \begin{bmatrix} \cancel{a_{11}} & \cancel{a_{12}} & \cancel{a_{13}} & \cancel{\cdots} & \cancel {a_{1n}}\\
 \cancel{a_{21}} & a_{22} & a_{23} & \cdots & a_{2n}\\
 \cancel{a_{31}} & a_{32} & a_{33} & \cdots & a_{3n}\\
 \cancel{\vdots} & \vdots & \vdots & \ddots & \vdots\\ 
 \cancel{a_{m1}} & a_{m2} & a_{m3} & \cdots & a_{mn}\\
 \end{bmatrix}
+\
 & M_{11} = \begin{vmatrix}
 a_{22} & a_{23} & \cdots & a_{2n}\\
 a_{32} & a_{33} & \cdots & a_{3n}\\
 \vdots & \vdots & \ddots & \vdots\\ 
 a_{m2} & a_{m3} & \cdots & a_{mn}\\
 \end{vmatrix} 
+\
 & A_{11}=(-1)^{1+1}M_{11}
+\
 \end{array} \tag{1}
 $$
 
@@ -56,18 +60,16 @@ $$|A| = a_{11}M_{11} - a_{12}M_{12} + \cdots + a_{1n}(-1)^{1+n}M_{1n} \tag{4}$$
 **Determinantes de matrices 2x2**: La mutlplicación de la diagonal principal menos la multiplicación de la diagonal secundaria: 
 
 $$|A| =\begin{vmatrix} 
-
 a_{11} && a_{12}\\
 \\
 a_{21} && a_{22} \\
-
 \end{vmatrix}\Rightarrow
-
+\
 \begin{bmatrix}
 {a_{11}} && a_{12} \\
 &\color{red}{\searrow}\hspace{-10pt}\color{blue}{\nearrow}\\ 
-a_{21} && a_{22}\\
-
+a_{21} && a_{22}
+\\
 \end{bmatrix}= \color{red}{a_{11}a_{12}} \color{gray}{-} \color{blue}{a_{21}a_{22}}$$
 
 #### Regla de Sarrus
@@ -75,28 +77,24 @@ a_{21} && a_{22}\\
 La **regla de sarrus** solo se utiliza para calcular **determinantes de matrices 3x3**. Consiste en extender la matriz hacia la derecha con las primeras dos filas y sumar la multiplicación de la diagonal principal de cada $a_1j$ y a eso restarle la suma de los productos de las diagonales secundarias de cada $a_{3j}$.
 
 $$|A| =\begin{vmatrix} 
-
 a_{11} && a_{12} && a_{13}\\
 \\
 a_{21} && a_{22} && a_{23} \\
 \\
 a_{31} && a_{32} && a_{33} \\ 
-
-
 \end{vmatrix}\Rightarrow
-
+\
 \left[\begin{array}{cccccc|ccc}
-{a_{11}} && a_{12} && a_{13} && a_{11} && a_{12}\\
-
-&\color{red}{\searrow}\hspace{-10pt} &&\color{red}{\searrow}\hspace{-10pt}\color{blue}{\nearrow}  &&\color{red}{\searrow}\hspace{-10pt}\color{blue}{\nearrow}  &&\color{blue}{\nearrow} \\
-
-a_{21} && a_{22} && a_{23} && a_{21} && a_{22}\\
-
+{a_{11}} && a_{12} && a_{13} && a_{11} && a_{12}
+\\
+&\color{red}{\searrow}\hspace{-10pt} &&\color{red}{\searrow}\hspace{-10pt}\color{blue}{\nearrow}  &&\color{red}{\searrow}\hspace{-10pt}\color{blue}{\nearrow}  &&\color{blue}{\nearrow} 
+\\
+a_{21} && a_{22} && a_{23} && a_{21} && a_{22}
+\\
 &\color{blue}{\nearrow} &&\color{red}{\searrow}\hspace{-10pt}\color{blue}{\nearrow}  &&\color{red}{\searrow}\hspace{-10pt}\color{blue}{\nearrow}  &&\color{red}{\searrow}\\
-
-a_{31} && a_{32} && a_{33} && a_{31} && a_{32} \\ 
-
-
+\
+a_{31} && a_{32} && a_{33} && a_{31} && a_{32} 
+\\ 
 \end{array}\right] \tag{5}$$
 
 $$|A| = (\color{red}{a_{11}a_{22}a_{33}} \color{gray}{+} \color{red}{a_{12}a_{23}a_{31}} \color{gray}{+} \color{red}{a_{13}a_{21}a_{32}}\color{gray}{) -} (\color{blue}{a_{31}a_{22}a_{13}} \color{gray}{+} \color{blue}{a_{32}a_{23}a_{11}} \color{gray}{+} \color{blue}{a_{33}a_{21}a_{12}}\color{gray}{)} \tag{6}$$
