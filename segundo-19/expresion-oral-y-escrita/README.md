@@ -1,2 +1,0 @@
-# Expresión Oral y Escrita
-
