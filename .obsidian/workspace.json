@@ -11,11 +11,43 @@
             "id": "a5f85a40324915a7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "-Tercero/Ecuaciones Diferenciales/Apuntes de clase/Segundo Parcial/Conjunto Fundamental de Soluciones.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4dba9bc593b467b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Formularios y temarios/Matemáticas/Álgebra Lineal.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "3fb6afb7a91fa306",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fracciones Parciales.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -90,6 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Fracciones Parciales.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Fracciones Parciales.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +150,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Fracciones Parciales.md"
+              }
             }
           },
           {
@@ -153,8 +189,19 @@
       "obsidian-matrix:Obsidian Matrix": false
     }
   },
-  "active": "14b31f7a61e09a38",
+  "active": "3fb6afb7a91fa306",
   "lastOpenFiles": [
+    "Formularios y temarios/Matemáticas/Precálculo.md",
+    "Formularios y temarios/Matemáticas/Lógica Matemática - Leyes.md",
+    "Formularios y temarios/Matemáticas/Conjuntos y lógica matemática - símbolos.md",
+    "Formularios y temarios/Matemáticas/Cálculo.md",
+    "Formularios y temarios/Matemáticas/Álgebra Lineal.md",
+    "-Tercero/Ecuaciones Diferenciales/Apuntes de clase/Segundo Parcial/Conjunto Fundamental de Soluciones.md",
+    "-Tercero/Ecuaciones Diferenciales/Apuntes de clase/Segundo Parcial/Apuntes Segundo Parcial.md",
+    "-Tercero/Ecuaciones Diferenciales/Apuntes de clase/Segundo Parcial/Variación de Parámetros.md",
+    "-Tercero/Álgebra  Líneal/Sistemas de Ecuaciones.md",
+    "-Tercero/Álgebra  Líneal/Regla de cramer.md",
+    "-Tercero/Álgebra  Líneal/Determinantes.md",
     "tercero/circuitos/README.md",
     "tercero/circuitos",
     "tercero\\circuitos",
@@ -180,17 +227,6 @@
     "tercero-6/administracion/README.md",
     "tercero-6/README.md",
     "tercero-5/algebra-lineal/README.md",
-    "tercero-5/README.md",
-    "tercero-4/algebra-lineal/README.md",
-    "tercero-4/README.md",
-    "tercero-38/ecuaciones-diferenciales/apuntes-de-clase/segundo-parcial/README.md",
-    "tercero-38/ecuaciones-diferenciales/apuntes-de-clase/README.md",
-    "tercero-38/ecuaciones-diferenciales/README.md",
-    "tercero-38/README.md",
-    "tercero-37/ecuaciones-diferenciales/apuntes-de-clase/segundo-parcial/README.md",
-    "tercero-37/ecuaciones-diferenciales/apuntes-de-clase/README.md",
-    "tercero-37/ecuaciones-diferenciales/README.md",
-    "tercero-37/README.md",
     "Formularios y temarios/Matemáticas/Attachments/Leyes-de-Equivalencia.jpeg",
     "Formularios y temarios/Matemáticas/Attachments/Leyes de Implicación.jpg",
     "Formularios y temarios/Matemáticas/Attachments/Formulario-4.png",
