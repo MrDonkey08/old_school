@@ -4,18 +4,76 @@
     "type": "split",
     "children": [
       {
-        "id": "95102d3aab563ea4",
+        "id": "79b8fc454b19c3d6",
         "type": "tabs",
         "children": [
           {
-            "id": "8813d885b396184c",
+            "id": "a5f85a40324915a7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "-Tercero/Ecuaciones Diferenciales/Apuntes de clase/Segundo Parcial/Conjunto Fundamental de Soluciones.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4dba9bc593b467b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Formularios y temarios/Matemáticas/Álgebra Lineal.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "3fb6afb7a91fa306",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fracciones Parciales.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "87bbb059850c87dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "-Tercero/Sistemas Digitales/Tareas/9. Compardor de 2 palabras.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "20ad7f2ce396bdba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 1.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -37,7 +95,7 @@
                 "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -66,7 +124,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 260.5026054382324
+    "width": 314.51103591918945
   },
   "right": {
     "id": "4b702cc4fb11ac6c",
@@ -90,6 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "-Tercero/Sistemas Digitales/Tareas/9. Compardor de 2 palabras.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "-Tercero/Sistemas Digitales/Tareas/9. Compardor de 2 palabras.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +176,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "-Tercero/Sistemas Digitales/Tareas/9. Compardor de 2 palabras.md"
+              }
             }
           },
           {
@@ -134,12 +196,10 @@
       }
     ],
     "direction": "horizontal",
-    "width": 333.5,
-    "collapsed": true
+    "width": 333.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-matrix:Obsidian Matrix": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
       "audio-recorder:Start/stop recording": false,
@@ -149,57 +209,59 @@
       "random-note:Open random note": false,
       "workspaces:Manage workspace layouts": false,
       "oz-clear-unused-images:Clear Unused Images": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "obsidian-matrix:Obsidian Matrix": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-full-calendar:Open Full Calendar": false
+      "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "14b31f7a61e09a38",
+  "active": "87bbb059850c87dd",
   "lastOpenFiles": [
-    "Formularios/Leyes.md",
-    "Formularios/Formulario Cinemática y Leyes de Newton.md",
-    "Formularios/Conjuntos y lógica matemática - símbolos.md",
-    "Formularios/Circuitos electrónicos y electromagnetismo.md",
-    "Untitled.md",
     "Untitled 1.md",
-    "-Tercero/Sistemas Digitales/Tareas/8. Sumador completo FA.md",
-    "Formularios/Precálculo.md",
-    "Fracciones Parciales.md",
+    "-Tercero/Sistemas Digitales/Tareas/9. Compardor de 2 palabras.md",
+    "-Tercero/Ecuaciones Diferenciales/Apuntes de clase/Segundo Parcial/Conjunto Fundamental de Soluciones.md",
     "Formularios y temarios/Matemáticas/Álgebra Lineal.md",
+    "Fracciones Parciales.md",
+    "-Tercero/Sistemas Digitales/Tareas/8. Sumador completo FA.md",
+    "-Tercero/Sistemas Digitales/Tareas/Attachments/Project Backups/Comparador de 2 palabras [20230425, 10-28-52].pdsprj",
+    "-Tercero/Sistemas Digitales/Tareas/Attachments/Project Backups/Comparador de 2 palabras [20230425, 10-28-41].pdsprj",
+    "-Tercero/Sistemas Digitales/Tareas/Attachments/9.-Comparador-3.png",
+    "-Tercero/Sistemas Digitales/Tareas/Attachments/9.-Comparador-1.png",
+    "-Tercero/Sistemas Digitales/Tareas/Attachments/Comparador de 2 palabras.pdsprj.DESKTOP-9FAHEL3.Human Solutions.workspace",
+    "-Tercero/Sistemas Digitales/Tareas/Attachments/Project Backups/Comparador de 2 palabras [20230425, 10-18-03].pdsprj",
+    "-Tercero/Sistemas Digitales/Tareas/Attachments/9.-Comparador-2.png",
+    "-Tercero/Sistemas Digitales/Tareas/Attachments/8. Sumador completo FA-1.jpeg",
+    "-Tercero/Sistemas Digitales/Tareas/Attachments/Pasted image 20230425111657.png",
+    "-Tercero/Sistemas Digitales/Tareas/Attachments/Project Backups/Comparador de 2 palabras [20230425, 10-12-30].pdsprj",
+    "-Tercero/Sistemas Digitales/Tareas/Attachments/Project Backups/Comparador de 2 palabras [Autosaved].pdsprj",
+    "-Tercero/Sistemas Digitales/Tareas/Attachments/Project Backups",
+    "-Tercero/Sistemas Digitales/Class Note/Untitled.md",
     "Formularios y temarios/Matemáticas/Precálculo.md",
+    "-Primero/Precálculo/Class Notes/16. Fracciones Parciales.md",
+    "-Primero/Precálculo/Class Notes/18. Ecuaciones Expeciales.md",
+    "-Tercero/Ecuaciones Diferenciales/Apuntes de clase/Segundo Parcial/Transformada de Laplace.md",
     "Formularios y temarios/Matemáticas/Lógica Matemática - Leyes.md",
-    "Formularios y temarios/Matemáticas/Cálculo.md",
     "Formularios y temarios/Matemáticas/Conjuntos y lógica matemática - símbolos.md",
-    "Formularios y temarios\\Matemáticas",
+    "Formularios y temarios/Matemáticas/Cálculo.md",
+    "-Tercero/Ecuaciones Diferenciales/Apuntes de clase/Segundo Parcial/Apuntes Segundo Parcial.md",
+    "-Tercero/Ecuaciones Diferenciales/Apuntes de clase/Segundo Parcial/Variación de Parámetros.md",
+    "-Tercero/Álgebra  Líneal/Sistemas de Ecuaciones.md",
+    "-Tercero/Álgebra  Líneal/Regla de cramer.md",
+    "-Tercero/Álgebra  Líneal/Determinantes.md",
+    "tercero/circuitos/README.md",
+    "tercero/circuitos",
+    "tercero\\circuitos",
+    "tercero/README.md",
+    "tercero",
+    "tercero-9/administracion/tareas/README.md",
+    "tercero-9/administracion/README.md",
+    "tercero-9/README.md",
+    "tercero-8/administracion/tareas/README.md",
+    "tercero-8/administracion/README.md",
     "Formularios y temarios/Matemáticas/Attachments/Leyes-de-Equivalencia.jpeg",
     "Formularios y temarios/Matemáticas/Attachments/Leyes de Implicación.jpg",
     "Formularios y temarios/Matemáticas/Attachments/Formulario-4.png",
     "Formularios y temarios/Matemáticas/Attachments/Formulario-3.jpeg",
-    "Formularios y temarios/Matemáticas/Attachments/Formulario-2.jpeg",
-    "Formularios y temarios/Matemáticas/Attachments/Formulario-1.jpeg",
-    "Formularios y temarios/Matemáticas/Attachments",
-    "Formularios y temarios/Matemáticas",
-    "Formularios y temarios\\Matemáticas\\Attachments",
-    "Formularios y temarios/Física/Formulario Cinemática y Leyes de Newton.md",
-    "Formularios y temarios/Física",
-    "Formularios y temarios\\Física",
-    "Formularios y temarios/Circuitos/Circuitos electrónicos y electromagnetismo.md",
-    "Formularios y temarios/Circuitos",
-    "Formularios y temarios",
-    "Formularios y temarios\\Circuitos",
-    "Attachments/Templates/Bibliografía/APA/Libro impreso.md",
-    "Attachments/Templates/Bibliografía/APA/Libro impreso (edición o volumen).md",
-    "Attachments/Templates/Bibliografía/APA/Libro en línea.md",
-    "Attachments/Templates/Bibliografía/APA/Libro con editor.md",
-    "Attachments/Templates/Bibliografía/APA/Capítulo de un libro.md",
-    "Attachments\\Templates\\Bibliografía\\APA",
-    "-Tercero/Álgebra  Líneal/Sistemas de Ecuaciones.md",
-    "-Tercero/Álgebra  Líneal/Regla de cramer.md",
-    "-Tercero/Álgebra  Líneal/Matrices.md",
-    "-Tercero/Álgebra  Líneal/Determinantes.md",
-    "-Tercero/Sistemas Digitales/Tareas/9. Compardor de 2 palabras.md",
-    "-Tercero/Sistemas Digitales/Class Note/Attachments/Pasted image 20230419085147.png",
-    "-Tercero/Sistemas Digitales/Class Note/Attachments/Pasted image 20230419085139.png",
-    "-Tercero/Sistemas Digitales/Class Note/Attachments/Pasted image 20230419085131.png",
-    "-Tercero/Sistemas Digitales/Class Note/Attachments/Pasted image 20230419084938.png"
+    "Formularios y temarios/Matemáticas/Attachments/Formulario-2.jpeg"
   ]
 }
