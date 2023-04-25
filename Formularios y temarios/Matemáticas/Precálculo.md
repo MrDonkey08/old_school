@@ -10,7 +10,7 @@ type: Formulario
 
 # Formulario Precálculo
 
-En este formulario: $A\, B\, a,\ b,\ c\ \text{ y }\ d\in\Bbb R$ y son constantes, $n,\ m \in \Bbb{Z}$ y $r \in \Bbb{Z}^{+}$
+En este formulario: $A,\ B,\ a,\ b,\ c,\ d,\ p,\ q,\ s \in\Bbb R$ y son constantes, $n,\ m \in \Bbb{Z}$ y $r \in \Bbb{Z}^{+}$
 
 ## Conjunto de Números Reales
 
@@ -219,6 +219,65 @@ $D=b^2-4ac$
 2. $D\ |\ D<0\Rightarrow$ Dos soluciones complejas
 3. $D\ |\ D=0\Rightarrow$ Solución repetida, una única solución 
 
+### Método de Po-Shen Loh
+
+$$ax^{2}+bx+c = \frac{d}{a}$$
+
+Para factorizar esto podemos buscar dos números que multiplicados den $c$ y sumados den $b$. Se puede hacer por prueba y error o aplicando el **método de Po-shen Lo**:
+
+1. Dividimos toda la expresión entre $a$ 
+
+$$x{^{2}} + \frac{bx}{a} + \frac{c}{a} = \frac{d}{a}$$
+
+2. Buscamos dos números que sumados den $\frac{b}{a}$, lo más sencillo es hacer cada uno de estos dos números dos números valgan la mitad de $\frac{b}{a}$ 
+
+$$\displaylines
+{p + q = \frac{b}{a}, & p = \frac{b}{2a}, & q = \frac{b}{2a} 
+}$$
+3. Le sumamos a $p$ una cantidad, pero a $q$ se le resta esa misma cantidad para mantener el equilibrio
+
+$$\displaylines{
+\frac{b}{2a} + s , & = \frac{b}{2a} - s
+}$$
+4. Buscamos los dos números que multiplicados den $\frac{a}{c}$ 
+
+$$\displaylines{
+\left(\frac{b}{2a} + s \right) \left(\frac{b}{2a} - s \right) = \frac{c}{a}\\
+\frac{b^{2}}{4a^{2}} - s^{2} = \frac{c}{a}
+}$$
+5. Despejamos respecto a $s$
+
+$$\displaylines{
+s^{2} = \frac{b^{2}}{4a^{2}} - \frac{c}{a} \\
+s = \sqrt {\frac{b^{2}-4ac} {4a^{2}}}
+\\s = \pm \frac{\sqrt{b^{2}-4ac}}{2a}
+
+}$$
+6. Tomamos el valor de $s$, ya sea el positivo o el negativo.
+7. Ahora solo sustituimos $s$
+
+$$\displaylines{
+\frac{b}{2a} + \frac{\sqrt{b^{2}-4ac}}{2a}, &&
+\frac{b}{2a} - \frac{\sqrt{b^{2}-4ac}}{2a}
+}$$
+
+Entonces tenemos que 
+
+$$\displaylines{
+x{^{2}} + \frac{bx}{a} + \frac{c}{a} = \frac{d}{a}\\
+
+\left(x + \frac{b +\sqrt{b^{2}-4ac}}{2a} \right) \left(x - \frac{b +\sqrt{b^{2}-4ac}}{2a} \right) = \frac{d}{a}\\
+}$$
+
+<!-- Asumiendo que tengamos el caso en el que $d = 0$, entonces
+
+$$\displaylines{
+(x+p)(x-q) = 0\\
+x = -p = -\frac{b -\sqrt{b^{2}-4ac}}{2a} \\
+x = -q = -\frac{b +\sqrt{b^{2}-4ac}}{2a}
+}$$
+
+-->
 
 ### Valor absoluto
 
