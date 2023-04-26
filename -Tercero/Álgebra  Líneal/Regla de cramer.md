@@ -26,7 +26,7 @@ a_{n1}x_{n} & a_{n2}x_{n} & \cdots & a_{nn}x_{n} & k_n\\
 a_{11} & a_{12} & \cdots & a_{1n} & k_1\\
 a_{21} & a_{22} & \cdots & a_{2n} & k_2\\
 \vdots & \vdots & \vdots & \ddots & \vdots\\ 
-a_{n1} & a_{n2} & \cdots & a_{nn} & k_n\\
+a_{n1} & a_{n2} & \cdots & a_{nn} & k_n
 \
 \end{array} \right]
 $$
@@ -88,8 +88,12 @@ $$
 3. Utilizar la siguiente _fórmula_ para conseguir la _solución del sistema de ecuaciones_
 
 $$x_{1}=\frac{|D_{x_{1}}|}{|D|},\; x_{2}=\frac{|D_{x_{2}}|}{|D|},\; \cdots\; x_{n}=\frac{|D_{x_{n}}|}{|D|}, \text{ donde |D|} \neq 0 \tag{4}$$
+<!---
+<div style="page-break-after: always;"></div>
 
 ---
 ## Referencias
 
 - W., E. y A., J. (2009). Encontrar el determinante de una matriz (12<sup>a</sup> ed.). En S. R. Cervantes (Ed.), _Álgebra y trigonometría con geometría análitica_ (pp. 715-717). Editorial CENGAGE Learning.
+
+--->
