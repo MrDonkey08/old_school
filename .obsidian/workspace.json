@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Formularios y temarios/Matemáticas/Álgebra Lineal.md",
+                "file": "-Tercero/Álgebra  Líneal/Matrices.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Formularios y temarios/Matemáticas/Álgebra Lineal.md",
+                "file": "-Tercero/Álgebra  Líneal/Matrices.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Formularios y temarios/Matemáticas/Álgebra Lineal.md",
+                "file": "-Tercero/Álgebra  Líneal/Matrices.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Formularios y temarios/Matemáticas/Álgebra Lineal.md"
+                "file": "-Tercero/Álgebra  Líneal/Matrices.md"
               }
             }
           },
@@ -190,6 +190,11 @@
   },
   "active": "a5f85a40324915a7",
   "lastOpenFiles": [
+    "-Tercero/Álgebra  Líneal/Determinantes.md",
+    "-Tercero/Álgebra  Líneal/Sistemas de Ecuaciones.md",
+    "-Tercero/Álgebra  Líneal/Regla de cramer.md",
+    "-Tercero/Álgebra  Líneal/Matrices.md",
+    "Formularios y temarios/Matemáticas/Álgebra Lineal.md",
     "Reseñas de profesores/Claves de Materias ICOM.md",
     "Circuitos-dudas.md",
     "Formularios y temarios/Matemáticas/Precálculo.md",
@@ -199,7 +204,6 @@
     "Untitled 1.md",
     "-Tercero/Sistemas Digitales/Tareas/9. Compardor de 2 palabras.md",
     "-Tercero/Ecuaciones Diferenciales/Apuntes de clase/Segundo Parcial/Conjunto Fundamental de Soluciones.md",
-    "Formularios y temarios/Matemáticas/Álgebra Lineal.md",
     "-Tercero/Sistemas Digitales/Tareas/8. Sumador completo FA.md",
     "-Tercero/Sistemas Digitales/Tareas/Attachments/Project Backups/Comparador de 2 palabras [20230425, 10-28-52].pdsprj",
     "-Tercero/Sistemas Digitales/Tareas/Attachments/Project Backups/Comparador de 2 palabras [20230425, 10-28-41].pdsprj",
@@ -221,16 +225,12 @@
     "Formularios y temarios/Matemáticas/Cálculo.md",
     "-Tercero/Ecuaciones Diferenciales/Apuntes de clase/Segundo Parcial/Apuntes Segundo Parcial.md",
     "-Tercero/Ecuaciones Diferenciales/Apuntes de clase/Segundo Parcial/Variación de Parámetros.md",
-    "-Tercero/Álgebra  Líneal/Sistemas de Ecuaciones.md",
-    "-Tercero/Álgebra  Líneal/Regla de cramer.md",
-    "-Tercero/Álgebra  Líneal/Determinantes.md",
     "tercero/circuitos/README.md",
     "tercero/circuitos",
     "tercero\\circuitos",
     "tercero/README.md",
     "tercero",
     "tercero-9/administracion/tareas/README.md",
-    "tercero-9/administracion/README.md",
     "Formularios y temarios/Matemáticas/Attachments/Leyes-de-Equivalencia.jpeg",
     "Formularios y temarios/Matemáticas/Attachments/Leyes de Implicación.jpg",
     "Formularios y temarios/Matemáticas/Attachments/Formulario-4.png",
