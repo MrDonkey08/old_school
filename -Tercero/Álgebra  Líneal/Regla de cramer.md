@@ -1,3 +1,16 @@
+---
+title: Regla de cramer
+author: Alan Yahir Juárez Rubio
+
+aliases:
+tags: algebra, lineal, cramer, determinantes, sistema, ecuaciones, matriz 
+
+creation date: 22-04-2023
+last modification date: 25-04-2023
+
+type: Note
+---
+
 ## Regla de Cramer
 
 La **regla de cramer** se utiliza para conseguir la solución de un _sistemas de ecuaciones lineales de tamaño $n\times n$_ mediante el cálculo de **determinantes**.
