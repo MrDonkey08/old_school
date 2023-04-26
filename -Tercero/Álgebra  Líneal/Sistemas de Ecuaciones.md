@@ -1,4 +1,17 @@
-## Sistemas de ecuaciones
+---
+title: Sistemas de Ecuaciones
+author: Alan Yahir Juárez Rubio
+
+tags: Sistemas de ecuaciones lineales 
+aliases: algebra, lineal, ecuaciones, sutitucion, igualacion, grafica, transformaciones elementales, sistema, ecuaciones, gauss, ¿
+
+creation date: 22-04-2023
+last modification date: 25-04-2023
+
+type: Note
+---
+
+## Sistemas de ecuaciones 
 
 ### Sistemas de ecuaciones 2x2
 
