@@ -1,3 +1,16 @@
+---
+title: Determinantes
+author: Alan Yahir Juárez Rubio
+
+aliases: Determinantes
+tags: algebra, lineal, determinantes, gauss, sarrus, laplace, inversa, menor, cofactor, adjunta, triangular
+
+creation date: 22-04-2023
+last modification date: 25-04-2023
+
+type: Note
+---
+
 ## Determinantes
 
 El **determinate** es una función que se le aplica solamente a _matrices cuadradas_ y puede ser expresado como 
