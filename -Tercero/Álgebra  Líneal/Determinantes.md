@@ -17,6 +17,8 @@ El **determinate** es una función que se le aplica solamente a _matrices cuadra
 
 $$det(A), |A|$$
 
+y sustituyendo los corchetes de la matriz por unas líneas
+
 > [!important] Importante
 > 
 > - Si $|D| = 0$, entonces $D$ es **homogéneo**, es decir tiene _0 soluciones_ o _infinitas soluciones_. 
