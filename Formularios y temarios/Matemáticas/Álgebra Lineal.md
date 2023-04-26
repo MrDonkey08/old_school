@@ -1,3 +1,19 @@
+---
+title: Álgebra Lineal
+author: Alan Yahir Juárez Rubio
+
+aliases: 
+ formulario
+ temario
+ apuntes
+tags: algebra, lineal, sistemas, ecuacion, ecuaciones, determinantes, gauss, jordan, sarrus, cramer, laplace, inversa, menor, cofactor, adjunta, 
+
+creation date: 22-04-2023
+last modification date: 25-04-2023
+
+type: Note
+---
+
 # Temario Álgebra Lineal
 
 En este temario: $a, b, c, d, k\in\Bbb R$, y son constantes y $n, m, i, j \in \Bbb{Z}^{+}$ 
