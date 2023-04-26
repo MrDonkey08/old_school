@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "-Tercero/Ecuaciones Diferenciales/Apuntes de clase/Segundo Parcial/Conjunto Fundamental de Soluciones.md",
-                "mode": "preview",
+                "file": "Formularios y temarios/Matemáticas/Álgebra Lineal.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -39,41 +39,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fracciones Parciales.md",
+                "file": "-Primero/Precálculo/Class Notes/Fracciones Parciales.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "87bbb059850c87dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "-Tercero/Sistemas Digitales/Tareas/9. Compardor de 2 palabras.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "20ad7f2ce396bdba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 1.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -148,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "-Tercero/Sistemas Digitales/Tareas/9. Compardor de 2 palabras.md",
+                "file": "Formularios y temarios/Matemáticas/Álgebra Lineal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "-Tercero/Sistemas Digitales/Tareas/9. Compardor de 2 palabras.md",
+                "file": "Formularios y temarios/Matemáticas/Álgebra Lineal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "-Tercero/Sistemas Digitales/Tareas/9. Compardor de 2 palabras.md"
+                "file": "Formularios y temarios/Matemáticas/Álgebra Lineal.md"
               }
             }
           },
@@ -215,13 +188,18 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "87bbb059850c87dd",
+  "active": "a5f85a40324915a7",
   "lastOpenFiles": [
+    "Reseñas de profesores/Claves de Materias ICOM.md",
+    "Circuitos-dudas.md",
+    "Formularios y temarios/Matemáticas/Precálculo.md",
+    "-Primero/Precálculo/Class Notes/16. Fracciones Parciales.md",
+    "-Primero/Precálculo/Class Notes/Fracciones Parciales.md",
+    "Untitled.md",
     "Untitled 1.md",
     "-Tercero/Sistemas Digitales/Tareas/9. Compardor de 2 palabras.md",
     "-Tercero/Ecuaciones Diferenciales/Apuntes de clase/Segundo Parcial/Conjunto Fundamental de Soluciones.md",
     "Formularios y temarios/Matemáticas/Álgebra Lineal.md",
-    "Fracciones Parciales.md",
     "-Tercero/Sistemas Digitales/Tareas/8. Sumador completo FA.md",
     "-Tercero/Sistemas Digitales/Tareas/Attachments/Project Backups/Comparador de 2 palabras [20230425, 10-28-52].pdsprj",
     "-Tercero/Sistemas Digitales/Tareas/Attachments/Project Backups/Comparador de 2 palabras [20230425, 10-28-41].pdsprj",
@@ -236,8 +214,6 @@
     "-Tercero/Sistemas Digitales/Tareas/Attachments/Project Backups/Comparador de 2 palabras [Autosaved].pdsprj",
     "-Tercero/Sistemas Digitales/Tareas/Attachments/Project Backups",
     "-Tercero/Sistemas Digitales/Class Note/Untitled.md",
-    "Formularios y temarios/Matemáticas/Precálculo.md",
-    "-Primero/Precálculo/Class Notes/16. Fracciones Parciales.md",
     "-Primero/Precálculo/Class Notes/18. Ecuaciones Expeciales.md",
     "-Tercero/Ecuaciones Diferenciales/Apuntes de clase/Segundo Parcial/Transformada de Laplace.md",
     "Formularios y temarios/Matemáticas/Lógica Matemática - Leyes.md",
@@ -255,9 +231,6 @@
     "tercero",
     "tercero-9/administracion/tareas/README.md",
     "tercero-9/administracion/README.md",
-    "tercero-9/README.md",
-    "tercero-8/administracion/tareas/README.md",
-    "tercero-8/administracion/README.md",
     "Formularios y temarios/Matemáticas/Attachments/Leyes-de-Equivalencia.jpeg",
     "Formularios y temarios/Matemáticas/Attachments/Leyes de Implicación.jpg",
     "Formularios y temarios/Matemáticas/Attachments/Formulario-4.png",
