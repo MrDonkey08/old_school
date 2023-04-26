@@ -2,7 +2,6 @@
 title: Regla de cramer
 author: Alan Yahir Juárez Rubio
 
-aliases:
 tags: algebra, lineal, cramer, determinantes, sistema, ecuaciones, matriz 
 
 creation date: 22-04-2023
