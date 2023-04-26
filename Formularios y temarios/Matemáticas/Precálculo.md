@@ -10,7 +10,7 @@ type: Formulario
 
 # Formulario Precálculo
 
-En este formulario: $A,\ B,\ a,\ b,\ c,\ d,\ p,\ q,\ s \in\Bbb R$ y son constantes, $n,\ m \in \Bbb{Z}$ y $r \in \Bbb{Z}^{+}$
+En este formulario: $A,\ B,\ C,\ D,\ a,\ b,\ c,\ d,\ p,\ q,\ s \in\Bbb R$ y son constantes, $n,\ m \in \Bbb{Z}$ y $r \in \Bbb{Z}^{+}$
 
 ## Conjunto de Números Reales
 
