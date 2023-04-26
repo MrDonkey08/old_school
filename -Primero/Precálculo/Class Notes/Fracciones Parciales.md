@@ -1,6 +1,6 @@
 # Fracciones Parciales
 
-En este apunte: $A, B, C, D, a, b, c, d, e, k, a_{i}, b_{j} \in\Bbb R$ y son constantes, y $n, m, i, j, r \in \Bbb{Z}^{+}$ 
+En este apunte: $A,\ B,\ C, D,\ a,\ b,\ c,\ d,\ e,\ f,\ a_{i},\ b_{j} \in\Bbb R$ y son constantes, y $n,\  j,\ r \in \Bbb{Z}^{+}$ 
 
 Siendo el grado de $f(x)$ menor que el de $g(x)$, entonces tenemos que
 $$\frac{f(x)}{g(x)} = F_{1} + F_{2} +\cdots + F_r$$
