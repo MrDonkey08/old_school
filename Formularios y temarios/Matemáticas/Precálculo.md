@@ -383,7 +383,7 @@ $$\frac{f(x)}{(ax^{2}+bx+c)(dx^{2}+cx+f)} = \frac{Ax+B}{ax^{2}+bx+c} + \frac{Cx+
 $$\frac{f(x)}{(ax^{2}+bx+c)^{n}} = \frac{Ax+B}{ax^{2}+bx+c} + \frac{Cx+D}{(ax^{2}+bx+c)^{2}} +\cdots \tag{4}$$
 ### Procedimiento general
 
-1. Verificar que el _grado_ del _numerador_ $f(x)$ sea menor que el del _denominador_; de ser el caso contrario, aplicar la _división larga_.
+1. Asegurarse que el _grado_ del _numerador_ $f(x)$ sea menor que el del _denominador_; de ser el caso contrario, aplicar la _división larga_.
 2. Factorizar el denominador en _factorles lineales_ $px + q$ o _factores cuadráticos irreducibles_.
 3. Multiplicar los númeradores de cada $F_{k}$ por el _mínimo común múltiplo_, es decir, por cada uno de los _factores_, para poder convertir la expresión en _líneal_.
 4. Igualar la expresión encontrada por el numerador $f(x)$.
