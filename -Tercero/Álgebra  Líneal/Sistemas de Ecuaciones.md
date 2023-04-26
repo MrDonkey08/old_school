@@ -3,7 +3,7 @@ title: Sistemas de Ecuaciones
 author: Alan Yahir Juárez Rubio
  
 aliases: Sistemas de ecuaciones lineales
-tags: algebra, lineal, ecuaciones, sutitucion, igualacion, grafica, transformaciones elementales, sistema, ecuaciones, gauss, ¿
+tags: algebra, lineal, ecuaciones, sutitucion, igualacion, grafica, transformaciones elementales, sistema, ecuaciones, gauss
 
 creation date: 22-04-2023
 last modification date: 25-04-2023
