@@ -1,3 +1,16 @@
+---
+title: Matrices
+author: Alan Yahir Juárez Rubio
+
+aliases: Matrices
+tags: algebra, lineal, matriz, operaciones elementales, inversa, identidad, 
+
+creation date: 22-04-2023
+last modification date: 25-04-2023
+
+type: Note
+---
+
 ## Matrices
 
 ### Matriz Identidad
