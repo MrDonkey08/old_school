@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "77ef54325f30d126",
+        "id": "32487635bc20908b",
         "type": "tabs",
         "children": [
           {
-            "id": "f80edd05b8fb0ce3",
+            "id": "a7c2904bc8846e31",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "-Primero/Fundamentos de Física/Portafolio de Evidencias.md",
+                "file": "-Tercero/Circuitos/Circuitos-dudas.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -71,7 +71,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 505.5
+    "width": 253.5
   },
   "right": {
     "id": "4b702cc4fb11ac6c",
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "-Primero/Fundamentos de Física/Portafolio de Evidencias.md",
+                "file": "-Tercero/Circuitos/Circuitos-dudas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "-Primero/Fundamentos de Física/Portafolio de Evidencias.md",
+                "file": "-Tercero/Circuitos/Circuitos-dudas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "-Primero/Fundamentos de Física/Portafolio de Evidencias.md"
+                "file": "-Tercero/Circuitos/Circuitos-dudas.md"
               }
             }
           },
@@ -163,26 +163,34 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "f80edd05b8fb0ce3",
+  "active": "14b31f7a61e09a38",
   "lastOpenFiles": [
+    "Fracciones Parciales.md",
+    "-Primero/Precálculo/Class Notes/Fracciones Parciales.md",
+    "-Tercero/Álgebra  Líneal/Untitled.md",
+    "-Segundo/Programación Estructurada/Estructura secuencial.md",
+    "-Segundo/Programación Estructurada/Divisibilidad.md",
+    "-Segundo/Mecánica/Examen.md",
+    "-Segundo/Mecánica/Apuntes/2.1.md",
+    "-Segundo/Mecánica/Apuntes/1.2 Escalares y Vectores.md",
+    "-Segundo/Matemáticas Discretas/Tareas/Tarea 4.4.md",
+    "-Segundo/Matemáticas Discretas/Tareas/Tarea 4.3.md",
+    "-Segundo/Expresión Oral y Escrita/Notes/Discurso.md",
+    "-Segundo/Expresión Oral y Escrita/Notes/Comunicación.md",
+    "-Segundo/Expresión Oral y Escrita/Homework/4. Proceso de la comunicación_Barreras de la comunicación.md",
+    "-Segundo/Cálculo Diferencial e Integral/Dominio y rango ejemplos.md",
+    "-Segundo/Cálculo Diferencial e Integral/Notes/4..md",
+    "-Segundo/Cálculo Diferencial e Integral/Integral por sustitución.md",
+    "-Segundo/Cálculo Diferencial e Integral/Ejemplo.md",
+    "-Segundo/Cálculo Diferencial e Integral/Comentario.md",
+    "Reseñas de profesores/Personales/Reseñas ICOM.md",
+    "-Segundo/Administración de proyectos tecnológicos/Introducción.md",
+    "-Primero/Fundamentos de Física/Portafolio de Evidencias.md",
     "-Primero/Fundamentos de Física/Homework/Resúmenes Hewitt/6-Cantidad de movimiento.md",
     "-Primero/Fundamentos de Física/Homework/Resúmenes Hewitt/5-Tercera ley de Newton.md",
-    "-Primero/Fundamentos de Física/Portafolio de Evidencias.md",
     "-Primero/Fundamentos de Física/Homework/Resúmenes Hewitt/4-Segunda ley de Newton.md",
     "-Primero/Fundamentos de Física/Homework/Resúmenes Hewitt/2-Primera ley de Newton de movimiento - Inercia.md",
     "-Primero/Fundamentos de Física/Homework/Resúmenes Hewitt/8-Movimiento rotacional.md",
-    "-Primero/Fundamentos de Física/Homework/Resúmenes Hewitt/9-Gravedad.md",
-    "-Primero/Fundamentos de Física/Homework/Resúmenes Hewitt/7-Energía.md",
-    "-Primero/Fundamentos de Física/Homework/Resúmenes Hewitt/3-Movimiento líneal.md",
-    "-Primero/Fundamentos de Física/Homework/Video Notes/3. Electricidad y magnetismo/3. Electroestática - Teoría de Coulomb.md",
-    "-Primero/Fundamentos de Física/Homework/Video Notes/3. Electricidad y magnetismo/4. Modelos atómicos.md",
-    "-Primero/Fundamentos de Física/Homework/Video Notes/3. Electricidad y magnetismo/5. Estructura atómica.md",
-    "-Primero/Fundamentos de Física/Homework/Video Notes/3. Electricidad y magnetismo/1. Carga eléctrica.md",
-    "-Primero/Fundamentos de Física/Homework/Video Notes/3. Electricidad y magnetismo/2. Clase 3. El átomo, su núcleo y los electrones.md",
-    "-Primero/Fundamentos de Física/Homework/Video Notes/1. Física General/1. Carl Sagan - Los orígenes de la ciencia.md",
-    "-Primero/Fundamentos de Física/Resources/Encuadre.md",
-    "-Primero/Fundamentos de Física/Resources/Exámenes departamentales.md",
-    "Fracciones Parciales.md",
     "-Tercero\\Sistemas Digitales\\Tareas\\9. Comparador de 2 palabras\\Attachments",
     "-Tercero\\Sistemas Digitales\\Tareas\\9. Comparador de 2 palabras",
     "-Tercero\\Sistemas Digitales\\Tareas\\8. Sumador completo\\Attachments",
@@ -193,18 +201,10 @@
     "-Tercero\\Sistemas Digitales\\Tareas\\6. Multiplexor",
     "-Tercero\\Sistemas Digitales\\Tareas\\5. Alarma\\Attachments",
     "-Tercero\\Sistemas Digitales\\Tareas\\5. Alarma",
-    "-Tercero/Sistemas Digitales (Oyente)/Logica de Función Fija - 14-02-2023.md",
-    "-Tercero/Sistemas Digitales/Tareas/7. Medio sumador HA/7. Medio sumador HA.md",
-    "-Tercero/Sistemas Digitales/Class Note/Untitled.md",
     "-Tercero/Sistemas Digitales/Tareas/9. Comparador de 2 palabras/Attachments/Pasted image 20230419085147.png",
     "-Tercero/Sistemas Digitales/Tareas/9. Comparador de 2 palabras/Attachments/Pasted image 20230425111657.png",
     "-Tercero/Sistemas Digitales/Tareas/9. Comparador de 2 palabras/Attachments/9.-Comparador-km.png",
     "-Tercero/Sistemas Digitales/Tareas/9. Comparador de 2 palabras/Attachments/9.-Comparador-ki.png",
-    "Circuitos-dudas.md",
-    "Untitled.md",
-    "Formularios y temarios/Matemáticas/Precálculo.md",
-    "-Tercero/Ecuaciones Diferenciales/Apuntes de clase/Segundo Parcial/Apuntes Segundo Parcial.md",
-    "-Tercero/Álgebra  Líneal/Determinantes.md",
     "-Tercero/Sistemas Digitales/Tareas/9. Comparador de 2 palabras/Attachments/9.-Comparador-3.png",
     "-Tercero/Sistemas Digitales/Tareas/9. Comparador de 2 palabras/Attachments/9.-Comparador-1.png",
     "-Tercero/Sistemas Digitales/Tareas/9. Comparador de 2 palabras/Attachments/9.-Comparador-2.png",
