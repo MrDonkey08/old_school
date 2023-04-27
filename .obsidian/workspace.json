@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "78d61949d5c0607b",
+        "id": "95102d3aab563ea4",
         "type": "tabs",
         "children": [
           {
-            "id": "b4e9dfcb69372942",
+            "id": "8813d885b396184c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "-Tercero/Sistemas Digitales (Oyente)/Logica de Función Fija - 14-02-2023.md",
-                "mode": "source",
+                "file": "-Tercero/Programación Orientada en Objetos/Notas de clase/13-02-2023.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -42,7 +42,7 @@
                 "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -71,7 +71,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 239.5
+    "width": 407.50418853759766
   },
   "right": {
     "id": "4b702cc4fb11ac6c",
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "-Tercero/Sistemas Digitales (Oyente)/Logica de Función Fija - 14-02-2023.md",
+                "file": "-Tercero/Programación Orientada en Objetos/Notas de clase/13-02-2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "-Tercero/Sistemas Digitales (Oyente)/Logica de Función Fija - 14-02-2023.md",
+                "file": "-Tercero/Programación Orientada en Objetos/Notas de clase/13-02-2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "-Tercero/Sistemas Digitales (Oyente)/Logica de Función Fija - 14-02-2023.md"
+                "file": "-Tercero/Programación Orientada en Objetos/Notas de clase/13-02-2023.md"
               }
             }
           },
@@ -148,6 +148,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-statusbar-pomo:Start pomodoro": false,
+      "obsidian-matrix:Obsidian Matrix": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
       "audio-recorder:Start/stop recording": false,
@@ -157,58 +159,57 @@
       "random-note:Open random note": false,
       "workspaces:Manage workspace layouts": false,
       "oz-clear-unused-images:Clear Unused Images": false,
-      "obsidian-full-calendar:Open Full Calendar": false,
-      "obsidian-matrix:Obsidian Matrix": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-statusbar-pomo:Start pomodoro": false
+      "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "b4e9dfcb69372942",
+  "active": "8813d885b396184c",
   "lastOpenFiles": [
-    "-Tercero/Sistemas Digitales/Tareas/7. Medio sumador HA/7. Medio sumador HA.md",
-    "-Tercero/Sistemas Digitales/Tareas/9. Comparador de 2 palabras/Comparador.lis",
-    "-Tercero/Sistemas Digitales/Tareas/9. Comparador de 2 palabras/Comparador.jed",
-    "-Tercero/Sistemas Digitales/Tareas/9. Comparador de 2 palabras/9. Comparador.sco.txt",
-    "-Tercero/Sistemas Digitales/Tareas/9. Comparador de 2 palabras/9. Comparador.sco",
-    "-Tercero/Sistemas Digitales/Class Note/Untitled.md",
-    "-Tercero/Sistemas Digitales/Tareas/9. Comparador de 2 palabras/Attachments/Pasted image 20230419085147.png",
+    "-Tercero/Programación Orientada en Objetos/Notas/Introducción a POO.md",
+    "-Tercero/Circuitos/Actividad 5.md",
+    "-Tercero/Circuitos/Prácticas/Untitled.md",
+    "-Tercero/Álgebra  Líneal/Determinantes.md",
+    "-Tercero/Administración/Notes/Untitled 1.md",
+    "-Tercero/Administración/Notes/Untitled.md",
+    "-Tercero/Sistemas Digitales/Tareas/9. Comparador de 2 palabras/9. Compardor de 2 palabras.md",
+    "-Tercero/Sistemas Digitales/Tareas/Task/Untitled.md",
+    "Untitled 1.md",
+    "Untitled.md",
+    "-Tercero/Sistemas Digitales/Tareas/6. Multiplexor.md",
+    "-Tercero/Sistemas Digitales/Tareas/9. Compardor de 2 palabras.md",
+    "Formularios y temarios\\Matemáticas",
+    "-Tercero\\Álgebra  Líneal",
+    "-Tercero/Sistemas Digitales/Tareas/Attachments/Project Backups/Comparador de 2 palabras [Autosaved].pdsprj",
+    "-Tercero/Sistemas Digitales/Tareas/Attachments/Project Backups/Comparador de 2 palabras [20230425, 10-28-52].pdsprj",
+    "-Tercero/Sistemas Digitales/Tareas/Attachments/Project Backups/Comparador de 2 palabras [20230425, 10-28-41].pdsprj",
+    "-Tercero/Sistemas Digitales/Tareas/Attachments/Project Backups/Comparador de 2 palabras [20230425, 10-18-03].pdsprj",
+    "-Tercero/Sistemas Digitales/Tareas/Attachments/Project Backups/Comparador de 2 palabras [20230425, 10-12-30].pdsprj",
+    "-Tercero/Sistemas Digitales/Tareas/Attachments/Project Backups",
+    "-Tercero\\Sistemas Digitales\\Tareas\\Attachments\\Project Backups",
+    "-Tercero/Sistemas Digitales/Tareas/Attachments/Pasted image 20230425111657.png",
+    "-Tercero/Sistemas Digitales/Tareas/Attachments/Comparador de 2 palabras.pdsprj.DESKTOP-9FAHEL3.Human Solutions.workspace",
+    "-Tercero/Sistemas Digitales/Tareas/Attachments/9.-Comparador-3.png",
+    "-Tercero/Sistemas Digitales/Tareas/Attachments/9.-Comparador-2.png",
+    "-Tercero/Sistemas Digitales/Tareas/Attachments/9.-Comparador-1.png",
     "-Tercero/Sistemas Digitales/Tareas/9. Comparador de 2 palabras/Attachments/Pasted image 20230425111657.png",
+    "-Tercero/Sistemas Digitales/Tareas/9. Comparador de 2 palabras/Attachments/Pasted image 20230419085147.png",
     "-Tercero/Sistemas Digitales/Tareas/9. Comparador de 2 palabras/Attachments/9.-Comparador-km.png",
     "-Tercero/Sistemas Digitales/Tareas/9. Comparador de 2 palabras/Attachments/9.-Comparador-ki.png",
-    "-Tercero/Sistemas Digitales/Tareas/9. Comparador de 2 palabras",
-    "Circuitos-dudas.md",
-    "-Tercero/Sistemas Digitales/Tareas/8. Sumador completo/Attachments",
-    "-Tercero/Sistemas Digitales/Tareas/8. Sumador completo",
-    "-Tercero/Sistemas Digitales/Tareas/7. Medio sumador HA/Attachments",
-    "-Tercero/Sistemas Digitales/Tareas/7. Medio sumador HA",
-    "-Tercero/Sistemas Digitales/Tareas/6. Multiplexor/Attachments",
-    "Untitled.md",
-    "Formularios y temarios/Matemáticas/Precálculo.md",
-    "-Tercero/Ecuaciones Diferenciales/Apuntes de clase/Segundo Parcial/Apuntes Segundo Parcial.md",
-    "-Tercero/Álgebra  Líneal/Determinantes.md",
-    "-Tercero/Álgebra  Líneal/Matrices.md",
-    "-Tercero/Álgebra  Líneal/Regla de cramer.md",
-    "-Tercero/Álgebra  Líneal/Sistemas de Ecuaciones.md",
-    "Formularios y temarios/Matemáticas/Álgebra Lineal.md",
-    "-Primero/Precálculo/Class Notes/Fracciones Parciales.md",
-    "Formularios y temarios/Matemáticas/Lógica Matemática - Leyes.md",
-    "Formularios y temarios/Matemáticas/Cálculo.md",
-    "Reseñas de profesores/Claves de Materias ICOM.md",
-    "-Primero/Precálculo/Class Notes/16. Fracciones Parciales.md",
-    "Untitled 1.md",
-    "-Tercero/Sistemas Digitales/Tareas/9. Comparador de 2 palabras/9. Compardor de 2 palabras.md",
-    "-Tercero/Ecuaciones Diferenciales/Apuntes de clase/Segundo Parcial/Conjunto Fundamental de Soluciones.md",
-    "-Tercero/Sistemas Digitales/Tareas/8. Sumador completo/8. Sumador completo FA.md",
     "-Tercero/Sistemas Digitales/Tareas/9. Comparador de 2 palabras/Attachments/9.-Comparador-3.png",
-    "-Tercero/Sistemas Digitales/Tareas/9. Comparador de 2 palabras/Attachments/9.-Comparador-1.png",
     "-Tercero/Sistemas Digitales/Tareas/9. Comparador de 2 palabras/Attachments/9.-Comparador-2.png",
-    "-Tercero/Sistemas Digitales/Tareas/8. Sumador completo/Attachments/8. Sumador completo FA-1.jpeg",
-    "-Primero/Precálculo/Class Notes/18. Ecuaciones Expeciales.md",
-    "-Tercero/Ecuaciones Diferenciales/Apuntes de clase/Segundo Parcial/Transformada de Laplace.md",
-    "Formularios y temarios/Matemáticas/Conjuntos y lógica matemática - símbolos.md",
-    "-Tercero/Ecuaciones Diferenciales/Apuntes de clase/Segundo Parcial/Variación de Parámetros.md",
-    "tercero/circuitos/README.md",
-    "Formularios y temarios/Matemáticas/Attachments/Leyes-de-Equivalencia.jpeg",
-    "Formularios y temarios/Matemáticas/Attachments/Leyes de Implicación.jpg"
+    "-Tercero/Sistemas Digitales/Tareas/8. Sumador completo/8. Sumador completo FA.md",
+    "-Tercero/Sistemas Digitales/Tareas/7. Medio sumador HA/7. Medio sumador HA.md",
+    "-Tercero/Sistemas Digitales/Tareas/6. Multiplexor/6. Multiplexor.md",
+    "-Tercero/Sistemas Digitales/Tareas/5. Alarma/5. Alarma.md",
+    "-Primero/Precálculo/Class Notes/Fracciones Parciales.md",
+    "Formularios/Leyes.md",
+    "Formularios/Formulario Cinemática y Leyes de Newton.md",
+    "Formularios/Conjuntos y lógica matemática - símbolos.md",
+    "Formularios/Circuitos electrónicos y electromagnetismo.md",
+    "-Tercero/Sistemas Digitales/Tareas/8. Sumador completo FA.md",
+    "Formularios/Precálculo.md",
+    "Fracciones Parciales.md",
+    "Formularios y temarios/Matemáticas/Álgebra Lineal.md",
+    "Formularios y temarios/Matemáticas/Precálculo.md"
   ]
 }
