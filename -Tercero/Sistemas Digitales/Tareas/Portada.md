@@ -2,7 +2,7 @@
 
 ## <p align="center">Centro Universitario de Ciencias Exactas E Ingenierías<br>
 
-![Portada-UDG | left |200](Attachments/Images/Portada-UDG.jpeg) ![Portada-CUCEI | right | 188](Attachments/Images/Portada-CUCEI.jpeg)
+![Portada-UDG | left |200](../../../Attachment/Images/Portada-UDG.jpeg) ![Portada-CUCEI | right | 188](../../../Attachment/Images/Portada-CUCEI.jpeg)
 
 <br> <br> <br> <br> <br><br> <br><br><br><br><br><br><br><br>
 
