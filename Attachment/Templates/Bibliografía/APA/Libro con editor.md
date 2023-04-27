@@ -1,1 +1,0 @@
-Apellido, N. (Ed.). (año). _Título del trabajo._ Editorial.
