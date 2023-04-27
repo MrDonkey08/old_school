@@ -1,1 +1,0 @@
-Apellido, N. y Apellido, N. (año). _Título del libro_. Editorial. DOI o URL
