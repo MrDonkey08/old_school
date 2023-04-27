@@ -11,6 +11,7 @@ Lo anterior significa que cuando las personas tengan marcos de referencia distin
 Los diversos modos en que los seer humanos intercambiamos ideas, desde la señal, el gesto, o la imagen, hasta la palabra hablada o escrita
 
 ## Comunicación y Expresión
+
 Para transmitir una **expresión** basta con manifestarla, te dé o no la recepsión por parte de otra persona.
 
 Basta con manifestar algo con nosotros mismos, en cambio, la comunicación conlleva que sean comprendidos por los demás.
@@ -34,6 +35,7 @@ Resolución de problemas
 Comunicación mediada electronicamente: interpersonal, grupo...
 
 ### Principios de la comunicación
+
 - Propósito
 - Continua
 - Los mensajes varían en el pensamiento personal.
@@ -86,6 +88,7 @@ Significado: interpretación de los mensajes de otros.
 - Contexto cultural: valores, actitudes, creencias, orientaciones...
 
 ### Barreras de la comunicación
+
 Obstacúlos que se presentan en cualquier momento del proceso
 
 Ruido psicologiso
