@@ -1,0 +1,153 @@
+{COMPONENT C:\USERS\HUMAN SOLUTIONS\DESKTOP\BCD27\NEW FOLDER\BCD27.SYM
+
+ {ENVIRONMENT
+  {PDIFvrev 3.00}
+  {Program "CUPL(WM) Version 5.0a"}
+  {DBtype "Schematic"}
+  {DBvrev 1.01}
+  {DBtime "Fri Apr 28 09:35:54 2023 "}
+  {DBunit "MIL"}
+  {DBgrid 10}
+  {Lyrstr "WIRES" 1 "BUS" 1 "GATE" 2 "IEEE" 2 "PINFUN" 3 "PINNUM" 1 
+          "PINNAM" 6 "PINCON" 4 "REFDES" 2 "ATTR" 6 "SDOT" 1 
+          "DEVICE" 5 "OUTLIN" 5 "ATTR2" 6 "NOTES" 6 "NETNAM" 4 
+          "CMPNAM" 5 "BORDER" 5}
+ }
+
+ {USER
+  {VIEW
+   {Mode SYMB}
+   {Nlst OPEN}
+   {Vw 0 0 2}
+   {Lv 12 2 2 2 0 0 2 2 2 2 0 0 2 1 2 0 0 0 0}
+   {Gs 10 10}
+  }
+ }
+
+ {DISPLAY
+  [Ly "PINNUM"]
+  [Ls "SOLID"][Wd 0]
+  [Ts 15][Tj "LC"][Tr 0][Tm "N"]
+ }
+
+ {SYMBOL
+  {PIN_DEF
+   [Ly "PINCON"]
+   {P A {Pt "INPUT"}{Lq 0}{Ploc 100 100}}
+   {P B {Pt "INPUT"}{Lq 0}{Ploc 100 60}}
+   {P C {Pt "INPUT"}{Lq 0}{Ploc 100 40}}
+   {P D {Pt "INPUT"}{Lq 0}{Ploc 100 20}}
+   {P SEGA {Pt "I/O"}{Lq 0}{Ploc 280 20}}
+   {P SEGB {Pt "I/O"}{Lq 0}{Ploc 280 40}}
+   {P SEGC {Pt "I/O"}{Lq 0}{Ploc 280 60}}
+   {P SEGD {Pt "I/O"}{Lq 0}{Ploc 280 80}}
+   {P SEGE {Pt "I/O"}{Lq 0}{Ploc 280 100}}
+   {P SEGF {Pt "I/O"}{Lq 0}{Ploc 280 120}}
+   {P SEGG {Pt "I/O"}{Lq 0}{Ploc 280 140}}
+  }
+
+  {PKG
+   [Ly "REFDES"]
+   [Ts 25][Tj "CB"][Tr 0][Tm "N"]
+   {Rdl 190 170}
+
+   [Ly "PINNUM"]
+   [Ts 15][Tj "RC"]
+   {Pnl 120 110}
+   [Ts 15][Tj "RC"]
+   {Pnl 120 70}
+   {Pnl 120 50}
+   {Pnl 120 30}
+   [Ts 15][Tj "LC"]
+   {Pnl 260 30}
+   {Pnl 260 50}
+   {Pnl 260 70}
+   {Pnl 260 90}
+   {Pnl 260 110}
+   {Pnl 260 130}
+   {Pnl 260 150}
+
+   {Sd A 1 2 3 4 14 15 16 17 18 19 20}
+  }
+
+  {PIC
+   [Ly "GATE"]
+   [Ts 15][Tj "LC"][Tr 0][Tm "N"]
+   {R 130 160 250 0}
+   {L 130 100 100 100}
+   {L 130 110 140 100 130 90}
+   {L 130 60 100 60}
+   {L 130 40 100 40}
+   {L 130 20 100 20}
+   {L 250 20 280 20}
+   {L 250 40 280 40}
+   {L 250 60 280 60}
+   {L 250 80 280 80}
+   {L 250 100 280 100}
+   {L 250 120 280 120}
+   {L 250 140 280 140}
+   [Ly "PINNAM"]
+   [Tj "LC"]
+   {T "A" 140 100}
+   {T "B" 140 60}
+   {T "C" 140 40}
+   {T "D" 140 20}
+   [Tj "RC"]
+   {T "SEGA" 240 20}
+   {T "SEGB" 240 40}
+   {T "SEGC" 240 60}
+   {T "SEGD" 240 80}
+   {T "SEGE" 240 100}
+   {T "SEGF" 240 120}
+   {T "SEGG" 240 140}
+   [Ly "DEVICE"]
+   [Tj "CT"]
+   {T "G22V10" 190 -10}
+  }
+
+  {ATR
+   {IN
+    {Org 100 20}
+    {Ty 255}
+   }
+   {EX
+    [Ly "ATTR2"]
+    [Ts 12][Tj "CT"][Tr 0][Tm "N"]
+    {At PLD C:\USERS\HUMAN SOLUTIONS\DESKTOP\BCD27\NEW FOLDER\BCD27 190 160}
+   }
+  }
+ }
+
+ {DETAIL
+  {ANNOTATE
+  }
+
+  {NET_DEF
+   {N A
+   }
+   {N B
+   }
+   {N C
+   }
+   {N D
+   }
+   {N SEGA
+   }
+   {N SEGB
+   }
+   {N SEGC
+   }
+   {N SEGD
+   }
+   {N SEGE
+   }
+   {N SEGF
+   }
+   {N SEGG
+   }
+  }
+
+  {SUBCOMP
+  }
+ }
+}
