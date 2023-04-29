@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "-Tercero/Sistemas Digitales/Tareas/10. Decodificador de BCD a 7 segmentos/Untitled.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -33,7 +33,7 @@
               "type": "markdown",
               "state": {
                 "file": "-Tercero/Sistemas Digitales/Tareas/9. Comparador de 2 palabras/9. Compardor de 2 palabras.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -184,13 +184,14 @@
   },
   "active": "9401e977f12aa7cb",
   "lastOpenFiles": [
+    "-Tercero/Sistemas Digitales/Tareas/9. Comparador de 2 palabras/9. Compardor de 2 palabras.md",
+    "-Tercero/Sistemas Digitales/Tareas/10. Decodificador de BCD a 7 segmentos/Untitled.md",
     "-Tercero/Sistemas Digitales/Tareas/10. Decodificador de BCD a 7 segmentos/Project Backups/10. Decodificador de BCD a 7 segmentos [20230428, 17-18-35].pdsprj",
     "-Tercero/Sistemas Digitales/Tareas/10. Decodificador de BCD a 7 segmentos/Attachments/BCD-2-7-2.png",
     "-Tercero/Sistemas Digitales/Tareas/10. Decodificador de BCD a 7 segmentos/Attachments/BCD-2-7-1.png",
     "-Tercero/Sistemas Digitales/Tareas/10. Decodificador de BCD a 7 segmentos/Project Backups/10. Decodificador de BCD a 7 segmentos [20230428, 13-21-46].pdsprj",
     "-Tercero/Sistemas Digitales/Tareas/10. Decodificador de BCD a 7 segmentos/Project Backups",
     "-Tercero/Sistemas Digitales/Tareas/1. Conversiones numéricas.md",
-    "-Tercero/Sistemas Digitales/Tareas/10. Decodificador de BCD a 7 segmentos/Untitled.md",
     "-Tercero/Sistemas Digitales/Tareas/10. Decodificador de BCD a 7 segmentos/BCD27/BCD27.sim",
     "-Tercero/Sistemas Digitales/Tareas/10. Decodificador de BCD a 7 segmentos/BCD27/BCD27.PLD",
     "-Tercero/Sistemas Digitales/Tareas/10. Decodificador de BCD a 7 segmentos/BCD27/BCD27.pla",
@@ -198,8 +199,6 @@
     "-Tercero/Sistemas Digitales/Tareas/10. Decodificador de BCD a 7 segmentos/BCD27/BCD27.lst",
     "-Tercero/Sistemas Digitales/Tareas/10. Decodificador de BCD a 7 segmentos/BCD27/BCD27.jed",
     "-Tercero/Sistemas Digitales/Tareas/10. Decodificador de BCD a 7 segmentos/BCD27/BCD27.doc",
-    "-Tercero/Sistemas Digitales/Tareas/10. Decodificador de BCD a 7 segmentos/BCD27/BCD27.abs",
-    "-Tercero/Sistemas Digitales/Tareas/9. Comparador de 2 palabras/9. Compardor de 2 palabras.md",
     "-Tercero/Sistemas Digitales/Tareas/10. Decodificador de BCD a 7 segmentos/Attachments/BCD-2-7-segmentos-1.png",
     "-Tercero/Sistemas Digitales (Oyente)/Logica de Función Fija - 14-02-2023.md",
     "Attachments/Excalidraw/2. Operaciones en sistemas binario, octal y hexadecimal.md",
