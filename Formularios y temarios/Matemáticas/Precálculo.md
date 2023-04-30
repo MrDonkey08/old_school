@@ -268,7 +268,6 @@ Entonces tenemos que
 
 $$\displaylines{
 x{^{2}} + \frac{bx}{a} + \frac{c}{a} = \frac{d}{a}\\
-
 \left(x + \frac{b +\sqrt{b^{2}-4ac}}{2a} \right) \left(x + \frac{b -\sqrt{b^{2}-4ac}}{2a} \right) = \frac{d}{a}\\
 }$$
 
