@@ -238,7 +238,7 @@ $$\displaylines
 3. Le sumamos a $p$ una cantidad, pero a $q$ se le resta esa misma cantidad para mantener el equilibrio
 
 $$\displaylines{
-\frac{b}{2a} + s , & = \frac{b}{2a} - s
+\frac{b}{2a} + s , & \frac{b}{2a} - s
 }$$
 
 4. Buscamos los dos números que multiplicados den $\frac{a}{c}$ 
@@ -272,14 +272,14 @@ x{^{2}} + \frac{bx}{a} + \frac{c}{a} = \frac{d}{a}\\
 \left(x + \frac{b +\sqrt{b^{2}-4ac}}{2a} \right) \left(x + \frac{b -\sqrt{b^{2}-4ac}}{2a} \right) = \frac{d}{a}\\
 }$$
 
-Asumiendo que tengamos el caso en el que $d = 0$, entonces
+<!--Asumiendo que tengamos el caso en el que $d = 0$, entonces
 
 $$\displaylines{
 (x+p)(x-q) = 0\\
 x = -p = -\frac{b +\sqrt{b^{2}-4ac}}{2a} \\
 x = -q = -\frac{b -\sqrt{b^{2}-4ac}}{2a}
 }$$
-
+-->
 
 ### Valor absoluto
 
