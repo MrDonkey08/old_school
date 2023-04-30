@@ -252,8 +252,8 @@ $$\displaylines{
 
 $$\displaylines{
 s^{2} = \frac{b^{2}}{4a^{2}} - \frac{c}{a} \\
-s = \sqrt {\frac{b^{2}-4ac} {4a^{2}}}
-\\s = \pm \frac{\sqrt{b^{2}-4ac}}{2a}
+s = \pm \sqrt {\frac{b^{2}-4ac} {4a^{2}}}\\ 
+s = \pm \frac{\sqrt{b^{2}-4ac}}{2a}
 }$$
 
 6. Tomamos el valor de $s$, ya sea el positivo o el negativo.
@@ -269,18 +269,17 @@ Entonces tenemos que
 $$\displaylines{
 x{^{2}} + \frac{bx}{a} + \frac{c}{a} = \frac{d}{a}\\
 
-\left(x + \frac{b +\sqrt{b^{2}-4ac}}{2a} \right) \left(x - \frac{b +\sqrt{b^{2}-4ac}}{2a} \right) = \frac{d}{a}\\
+\left(x + \frac{b +\sqrt{b^{2}-4ac}}{2a} \right) \left(x + \frac{b -\sqrt{b^{2}-4ac}}{2a} \right) = \frac{d}{a}\\
 }$$
 
-<!-- Asumiendo que tengamos el caso en el que $d = 0$, entonces
+Asumiendo que tengamos el caso en el que $d = 0$, entonces
 
 $$\displaylines{
 (x+p)(x-q) = 0\\
-x = -p = -\frac{b -\sqrt{b^{2}-4ac}}{2a} \\
-x = -q = -\frac{b +\sqrt{b^{2}-4ac}}{2a}
+x = -p = -\frac{b +\sqrt{b^{2}-4ac}}{2a} \\
+x = -q = -\frac{b -\sqrt{b^{2}-4ac}}{2a}
 }$$
 
--->
 
 ### Valor absoluto
 
