@@ -234,25 +234,28 @@ $$x{^{2}} + \frac{bx}{a} + \frac{c}{a} = \frac{d}{a}$$
 $$\displaylines
 {p + q = \frac{b}{a}, & p = \frac{b}{2a}, & q = \frac{b}{2a} 
 }$$
+
 3. Le sumamos a $p$ una cantidad, pero a $q$ se le resta esa misma cantidad para mantener el equilibrio
 
 $$\displaylines{
 \frac{b}{2a} + s , & = \frac{b}{2a} - s
 }$$
+
 4. Buscamos los dos números que multiplicados den $\frac{a}{c}$ 
 
 $$\displaylines{
 \left(\frac{b}{2a} + s \right) \left(\frac{b}{2a} - s \right) = \frac{c}{a}\\
 \frac{b^{2}}{4a^{2}} - s^{2} = \frac{c}{a}
 }$$
+
 5. Despejamos respecto a $s$
 
 $$\displaylines{
 s^{2} = \frac{b^{2}}{4a^{2}} - \frac{c}{a} \\
 s = \sqrt {\frac{b^{2}-4ac} {4a^{2}}}
 \\s = \pm \frac{\sqrt{b^{2}-4ac}}{2a}
-
 }$$
+
 6. Tomamos el valor de $s$, ya sea el positivo o el negativo.
 7. Ahora solo sustituimos $s$
 
