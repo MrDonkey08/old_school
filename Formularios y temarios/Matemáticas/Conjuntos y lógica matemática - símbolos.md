@@ -95,7 +95,7 @@ type: Note
 
 <div style="page-break-after: always;"></div>
 
-## Referencias 
+# Referencias 
 
 - Wikipedia (s.f.). _Conectiva lógica_. https://es.wikipedia.org/wiki/Conectiva_l%C3%B3gica
 - Wikipedia (s.f.). _Símbolos lógicos_. https://es.wikipedia.org/wiki/Anexo:S%C3%ADmbolos_l%C3%B3gicos
