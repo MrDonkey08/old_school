@@ -309,6 +309,7 @@ $(x+a)(x+b)=0$
 Un producto que da 0 solo puede ser posible si por lo menos uno de los _factores_ es 0
 
 **Una variable**:
+
 $$\displaylines{
 (x+a)(x+b) = 0\\\\
 \
@@ -319,6 +320,7 @@ x+a=0 & x+b=0\\
 x_1 = -a & x_2 = -b
 \end{array}
 }$$
+
 **Dos variables**
 
 $$\displaylines{
