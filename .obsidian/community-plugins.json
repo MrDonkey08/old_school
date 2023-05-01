@@ -12,7 +12,6 @@
   "obsidian-outliner",
   "templater-obsidian",
   "oz-image-plugin",
-  "obsidian-enhancing-export",
   "editing-toolbar",
   "cm-editor-syntax-highlight-obsidian",
   "git-sync",
@@ -21,5 +20,7 @@
   "quick-latex",
   "latex-to-unicode",
   "obsidian-matrix",
-  "obsidian-statusbar-pomo"
+  "obsidian-statusbar-pomo",
+  "obsidian-better-codeblock",
+  "obsidian-enhancing-export"
 ]

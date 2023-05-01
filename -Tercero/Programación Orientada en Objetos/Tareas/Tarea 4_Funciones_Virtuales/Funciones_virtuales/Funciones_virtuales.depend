@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1682902199 source:c:\users\human solutions\documents\github\escuela\-tercero\programación orientada en objetos\tareas\tarea 4_funciones_virtuales\funciones_virtuales\fig. 13.10.cpp
+	<iostream>
+	<iomanip>
+	"EmpleadoPorComision.h"
+	"EmpleadoBaseMasComision.h"
+
+1682901890 c:\users\human solutions\documents\github\escuela\-tercero\programación orientada en objetos\tareas\tarea 4_funciones_virtuales\funciones_virtuales\empleadoporcomision.h
+	<string>
+
+1682902039 c:\users\human solutions\documents\github\escuela\-tercero\programación orientada en objetos\tareas\tarea 4_funciones_virtuales\funciones_virtuales\empleadobasemascomision.h
+	<string>
+	"EmpleadoPorComision.h"
+

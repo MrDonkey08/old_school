@@ -12,5 +12,6 @@
   "cssTheme": "Obsidian Nord",
   "interfaceFontFamily": "Inter",
   "baseFontSizeAction": true,
-  "showViewHeader": true
+  "showViewHeader": true,
+  "monospaceFontFamily": "DejaVu Sans Mono,Linux Biolinum G,Corbel,Carlito,Noto Mono,Liberation Mono"
 }
