@@ -1,5 +1,5 @@
-// Fig. 12.4: EmpleadoPorComision.h
-// Encabezado de la clase EmpleadoPorComision que declara a ingresos e imprimir como virtual.
+// Fig. 13.8: EmpleadoPorComision.h
+// Definición de la clase EmpleadoPorComision que representa a un empleado por comisión.
 #ifndef COMISION_H
 #define COMISION_H
 
@@ -8,33 +8,33 @@ using std::string;
 
 class EmpleadoPorComision
 {
-public:
-EmpleadoPorComision( const string &, const string &,
-const string &, double = 0.0, double = 0.0 );
+	public:
+	EmpleadoPorComision( const string &, const string &, const string &,
+	double = 0.0, double = 0.0 );
 
-void setPrimerNombre( const string & ); // establece el primer nombre
-getPrimerNombre() const; // devuelve el primer nombre
+	void setPrimerNombre( const string & ); // establece el primer nombre
+	string getPrimerNombre() const; // devuelve el primer nombre
 
-void setApellidoPaterno( const string & ); // establece el apellido paterno
-getApellidoPaterno() const; // devuelve el apellido paterno
+	void setApellidoPaterno( const string & ); // establece el apellido paterno
+	string getApellidoPaterno() const; // devuelve el apellido paterno
 
-void setNumeroSeguroSocial( const string & ); // establece el NSS
-getNumeroSeguroSocial() const; // devuelve el NSS
+	void setNumeroSeguroSocial( const string & ); // establece el NSS
+	string getNumeroSeguroSocial() const; // devuelve el NSS
 
-void setVentasBrutas( double ); // establece el monto de ventas brutas
-double getVentasBrutas() const; // devuelve el monto de ventas brutas
+	void setVentasBrutas( double ); // establece el monto de ventas brutas
+	double getVentasBrutas() const; // devuelve el monto de ventas brutas
 
-void setTarifaComision( double ); // establece la tarifa de comisión
-double getTarifaComision() const; // devuelve la tarifa de comisión
+	void setTarifaComision( double ); // establece la tarifa de comisión
+	double getTarifaComision() const; // devuelve la tarifa de comisión
 
-virtual double ingresos() const; // calcula los ingresos
-virtual void imprimir() const; // imprime el objeto
+	virtual double ingresos() const; // calcula los ingresos
+	virtual void imprimir() const; // imprime el objeto EmpleadoPorComision
 private:
-string primerNombre;
-string apellidoPaterno;
-string numeroSeguroSocial;
-double ventasBrutas; // ventas brutas por semana
-double tarifaComision; // porcentaje de comisión
+	string primerNombre;
+	string apellidoPaterno;
+	string numeroSeguroSocial;
+	double ventasBrutas; // ventas brutas por semana
+	double tarifaComision; // porcentaje de comisión
 }; // fin de la clase EmpleadoPorComision
 
 #endif

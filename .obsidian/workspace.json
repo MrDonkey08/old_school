@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4ac7606ac7d2aa1c",
+        "id": "b4b1b1c0e0b4ae4f",
         "type": "tabs",
         "children": [
           {
-            "id": "654d360247696074",
+            "id": "6d1ad5dcf27feee4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "-Tercero/Programación Orientada en Objetos/Tareas/Tarea4_JuarezRubio_AlanYahir.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -71,7 +71,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 341.5
+    "width": 210.50418853759766
   },
   "right": {
     "id": "4b702cc4fb11ac6c",
@@ -163,41 +163,29 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "14b31f7a61e09a38",
+  "active": "6d1ad5dcf27feee4",
   "lastOpenFiles": [
     "-Tercero/Programación Orientada en Objetos/Tareas/Tarea 4_Funciones_Virtuales/Funciones_virtuales/bin/Debug/Funciones_virtuales.exe",
-    "-Tercero/Programación Orientada en Objetos/Tareas/Tarea 4_Funciones_Virtuales/Funciones_virtuales/Funciones_virtuales.layout",
-    "-Tercero/Programación Orientada en Objetos/Tareas/Tarea 4_Funciones_Virtuales/Funciones_virtuales/Funciones_virtuales.depend",
-    "-Tercero/Programación Orientada en Objetos/Tareas/Tarea 4_Funciones_Virtuales/Funciones_virtuales/obj/Debug/Fig. 13.10.o",
-    "-Tercero/Programación Orientada en Objetos/Tareas/Tarea 4_Funciones_Virtuales/Funciones_virtuales/EmpleadoPorComision.h",
-    "-Tercero/Programación Orientada en Objetos/Tareas/Tarea 4_Funciones_Virtuales/Funciones_virtuales/EmpleadoPorComsion.h",
     "-Tercero/Programación Orientada en Objetos/Tareas/Tarea 4_Funciones_Virtuales/Funciones_virtuales/bin/Debug",
     "-Tercero/Programación Orientada en Objetos/Tareas/Tarea 4_Funciones_Virtuales/Funciones_virtuales/bin",
+    "-Tercero/Programación Orientada en Objetos/Tareas/Tarea4_JuarezRubio_AlanYahir.md",
+    "-Tercero/Programación Orientada en Objetos/Tareas/Tarea 4_Funciones_Virtuales/Funciones_virtuales/obj/Debug/Fig. 13.10.o",
     "-Tercero/Programación Orientada en Objetos/Tareas/Tarea 4_Funciones_Virtuales/Funciones_virtuales/obj/Debug",
     "-Tercero/Programación Orientada en Objetos/Tareas/Tarea 4_Funciones_Virtuales/Funciones_virtuales/obj",
-    "-Tercero/Programación Orientada en Objetos/Tareas/Tarea 4_Funciones_Virtuales/Funciones_virtuales/EmpleadoPorComsision.h",
-    "-Tercero/Programación Orientada en Objetos/Tareas/tex2pdf.-f536f34c28bbc04d/3de0d618bea63d793d25522f5d32c767bbc6e882.jpeg",
-    "-Tercero/Programación Orientada en Objetos/Tareas/tex2pdf.-f536f34c28bbc04d/aeda7896403169d2df858f565c4329212470f858.jpeg",
-    "-Tercero/Programación Orientada en Objetos/Tareas/tex2pdf.-99da0acde90e2ff3/aeda7896403169d2df858f565c4329212470f858.jpeg",
-    "-Tercero/Programación Orientada en Objetos/Tareas/Attachments/Diagrama-de-clase.png",
-    "-Tercero/Sistemas Digitales/Tareas/1. Conversiones numéricas.md",
-    "-Tercero/Álgebra  Líneal/Matrices.md",
-    "-Tercero/Programación Orientada en Objetos/Tareas/Tarea4_JuarezRubio_AlanYahir.md",
-    "-Tercero/Programación Orientada en Objetos/Notas/Introducción a POO.md",
-    "-Tercero/Programación Orientada en Objetos/Tareas/Tarea1_JuarezRubio_AlanYahir.md",
-    "-Tercero/Programación Orientada en Objetos/Tareas/Tarea3_JuarezRubio_AlanYahir.md",
-    "-Tercero/Programación Orientada en Objetos/Tareas/Portada.md",
-    "-Tercero/Programación Orientada en Objetos/Tareas/Attachments/Diagrama-de-clase-simple.png",
-    "-Tercero/Programación Orientada en Objetos/Tareas/Attachments/Pasted image 20230311155501.png",
-    "-Tercero/Programación Orientada en Objetos/Tareas/Attachments/Pasted image 20230311154603.png",
-    "-Tercero/Programación Orientada en Objetos/Tareas/Attachments/Pasted image 20230311153419.png",
-    "-Tercero/Programación Orientada en Objetos/Tareas/Attachments/Pasted image 20230311153112.png",
-    "-Tercero/Programación Orientada en Objetos/Tareas/Attachments/Pasted image 20230311152811.png",
+    "-Tercero/Programación Orientada en Objetos/Tareas/Tarea 4_Funciones_Virtuales/Funciones_virtuales/Funciones_virtuales.layout",
+    "-Tercero/Programación Orientada en Objetos/Tareas/Tarea 4_Funciones_Virtuales/Funciones_virtuales/Funciones_virtuales.depend",
+    "-Tercero/Programación Orientada en Objetos/Tareas/Tarea 4_Funciones_Virtuales/Funciones_virtuales/Funciones_virtuales.cbp",
+    "-Tercero/Programación Orientada en Objetos/Tareas/Tarea 4_Funciones_Virtuales/Funciones_virtuales/Fig. 13.10.cpp",
+    "-Tercero/Programación Orientada en Objetos/Tareas/Tarea 4_Funciones_Virtuales/Funciones_virtuales/EmpleadoPorComision.h",
     "Formularios y temarios/Matemáticas/Conjuntos y lógica matemática - símbolos.md",
     "Formularios y temarios/Matemáticas/Precálculo.md",
     "Formularios y temarios/Matemáticas/Lógica Matemática - Leyes.md",
     "-Tercero/Sistemas Digitales/Tareas/9. Comparador de 2 palabras/9. Compardor de 2 palabras.md",
     "-Tercero/Sistemas Digitales/Tareas/10. Decodificador de BCD a 7 segmentos/Untitled.md",
+    "-Tercero/Sistemas Digitales/Tareas/10. Decodificador de BCD a 7 segmentos/Attachments/BCD-2-7-2.png",
+    "-Tercero/Sistemas Digitales/Tareas/10. Decodificador de BCD a 7 segmentos/Attachments/BCD-2-7-1.png",
+    "-Tercero/Sistemas Digitales/Tareas/1. Conversiones numéricas.md",
+    "-Tercero/Sistemas Digitales/Tareas/10. Decodificador de BCD a 7 segmentos/Attachments/BCD-2-7-segmentos-1.png",
     "-Tercero/Sistemas Digitales (Oyente)/Logica de Función Fija - 14-02-2023.md",
     "Attachments/Excalidraw/2. Operaciones en sistemas binario, octal y hexadecimal.md",
     "Fracciones Parciales.md",
@@ -210,6 +198,18 @@
     "-Segundo/Mecánica/Apuntes/1.2 Escalares y Vectores.md",
     "-Segundo/Matemáticas Discretas/Tareas/Tarea 4.4.md",
     "-Segundo/Matemáticas Discretas/Tareas/Tarea 4.3.md",
-    "-Segundo/Expresión Oral y Escrita/Notes/Discurso.md"
+    "-Segundo/Expresión Oral y Escrita/Notes/Discurso.md",
+    "-Segundo/Expresión Oral y Escrita/Notes/Comunicación.md",
+    "-Segundo/Expresión Oral y Escrita/Homework/4. Proceso de la comunicación_Barreras de la comunicación.md",
+    "-Segundo/Cálculo Diferencial e Integral/Dominio y rango ejemplos.md",
+    "-Segundo/Cálculo Diferencial e Integral/Notes/4..md",
+    "-Segundo/Cálculo Diferencial e Integral/Integral por sustitución.md",
+    "-Tercero/Sistemas Digitales/Tareas/9. Comparador de 2 palabras/Attachments/Pasted image 20230419085147.png",
+    "-Tercero/Sistemas Digitales/Tareas/9. Comparador de 2 palabras/Attachments/Pasted image 20230425111657.png",
+    "-Tercero/Sistemas Digitales/Tareas/9. Comparador de 2 palabras/Attachments/9.-Comparador-km.png",
+    "-Tercero/Sistemas Digitales/Tareas/9. Comparador de 2 palabras/Attachments/9.-Comparador-ki.png",
+    "-Tercero/Sistemas Digitales/Tareas/9. Comparador de 2 palabras/Attachments/9.-Comparador-3.png",
+    "-Tercero/Sistemas Digitales/Tareas/9. Comparador de 2 palabras/Attachments/9.-Comparador-1.png",
+    "-Tercero/Sistemas Digitales/Tareas/9. Comparador de 2 palabras/Attachments/9.-Comparador-2.png"
   ]
 }
