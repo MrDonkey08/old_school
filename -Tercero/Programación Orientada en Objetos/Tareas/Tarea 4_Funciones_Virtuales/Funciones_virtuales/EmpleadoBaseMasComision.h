@@ -11,17 +11,17 @@ using std::string;
 
 class EmpleadoBaseMasComision : public EmpleadoPorComision
 {
-public:
-	EmpleadoBaseMasComision( const string &, const string &,
-		const string &, double = 0.0, double = 0.0, double = 0.0 );
+    public:
+        EmpleadoBaseMasComision( const string &, const string &,
+            const string &, double = 0.0, double = 0.0, double = 0.0 );
 
-	void setSalarioBase( double ); // establece el salario base
-	double getSalarioBase() const; // devuelve el salario base
+        void setSalarioBase( double ); // establece el salario base
+        double getSalarioBase() const; // devuelve el salario base
 
-	virtual double ingresos() const; // calcula los ingresos
-	virtual void imprimir() const; // imprime el objeto EmpleadoBaseMasComision
-private:
-double salarioBase; // salario base
+        virtual double ingresos() const; // calcula los ingresos
+        virtual void imprimir() const; // imprime el objeto EmpleadoBaseMasComision
+    private:
+        double salarioBase; // salario base
 }; // fin de la clase EmpleadoBaseMasComision
 
 #endif

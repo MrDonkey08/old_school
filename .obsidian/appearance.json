@@ -7,9 +7,9 @@
     "media-align",
     "media-grid-snippet"
   ],
-  "theme": "obsidian",
+  "theme": "moonstone",
   "nativeMenus": false,
-  "cssTheme": "Obsidian gruvbox",
+  "cssTheme": "",
   "interfaceFontFamily": "Inter",
   "baseFontSizeAction": true,
   "showViewHeader": true,

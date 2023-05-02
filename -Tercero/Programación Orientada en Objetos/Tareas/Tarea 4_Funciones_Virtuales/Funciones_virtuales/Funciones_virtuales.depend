@@ -1,14 +1,14 @@
 # depslib dependency file v1.0
-1682902199 source:c:\users\human solutions\documents\github\escuela\-tercero\programación orientada en objetos\tareas\tarea 4_funciones_virtuales\funciones_virtuales\fig. 13.10.cpp
+1683002046 source:c:\users\human solutions\documents\github\escuela\-tercero\programación orientada en objetos\tareas\tarea 4_funciones_virtuales\funciones_virtuales\fig. 13.10.cpp
 	<iostream>
 	<iomanip>
 	"EmpleadoPorComision.h"
 	"EmpleadoBaseMasComision.h"
 
-1682901890 c:\users\human solutions\documents\github\escuela\-tercero\programación orientada en objetos\tareas\tarea 4_funciones_virtuales\funciones_virtuales\empleadoporcomision.h
+1683003199 c:\users\human solutions\documents\github\escuela\-tercero\programación orientada en objetos\tareas\tarea 4_funciones_virtuales\funciones_virtuales\empleadoporcomision.h
 	<string>
 
-1682902039 c:\users\human solutions\documents\github\escuela\-tercero\programación orientada en objetos\tareas\tarea 4_funciones_virtuales\funciones_virtuales\empleadobasemascomision.h
+1683003199 c:\users\human solutions\documents\github\escuela\-tercero\programación orientada en objetos\tareas\tarea 4_funciones_virtuales\funciones_virtuales\empleadobasemascomision.h
 	<string>
 	"EmpleadoPorComision.h"
 
@@ -23,5 +23,13 @@
 
 1682903442 c:\users\hp\documents\github\escuela\-tercero\programación orientada en objetos\tareas\tarea 4_funciones_virtuales\funciones_virtuales\empleadobasemascomision.h
 	<string>
+	"EmpleadoPorComision.h"
+
+1683003199 source:c:\users\human solutions\documents\github\escuela\-tercero\programación orientada en objetos\tareas\tarea 4_funciones_virtuales\funciones_virtuales\empleadobasemascomision.cpp
+	<iostream>
+	"EmpleadoBaseMasComision.h"
+
+1683003199 source:c:\users\human solutions\documents\github\escuela\-tercero\programación orientada en objetos\tareas\tarea 4_funciones_virtuales\funciones_virtuales\empleadoporcomision.cpp
+	<iostream>
 	"EmpleadoPorComision.h"
 
