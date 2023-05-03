@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b4b1b1c0e0b4ae4f",
+        "id": "4f51d588d82bc67e",
         "type": "tabs",
         "children": [
           {
-            "id": "6d1ad5dcf27feee4",
+            "id": "a298b545febc8c20",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "-Tercero/Programación Orientada en Objetos/Tareas/Tarea4_JuarezRubio_AlanYahir.md",
-                "mode": "source",
+                "file": "-Tercero/Programación Orientada en Objetos/Tareas/Tarea4_JuarezRubio_AlanYahir 1.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -65,13 +65,21 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "7bd77092b1fbea31",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ],
         "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 210.50418853759766
+    "width": 296.5
   },
   "right": {
     "id": "4b702cc4fb11ac6c",
@@ -95,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "-Tercero/Programación Orientada en Objetos/Tareas/Tarea4_JuarezRubio_AlanYahir.md",
+                "file": "-Tercero/Programación Orientada en Objetos/Tareas/Tarea4_JuarezRubio_AlanYahir 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "-Tercero/Programación Orientada en Objetos/Tareas/Tarea4_JuarezRubio_AlanYahir.md",
+                "file": "-Tercero/Programación Orientada en Objetos/Tareas/Tarea4_JuarezRubio_AlanYahir 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "-Tercero/Programación Orientada en Objetos/Tareas/Tarea4_JuarezRubio_AlanYahir.md"
+                "file": "-Tercero/Programación Orientada en Objetos/Tareas/Tarea4_JuarezRubio_AlanYahir 1.md"
               }
             }
           },
@@ -163,8 +171,13 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "6d1ad5dcf27feee4",
+  "active": "a298b545febc8c20",
   "lastOpenFiles": [
+    "-Tercero/Programación Orientada en Objetos/Tareas/Attachments/Pasted image 20230502222750.png",
+    "-Tercero/Programación Orientada en Objetos/Tareas/Attachments/Pasted image 20230311133621.png",
+    "-Tercero/Programación Orientada en Objetos/Tareas/Tarea4_JuarezRubio_AlanYahir.md",
+    "-Tercero/Programación Orientada en Objetos/Tareas/Tarea4_JuarezRubio_AlanYahir 1.md",
+    "-Tercero/Ecuaciones Diferenciales/Apuntes de clase/Segundo Parcial/Apuntes Segundo Parcial.md",
     "-Tercero/Programación Orientada en Objetos/Tareas/Tarea 4_Funciones_Virtuales/Funciones_virtuales.rar",
     "-Tercero/Programación Orientada en Objetos/Tareas/Attachments/Programa.png",
     "-Tercero/Programación Orientada en Objetos/Tareas/Tarea 4_Funciones_Virtuales/Funciones_virtuales/bin/Debug/Funciones_virtuales.exe",
@@ -175,9 +188,7 @@
     "-Tercero/Programación Orientada en Objetos/Tareas/Tarea 4_Funciones_Virtuales/Funciones_virtuales/EmpleadoBaseMasComision.cpp",
     "-Tercero/Programación Orientada en Objetos/Tareas/Tarea 4_Funciones_Virtuales/Funciones_virtuales/bin/Debug",
     "-Tercero/Programación Orientada en Objetos/Tareas/Tarea 4_Funciones_Virtuales/Funciones_virtuales/bin",
-    "-Tercero/Programación Orientada en Objetos/Tareas/Tarea4_JuarezRubio_AlanYahir.md",
     "-Tercero/Programación Orientada en Objetos/Tareas/Tarea 4_Funciones_Virtuales/Funciones_virtuales/obj/Debug/Fig. 13.10.o",
-    "-Tercero/Programación Orientada en Objetos/Tareas/Tarea 4_Funciones_Virtuales/Funciones_virtuales/obj/Debug",
     "Formularios y temarios/Matemáticas/Conjuntos y lógica matemática - símbolos.md",
     "Formularios y temarios/Matemáticas/Precálculo.md",
     "Formularios y temarios/Matemáticas/Lógica Matemática - Leyes.md",
@@ -203,13 +214,10 @@
     "-Segundo/Expresión Oral y Escrita/Notes/Comunicación.md",
     "-Segundo/Expresión Oral y Escrita/Homework/4. Proceso de la comunicación_Barreras de la comunicación.md",
     "-Segundo/Cálculo Diferencial e Integral/Dominio y rango ejemplos.md",
-    "-Segundo/Cálculo Diferencial e Integral/Notes/4..md",
-    "-Segundo/Cálculo Diferencial e Integral/Integral por sustitución.md",
     "-Tercero/Sistemas Digitales/Tareas/9. Comparador de 2 palabras/Attachments/Pasted image 20230419085147.png",
     "-Tercero/Sistemas Digitales/Tareas/9. Comparador de 2 palabras/Attachments/Pasted image 20230425111657.png",
     "-Tercero/Sistemas Digitales/Tareas/9. Comparador de 2 palabras/Attachments/9.-Comparador-km.png",
     "-Tercero/Sistemas Digitales/Tareas/9. Comparador de 2 palabras/Attachments/9.-Comparador-ki.png",
-    "-Tercero/Sistemas Digitales/Tareas/9. Comparador de 2 palabras/Attachments/9.-Comparador-3.png",
-    "-Tercero/Sistemas Digitales/Tareas/9. Comparador de 2 palabras/Attachments/9.-Comparador-1.png"
+    "-Tercero/Sistemas Digitales/Tareas/9. Comparador de 2 palabras/Attachments/9.-Comparador-3.png"
   ]
 }

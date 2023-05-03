@@ -32,7 +32,9 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="EmpleadoBaseMasComision.cpp" />
 		<Unit filename="EmpleadoBaseMasComision.h" />
+		<Unit filename="EmpleadoPorComision.cpp" />
 		<Unit filename="EmpleadoPorComision.h" />
 		<Unit filename="Fig. 13.10.cpp" />
 		<Extensions>

@@ -6,8 +6,6 @@
  
 <br> <br> <br> <br> <br><br> <br><br><br><br><br><br><br><br><br><br><br>
 
-
-
 ### División de Tecnologías para la Integración Ciber-humana
 
 ### Departamento de Ciencias Computacionales
@@ -217,9 +215,9 @@ Figura 13.10 | Demostración del polimorfismo al invocar una función virtual de
 
 ## Resumen de las asignaciones permitidas entre objetos y apuntadores de la clase base y de la clase derivada
 
-Ahora que hemos visto una aplicación completa que procesa diversos objetos en forma polimórfica, sintetizaremos lo que se puede hacer y lo que no se puede hacer con los objetos y apuntadores de la clase base y las clases derivadas. Aunque un objeto de la clase derivada también es un objeto de la clase base, los dos objetos son sin embargo distintos. Como vimos antes, los objetos de la clase derivada se pueden tratar como si fueran objetos de la clase base. Ésta es una relación lógica, ya que la clase derivada contiene todos los miembros de la clase base. Sin embargo, los objetos de la clase base no pueden tratarse como si fueran objetos de la clase derivada; la clase derivada puede tener miembros adicionales que sólo pertenezcan a ésta. Por esta razón, orientar un apuntador de la clase derivada a un objeto de la clase base no se permite sin una conversión explicita; dicha asignación dejaría a los miembros que sólo pertenecen a la clase derivada indefinidos en el objeto de la clase base. La conversión exime al compilador de la responsabilidad de generar un mensaje de error. En cierto sentido, al usar la conversión estamos diciendo “Sé que lo que estoy haciendo es peligroso y asumo toda la responsabilidad por mis acciones”.
+Los objetos de la clase derivada se pueden tratar como si fueran objetos de la clase base. Ésta es una relación lógica, ya que la clase derivada contiene todos los miembros de la clase base. Sin embargo, los objetos de la clase base no pueden tratarse como si fueran objetos de la clase derivada; la clase derivada puede tener miembros adicionales que solo pertenezcan a ésta. Por esta razón, orientar un apuntador de la clase derivada a un objeto de la clase base no se permite sin una conversión explicita; dicha asignación dejaría a los miembros que solo pertenecen a la clase derivada indefinidos en el objeto de la clase base
 
-En la sección actual y en el capítulo 12 hemos visto cuatro formas de orientar los apuntadores de la clase base y los apuntadores de la clase derivada a objetos de la clase base y objetos de la clase derivada:
+Hemos visto cuatro formas de orientar los apuntadores de la clase base y los apuntadores de la clase derivada a objetos de la clase base y objetos de la clase derivada:
 
 1. Orientar un apuntador de la clase base a un objeto de la clase base es un proceso simple y directo: las llamadas realizadas desde el apuntador de la clase base simplemente invocan la funcionalidad de la clase base.
 
