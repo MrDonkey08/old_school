@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "b4b1b1c0e0b4ae4f",
+        "id": "6607b995f907a4a0",
         "type": "tabs",
         "children": [
           {
-            "id": "6d1ad5dcf27feee4",
+            "id": "6824305535d1341a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "-Tercero/Programación Orientada en Objetos/Tareas/Tarea4_JuarezRubio_AlanYahir.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -95,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "-Tercero/Programación Orientada en Objetos/Tareas/Tarea4_JuarezRubio_AlanYahir.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "-Tercero/Programación Orientada en Objetos/Tareas/Tarea4_JuarezRubio_AlanYahir.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,9 +116,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "-Tercero/Programación Orientada en Objetos/Tareas/Tarea4_JuarezRubio_AlanYahir.md"
-              }
+              "state": {}
             }
           },
           {
@@ -163,8 +154,12 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "6d1ad5dcf27feee4",
+  "active": "6824305535d1341a",
   "lastOpenFiles": [
+    "Formularios y temarios/Matemáticas/Lógica Matemática - Leyes.md",
+    "Formularios y temarios/Matemáticas/Attachments/Leyes de Implicación.jpg",
+    "Reseñas de profesores/Claves de Materias ICOM.md",
+    "-Tercero/Programación Orientada en Objetos/Tareas/Tarea4_JuarezRubio_AlanYahir.md",
     "-Tercero/Programación Orientada en Objetos/Tareas/Tarea 4_Funciones_Virtuales/Funciones_virtuales.rar",
     "-Tercero/Programación Orientada en Objetos/Tareas/Attachments/Programa.png",
     "-Tercero/Programación Orientada en Objetos/Tareas/Tarea 4_Funciones_Virtuales/Funciones_virtuales/bin/Debug/Funciones_virtuales.exe",
@@ -175,12 +170,9 @@
     "-Tercero/Programación Orientada en Objetos/Tareas/Tarea 4_Funciones_Virtuales/Funciones_virtuales/EmpleadoBaseMasComision.cpp",
     "-Tercero/Programación Orientada en Objetos/Tareas/Tarea 4_Funciones_Virtuales/Funciones_virtuales/bin/Debug",
     "-Tercero/Programación Orientada en Objetos/Tareas/Tarea 4_Funciones_Virtuales/Funciones_virtuales/bin",
-    "-Tercero/Programación Orientada en Objetos/Tareas/Tarea4_JuarezRubio_AlanYahir.md",
     "-Tercero/Programación Orientada en Objetos/Tareas/Tarea 4_Funciones_Virtuales/Funciones_virtuales/obj/Debug/Fig. 13.10.o",
-    "-Tercero/Programación Orientada en Objetos/Tareas/Tarea 4_Funciones_Virtuales/Funciones_virtuales/obj/Debug",
     "Formularios y temarios/Matemáticas/Conjuntos y lógica matemática - símbolos.md",
     "Formularios y temarios/Matemáticas/Precálculo.md",
-    "Formularios y temarios/Matemáticas/Lógica Matemática - Leyes.md",
     "-Tercero/Sistemas Digitales/Tareas/9. Comparador de 2 palabras/9. Compardor de 2 palabras.md",
     "-Tercero/Sistemas Digitales/Tareas/10. Decodificador de BCD a 7 segmentos/Untitled.md",
     "-Tercero/Sistemas Digitales/Tareas/10. Decodificador de BCD a 7 segmentos/Attachments/BCD-2-7-2.png",
@@ -204,12 +196,10 @@
     "-Segundo/Expresión Oral y Escrita/Homework/4. Proceso de la comunicación_Barreras de la comunicación.md",
     "-Segundo/Cálculo Diferencial e Integral/Dominio y rango ejemplos.md",
     "-Segundo/Cálculo Diferencial e Integral/Notes/4..md",
-    "-Segundo/Cálculo Diferencial e Integral/Integral por sustitución.md",
     "-Tercero/Sistemas Digitales/Tareas/9. Comparador de 2 palabras/Attachments/Pasted image 20230419085147.png",
     "-Tercero/Sistemas Digitales/Tareas/9. Comparador de 2 palabras/Attachments/Pasted image 20230425111657.png",
     "-Tercero/Sistemas Digitales/Tareas/9. Comparador de 2 palabras/Attachments/9.-Comparador-km.png",
     "-Tercero/Sistemas Digitales/Tareas/9. Comparador de 2 palabras/Attachments/9.-Comparador-ki.png",
-    "-Tercero/Sistemas Digitales/Tareas/9. Comparador de 2 palabras/Attachments/9.-Comparador-3.png",
-    "-Tercero/Sistemas Digitales/Tareas/9. Comparador de 2 palabras/Attachments/9.-Comparador-1.png"
+    "-Tercero/Sistemas Digitales/Tareas/9. Comparador de 2 palabras/Attachments/9.-Comparador-3.png"
   ]
 }
