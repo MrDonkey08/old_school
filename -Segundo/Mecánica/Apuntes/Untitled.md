@@ -31,16 +31,13 @@ Si importa el desplazamiento debido a la fricción
 ---
 <!-- Lo que hace la corriente es excitar el gas ... -->
 
----
 ## Ley de la conservación de la energía
 
 El cambio al final de todo el proceso es igual a 0.
 
----
 $\Delta U_{\text{interna}} = -W_{\text{otras}}$
 
 Enegía potencial:
 Energía cinética:
 
----
 Lo que se tiene al principio es la misma energía que se tiene al final, pero distribuida en otros tipos de energía.

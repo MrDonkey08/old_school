@@ -31,7 +31,6 @@ Si no alcanzaron a pasar una materia puedes cursar extraordinario. Tienes que:
 > 
 Página de control escolar: SIATSE
 
----
 # Segunda oportunidad de pasarla
 
 Agendar materia siguiente semestre.
@@ -39,7 +38,6 @@ Si agendas para el siguiente semestre, te vas a #articulo-33
 
 Tienes la opción de pasar de manera ordinaria o extraordinaria.
 
----
 ## Tercera oportunidad
 
 Una vez que vuelves a reprobar la materia, tienes que pedir permiso para volver a cursar la materia.
@@ -70,7 +68,6 @@ En SIATSE se descarga el documento y lo llenas.
 
 Tienes que ir con el coordinador de carrera.
 
----
 ## Exposición 
 
 - Duración: 20 min (equipo), menos tiempo (individual)

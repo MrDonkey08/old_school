@@ -8,12 +8,12 @@ $dx+ey=f$
 dondo $a$, $b$, $c$, $d$, $e$ y $f$ $\in\Bbb R$ se tienen que tederminar el valor de las incógnitas $x$ y $y$.
 
 ### Ejemplos
+
 $4x+5y=13$
 $5x+y=-4$
 
 
 ## Método de solución
-
 
 ### Por suma y resta
 

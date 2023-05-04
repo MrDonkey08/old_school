@@ -1,3 +1,0 @@
-- [ ] Los 11 Modelos atómicos.
-- [ ] Línea del tiempo de las leyes de los gases.
-	- [ ] Variables que infulyen en el comportamiento de los gases. 

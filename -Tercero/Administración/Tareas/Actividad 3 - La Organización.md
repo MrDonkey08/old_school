@@ -10,10 +10,9 @@ last modification date: 20-03-2023
 
 type: Tarea
 ---
----
+
 # Actividad 3
 
----
 ## Organigrama
 
 <!-- También conocidos como diagramas de jerarquía, representan gráficamente la estructura de una organización. Tienen como objetivo manifestar el diseño, las funciones, las cadenas de mando, las interrelaciones, el número de niveles jerárquicos, dónde encaja cada empleado y los canales de comunicación que existen dentro de las empresas.   
@@ -50,7 +49,7 @@ Existen infinidad de casos en donde se usa el organigrama y se facilita el proce
 		- Soporte técnico: Resuelven dudas al cliente y, en caso de requerir una ayuda más profunda, lo redirige con el gerente correspondiente.
 -->
 ![](-Tercero/Administración/Tareas/Attachments/Pasted%20image%2020230320182452.png)
----
+
 ## Perfil de puesto
 
 <div style="page-break-after: always;"></div>

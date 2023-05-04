@@ -5,9 +5,11 @@
 
 ---
 ## Choque ihelástico
+
 Es aquel en el que hay un pérdida de enegía cinética, mientras que el momento se conserva, la energía cinítecia se le transfiere a algo más como energía térmica, sonora y deformaciones del material.
 
 Ejemplo:
+
 - Dis travías van hacia otro, chocan, pero como se juntan y quedan como una sola masa conectal.
 - Una pelota cae desde cierta altura, pero esta regresará a una altura menor.
 - Péndulo balísitico.

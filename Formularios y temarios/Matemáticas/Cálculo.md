@@ -19,17 +19,17 @@ En este formulario: $a, b, c \text{ y } d\in\Bbb R$ y son constantes
 
 **Función independiente**: $f(x)=c$
 
-$$\displaylines{
+$$\begin{array}{l}
 D_{f(x)}=\Bbb R\\
 R_{f(x)}=c
-}$$
+\end{array}$$
 
 **Función lineal**: $f(x)=ax+c$
 
-$$\displaylines{
+$$\begin{array}{l}
 D_{f(x)}=\Bbb R\\
 R_{f(x)}=\Bbb R
-}$$
+\end{array}$$
 
 **Función cuadrática**: $ax^2+bx+c$
 

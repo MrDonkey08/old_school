@@ -1,4 +1,4 @@
-	X---
+---
 title: Circuitos electrónicos y electromagnetismo
 author: Alan Yahir Juárez Rubio
 
@@ -10,11 +10,8 @@ last modification date: 15-03-2023
 
 type: Formulario, Guía de Estudio
 ---
----
 
 # Guía de estudio: Circuitos electrónicos y electromagnetismo
-
----
 
 ## Ley de ohm
 
@@ -24,15 +21,12 @@ type: Formulario, Guía de Estudio
 | Resistencia                                 | Resistencia del flujo       |   $R$   | $\cfrac{V}{I}$ |   ohm / ohmio   |      $\ohm$       |
 | Intensidad / Corriente /                    | Rapidez del flujo           |   $I$   | $\cfrac{V}{R}$ | amper / amperio |        $A$        |
 
- ---
- 
 ## Código de cólores para resistencias
 
 En la actualidad, las **resistencias** vienen con un **código de colores** para indicar su **valor**. Este código consta de 3, 4, 5 o hasta 6 franjas, siendo 4 el más común.
 
 | No. de franjas | Dígito 1 | Dígito 2 | Dígito 3 | Escala | Tolerancia | Coeficiente de temperatura |
 |:--------------:|:--------:|:--------:|:--------:|:------:|:----------:|:--------------------------:|
-|       3        |    1     |    2     |    -     |   3    |     -      |             -              |
 |       4        |    1     |    2     |    -     |   3    |     4      |             -              |
 |       5        |    1     |    2     |    3     |   4    |     5      |             -              |
 |       6        |    1     |    2     |    3     |   4    |     5      |             6              |
@@ -69,18 +63,11 @@ Donde:
 > - $R =$ **Resistencia** tomando en cuenta la temperatura
 > - $T =$  **Temperatura** a la que se encuentra la resistencia
 
-<div style="page-break-after: always;"></div>
-
----
-
 ## Valor teórico y experimental
 
 En la construcción de circuitos electrónicos nos encontramos con dos tipos de valores:
 - **Valor teórico o ideal**: Respecto a los _componentes del circuito_, son aquellos _valores_ que vienen en su diagrama. Los **valores calculados**, (resistencia, amperaje, voltaje, etc.) también son **valores teóricos**.
 - **Valor real o experimental**: Son aquellos _valores_ que se encuentran al construir el circuito. Estos _valores_ se encuentran al _medir_ las _magnitudes_ de los _componentes_ y las _magnitudes_ del circuito con herramientas tal como el _amperímetro_, el _voltímetro_, el _ohmímetro_ o el _multímetro_.
-
-
----
 
 ### Porcentaje de error
 
@@ -89,8 +76,9 @@ El **porcentaje de error** es una métrica que nos permite saber cuánto error h
 $$\%\text{error} = \frac{|\text{Valor teórico} - \text{Valor experimental}|}{\text{Valor teórico}} \times 100$$
 
 
+<!-- <div style="page-break-after: always;"></div>
 
----
+
 # Referencias
 
 - https://www.youtube.com/watch?v=ZakHnvGVxLk
@@ -98,3 +86,5 @@ $$\%\text{error} = \frac{|\text{Valor teórico} - \text{Valor experimental}|}{\t
 - https://electronics.stackexchange.com/questions/146795/what-does-ppm-k-correspond-to
 - https://wikarien.blogspot.com/2016/12/how-to-read-resistor-color-codes.html
 - https://es.wikipedia.org/wiki/Codificaci%C3%B3n_de_colores#Resistencias,_condensadores_e_inductores
+
+-->

@@ -38,7 +38,6 @@ Se requiere de fuerzas para mover un cuerpo. Si el centro de masas del sólido r
 
 $$τ = r \times F$$
 
----
 ## Rotación con Rapidez y Aceleración Angular Constante.
 
 La **velocidad angular** es una medida de la velocidad de rotación y se define como el ángulo que gira el vector de posición del objeto que rota, por unidad de tiempo. 
@@ -60,7 +59,6 @@ $$w_f^2 = w_i^2+2a \left(\theta_f-\theta_i \right)$$
 
 Donde $\theta =\text{posición angular}$, $w =\text{velocidad angular}$ y $a = \text{aceleración angular}$
 
----
 ## Energía Cinética Rotacional y Momento de Inercia.
 
 La **energía cinética de rotación** o **energía rotacional** es la energía cinética de un cuerpo rígido, que gira en torno a un eje fijo. Esta energía depende del momento de inercia y de la velocidad angular del cuerpo. Mientras más alejada esté la masa del cuerpo respecto al eje de rotación, se necesitará más energía para que el cuerpo adquiera una velocidad angular.
@@ -121,7 +119,6 @@ Este es el momento de inercia de una distribución de masa discreta. Cuando la d
 
 $$I = \int M \left( r^2 \right)dm$$
 
----
 ## Referencias
 
 - https://es.wikipedia.org/wiki/Energ%C3%ADa_cin%C3%A9tica_rotacional

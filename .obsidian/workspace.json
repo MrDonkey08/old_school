@@ -4,18 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "169ce97b12c27640",
+        "id": "a386b43bcd910c50",
         "type": "tabs",
         "children": [
           {
-            "id": "cde63b45fe3155d8",
+            "id": "628264a531c843f2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "-Tercero/Sistemas Digitales/Tareas/8. Sumador completo/8. Sumador completo FA.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0f9069726478e8be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "-Primero/Introducción a la Ingeniería/Introducción.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -60,13 +79,21 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "7bd77092b1fbea31",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ],
         "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 210.50418853759766
+    "width": 313.5
   },
   "right": {
     "id": "4b702cc4fb11ac6c",
@@ -90,13 +117,14 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "-Primero/Introducción a la Ingeniería/Introducción.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -106,6 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "-Primero/Introducción a la Ingeniería/Introducción.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +145,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "-Primero/Introducción a la Ingeniería/Introducción.md"
+              }
             }
           },
           {
@@ -150,57 +181,56 @@
       "oz-clear-unused-images:Clear Unused Images": false,
       "obsidian-full-calendar:Open Full Calendar": false,
       "obsidian-matrix:Obsidian Matrix": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-statusbar-pomo:Start pomodoro": false
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cde63b45fe3155d8",
+  "active": "0f9069726478e8be",
   "lastOpenFiles": [
-    "-Tercero/Programación Orientada en Objetos/Tareas/Tarea4_JuarezRubio_AlanYahir 1.md",
-    "-Tercero/Ecuaciones Diferenciales/Apuntes de clase/Tercer Parcial/Problemas de valor inicial con la transformada de Laplace.md",
-    "-Tercero/Álgebra  Líneal/Vectores/Untitled.md",
-    "-Tercero/Álgebra  Líneal/Vectores",
-    "-Tercero/Ecuaciones Diferenciales/Apuntes de clase/Segundo Parcial/Transformada de Laplace.md",
-    "-Tercero/Ecuaciones Diferenciales/Apuntes de clase/Tercer Parcial",
+    "-Primero/Introducción a la Ingeniería/Apuntes de clase/Modos de titulación.md",
+    "-Primero/Introducción a la Ingeniería/Apuntes de clase/Propiedad Intelectual.md",
+    "-Primero/Introducción a la Ingeniería/Apuntes de clase/Malla Curricular.md",
+    "-Primero/Introducción a la Ingeniería/Apuntes de clase/Artículos.md",
+    "-Primero/Introducción a la Ingeniería/Introducción.md",
+    "-Primero/Introducción a la Ingeniería/Actividades/Propiedad Intelectual.md",
+    "-Primero/Introducción a la Ingeniería/Actividades/Curriculum Vitae.md",
+    "-Primero/Introducción a la Ingeniería/Actividades/Citas y referencias.md",
+    "Reseñas de profes y Recomendaciones/Personales/Reseñas ICOM.md",
+    "-Tercero/Sistemas Digitales/Tareas/8. Sumador completo/8. Sumador completo FA.md",
+    "Untitled.md",
+    "Reseñas de profes y Recomendaciones/Reseñas ICOM (Recopilación de Facebook).md",
+    "Reseñas de profes y Recomendaciones/Claves de Materias ICOM.md",
     "-Tercero/Sistemas Digitales/Tareas/6. Multiplexor/6. Multiplexor.md",
-    "-Tercero/Sistemas Digitales/Tareas/10. Decodificador de BCD a 7 segmentos/Untitled.md",
-    "-Tercero/Sistemas Digitales/Tareas/9. Comparador de 2 palabras/9. Compardor de 2 palabras.md",
-    "Formularios y temarios/Matemáticas/Lógica Matemática - Leyes.md",
-    "Formularios y temarios/Matemáticas/Attachments/Leyes de Implicación.jpg",
-    "Reseñas de profesores/Claves de Materias ICOM.md",
-    "-Tercero/Programación Orientada en Objetos/Tareas/Tarea4_JuarezRubio_AlanYahir.md",
-    "-Tercero/Programación Orientada en Objetos/Tareas/Tarea 4_Funciones_Virtuales/Funciones_virtuales.rar",
-    "-Tercero/Programación Orientada en Objetos/Tareas/Attachments/Programa.png",
-    "-Tercero/Programación Orientada en Objetos/Tareas/Tarea 4_Funciones_Virtuales/Funciones_virtuales/bin/Debug/Funciones_virtuales.exe",
-    "-Tercero/Programación Orientada en Objetos/Tareas/Tarea 4_Funciones_Virtuales/Funciones_virtuales/obj/Debug/EmpleadoBaseMasComision.o",
-    "-Tercero/Programación Orientada en Objetos/Tareas/Tarea 4_Funciones_Virtuales/Funciones_virtuales/obj/Debug/EmpleadoPorComision.o",
-    "-Tercero/Programación Orientada en Objetos/Tareas/Tarea 4_Funciones_Virtuales/Funciones_virtuales/EmpleadoPorComision.cpp",
-    "-Tercero/Programación Orientada en Objetos/Tareas/Tarea 4_Funciones_Virtuales/Funciones_virtuales/New Text Document.txt",
-    "-Tercero/Programación Orientada en Objetos/Tareas/Tarea 4_Funciones_Virtuales/Funciones_virtuales/EmpleadoBaseMasComision.cpp",
-    "-Tercero/Programación Orientada en Objetos/Tareas/Tarea 4_Funciones_Virtuales/Funciones_virtuales/bin/Debug",
-    "Formularios y temarios/Matemáticas/Conjuntos y lógica matemática - símbolos.md",
-    "Formularios y temarios/Matemáticas/Precálculo.md",
-    "-Tercero/Sistemas Digitales/Tareas/10. Decodificador de BCD a 7 segmentos/Attachments/BCD-2-7-2.png",
-    "-Tercero/Sistemas Digitales/Tareas/10. Decodificador de BCD a 7 segmentos/Attachments/BCD-2-7-1.png",
-    "-Tercero/Sistemas Digitales/Tareas/1. Conversiones numéricas.md",
-    "-Tercero/Sistemas Digitales/Tareas/10. Decodificador de BCD a 7 segmentos/Attachments/BCD-2-7-segmentos-1.png",
-    "-Tercero/Sistemas Digitales (Oyente)/Logica de Función Fija - 14-02-2023.md",
+    "-Tercero/Sistemas Digitales/Tareas/7. Medio sumador HA/7. Medio sumador HA.md",
+    "-Tercero/Sistemas Digitales/Tareas/11. Código y nombre de estudiante en 7 segmentos/Código y nombre de estudiante en 7 segmentos.md",
+    "-Tercero/Sistemas Digitales/Tareas/11. Código y nombre de estudiante en 7 segmentos/11. Código y nombre de estudiante en 7 segmentos_REWORKED.pdsprj.LAPTOP-0P58E1L1.HP.workspace",
+    "-Tercero/Sistemas Digitales/Tareas/12. Máquina de Estados/Maquina de Estados.md",
+    "-Tercero/Sistemas Digitales/Tareas/12. Máquina de Estados/Attachments/Maquina de Estados-1684684582407.jpeg",
+    "-Tercero/Sistemas Digitales/Tareas/12. Máquina de Estados/Attachments/Máquina-de-Estados-4.jpeg",
+    "-Tercero/Sistemas Digitales/Tareas/12. Máquina de Estados/Attachments/Máquina-de-Estados-3.jpeg",
+    "-Tercero/Sistemas Digitales/Tareas/12. Máquina de Estados/Attachments/Máquina-de-Estados-2.jpeg",
+    "-Tercero/Sistemas Digitales/Tareas/12. Máquina de Estados/Attachments/Máquina-de-estados-1.jpeg",
+    "-Tercero/Sistemas Digitales/Tareas/12. Máquina de Estados/Files/Project Backups/Máquina de Estadost [20230521, 09-53-24].pdsprj",
+    "Attachments/image",
+    "-Tercero/Sistemas Digitales/Tareas/12. Máquina de Estados/Attachments",
+    "-Tercero/Sistemas Digitales/Tareas/12. Máquina de Estados/Files/Project Backups/Máquina de Estadost [Autosaved].pdsprj",
+    "-Tercero/Sistemas Digitales/Tareas/12. Máquina de Estados/Files/Máquina de Estadost.pdsprj",
+    "-Tercero/Sistemas Digitales/Tareas/12. Máquina de Estados/Files/Project Backups",
+    "-Tercero/Sistemas Digitales/Tareas/12. Máquina de Estados/Files/MÁQUINA DE ESTADOS.pdf",
+    "-Tercero/Sistemas Digitales/Tareas/12. Máquina de Estados/Files/MÁQUINA DE ESTADOS.jed",
+    "-Tercero/Sistemas Digitales/Tareas/12. Máquina de Estados/Files/MÁQUINA DE ESTADOS.pla",
+    "-Tercero/Circuitos/Práctica 4/Drawing 2023-04-16 13.23.07.excalidraw.md",
+    "Reseñas de profes y Recomendaciones/Personales/Recursos.md",
+    "-Tercero/Circuitos/Untitled.md",
+    "Comunicación.md",
+    "Attachments/Images/Portada-CUCEI.jpeg",
+    "Attachments/Images/Portada-UDG.jpeg",
+    "Attachments/Templates/Bibliografía/APA/Capítulo de un libro.md",
+    "Attachments/Templates/Bibliografía/APA/Diccionario en línea.md",
     "Attachments/Excalidraw/2. Operaciones en sistemas binario, octal y hexadecimal.md",
-    "Fracciones Parciales.md",
-    "-Primero/Precálculo/Class Notes/Fracciones Parciales.md",
-    "-Tercero/Álgebra  Líneal/Untitled.md",
-    "-Segundo/Programación Estructurada/Estructura secuencial.md",
-    "-Segundo/Programación Estructurada/Divisibilidad.md",
-    "-Segundo/Mecánica/Examen.md",
-    "-Segundo/Mecánica/Apuntes/2.1.md",
-    "-Segundo/Mecánica/Apuntes/1.2 Escalares y Vectores.md",
-    "-Segundo/Matemáticas Discretas/Tareas/Tarea 4.4.md",
-    "-Segundo/Matemáticas Discretas/Tareas/Tarea 4.3.md",
-    "-Segundo/Expresión Oral y Escrita/Notes/Discurso.md",
-    "-Tercero/Sistemas Digitales/Tareas/9. Comparador de 2 palabras/Attachments/Pasted image 20230419085147.png",
-    "-Tercero/Sistemas Digitales/Tareas/9. Comparador de 2 palabras/Attachments/Pasted image 20230425111657.png",
-    "-Tercero/Sistemas Digitales/Tareas/9. Comparador de 2 palabras/Attachments/9.-Comparador-km.png",
-    "-Tercero/Sistemas Digitales/Tareas/9. Comparador de 2 palabras/Attachments/9.-Comparador-ki.png",
-    "-Tercero/Sistemas Digitales/Tareas/9. Comparador de 2 palabras/Attachments/9.-Comparador-3.png"
+    "Attachments/Excalidraw/Drawing 2023-01-30 16.33.09.excalidraw.md",
+    "Attachments/Excalidraw/Drawing 2023-05-12 11.12.43.excalidraw.md",
+    "-Tercero/Sistemas Digitales/Tareas/2. Operaciones en sistemas binario, octal y hexadecimal/Attachments/2. Operaciones en sistemas binario, octal y hexadecimal-3.jpeg",
+    "-Tercero/Sistemas Digitales/Tareas/2. Operaciones en sistemas binario, octal y hexadecimal/Attachments/2. Operaciones en sistemas binario, octal y hexadecimal-1.jpeg",
+    "-Tercero/Sistemas Digitales/Tareas/2. Operaciones en sistemas binario, octal y hexadecimal/Attachments/2. Operaciones en sistemas binario, octal y hexadecimal-4.jpeg"
   ]
 }

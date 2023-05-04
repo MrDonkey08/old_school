@@ -1,7 +1,7 @@
 {
   "accentColor": "",
   "baseFontSize": 11,
-  "textFontFamily": "Inter",
+  "textFontFamily": "Inter,Times New Roman",
   "enabledCssSnippets": [
     "media-aligh",
     "media-align",
@@ -10,7 +10,7 @@
   "theme": "obsidian",
   "nativeMenus": false,
   "cssTheme": "Obsidian gruvbox",
-  "interfaceFontFamily": "Inter",
+  "interfaceFontFamily": "Inter,Times New Roman",
   "baseFontSizeAction": true,
   "showViewHeader": true,
   "monospaceFontFamily": "DejaVu Sans Mono,Linux Biolinum G,Corbel,Carlito,Noto Mono,Liberation Mono"

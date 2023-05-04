@@ -103,7 +103,7 @@ type: Note
 - [Rodó, P.](https://economipedia.com/author/P.rodo) (01 de agosto, 2020). _Números imaginarios_. https://economipedia.com/definiciones/numeros-imaginarios.html
 - Wikipedia (s.f.). _Anexo: Símbolos matemáticos_. https://es.wikipedia.org/wiki/Anexo:S%C3%ADmbolos_matem%C3%A1ticos
 - Wikipedia (s.f.). _Natural number_. https://en.wikipedia.org/wiki/Natural_number
-- [Rodó, P.](https://economipedia.com/author/P.rodo). _Números reales_. https://economipedia.com/definiciones/numeros-reales.html
+- [Rodó, P.](https://economipedia.com/author/P.rodo) (11 de septiembre de 2019). _Números reales_. https://economipedia.com/definiciones/numeros-reales.html
 - Wikipedia (s.f.). _Número natural_. https://es.wikipedia.org/wiki/N%C3%BAmero_natural
 
 <!--https://www.quora.com/What-is-the-symbol-for-the-set-of-Irrational-numbers

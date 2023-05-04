@@ -10,7 +10,7 @@ last modification date: 07-03-2023
 
 type: Note
 ---
----
+
 # Propiedad Intelectual
 
 En la actualidad, empersas privadas y centros de investigación en ing. lleven a cabo
@@ -47,11 +47,8 @@ Si pensamos en los bienes y servicios que nos rodean, vemos que hay materiales p
 - En un supermecado, elegimos los productos por su marca.
 - Los autos están protegidos por patentes y diseños industriales.
 
-
----
 La propiedad intelectual se divide en dos grandes aspectos:
 
----
 ## ¿Qué es una patente?
 
 En términos generales, **una invención** es un producto o proceso que resuelve un problema técnico.
@@ -60,7 +57,6 @@ En términos generales, **una invención** es un producto o proceso que resuelve
 
 Invenciones pueden dar lugar a descubrimientos y viceversa.
 
----
 **Patente**: derecho explucito que se concede sobre un producto, un proceso o una invención
 
 La protección por patente signica que una invención no se puede producir, usar, ni distribuir con fines comerciales.
@@ -69,17 +65,7 @@ La protección por patente signica que una invención no se puede producir, usar
 - El titular puede ceder el derecho de la invención a un tercero, que se convertirá así en el nuevo titular.
 - Cuando vence la patente, finaliza la protección conferida y la invención pasa el dominio público (se puede explotar comercialmetne).
 
----
 Concender una licencia de patente significa que el titular autoriza  a otro, a fabricar, utilizar o vender su invención.
 
 - Se puede concender la licencia a un tercero, poaque el titular carece de las instalaciones para fabricarlo, o busca incrementar sus ingresos o expandir su negocio.
 - Cuando se concede una licencia, el titular sigue teniendo derechos de propiedad sobre la invención.
-
-
-
-<div style="page-break-after: always;"></div>
-
----
-## Referencias
-
-- 

@@ -10,7 +10,6 @@ Con los derechos de PI, **se recompensa la creatividad y el esfuerzo humano**, e
 
 Si pensamos en los bienes y servicios que nos rodean, vemos que hay materiales protegidos por algún tipo de PI.,,,,,,
 
----
 ## ¿Qué es una patente?
 
 En términos generales, **una invención** es un producto o proceso que resuelve un problema técnico.
@@ -19,7 +18,6 @@ En términos generales, **una invención** es un producto o proceso que resuelve
 
 Invenciones pueden dar lugar a descubrimientos y viceversa.
 
----
 **Patente**: derecho explucito que se concede sobre un producto, un proceso o una invención
 
 La protección por patente signica que una invención no se puede producir, usar, ni distribuir con fines comerciales.

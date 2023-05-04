@@ -10,7 +10,6 @@ last modification date: 24-03-2023
 
 type: Note
 ---
----
 # Actividad 6: plagio
 
 <!-- 
@@ -93,7 +92,6 @@ Existen una diversidad de tipos de documentos que maneja IEEE, entre ellos uno d
 • Coloque el número de entrada en el margen izquierdo, encierre entre paréntesis.  
 • Sangría el texto de las entradas.-->
 
----
 ## Referencias
 
 - Sánchez, C. (08 de febrero de 2019). _Cita Textual o Directa_. Normas APA (7ma edición). Recpuerado el 24 de marzo de 2023 de [https://normas-apa.org/citas/cita-textual/](https://normas-apa.org/citas/cita-textual/)

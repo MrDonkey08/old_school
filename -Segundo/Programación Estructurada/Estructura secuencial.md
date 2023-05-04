@@ -3,23 +3,28 @@ dLa estructura secuncial, ejecuta automáticamente enunciados uno después del o
 ## Caracteristicas de un algoritmo
 - Inicio y un fin bien definidos.
 - Pasos que deben tener un orden lógico.
-|Figura|Nombre|
-|:-:|:-:|
-|Oválo / Elipse|Inicio / Fin|
-|Romboide|Imprimir mensaje|
-|Rectángulo|Leer (guardar información)|
 
-	/*Suma de dos números enteros */
-	Inicio del bloque de instruciiones 
-		entero a, b, c;
-	ercribe: "captura del primer valor. ";
-		leer: a;
-	escribe: "captura el segundo valor: ";
-		leer: b;
-	c <- a + b;
-	escribe: "El resultado es: ", c;
-	escribe: "Presione <enter> para salir...";
-	Fin (del bloque de instrucciones)
+|     Figura     |           Nombre           |
+|:--------------:|:--------------------------:|
+| Oválo / Elipse |        Inicio / Fin        |
+|    Romboide    |      Imprimir mensaje      |
+|   Rectángulo   | Leer (guardar información) |
+
+```
+/*Suma de dos números enteros */
+Inicio del bloque de instruciiones 
+	entero a, b, c;
+ercribe: "captura del primer valor. ";
+	leer: a;
+escribe: "captura el segundo valor: ";
+	leer: b;
+c <- a + b;
+escribe: "El resultado es: ", c;
+escribe: "Presione <enter> para salir...";
+Fin (del bloque de instrucciones)
+```
+
+
 
 $\elipsed \mbox{Inicio}$
 $\squared \mbox{a,b,c}$
@@ -35,6 +40,7 @@ a) Capital invertir
 b) Ganancia
 c) Capital final
 
+```
 Inicio principal ()
 Incio (del bloque de instrucciones)
 	float cap_inv, ganancia, cap_fin;
@@ -46,9 +52,11 @@ Incio (del bloque de instrucciones)
 	escribe "Su ganancia será de: " , ganancia;
 	escribe "Su capital final será de: ", cap_fin;
 fin (del bloque de instrucciones)
+```
 
 Un vendedor recibe un sueldo base más un 10% extra por comisión de sus ventas, el vendedor desea saber cuánto dinero obtendrá por concepto de comisiones por las 3 ventas que realiza en el mes y el total que recibirá en el mes tomando en cuenta su sueldo base y comisiones.
 
+```
 Inicio principal ()
 Incio (del bloque de instrucciones)
 	i $\leftarrow$ =0
@@ -58,36 +66,30 @@ Incio (del bloque de instrucciones)
 		leer v_venta[i] 
 		comision[i] $\leftarrow$ v_venta* 0.1;
 	cap_fin $\leftarrow$ comision[1] + comision[2] + comision [3] + sueldo;
-		
-		
-		
-		 
-		
-		
-		
-		
 	
-
+```
 Imprimir:
 a) Sueldo base.
 b) Comisión.
 c) Venta + comisión (cada una de ellas)
 d) Capital final.
 
-	Inicio principal()
-	Inicio del bloque de instrucciones
-	
-	Flotante sueldo, venta_1, venta_2, venta_3, comision, cap_fin;
-	escribe: "Ingrese sueldo base";
-	Leer: sueldo
-	escribe: "Introduce el valor de la primera venta";
-	Leer: venta_1;
-	escribe: "Introduce el valor de la segunda venta";
-	leer: venta_2;
-	escribe: "Introduce el valor de la tercera venta";
-	leer: venta_3;
-	comision <- venta_1 + venta_2 + venta_3 * 0.1;
-	total <- sueldo + comision;
-	escribe: "Su capital final", cap_fin;
-	escribe: "Presione<enter> para salir";
-	fin del bloque de instrucciones
+```
+Inicio principal()
+Inicio del bloque de instrucciones
+
+Flotante sueldo, venta_1, venta_2, venta_3, comision, cap_fin;
+escribe: "Ingrese sueldo base";
+Leer: sueldo
+escribe: "Introduce el valor de la primera venta";
+Leer: venta_1;
+escribe: "Introduce el valor de la segunda venta";
+leer: venta_2;
+escribe: "Introduce el valor de la tercera venta";
+leer: venta_3;
+comision <- venta_1 + venta_2 + venta_3 * 0.1;
+total <- sueldo + comision;
+escribe: "Su capital final", cap_fin;
+escribe: "Presione<enter> para salir";
+fin del bloque de instrucciones
+```

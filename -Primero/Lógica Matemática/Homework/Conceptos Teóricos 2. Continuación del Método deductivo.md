@@ -1,4 +1,5 @@
 # Continuación del Método deductivo
+
 ## Pruebas de inválidez
 
 Es obvio que, para un argumento inválido no existe una prueba formal de validez. Pero, si  no se puede hallar una prueba de validez para un argumento, eso no quiere decir que sea inválido y que no se pueda construir dicha prueba.
@@ -8,25 +9,27 @@ A continuación se describe un método que está muy relacionado con el de las t
 ### Ejemplo  1
 
 Probar la invalidez del siguiente argumento por el método de asignar valores de verdad.
+
 1. f → r
 2. p → r
 3. ∴ f → p
-
 
 Para probar que este argumento es inválido sin tener que construir una tabla de verdad completa, es necesario tener claro que un condicional es falso solamente si su  antecedente es verdadero y su consecuente falso, utilizando este hecho se procede a asignar valores de verdad a las proposiciones de la conclusión, es decir, si F es verdadero y P es falso, entonces, la conclusión es falsa. Si a la proposición R se le asigna el valor verdadero, ambas premisas se convierten en verdaderas, porque un condicional es verdadero siempre que su consecuente sea verdadero. Lo anterior permite afirmar que si a las proposiciones F y R se les asigna un valor verdadero y a la proposición P un valor falso, entonces el argumento tendrá premisas verdaderas y una conclusión falsa, con lo cual queda probado que el argumento es inválido.
 
 Con este método lo que realmente se hace es construir un renglón de la tabla de verdad del argumento indicado, la relación se puede observar más claramente cuando los valores de verdad se escriben horizontalmente, de la siguiente forma:
 
-|F|R|P|F→R|P→R|F→P|
-|-|-|-|-|-|-|
-|V|V|F|V|V|F|
+| F   | R   | P   | F→R | P→R | F→P |
+| --- | --- | --- | --- | --- | --- |
+| V   | V   | F   | V   | V   | F   |
 
 Nótese que es posible pasar de premisas verdaderas a conclusión falsa:
 
 #### Argumento Invalido
+
 Un argumento se prueba inválido mostrando que por lo menos en un renglón de su tabla de verdad todas las premisas son verdaderas pero su conclusión es falsa.
 
-### Ejemplo 2.
+### Ejemplo 2
+
 Si Sandra es inteligente y estudia mucho, sacará buenas calificaciones y aprobará el curso. Si Sandra estudia mucho pero no es inteligente, sus esfuerzos serán apreciados y si sus esfuerzos son apreciados, aprobará el curso. Si Sandra es inteligente, entonces estudia mucho. Luego, Sandra aprobará el curso.
 
 Tomando el siguiente lenguaje simbólico
@@ -66,7 +69,8 @@ Q: las tasas de interés permanecen altas
 R: descenderá la actividad comercial
 S: el desempleo aumenta
 
-Se pueden establecer las siguientes premisas:  
+Se pueden establecer las siguientes premisas: 
+
 1. p → q
 2. p → (q → r)
 3. q → (r → s) / ∴ s → p
@@ -78,6 +82,7 @@ Este argumento es inválido porque la siguiente asignación de valores de verdad
 |F|F|F|V|V|V|V|F|
 
 ## La inconsistencia de un razonamiento
+
 El objetivo de esta prueba es detectar si hay consistencia o inconsistencia al interior de las hipótesis. Basta con encontrar una proposición que sea contradictoria con otra para declarar que el conjunto de proposiciones en su totalidad es inconsistente. De un conjunto inconsistente de hipótesis puede concluirse tanto p como ~p, lo cual contradice el principio de no-contradicción (~(p ∧ ~p)).
 
 Este método propone buscar la posible presencia de (P ∧ ~P) entre las hipótesis. Esta búsqueda puede realizarse por medio de una tabla de verdad. Sin embargo, si hablamos de 6 o más premisas, el trabajo de elaborar las 2n combinaciones (26 = 64, 27 = 128, 28 = 256, etc.) de las premisas es demasiado. La otra manera de realizar esta búsqueda es de una manera indirecta siguiendo estos pasos:
@@ -89,6 +94,7 @@ Este método propone buscar la posible presencia de (P ∧ ~P) entre las hipóte
 Algunos autores conocen esta prueba formal como prueba por contradicción o como reducción al absurdo.
 
 ### Ejemplo 1
+
 Sea H = [a → (b ∨ c), b →~a, d →~c, a ], C = ~d
 
 Listando las hipótesis y la negación de la conclusión, tenemos:
@@ -109,6 +115,7 @@ Desarrollando la prueba, resulta:
 Dado que encontramos la contradicción a ∧ ~a, podemos concluir que el teorema es válido.
 
 ### Ejemplo 2
+
 Sean las hipótesis H={a ∧ b, a →c}, y la conclusión C = b∧c. Se desea saber si se trata de un teorema válido.
 
 Listando las hipótesis y la negación de la conclusión, tenemos:
@@ -130,6 +137,7 @@ Nota que la demostración pudo seguir otro camino a partir de (7):
 En cualquier caso, dado que encontramos una contradicción, queda demostrado que el teorema es válido.
 
 ### Ejemplo 3
+
 Sea el teorema H =[ ~f → b ∧ t, b ∧ f], C = ~t. Se desea saber si se trata de un teorema válido o de una falacia.
 
 Listando las hipótesis y la negación de la conclusión, se obtiene:

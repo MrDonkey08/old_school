@@ -1,0 +1,28 @@
+Name     Maquina de Estados ;
+PartNo   00 ;
+Date     21/05/2023 ;
+Revision 01 ;
+Designer Engineer ;
+Company  CUCEI ;
+Assembly None ;
+Location  ;
+Device   g22v10 ;
+
+/* *************** INPUT PINS *********************/
+PIN 1  = clk ; /*                                 */ 
+PIN 15 = Q1  ; /*                                 */ 
+PIN 16 = Q0  ; /*                                 */ 
+
+FIELD estados = [Q1, Q0];
+
+$define S0 'b'00
+$define S1 'b'01
+$define S2 'b'10
+$define S3 'b'11
+
+SEQUENCE estados {
+PRESENT S0 NEXT S1;
+PRESENT S1 NEXT S2;
+PRESENT S2 NEXT S3;
+PRESENT S3 NEXT S0;
+}

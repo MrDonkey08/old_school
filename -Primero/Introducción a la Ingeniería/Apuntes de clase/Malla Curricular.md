@@ -10,7 +10,7 @@ last modification date: 14-02-2023
 
 type: Note
 ---
----
+
 ### Malla curricular
 
 | Áreas de Formación                | Créditos |  -   |
@@ -31,7 +31,6 @@ El número de arriba a la izquierda es el número de horas que se cursarán a la
 
 Malla curricular ICOM
 
----
 ### Proyecto modular
 
 Se puede realizar de una sola area
@@ -53,29 +52,21 @@ Sino se tiene planteado un proyecto modular, podrías aplazar estas materias e i
 > - Es obligatorio
 > - El equipo tiene que ser máximo de 3
 
----
 ### Examen CENEVAL
 
 Este examen tiene una duración de 8 h
 
 Certifica que se tiene un conocimiento básico a nivel internacional
 
----
 ### Certificado de Inglés B1
 
 Se requiere 
 
----
 ### Servicio Social
 
 agendar en verano
 
----
 ### Agenda de materia en verano
 
 Solo se puede agendar una materia
 
----
-## Referencias
-
-- 

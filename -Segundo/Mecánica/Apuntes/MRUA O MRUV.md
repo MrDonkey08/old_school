@@ -33,6 +33,7 @@ Rapidez escalar
 Velocidad vectorial
 
 ## Ejercicio
+
 Un gato baja de una repisa y cae al suelo en 1/2 s.
 a) ¿Cuál es su rapidez al golpear el suelo?
 $v_y=v_{0_y}+a_yt=0\ m/s + (-10\ m/s^2)(0.5)=-5 \mbox{m/s}$

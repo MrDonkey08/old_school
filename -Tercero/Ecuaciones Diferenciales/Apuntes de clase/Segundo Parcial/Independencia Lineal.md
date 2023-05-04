@@ -15,3 +15,10 @@ f_1\:''       & f_2\:''       & f_3\:''       & \dots  & f_n\:'' \\
 {f_1}^{(n-1)} & {f_2}^{(n-1)} & {f_3}^{(n-1)} & \dots  & {f_{n}} ^{(n-1)} \
 \end{vmatrix} $$
 
+> [!Important] En Wronskiano
+> 
+> Si $|D| = 0 \to$ sistema **linealmente dependiente**
+> Si $|D| \neq 0 \to$ sistema **linealmente independiente**
+
+> [!Note] Nota
+> El **Wronskiano** se puede aplicar para **sistemas homogéneos** y **heterogéneos**

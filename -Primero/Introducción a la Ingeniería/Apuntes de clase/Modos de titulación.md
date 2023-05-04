@@ -10,14 +10,13 @@ last modification date: 21-02-2023
 
 type: Note
 ---
----
+
 ### Modos de Titulación
 
 - Tesis
 - Tesina
 - Modificación al poyecto
 
----
 - Hipotesis
 - Justificación
 - Marco Teorico
@@ -52,14 +51,11 @@ PEEES
 
 Te pide 90 de promedio para la beca.
 
----
 ### Becas
 
 Checar en el sitio web de cucei.
 Checar la primera semana del semestre
 
-
----
 #### Obligatorio
 
 - Proyecto Modular
@@ -67,12 +63,3 @@ Checar la primera semana del semestre
 - Certificado Inglés B1
 - Servicio Social
 - Prácticas3
-
-
----
-
-
----
-## Referencias
-
-- 

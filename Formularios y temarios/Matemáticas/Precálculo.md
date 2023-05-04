@@ -79,7 +79,7 @@ $$|a|= \begin{bmatrix} a\geq 0 \to |a| = a \\ a < 0 \to |a|= -a\end{bmatrix}$$
 
 ## Número imaginario
 
-**Número imaginario**: $i = \sqrt{-1}$
+**Número imaginario:** $i = \sqrt{-1}$
 
 - $i^0=1$
 - $i^1=i$
@@ -87,12 +87,12 @@ $$|a|= \begin{bmatrix} a\geq 0 \to |a| = a \\ a < 0 \to |a|= -a\end{bmatrix}$$
 - $i^3 = i^2i=(-1)i = -i$
 - $i^4 = i^2 i^2=(-1)(-1)=1$
 
-**Número complejo**:  $z = a + bi \ | \ a \in \Bbb {R} \text{ y } bi \in \Bbb {I} \ \to \ Z \in \Bbb C$
+**Número complejo:**  $z = a + bi \ | \ a \in \Bbb {R} \text{ y } bi \in \Bbb {I} \ \to \ Z \in \Bbb C$
 
 ## Operaciones con polinomios
 
-- **Suma y resta (términos semejantes)**: $ab^{n}\pm b^n = b^n(a\pm 1)$
-- **Multiplicación**: $a(b+c) = ab+ac$
+- **Suma y resta (términos semejantes):** $ab^{n}\pm b^n = b^n(a\pm 1)$
+- **Multiplicación:** $a(b+c) = ab+ac$
 
 ### Productos Notables
 | Nombre                      | Expresión | Equivalencia                   |
@@ -109,7 +109,7 @@ $$|a|= \begin{bmatrix} a\geq 0 \to |a| = a \\ a < 0 \to |a|= -a\end{bmatrix}$$
 
 $$(a+b)^n=a^n+ \frac {n}{1!}a^{n-1}b+ \frac {n(n-1)}{2!}a^{n-2}b^2 + \frac {n(n-1)(n-2)}{3!}a^{n-3}b^3+ \cdots +b^n$$
 
-## K_ésimo término 
+## K<sub>ésimo</sub> término 
 
 $$K_{\text{ésimo}} \text{término} = \frac {n!}{(n-r+1)!(r-1)!} a^{n-r+1}\cdot b^{r-1}$$
 
@@ -121,9 +121,9 @@ $$K_{\text{ésimo}} \text{término} = \frac {n!}{(n-r+1)!(r-1)!} a^{n-r+1}\cdot 
 
 ## Factorización
 
-**Por término común**: $x^2+ax = x(x+a)$
+**Por término común:** $x^2+ax = x(x+a)$
 
-**Por fórmula**: Consultar las fórmulas de productos notables.
+**Por fórmula:** Consultar las fórmulas de productos notables.
 
 **Por agrupación:**
 
@@ -160,19 +160,19 @@ z_{1}\cdot z_{2} &= (a+bi)(c+di)  \\
 
 ### Intérvalos
 
-**Intérvalo abierto**: $(a,\ b) = x\ |\ a < x < b,\ x \in \Bbb {R}$
+**Intérvalo abierto:** $(a,\ b) = x\ |\ a < x < b,\ x \in \Bbb {R}$
 
 ![Formulario-1 | 300](Attachments/Formulario-1.jpeg)
 
-**Intérvalo cerrado**: $[a,\ b]={x\ |\ a\leq x\leq b,\ x\in \Bbb R}$
+**Intérvalo cerrado:** $[a,\ b]={x\ |\ a\leq x\leq b,\ x\in \Bbb R}$
 
 ![Formulario-2 | 300](Attachments/Formulario-2.jpeg)
 
-**Intérvalos semiabiertos**:
+**Intérvalos semiabiertos:**
 
 ![Formulario-3 | 300](Attachments/Formulario-3.jpeg)
 
-**Intérvalos infinitos**:
+**Intérvalos infinitos:**
 
 ![Formulario-4 | 300](Attachments/Formulario-4.png)
 
@@ -223,7 +223,7 @@ $D=b^2-4ac$
 
 $$ax^{2}+bx+c = \frac{d}{a}$$
 
-Para factorizar esto podemos buscar dos números que multiplicados den $c$ y sumados den $b$. Se puede hacer por prueba y error o aplicando el **método de Po-shen Lo**:
+Para factorizar esto podemos buscar dos números que multiplicados den $c$ y sumados den $b$. Se puede hacer por prueba y error o aplicando el **método de Po-shen Lo:**
 
 1. Dividimos toda la expresión entre $a$ 
 
@@ -278,6 +278,7 @@ $$\displaylines{
 x = -p = -\frac{b +\sqrt{b^{2}-4ac}}{2a} \\
 x = -q = -\frac{b -\sqrt{b^{2}-4ac}}{2a}
 }$$
+
 -->
 
 ### Valor absoluto
@@ -307,7 +308,7 @@ $(x+a)(x+b)=0$
 
 Un producto que da 0 solo puede ser posible si por lo menos uno de los _factores_ es 0
 
-**Una variable**:
+**Una variable:**
 
 $$\displaylines{
 (x+a)(x+b) = 0\\\\
@@ -369,19 +370,19 @@ tal que $F_{k}$ tiene una de las formas
 
 $$\frac{A}{(ax+b)^{n}}\\ \text{ o }\\ \frac{A_{x} + B}{(ax^{2}+bx+c)^{n}}$$
 
-**Factores lineales distintos**:
+**Factores lineales distintos:**
 
 $$\frac{f(x)}{(ax+b)(cx+d)\cdots} = \frac{A}{ax+b} + \frac{B}{cx+d} +\dots \tag{1}$$
 
-**Factores lineales repetidos**:
+**Factores lineales repetidos:**
 
 $$\frac{f(x)}{(ax+b)^{n}} = \frac{A}{ax+b} + \frac{B}{(ax+b)^{2}} + \cdots \tag{2}$$
 
-**Factores cuadráticos distintos**:
+**Factores cuadráticos distintos:**
 
 $$\frac{f(x)}{(ax^{2}+bx+c)(dx^{2}+cx+f)} = \frac{Ax+B}{ax^{2}+bx+c} + \frac{Cx+D}{dx^{2}+ex+f} +\cdots \tag{3}$$
 
-**Factores cuadráticos repetidos**:
+**Factores cuadráticos repetidos:**
 
 $$\frac{f(x)}{(ax^{2}+bx+c)^{n}} = \frac{Ax+B}{ax^{2}+bx+c} + \frac{Cx+D}{(ax^{2}+bx+c)^{2}} +\cdots \tag{4}$$
 ### Procedimiento general

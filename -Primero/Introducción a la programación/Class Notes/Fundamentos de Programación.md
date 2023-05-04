@@ -1,9 +1,8 @@
-****
+
 ## Programación
 
 Proceso para ordenar, construir la representaciónd de una solución a un problema.
 
----
 ## Métodos de Programación
 
 - Programació Estructurada.
@@ -13,12 +12,10 @@ Proceso para ordenar, construir la representaciónd de una solución a un proble
 - Programación Funcional.
 - Progracmación Lógica.
 
----
 ## Lenguajes de Programación
 
 Combinación de símbolos y reglas para construir programas que realicen ciertas tareas en la computadora.
 
----
 ### Tipos de Lenguajes de programación
 
 - Lenguajes máquina.
@@ -27,7 +24,6 @@ Combinación de símbolos y reglas para construir programas que realicen ciertas
 	 - Intérprete.
  - Lenguajes de alto nivel.
 
----
 ## Elementos básicos de un programa
 
 - Identificador.
@@ -36,7 +32,7 @@ Combinación de símbolos y reglas para construir programas que realicen ciertas
 - **Constante**
 - **Comentarios**. Línea o secuencia de líneas que no se registran como instrucciones. '''comentario de varias líneas''' # comentario de una línea
 
----
+
 ## Estructura de un programa en Python
 
 - Cabecera

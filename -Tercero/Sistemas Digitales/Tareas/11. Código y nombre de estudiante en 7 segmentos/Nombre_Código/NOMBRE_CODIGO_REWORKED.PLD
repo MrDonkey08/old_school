@@ -1,0 +1,34 @@
+Name     Nombre ;
+PartNo   00 ;
+Date     11/05/2023 ;
+Revision 01 ;
+Designer Engineer ;
+Company  ;
+Assembly None ;
+Location ;
+Device   g22v10 ;
+
+/* **************** INPUT PINS **********************/
+PIN 1 = A; /*                                       */ 
+PIN 2 = B; /*                                       */ 
+PIN 3 = C; /*                                       */ 
+PIN 4 = D; /*                                       */ 
+PIN 5 = X; /*                                       */
+PIN 6 = E; 
+
+/* **************** OUTPUT PINS *********************/
+PIN 14 = SEGA; /*                                   */ 
+PIN 15 = SEGB; /*                                   */ 
+PIN 16 = SEGC; /*                                   */ 
+PIN 17 = SEGD; /*                                   */ 
+PIN 18 = SEGE; /*                                   */ 
+PIN 19 = SEGF; /*                                   */ 
+PIN 20 = SEGG; /*                                   */ 
+
+SEGA = ((!C) & D)  & X # ((B & (!C) & (!D))           # ((!B) & (!C) & D))              & (!X);
+SEGB = ((!C) & D)  & X # ((B & (!C) & (!D))           # ((!B) & D))                     & (!X);
+SEGC = ((!C) & D)  & X # (((!B) & (!C) & D)           # ((!A) & (!C) & (!D)))           & (!X);
+SEGD = ((!D) # C)  & X # (((!C) & D)                  # (B & (!C)))                      & (!X);
+SEGE = (E)         & X # ((B & (!C) & D)              # ((!B) & C & D)       # (A))     & (!X);
+SEGF = (E)         & X # (((!A) & (!B) & (!C) & (!D)) # (B & (!C) & D))                 & (!X);
+SEGG = (D)         & X # (((!C) & D)                  # (B & (!C))           # (B & D)) & (!X);

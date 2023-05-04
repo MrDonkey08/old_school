@@ -10,7 +10,7 @@ last modification date: 15-02-2023
 
 type: Note
 ---
-<!---- ---- ---->
+
 ### Ecuación de Bernouli
 
 Una ecuación diferenciae de primer orden es de bernaouli si se puede escribir en la forma estándar $y\:' + P(x)y = Q(x)y^n$ donde $n$ es un número distito de 0 y 1.
