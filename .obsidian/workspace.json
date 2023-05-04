@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6607b995f907a4a0",
+        "id": "169ce97b12c27640",
         "type": "tabs",
         "children": [
           {
-            "id": "6824305535d1341a",
+            "id": "cde63b45fe3155d8",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -154,8 +154,17 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "6824305535d1341a",
+  "active": "cde63b45fe3155d8",
   "lastOpenFiles": [
+    "-Tercero/Programación Orientada en Objetos/Tareas/Tarea4_JuarezRubio_AlanYahir 1.md",
+    "-Tercero/Ecuaciones Diferenciales/Apuntes de clase/Tercer Parcial/Problemas de valor inicial con la transformada de Laplace.md",
+    "-Tercero/Álgebra  Líneal/Vectores/Untitled.md",
+    "-Tercero/Álgebra  Líneal/Vectores",
+    "-Tercero/Ecuaciones Diferenciales/Apuntes de clase/Segundo Parcial/Transformada de Laplace.md",
+    "-Tercero/Ecuaciones Diferenciales/Apuntes de clase/Tercer Parcial",
+    "-Tercero/Sistemas Digitales/Tareas/6. Multiplexor/6. Multiplexor.md",
+    "-Tercero/Sistemas Digitales/Tareas/10. Decodificador de BCD a 7 segmentos/Untitled.md",
+    "-Tercero/Sistemas Digitales/Tareas/9. Comparador de 2 palabras/9. Compardor de 2 palabras.md",
     "Formularios y temarios/Matemáticas/Lógica Matemática - Leyes.md",
     "Formularios y temarios/Matemáticas/Attachments/Leyes de Implicación.jpg",
     "Reseñas de profesores/Claves de Materias ICOM.md",
@@ -169,12 +178,8 @@
     "-Tercero/Programación Orientada en Objetos/Tareas/Tarea 4_Funciones_Virtuales/Funciones_virtuales/New Text Document.txt",
     "-Tercero/Programación Orientada en Objetos/Tareas/Tarea 4_Funciones_Virtuales/Funciones_virtuales/EmpleadoBaseMasComision.cpp",
     "-Tercero/Programación Orientada en Objetos/Tareas/Tarea 4_Funciones_Virtuales/Funciones_virtuales/bin/Debug",
-    "-Tercero/Programación Orientada en Objetos/Tareas/Tarea 4_Funciones_Virtuales/Funciones_virtuales/bin",
-    "-Tercero/Programación Orientada en Objetos/Tareas/Tarea 4_Funciones_Virtuales/Funciones_virtuales/obj/Debug/Fig. 13.10.o",
     "Formularios y temarios/Matemáticas/Conjuntos y lógica matemática - símbolos.md",
     "Formularios y temarios/Matemáticas/Precálculo.md",
-    "-Tercero/Sistemas Digitales/Tareas/9. Comparador de 2 palabras/9. Compardor de 2 palabras.md",
-    "-Tercero/Sistemas Digitales/Tareas/10. Decodificador de BCD a 7 segmentos/Untitled.md",
     "-Tercero/Sistemas Digitales/Tareas/10. Decodificador de BCD a 7 segmentos/Attachments/BCD-2-7-2.png",
     "-Tercero/Sistemas Digitales/Tareas/10. Decodificador de BCD a 7 segmentos/Attachments/BCD-2-7-1.png",
     "-Tercero/Sistemas Digitales/Tareas/1. Conversiones numéricas.md",
@@ -192,10 +197,6 @@
     "-Segundo/Matemáticas Discretas/Tareas/Tarea 4.4.md",
     "-Segundo/Matemáticas Discretas/Tareas/Tarea 4.3.md",
     "-Segundo/Expresión Oral y Escrita/Notes/Discurso.md",
-    "-Segundo/Expresión Oral y Escrita/Notes/Comunicación.md",
-    "-Segundo/Expresión Oral y Escrita/Homework/4. Proceso de la comunicación_Barreras de la comunicación.md",
-    "-Segundo/Cálculo Diferencial e Integral/Dominio y rango ejemplos.md",
-    "-Segundo/Cálculo Diferencial e Integral/Notes/4..md",
     "-Tercero/Sistemas Digitales/Tareas/9. Comparador de 2 palabras/Attachments/Pasted image 20230419085147.png",
     "-Tercero/Sistemas Digitales/Tareas/9. Comparador de 2 palabras/Attachments/Pasted image 20230425111657.png",
     "-Tercero/Sistemas Digitales/Tareas/9. Comparador de 2 palabras/Attachments/9.-Comparador-km.png",
