@@ -1,36 +1,3 @@
-Name     bcd7s ;
-PartNo   00 ;
-Date     27/04/2023 ;
-Revision 01 ;
-Designer JRAY ;
-Company  CUCEI ;
-Assembly None ;
-Location  ;
-Device   g22v10 ;
-
-/* *************** INPUT PINS *********************/
-PIN 1 = A                        ; /*                                 */ 
-PIN 2 = B                        ; /*                                 */ 
-PIN 3 = C                        ; /*                                 */ 
-PIN 4 = D                        ; /*                                 */ 
-
-/* *************** OUTPUT PINS *********************/
-PIN 14 = SEGA                    ; /*                                 */ 
-PIN 15 = SEGB                    ; /*                                 */ 
-PIN 16 = SEGC                    ; /*                                 */ 
-PIN 17 = SEGD                    ; /*                                 */ 
-PIN 18 = SEGE                    ; /*                                 */ 
-PIN 19 = SEGF                    ; /*                                 */ 
-PIN 20 = SEGG                    ; /*                                 */ 
-
-SEGA = ((!A) & (!B) & (!C) & (D)) # ((B) & (!C) & (!D));
-SEGB = ((B) & (!C) & (D)) # ((B) & (C) & (!D));
-SEGC = (!B) & (C) & (!D);
-SEGD = ((!A) & (!B) & (!C) & (D)) # ((B) & (!C) & (!D)) # ((B) & (C) & (D));
-SEGE = ((B) & (!C)) # D;
-SEGF = ((!A) &(!B) & (D)) # ((!B) & (C))# ((C) & (D));
-SEGG = ((!A) & (!B) & (!C)) # ((B) & (C) & (D));
-
-
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:ebe490c32d67eb03ef4046dd2f5a3993c9cea9423d81d2531a52c09819b4fd1f
+size 1411
