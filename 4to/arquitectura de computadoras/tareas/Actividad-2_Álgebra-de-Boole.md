@@ -98,7 +98,7 @@ $$\displaylines{ B_2
 
 ### 4. Diagrama
 
-![ | center](../../../1-circuito-lógico.jpg)
+![ | center](Attachments/1-circuito-lógico.jpg)
 
 
 <div style="page-break-after: always;"></div>
@@ -140,9 +140,9 @@ $$\displaylines{
 ![ | center](Attachments/4-circuito-lógico.jpg)
 
 
-![ | center](../../../5-circuito-lógico.jpg)
+![ | center](Attachments/5-circuito-lógico.jpg)
 
-![ | center](../../../6-circuito-lógico.jpg)
+![ | center](Attachments/6-circuito-lógico.jpg)
 
 1. Simplifique las siguientes expresiones utilizando algebra de Boole, describa cada una de las reglas aplicadas para su reducción.
 	1.  $F(a,b,c) = \overline{a\overline{b}\left( a \oplus \overline{c} \right)} + \overline{b}c(a + c) + \overline{a\overline{b}}(b + ad)$
@@ -185,20 +185,20 @@ $$\displaylines{
 	1.  f(a,b,c,d,e)=∑m(2,4,6,3,5,12,17,21,10,31,28)
 	 
 	
-	![ | center](../../../1-Karnaugh.jpg)
+	![1-Karnaugh.jpg | center](Attachments/1-Karnaugh.jpg)
 	$$(a*b*c*d*e)+(a*¬\ c*d*¬\ e)+(¬\ a*b*¬\ c*¬\ d*e)+(¬\ a*¬\ b*¬\ c*d)+(b*c*¬\ d*¬\ e)+(a*¬\ b*¬\ d*e)+(¬\ a*¬\ b*c*¬\ e)+(¬\ a*¬\ b*c*¬\ d)$$
 	
 	2.  f(a,b,c,d)=∏M(12,13,14,2,8,4,6)
 	
-	![ | center](../../../2-Karnaugh.jpg)
+	![ | center](Attachments/2-Karnaugh.jpg)
 	$$(¬\ a*c*¬\ d)+(b*¬\ d)+(a*¬\ c*¬\ d)+(a*b*¬\ c)$$
 	
 	3.  f(a,b,c)=∑m(1,2,7,6,5)
 	   
-	![ | center](../../../3-Karnaugh.jpg)
+	![ | center](Attachments/3-Karnaugh.jpg)
 	$$(b*¬\ c)+(¬\ b*c)+(a*b)$$
 	
 	3.  f(a,b,c,d)=∏M(3,4,2,1,12,14,15,6)
 	
-	![ | center](../../../4-Karnaugh.jpg)
+	![ | center](Attachments/4-Karnaugh.jpg)
 	$$(¬\ a*¬\ b*d)+(a*b*c)+(b*¬\ d)+(¬\ a*¬\ b*c)$$
