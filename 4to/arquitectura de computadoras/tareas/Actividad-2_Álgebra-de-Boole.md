@@ -100,6 +100,12 @@ $$\displaylines{ B_2
 
 ![Circuito lógico | center](Attachments/2-circuito-lógico-a.jpg)
 
+$$F_0 =(W + (Z \oplus X)) \oplus (\overline{Y} + (Z \oplus X))$$
+
+$$F_1 = \overline{(W + (\overline{Y} + (Z \oplus X)) \oplus \overline{(z + \overline{x})}} $$
+
+$$F_2 = Z \oplus ((Z \oplus X) + ((Z) \oplus (W * \overline{Y})))$$
+
 <ol start="2" type="a">
 	<li></li>
 </ol>
