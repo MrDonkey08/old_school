@@ -48,7 +48,7 @@ Existen infinidad de casos en donde se usa el organigrama y se facilita el proce
 		- Negociación: Atienden y negocian con el cliente el sistema a crear.
 		- Soporte técnico: Resuelven dudas al cliente y, en caso de requerir una ayuda más profunda, lo redirige con el gerente correspondiente.
 -->
-![](-Tercero/Administración/Tareas/Attachments/Pasted%20image%2020230320182452.png)
+![](Attachments/Pasted%20image%2020230320182452.png)
 
 ## Perfil de puesto
 

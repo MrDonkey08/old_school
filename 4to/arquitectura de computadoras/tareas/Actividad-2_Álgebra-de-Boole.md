@@ -6,7 +6,7 @@
 
 1.  Quiere controlarse 2 bombas $B_1$ y $B_2$ haciendo uso de _un circuito lógico combinacional de control_ que funcionará en función de las siguientes premisas:
 
-![[1-bombas-esquema.jpg | center]]
+![[Attachments/1-bombas-esquema.jpg| center]]
 
 
 - Cuando el agua se encuentra entre los sensores $c$ y $d$ funcionar la bomba 1 salvo que su temperatura ($T_1$) supere un límite prefijado en cuyo caso se detendrá y entrará en funcionamiento la bomba 2. Dicho límite de temperatura vendrá indicado por la activación del sensor $T_1$.

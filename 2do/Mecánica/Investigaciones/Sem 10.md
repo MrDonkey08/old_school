@@ -105,7 +105,7 @@ El **momento de inercia** de un cuerpo rígido respecto a cierto eje de rotaci
 
 Cabe señalar que, en general, el momento angular y la velocidad angular no son paralelas entre sí (excepto en la rotación alrededor de un eje principal de inercia).
 
-![Sem-10-1](-Segundo/Mecánica/Investigaciones/Attachments/Sem-10-1.png)
+![Sem-10-1](Attachments/Sem-10-1.png)
 
 ## Momento angular
 

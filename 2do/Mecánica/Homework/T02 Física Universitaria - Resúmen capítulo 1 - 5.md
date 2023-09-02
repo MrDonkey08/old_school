@@ -17,7 +17,7 @@ Para resolver este problema se desarrolló el SI (Sistema Internacional), que es
 ### Prefijos de unidades
 Tomando en cuenta las unidades fundamentales, existen notaciones que ayudan a simplificar el entendimiento y la escritura de mediciones grandes o pequeñas, a comparación de las unidades básicas ([ Fig 1](#^527851))
 
-![Fig 1](-Segundo/Mecánica/Homework/Attachments/Notación-de-Unidades-de-Medición.jpeg)^527851
+![Fig 1](Attachments/Notación-de-Unidades-de-Medición.jpeg)^527851
 
 [ Fig 1](#^527851) Artículos principales: Prefijos del Sistema Internacional y Escalas numéricas larga y corta.
 

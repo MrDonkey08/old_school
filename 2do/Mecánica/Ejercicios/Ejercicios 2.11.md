@@ -43,7 +43,7 @@ $v_2 = -2.20\text{ m/s}$
 ---
 2.11.4.- Un bandido suelta una carreta con dos cajas de oro (masa total 300 kg) que estaba en reposo 50 m cuesta arriba de una pendiente de 6.0° (figura). El plan es que la carreta baje la cuesta, ruede por terreno plano y luego caiga en un cañón donde sus cómplices esperan. Sin embargo, en un árbol a 40 m del borde del cañón están el Llanero Solitario (masa 75.0 kg) y Toro (masa 60.0 kg), quienes se dejan caer verticalmente sobre la carreta al pasar ésta. a) Si nuestros héroes necesitan 5.0 s para tomar el oro y saltar, ¿lo lograrán antes de que la carreta llegue al borde del risco? La carreta rueda con fricción despreciable. b) Cuando los héroes caen en la carreta, ¿se conserva la energía cinética del sistema de los héroes más la carreta? Si no, ¿aumenta o disminuye, y por cuánto?
 
-![Ejercicios-2.11-1](-Segundo/Mecánica/Ejercicios/Attachments/Ejercicios-2.11-1.png)
+![Ejercicios-2.11-1](Attachments/Ejercicios-2.11-1.png)
 
 **Respuestas**
 **a)** No lo lograrán debido a que el tiempo es 4.75 s y necesitan como mínimo 5 s
@@ -131,7 +131,7 @@ $\tan\theta = \cfrac{}{}$
 
 2.11.6.- Rizo vertical. Un carrito de un juego de un parque de diversiones rueda sin fricción por la vía de la figura, partiendo del reposo en A a una altura h sobre la base del rizo. Trate el carrito como partícula. a) ¿Qué valor mínimo debe tener h (en términos de R) para que el carrito se desplace por el rizo sin caer en la parte superior (el punto B)? b) Si h=3.50R y =20.0 m, calcule la rapidez, aceleración radial y aceleración tangencial de los pasajeros cuando el carrito está en el punto C, en el extremo de un diámetro horizontal. Haga un diagrama a escala aproximada de las componentes de la aceleración.
 
-![Ejercicios-2.11-2](-Segundo/Mecánica/Ejercicios/Attachments/Ejercicios-2.11-2.png)
+![Ejercicios-2.11-2](Attachments/Ejercicios-2.11-2.png)
 
 **Respuestas**
 **a)**
@@ -148,7 +148,7 @@ $h$ = 3.5 R
 
 2.11.7.- En el centro de distribución de una compañía de embarques, un carrito abierto de 50.0 kg está rodando hacia la izquierda con rapidez de 5.00 m/s (figura). La fricción entre el carrito y el piso es despreciable. Un paquete de 15.0 kg baja deslizándose por una rampa inclinada 37.0° sobre la horizontal y sale proyectado con una rapidez de 3.00 m/s. El paquete cae en el carrito y siguen avanzando juntos. Si el extremo inferior de la rampa está a una altura de 4.00 m sobre el fondo del carrito, a) ¿qué rapidez tendrá el paquete inmediatamente antes de caer en el carrito? b) ¿Qué rapidez final tendrá el carrito?
 
-![Ejercicios-2.11-2](-Segundo/Mecánica/Ejercicios/Attachments/Ejercicios-2.11-3.png)
+![Ejercicios-2.11-2](Attachments/Ejercicios-2.11-3.png)
 
 **Respuestas**
 **a)**

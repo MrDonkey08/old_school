@@ -8,7 +8,7 @@
 a. $\lim\limits_{x→12^+} f(x)$,
 b. $\lim\limits_{x→12^-} f(x)$
 
-![Tarea-3-1](-Segundo/Cálculo%20Diferencial%20e%20Integral/Homework/Attachments/Tarea-3-1.png)
+![Tarea-3-1](Attachments/Tarea-3-1.png)
 Figura 1: Grafica para pregunta 1 
 
 ---

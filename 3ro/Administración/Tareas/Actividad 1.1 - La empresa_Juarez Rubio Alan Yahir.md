@@ -23,7 +23,7 @@
 --- -->
 ## BITSHIELD
 
-![](-Tercero/Administración/Tareas/Attachments/BitShield-Logo.jpeg)
+![](Attachments/BitShield-Logo.jpeg)
 
 Empresa especializada en brindar soluciones de seguridad y estabilidad a los diferentes sistemas computacionales.
 

@@ -15,7 +15,7 @@ type: Activity
 
 ## Análisis FODA
 
-![FODA-BitShield](-Tercero/Administración/Tareas/Attachments/FODA-BitShield.png)
+![FODA-BitShield](Attachments/FODA-BitShield.png)
 
 ## Diagrama de flujo
 

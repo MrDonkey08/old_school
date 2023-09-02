@@ -51,7 +51,7 @@ Existen varios tipos de diagramas de clases
 
 Está compuesto por un recuadro con 3 secciones, en el primero viene el nombre de la clase, en el segundo viene el nombre de sus respectivos atributos y el tercero sus métodos.
 
-![](-Tercero/Programación%20Orientada%20en%20Objetos/Tareas/Attachments/Diagrama-de-clase.png)
+![](Attachments/Diagrama-de-clase.png)
 
 En el diagrama de clase, la notación para escribir atributo es: `visibilidad nombreDelAtributo: tipo`, donde la visibilidad puede ser público, que se representa con un `+`, privado, con un `-`,  protegido, con un `#` , derivado con un `/` y paquete con un `～` ; y, por último el tipo para representar el tipo de dato que es (entero, decimal, texto o, en su defecto, cadena de texto o carácter,...).
 
@@ -60,7 +60,7 @@ Por otra parte, la notación que se utiliza para escribir un método u operació
 ---
 #### Clase simple
 
-![](-Tercero/Programación%20Orientada%20en%20Objetos/Tareas/Attachments/Diagrama-de-clase-simple.png)
+![](Attachments/Diagrama-de-clase-simple.png)
 
 Como se puede apreciar en la imagen,  este solo consiste en un recuadro en el que solo viene el nombre de la clase.
 
@@ -69,12 +69,12 @@ Como se puede apreciar en la imagen,  este solo consiste en un recuadro en el qu
 
 A diferencia del diagrama de clase, el diagrama de interfaz solo especifica los métodos de la clase, no especifica sus atributos. Estos métodos que especifican detallan la responsabilidad de una clase.
 
-![](-Tercero/Programación%20Orientada%20en%20Objetos/Tareas/Attachments/Diagrama-de-interfaz.png)
+![](Attachments/Diagrama-de-interfaz.png)
 
 ---
 #### Paquete
 
-![](-Tercero/Programación%20Orientada%20en%20Objetos/Tareas/Attachments/Pasted%20image%2020230311133621.png)
+![](Attachments/Pasted%20image%2020230311133621.png)
 
 El símbolo del paquete se utiliza para agrupar clases o interfaces de naturaleza similar o relacionadas. La agrupación de estos elementos de diseño utilizando los símbolos del paquete mejora la legibilidad del diagrama.
 
@@ -88,28 +88,28 @@ En los diagramas de clases, por lo general están conformados de atributos, mét
 
 Se encarga de describir una relación entre clases. Estas asociaciones pueden ser bidireccional (se representa con una linea) o unidireccional (se representa con un flecha).
 
-![](-Tercero/Programación%20Orientada%20en%20Objetos/Tareas/Attachments/Pasted%20image%2020230311152023.png)
+![](Attachments/Pasted%20image%2020230311152023.png)
 
 ---
 ### Agregación
 
 Se encarga de representar la relación entre un todo (clase) y sus partes (clases que lo conforman). Se denota como una linea con un rombo en el extremo del "todo". 
 
-![](-Tercero/Programación%20Orientada%20en%20Objetos/Tareas/Attachments/Pasted%20image%2020230311152811.png)
+![](Attachments/Pasted%20image%2020230311152811.png)
 
 ---
 ### Composición
 
 Agregación disjunta y estricta: Las partes solo existen asociadas al compuesto (solo se accede a ellas a través del compuesto)
 
-![|](-Tercero/Programación%20Orientada%20en%20Objetos/Tareas/Attachments/Pasted%20image%2020230311153112.png)
+![|](Attachments/Pasted%20image%2020230311153112.png)
 
 ---
 ### Dependencia
 
 Relación (más débil que una asociación) que muestra la relación entre un cliente y el proveedor de un serviocio usado por el cliente, donde el cliente es el objeto que solicita un servicio y el servidor es el objeto que provee el servicio solicitado. Está relación se denota con una flecha punteada que apunta del cliente al proveedor.
 
-![](-Tercero/Programación%20Orientada%20en%20Objetos/Tareas/Attachments/Pasted%20image%2020230311153419.png)
+![](Attachments/Pasted%20image%2020230311153419.png)
 
 ---
 ### Realización
@@ -118,14 +118,14 @@ Es una relación semántica entre clasificadores donde este especifica unas norm
 
 Se encuentran relaciones de realización: entre interfaces, clases y componentes que las realizan y entre los casos de uso y las colaboraciones que los realizan.
 
-![|300](-Tercero/Programación%20Orientada%20en%20Objetos/Tareas/Attachments/Pasted%20image%2020230311154603.png)
+![|300](Attachments/Pasted%20image%2020230311154603.png)
 
 ---
 ### Colaboración
 
 Muestra una interacción organizada basándose en los objetos que toman parte en la interacción y los enlaces entre los mismos.
 
-![|550](-Tercero/Programación%20Orientada%20en%20Objetos/Tareas/Attachments/Pasted%20image%2020230311155501.png)
+![|550](Attachments/Pasted%20image%2020230311155501.png)
 <div style="page-break-after: always;"></div>
 
 ---
