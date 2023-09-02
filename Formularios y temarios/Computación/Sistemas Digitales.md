@@ -4,16 +4,15 @@
 
 > [!NOTE] 
 > 
-> Al expresar una cantidad, es de vital importancia expresar a qué _sistema numérico_ pertenece, esto para _evitar ambiguedades_. Esto se hace encerrando el número entre parentésis y seguidamente añadiéndo la base como subíndice P. ej:
-> 
-
-$$\begin{array}{cc}
-(11)_{10},  &&  (11)_{2} = (3)_{10}, && \ 11_{8} = (9)_{10} && (11)_{8} = (17)_{10}
-\end{array}$$
+> Al expresar una cantidad, es de vital importancia expresar a qué _sistema numérico_ pertenece, esto para _evitar ambiguedades_. Esto se hace encerrando el número entre parentésis y seguidamente añadiendo la base como subíndice P. ej:
+> $$\begin{array}{cc}
+(11)_{10},  &  (11)_{2} = (3)_{10}, & (11)_{8} = (9)_{10} & (11)_{8} = (17)_{10}
+\end{array}
+$$
 
 Un número en _base $r$_ puede ser representado como una _suma de potencias_:
 
-$$A_n ⋅ r^n + A_{n-1} ⋅ r^{n-1} + A_{n-2} ⋅ r^{n-2} + ⋅s + A_{2} ⋅ r^{2} + A_{1} ⋅ r^{1} + A_{0} ⋅ r^{0} + A_{-1} ⋅ r^{-1} + ⋅s + A_{n} ⋅ r^{-n} \tag{1}$$
+$$A_n ⋅ r^n + A_{n-1} ⋅ r^{n-1} + A_{n-2} ⋅ r^{n-2} + \cdots + A_{2} ⋅ r^{2} + A_{1} ⋅ r^{1} + A_{0} ⋅ r^{0} + A_{-1} ⋅ r^{-1} + \cdots + A_{n} ⋅ r^{-n} \tag{1}$$
 
 donde $n$ es la posición del dígito, $A_k$ es el coeficiente,  y $r$ es la base a la que pertenece.
 
@@ -36,7 +35,7 @@ donde $n$ es la posición del dígito, $A_k$ es el coeficiente,  y $r$ es la bas
 | 12                | 1100             | 14             | C                     |
 | 13                | 1101             | 15             | D                     |
 | 14                | 1110             | 16             | E                     |
-| 15                | 1111             | 17             | F                     | 
+| 15                | 1111             | 17             | F                     |
 
 <div style="page-break-after: always;"></div>
 
@@ -90,45 +89,41 @@ Al sumar dos o más números en _base r_, lo que hacemos es sumar de derecha a i
 
 ### Axiomas
 
-|  N  | Axioma    |             Suma             |   Multiplicación    |
-|:---:| --------- |:----------------------------:|:-------------------:|
-|  1  | Identidad |         $0 + 0 = 0$          |   $0 \cdot 0 = 0$   |
-|  2  | Identidad |         $1 + 1 = 1$          |   $1 \cdot 1 = 1$   |
-|  3  | -         | $0 \cdot 1 = 0 \cdot 1 = 0$  | $1 + 0 = 0 + 1 = 1$ |
-|  4  | Negación  | $A = 0 \to \overline{A} = 1$ | $A = 1 \to \overline{A} = 0$                    |
+|  N  | Axioma    |             Suma             |        Multiplicación        |
+|:---:| --------- |:----------------------------:|:----------------------------:|
+|  1  | Identidad |         $0 + 0 = 0$          |       $0 \cdot 0 = 0$        |
+|  2  | Identidad |         $1 + 1 = 1$          |       $1 \cdot 1 = 1$        |
+|  3  | -         | $0 \cdot 1 = 0 \cdot 1 = 0$  |     $1 + 0 = 0 + 1 = 1$      |
+|  4  | Negación  | $A = 0 \to \overline{A} = 1$ | $A = 1 \to \overline{A} = 0$ |
 
 ### Teoremas
+
 #### Una variable
 
-|  N  | Leyes           |                       Suma                       |                      Multiplicación                       |
-|:---:| --------------- |:------------------------------------------------:|:---------------------------------------------------------:|
-|  1  | Identidad       |                   $A + A = A$                    |                        $A ⋅ A = A$                        |
-|  2  | Elemento Neutro |                   $0 + A = A$                    |                        $1 ⋅ A = A$                        |
-|  3  | Negación        |         $(\overline{A}) = \overline{A}$          | $\overline{(\overline{A})} = \overline{\overline{A}} = A$ |
-|  4  | -               |                   $1 + A = 1$                    |                        $0 ⋅ A = 0$                        |
-|  5  | -               |              $A + \overline{A} = 1$              |                  $A ⋅ \overline{A} = 0$                   |
+|  N  | Leyes           |              Suma               |                      Multiplicación                       |
+|:---:| --------------- |:-------------------------------:|:---------------------------------------------------------:|
+|  1  | Identidad       |           $A + A = A$           |                        $A ⋅ A = A$                        |
+|  2  | Elemento Neutro |           $0 + A = A$           |                        $1 ⋅ A = A$                        |
+|  3  | Negación        | $(\overline{A}) = \overline{A}$ | $\overline{(\overline{A})} = \overline{\overline{A}} = A$ |
+|  4  | -               |           $1 + A = 1$           |                        $0 ⋅ A = 0$                        |
+|  5  | -               |     $A + \overline{A} = 1$      |                  $A ⋅ \overline{A} = 0$                   |
 
 #### Dos variables
 
-|  N  | Leyes         |                            Suma                            |                            Multiplicación                             |
-|:---:| ------------- |:----------------------------------------------------------:|:---------------------------------------------------------------------:|
-|  1  | Conmutativa   |                      $A + B = B + A$                       |                            $A ⋅ B = B ⋅ A$                            |
-|  2  | Redundancia   |                     $A + (A ⋅ B) = A$                      |                           $A ⋅ (A + B) = A$                           |
-|  3  | Combinación   |             $(A ⋅ B) + A ⋅ \overline{B} = A$             |                   $(A + B)(A + \overline{B}) = A$                    |
-|  4  | DeMorgan      |      $\overline{A + B} = \overline{A} ⋅ \overline{B}$      |           $\overline{A ⋅ B} = \overline{A} + \overline{B}$            |
-|  5  | Absorción     |              $A + (\overline{A} ⋅ B) = A + B$              |                   $A ⋅ (\overline{A} + B) = A ⋅ B$                    |
-|  6  | OR Exclusiva  | $A \oplus B = A \cdot \overline{B} + \overline{A} \cdot B$ | $A \oplus B = (A + B)(\overline{A} + \overline{B})$ |
-|  7  | XOR Exclusiva | $\overline{A \oplus B} = A \cdot B + \overline{A} \cdot \overline{B}$                                                           |    $\overline{A \oplus B} = (A + \overline{B})(\overline{A} + B)$     |
+|  N  | Leyes         |                                 Suma                                  |                         Multiplicación                         |
+|:---:| ------------- |:---------------------------------------------------------------------:|:--------------------------------------------------------------:|
+|  1  | Conmutativa   |                            $A + B = B + A$                            |                        $A ⋅ B = B ⋅ A$                         |
+|  2  | Redundancia   |                           $A + (A ⋅ B) = A$                           |                       $A ⋅ (A + B) = A$                        |
+|  3  | Combinación   |                   $(A ⋅ B) + A ⋅ \overline{B} = A$                    |                $(A + B)(A + \overline{B}) = A$                 |
+|  4  | DeMorgan      |           $\overline{A + B} = \overline{A} ⋅ \overline{B}$            |        $\overline{A ⋅ B} = \overline{A} + \overline{B}$        |
+|  5  | Absorción     |                   $A + (\overline{A} ⋅ B) = A + B$                    |                $A ⋅ (\overline{A} + B) = A ⋅ B$                |
+|  6  | OR Exclusiva  |      $A \oplus B = A \cdot \overline{B} + \overline{A} \cdot B$       |      $A \oplus B = (A + B)(\overline{A} + \overline{B})$       |
+|  7  | XOR Exclusiva | $\overline{A \oplus B} = A \cdot B + \overline{A} \cdot \overline{B}$ | $\overline{A \oplus B} = (A + \overline{B})(\overline{A} + B)$ |
 
 #### Tres variables
 
 |  N  | Leyes        |                               Suma                                |                         Multiplicación                         |
 |:---:| ------------ |:-----------------------------------------------------------------:|:--------------------------------------------------------------:|
 |  1  | Asociativa   |                    $(A + B) + C = A +(B + C)$                     |                   $(A ⋅ B) ⋅ C = A ⋅(B ⋅ C)$                   |
-|  2  | Distributiva |                   $A + (B ⋅ C) = A ⋅ B + A ⋅ C$                   |               $A ⋅ (B + C) = (A + B)(A + C)$                |
+|  2  | Distributiva |                   $A + (B ⋅ C) = A ⋅ B + A ⋅ C$                   |                 $A ⋅ (B + C) = (A + B)(A + C)$                 |
 |  3  | Consenso     | $A ⋅ B + \overline{A} ⋅ C + A \cdot B = A ⋅ B + \overline{A} ⋅ C$ | $(A + B)(\overline{A} + B)(B + C) = (A + B)(\overline{A} + C)$ |
-
-
-
-
-
