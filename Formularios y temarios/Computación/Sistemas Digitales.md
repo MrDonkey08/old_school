@@ -5,14 +5,15 @@
 > [!NOTE] 
 > 
 > Al expresar una cantidad, es de vital importancia expresar a qué _sistema numérico_ pertenece, esto para _evitar ambiguedades_. Esto se hace encerrando el número entre parentésis y seguidamente añadiendo la base como subíndice P. ej:
-> $$\begin{array}{cc}
+
+ $$\begin{array}{cc}
 (11)_{10},  &  (11)_{2} = (3)_{10}, & (11)_{8} = (9)_{10} & (11)_{8} = (17)_{10}
 \end{array}
 $$
 
 Un número en _base $r$_ puede ser representado como una _suma de potencias_:
 
-$$A_n ⋅ r^n + A_{n-1} ⋅ r^{n-1} + A_{n-2} ⋅ r^{n-2} + \cdots + A_{2} ⋅ r^{2} + A_{1} ⋅ r^{1} + A_{0} ⋅ r^{0} + A_{-1} ⋅ r^{-1} + \cdots + A_{n} ⋅ r^{-n} \tag{1}$$
+$$A_n ⋅ r^n + A_{n-1} ⋅ r^{n-1} + A_{n-2} ⋅ r^{n-2} + ⋯ + A_{2} ⋅ r^{2} + A_{1} ⋅ r^{1} + A_{0} ⋅ r^{0} + A_{-1} ⋅ r^{-1} + ⋯ + A_{n} ⋅ r^{-n} \tag{1}$$
 
 donde $n$ es la posición del dígito, $A_k$ es el coeficiente,  y $r$ es la base a la que pertenece.
 
