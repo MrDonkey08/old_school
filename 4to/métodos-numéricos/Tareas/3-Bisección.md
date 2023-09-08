@@ -31,7 +31,7 @@ n \geq \cfrac{\ln[1 - 0] - \ln 0.004}{\ln 2} \approx 7.96578 &\to& n = 8
 
 > [!success] Respuesta
 > 
-> $$f(x) = xe^x-2 \approx 0.85547$$
+> $$x \approx 0.85547$$
 
 > [!error] Errores
 > 
@@ -64,7 +64,7 @@ n \geq \cfrac{\ln[2 - 1] - \ln 0.003}{\ln 2} \approx 8.38082 &\to& n  = 9
 
 > [!success] Respuesta
 > 
-> $$f(x) = x³ + 2x² + 10x - 20 \approx 1.36914$$
+> $$x \approx 1.36914$$
 
 > [!error] Errores
 > 
@@ -96,7 +96,7 @@ n \geq \cfrac{\ln[1 - 0] - \ln 0.005}{\ln 2} \approx 7.64386 &\to& n = 8
 
 > [!success] Respuesta
 > 
-> $$f(x) = x - 3\sin (x) + 1 \approx 0.53847$$
+> $$x \approx 0.53847$$
 
 > [!error] Errores
 > 
