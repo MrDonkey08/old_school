@@ -6,7 +6,7 @@
 
 1.  Quiere controlarse 2 bombas $B_1$ y $B_2$ haciendo uso de _un circuito lógico combinacional de control_ que funcionará en función de las siguientes premisas:
 
-![[Attachments/1-bombas-esquema.jpg| center]]
+![[attachments/1-bombas-esquema.jpg| center]]
 
 
 - Cuando el agua se encuentra entre los sensores $c$ y $d$ funcionar la bomba 1 salvo que su temperatura ($T_1$) supere un límite prefijado en cuyo caso se detendrá y entrará en funcionamiento la bomba 2. Dicho límite de temperatura vendrá indicado por la activación del sensor $T_1$.
@@ -98,7 +98,7 @@ $$\displaylines{ B_2
 
 ### 4. Diagrama
 
-![ | center](Attachments/1-circuito-lógico.jpg)
+![ | center](attachments/1-circuito-lógico.jpg)
 
 
 <div style="page-break-after: always;"></div>
@@ -112,7 +112,7 @@ $$\displaylines{ B_2
 
 
 
-![Circuito lógico |  center | 494](Attachments/2-circuito-lógico-a.jpg)
+![Circuito lógico |  center | 494](attachments/2-circuito-lógico-a.jpg)
 
 $$F_0 =(W + (Z \oplus X)) \oplus (\overline{Y} + (Z \oplus X))$$
 
@@ -124,7 +124,7 @@ $$F_2 = Z \oplus ((Z \oplus X) + ((Z) \oplus (W * \overline{Y})))$$
 	<li></li>
 </ol>
 
-![Circuito lógico b | center](Attachments/3-circuito-lógico-b.jpg)
+![Circuito lógico b | center](attachments/3-circuito-lógico-b.jpg)
 
 $$\displaylines{
 (A * \overline{C} + A * \overline{D})
@@ -137,12 +137,12 @@ $$\displaylines{
 	2.  $F\left( a,b,c_{1} \right) = ab + c_{1}(a \oplus b)$
 	3.  $F(a,b,c,d,e) = \overline{(ab} + cd)\left( \overline{e + b}c \right) + (ab \oplus ce)$
 
-![ | center](Attachments/4-circuito-lógico.jpg)
+![ | center](attachments/4-circuito-lógico.jpg)
 
 
-![ | center](Attachments/5-circuito-lógico.jpg)
+![ | center](attachments/5-circuito-lógico.jpg)
 
-![ | center](Attachments/6-circuito-lógico.jpg)
+![ | center](attachments/6-circuito-lógico.jpg)
 
 1. Simplifique las siguientes expresiones utilizando algebra de Boole, describa cada una de las reglas aplicadas para su reducción.
 	1.  $F(a,b,c) = \overline{a\overline{b}\left( a \oplus \overline{c} \right)} + \overline{b}c(a + c) + \overline{a\overline{b}}(b + ad)$
@@ -185,20 +185,20 @@ $$\displaylines{
 	1.  f(a,b,c,d,e)=∑m(2,4,6,3,5,12,17,21,10,31,28)
 	 
 	
-	![1-Karnaugh.jpg | center](Attachments/1-Karnaugh.jpg)
+	![1-Karnaugh.jpg | center](attachments/1-Karnaugh.jpg)
 	$$(a*b*c*d*e)+(a*¬\ c*d*¬\ e)+(¬\ a*b*¬\ c*¬\ d*e)+(¬\ a*¬\ b*¬\ c*d)+(b*c*¬\ d*¬\ e)+(a*¬\ b*¬\ d*e)+(¬\ a*¬\ b*c*¬\ e)+(¬\ a*¬\ b*c*¬\ d)$$
 	
 	2.  f(a,b,c,d)=∏M(12,13,14,2,8,4,6)
 	
-	![ | center](Attachments/2-Karnaugh.jpg)
+	![ | center](attachments/2-Karnaugh.jpg)
 	$$(¬\ a*c*¬\ d)+(b*¬\ d)+(a*¬\ c*¬\ d)+(a*b*¬\ c)$$
 	
 	3.  f(a,b,c)=∑m(1,2,7,6,5)
 	   
-	![ | center](Attachments/3-Karnaugh.jpg)
+	![ | center](attachments/3-Karnaugh.jpg)
 	$$(b*¬\ c)+(¬\ b*c)+(a*b)$$
 	
 	3.  f(a,b,c,d)=∏M(3,4,2,1,12,14,15,6)
 	
-	![ | center](Attachments/4-Karnaugh.jpg)
+	![ | center](attachments/4-Karnaugh.jpg)
 	$$(¬\ a*¬\ b*d)+(a*b*c)+(b*¬\ d)+(¬\ a*¬\ b*c)$$
