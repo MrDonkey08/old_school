@@ -11,5 +11,4 @@
 *.mov filter=lfs diff=lfs merge=lfs -text
 *.mkv filter=lfs diff=lfs merge=lfs -text
 *.jed filter=lfs diff=lfs merge=lfs -text
-*.PLD filter=lfs diff=lfs merge=lfs -text
 *.pdsprj filter=lfs diff=lfs merge=lfs -text
