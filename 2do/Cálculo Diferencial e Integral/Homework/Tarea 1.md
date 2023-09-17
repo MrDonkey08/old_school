@@ -4,7 +4,7 @@
 ---
 1. Determine el dominio de las siguentes funciones
 
-	1) $f(t)=\sqrt{3-t}+\sqrt{2+t}$
+	1) $f(t)=\sqrt{3-t}+\sqrt{2+t}$ <!-- Una raíz no puede ser negativa. Expresar la raíz como $\geq$ 0-->
 
 		$3-t\geq0$
 		$-t\geq-3$
@@ -62,86 +62,120 @@
 	Resultado más alto $x_3=0$
 	$\sqrt{4-(0)^2}=2$
 
-	==$R_{(x)}=[0, 2]$==
+	==$R_{(x)}=[-2, 2]$==
 
 ---
 3. Para las siguentes funciones encuentre $f+g$, $f/g$, $f\circ g$ y $g\circ f$. Así como sus dominios.
 
 	3) $f(x)=x^2-1$, $g(x)=2x-1$
 
-		$f+g=x^2-1+2x-1$
-       ==$g=x^2+2x-2$==
+		$(f+g)(x)=x^2-1+2x-1$
+	    ==$(f+g)(x)=x^2+2x-2$==
 
-        ==$D_{(f+g)}=\Bbb R$==
+        ==$D_{(f+g)(x)}=\Bbb R$==
 
-		==$f/g=\cfrac{x^2-1}{2x-1}$==
+		$(f/g)(x)=\cfrac{x^2-1}{2x-1}$
 
         $2x-1\neq 0$
         $2x\neq1$
         $x\neq\cfrac{1}{2}$
 
-        ==$D_{(f/g)}=(-\infty, \cfrac{1}{2})\cup(\cfrac{1}{2},\infty)$==
+        ==$D_{(f/g)(x)}=(-\infty, \cfrac{1}{2})\cup(\cfrac{1}{2},\infty)$==
 
-		$f\circ g=(2x-1)^2-1$ 
-        $f\circ g=(4x^2-4x+1)-1$
-        $f\circ g=4x^2-4x$
+		$(f\circ g)(x)=(2x-1)^2-1$ 
+        $(f\circ g)(x)=(4x^2-4x+1)-1$
+        $(f\circ g)(x)=4x^2-4x$
 
-        ==$D_{(f\circ g)}=\Bbb R$==
+        ==$D_{(f\circ g)(x)}=\Bbb R$==
         
-		$g\circ f=2(x^2-1)-1$
-        $g\circ f=2x^2-2-1$
-        ==$g\circ f=2x^2-3$==
+		$(g\circ f)(x)=2(x^2-1)-1$
+        $(g\circ f)(x)=2x^2-2-1$
+        ==$(g\circ f)(x)=2x^2-3$==
 
-        ==$D_{(g\circ f)}=\Bbb R$==
+        ==$D_{(g\circ f)(x)}=\Bbb R$==
 
 	4) $f(x)=1-3x$, $g(x)=\cos (x)$
 
-		==$f+g=1-3x+\cos(x)$==
+		==$(f+g)(x)=1-3x+\cos(x)$==
 
-         ==$D_{(f+g)}=\Bbb R$==
+         ==$D_{(f+g)(x)}=\Bbb R$==
 
-		==$f/g=\cfrac{1-3x}{\cos(x)}$==
+		==$(f/g)(x)=\cfrac{1-3x}{\cos(x)}$==
 
-        ==$D_{(f/g)}=\Bbb R$==
+		La función inversa de $\cos$ es $\arccos$
 
-		==$f\circ g=1-3\cos(x)$==
+		$\cos(x)\neq0$
 
-        ==$D_{(f\circ g)}=\Bbb R$==
+		$\cos$ respecto al primer cuadrante:
+		$\cos(x)\neq0$
+		$x\neq\arccos(0)$
+		$x\neq\cfrac{\pi}{2}$
 
-		==$g\circ f=\cos(1-3x)$==
+		$\cos$ respecto al cuarto cuadrante
+		$x\neq\cfrac{\pi}{2}$
+		$x\neq2\pi-\cfrac{\pi}{2}$
+		$x\neq\cfrac{2\pi*2-\pi}{2}$
+		$x\neq\cfrac{3\pi}{2}$
+		Calcular el periodo de $\pi$ con la fórmula $\cfrac{2\pi}{|b|}$ remplazando la b por 1
+		$\cfrac{2\pi}{|1|}$
+		$\cfrac{2\pi}{1}$
+		$2\pi$
+		Entonces tenemos que 
+		$x\neq\cfrac{\pi}{2}+2\pi k,\cfrac{3\pi}{2}+2\pi k$
+		
+		$x\neq\cfrac{\pi}{2}+\pi k, k\in\Bbb Z$
 
-        ==$D_{(g\circ f)}=\Bbb R$==
+		==$D_{(f/g)(x)}=\Bbb R- \begin{Bmatrix}\cfrac{\pi}{2}+\pi k\end{Bmatrix}, \ k\in\Bbb Z$==
+
+		==$(f\circ g)(x)=1-3\cos(x)$==
+
+        ==$D_{(f\circ g)(x)}=\Bbb R$==
+
+		==$(g\circ f)(x)=\cos(1-3x)$==
+
+        ==$D_{(g\circ f)(x)}=\Bbb R$==
 
 	5) $f(x)=x+\cfrac{1}{x}$ y $g(x)=\cfrac{x+1}{x+2}$
 
-		==$f+g=x+\cfrac{1}{x}+\cfrac{x+1}{x+2}$==
+		$(f+g)(x)=x+\cfrac{1}{x}+\cfrac{x+1}{x+2}$
+		
+		$(f+g)(x)=\cfrac{x(x)(x+2)+1(x+2)+x(x+1)}{x(x+2)}$
+		
+		$(f+g)(x)=\cfrac{x^3+2x^2+x+2+x^2+x}{x(x+2)}$
+		
+		==$(f+g)(x)=\cfrac{x^3+3x^2+2x+2}{x(x+2)}$==
 
 		$x_1\neq0$
-		
+
 		$x+2\neq0$
 		$x_2\neq-2$
 
-		==$D_{(f+g)}=(-\infty, -2)\cup(-2,0)\cup(0, \infty)$==
+		==$D_{(f+g)(x)}=(-\infty,-2)\cup(-2,0)\cup(0,\infty)$==
 
-		$f/g=\cfrac{x+\cfrac{1}{x}}{\cfrac{x+1}{x+2}}$
+		$(f/g)(x)=\cfrac{x+\cfrac{1}{x}}{\cfrac{x+1}{x+2}}$
+
+		$(f/g)(x)=\cfrac{\cfrac{x^2+1}{x}}{\cfrac{x+1}{x+2}}$
+
+		$(f/g)(x)=\cfrac{(x^2+1)(x+2)}{x(x+1)}$
+
+		==$(f/g)(x)=\cfrac{x^3+2x^2+x+2}{x(x+1)}$==
 
 		$x_1\neq0$
-		
+
 		$x+1\neq0$
 		$x_2\neq-1$
-		
-		$x+2\neq0$
-		$x_3\neq-2$
 
-		==$D_{(f/g)}=(-\infty,-2)\cup(-2, -1)\cup(-1,0)\cup(0,\infty)$==
+		==$D_{(f/g)(x)}=(-\infty, -1)\cup(-1,0)\cup(0,\infty)$==
 
-		==$f/g=\cfrac{x+\cfrac{1}{x}}{\cfrac{x+1}{x+2}}$
+		$(f\circ g)(x)=(\cfrac{x+1}{x+2})+\cfrac{1}{(\cfrac{x+1}{x+2})}$
 
-		==$f/g=\cfrac{\cfrac{x^2+1}{x}}{\cfrac{x+1}{x+2}}$
+		$(f\circ g)(x)=\cfrac{x+1}{x+2}+\cfrac{x+2}{x+1}$
 
-		$f/g=\cfrac{(x^2+1)(x+2)}{x(x+1)}$
+		$(f\circ g)(x=\cfrac{(x+1)^2+(x+2)^2}{(x+2)(x+1)}$
 
-		==$f\circ g=(\cfrac{x+1}{x+2})+\cfrac{1}{(\cfrac{x+1}{x+2})}$==
+		$(f\circ g)(x)=\cfrac{(x^2+2x+1)+(x^2+4x+4)}{(x+2)(x+1)}$
+
+		==$(f\circ g)(x)=\cfrac{2x^2+6x+5}{(x+2)(x+1)}$==
 
 		$x+2\neq0$
 		$x_1\neq-2$
@@ -149,28 +183,39 @@
 		$x+1\neq0$
 		$x_2\neq-1$
 
-		==$D_{(f\circ g)}=(-\infty, -2)\cup(-2, -1)\cup(-1, \infty)$==
+		==$D_{(f\circ g)(x)}=(-\infty, -2)\cup(-2, -1)\cup(-1, \infty)$==
 
-		==$g\circ f=\cfrac{(x+\cfrac{1}{x})+1}{(x+\cfrac{1}{x})+2}$==
+		$(g\circ f)(x)=\cfrac{(x+\cfrac{1}{x})+1}{(x+\cfrac{1}{x})+2}$
 
-		$x_1\neq0$
+		$(g\circ f)(x)=\cfrac{\cfrac{x(x)+1+1(x)}{x}}{\cfrac{x(x)+1+2(x)}{x}}$
 
-		$x+\cfrac{1}{x}+2\neq0$
-		$\cfrac{1}{x}\neq-x-2$
-		$1\neq-x^2-2x$
-		$x^2+2x+1\neq0$
+		$(g\circ f)(x)=\cfrac{\cfrac{x^2+x+1}{x}}{\cfrac{x^2+2x+1}{x}}$
+
+		$(g\circ f)(x)=\cfrac{x(x^2+x+1)}{x(x^2+2x+1)}$
+
+		==$(g\circ f)(x)=\cfrac{x^3+x^2+x}{x^3+2x^2+x}$==
+		==$(g\circ f)(x)=\cfrac{x^2+x+1}{x^2+2x+1}$
+
+
+		$x^3+2x^2+x\neq0$
+		$x^3+x^2+x^2+x\neq0$
+		$x^2(x+1)+x(x+1)\neq0$
+		$(x^2+x)(x+1)\neq0$
+		$x(x+1)(x+1)\neq0$
+		$x(x+1)^2\neq0$
+
+		$x_1=0$
+
+		Comprobación $x_1\neq0$
+		$(0)^3+2(0)^2+(0)=0$
+
 		$(x+1)(x+1)\neq0$
-		$(x+1)^2\neq0$
-		$|x+1|\neq\sqrt0$
-		$x+1\neq^+_-\sqrt0$
 
-		$x_2\neq-1+0$
+		$x+1\neq0$
 		$x_2\neq-1$
-		
-		$x_3\neq-1-0$
-		$x_3\neq-1$
-		
+
+		Comprobación $x_2\neq-1$
+		$(-1)^3+2(-1)^2+(-1)$
+		$-1+2-1=0$
+
 		==$D_{(g\circ f)}=(-\infty,-1)\cup(-1,0)\cup(0,\infty)$==
-		
-
-
